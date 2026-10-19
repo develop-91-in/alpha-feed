@@ -1,39 +1,199 @@
 {
-  "generatedAt": "2026-10-19T14:45:40.131Z",
+  "generatedAt": "2026-10-19T16:01:06.935Z",
   "articles": [
     {
-      "title": "Apple’s last-gen Mac Mini M4 is $150 off",
-      "desc": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "pubDate": "2026-10-19T10:41:48-04:00",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "desc": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]",
+      "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "pubDate": "2026-10-19T11:44:20-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+      "desc": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has run such work only on Intel and AMD chips.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
+      "pubDate": "Mon, 19 Oct 2026 21:07:24 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Global Markets: French markets tumble as riots add to political crisis",
+      "desc": "Protests across France have led to significant declines in the country's financial markets and stocks. French government officials requested local authorities to consider imposing curfews amid the unrest. The rise in bond yields suggests increasing investor concern over France's budgetary challenges and economic outlook. Major French banks have experienced stock declines, reflecting the heightened risk of insuring French debt.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:52:55 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US Treasury yields nudge higher as AI fears ebb",
+      "desc": "US Treasury yields experienced a rise alongside a boost in equities, particularly driven by AI stocks, which has mitigated earlier anxieties among investors. The 10-year Treasury yield saw a modest rebound after a steep decline, indicating a shift in market mood. Moreover, oil prices declined, easing inflation fears related to global tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-nudge-higher-as-ai-fears-ebb/articleshow/135051546.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:51:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "desc": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 15:15:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore",
+      "desc": "Bajaj Finance expects AUM to grow 26-27% in FY27 as it accelerates customer acquisition and loan disbursements. The lender plans to book 60-62 million new loans and add 18-20 million customers during the year. Consolidated AUM grew 26% to Rs 5.85 lakh crore in the September quarter, aided by broad-based loan growth. The gold-loan portfolio more than doubled to Rs 24,195 crore, although short-tenor schemes caused a transitional increase in Stage 2 assets. Management does not expect this movement to affect credit costs. Lower funding costs, improving asset quality and a strong liquidity buffer should support growth.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:43:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Waaree Renewable Technologies Q2 Results: Net profit falls 29% to Rs 81 crore",
+      "desc": "Waaree Renewable Technologies experienced a notable 29 percent drop in net profit for the quarter ending September. Their consolidated profit stood at Rs 81.48 crore, a decrease from Rs 116.36 crore year-on-year. While expenses surged, revenues rose to Rs 1,057.84 crore. The company boasts an unexecuted order book over Rs 5,500 crore and a robust bidding pipeline, striving for long-term value through efficiencies and scaling.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-renewable-technologies-q2-results-net-profit-falls-29-to-rs-81-crore/articleshow/135051423.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:41:32 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "India-New Zealand FTA kicks in October 20, gives all Indian goods zero-duty access",
+      "desc": "India's free trade agreement with New Zealand will begin on October 20 and provide duty-free access for Indian goods. This agreement aims to boost bilateral trade significantly by 2030, increasing it from $2.4 billion to nearly ₹35,000 crore. New Zealand will grant 100% market access, while India will provide tariff concessions on 70% of its tariff lines. Customs clearance timelines will be expedited, enhancing trade efficiency and reducing costs.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-free-trade-agreement-zero-duty-access-for-indian-goods-begins-october-20/articleshow/135051308.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:39:45 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "desc": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 15:46:29 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Bikes 'not for jousting,' says Lime after duel video",
+      "desc": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+      "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 15:44:53 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "desc": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]",
+      "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "pubDate": "2026-10-19T11:44:20-04:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
     },
     {
-      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
-      "desc": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:36:36 GMT",
+      "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+      "desc": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has run such work only on Intel and AMD chips.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
+      "pubDate": "Mon, 19 Oct 2026 21:07:24 +0530",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "Prime minister visits Aberfan ahead of 60th anniversary of 'horrifying tragedy'",
-      "desc": "A total of 116 children and 28 adults were killed on 21 October 1966 when a colliery spoil tip collapsed.",
-      "link": "https://www.bbc.co.uk/news/articles/cm70px2d1ynlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:35:59 GMT",
+      "title": "Global Markets: French markets tumble as riots add to political crisis",
+      "desc": "Protests across France have led to significant declines in the country's financial markets and stocks. French government officials requested local authorities to consider imposing curfews amid the unrest. The rise in bond yields suggests increasing investor concern over France's budgetary challenges and economic outlook. Major French banks have experienced stock declines, reflecting the heightened risk of insuring French debt.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:52:55 +0530",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US Treasury yields nudge higher as AI fears ebb",
+      "desc": "US Treasury yields experienced a rise alongside a boost in equities, particularly driven by AI stocks, which has mitigated earlier anxieties among investors. The 10-year Treasury yield saw a modest rebound after a steep decline, indicating a shift in market mood. Moreover, oil prices declined, easing inflation fears related to global tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-nudge-higher-as-ai-fears-ebb/articleshow/135051546.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:51:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "desc": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 15:15:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore",
+      "desc": "Bajaj Finance expects AUM to grow 26-27% in FY27 as it accelerates customer acquisition and loan disbursements. The lender plans to book 60-62 million new loans and add 18-20 million customers during the year. Consolidated AUM grew 26% to Rs 5.85 lakh crore in the September quarter, aided by broad-based loan growth. The gold-loan portfolio more than doubled to Rs 24,195 crore, although short-tenor schemes caused a transitional increase in Stage 2 assets. Management does not expect this movement to affect credit costs. Lower funding costs, improving asset quality and a strong liquidity buffer should support growth.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:43:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Waaree Renewable Technologies Q2 Results: Net profit falls 29% to Rs 81 crore",
+      "desc": "Waaree Renewable Technologies experienced a notable 29 percent drop in net profit for the quarter ending September. Their consolidated profit stood at Rs 81.48 crore, a decrease from Rs 116.36 crore year-on-year. While expenses surged, revenues rose to Rs 1,057.84 crore. The company boasts an unexecuted order book over Rs 5,500 crore and a robust bidding pipeline, striving for long-term value through efficiencies and scaling.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-renewable-technologies-q2-results-net-profit-falls-29-to-rs-81-crore/articleshow/135051423.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:41:32 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "India-New Zealand FTA kicks in October 20, gives all Indian goods zero-duty access",
+      "desc": "India's free trade agreement with New Zealand will begin on October 20 and provide duty-free access for Indian goods. This agreement aims to boost bilateral trade significantly by 2030, increasing it from $2.4 billion to nearly ₹35,000 crore. New Zealand will grant 100% market access, while India will provide tariff concessions on 70% of its tariff lines. Customs clearance timelines will be expedited, enhancing trade efficiency and reducing costs.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-free-trade-agreement-zero-duty-access-for-indian-goods-begins-october-20/articleshow/135051308.cms",
+      "pubDate": "Mon, 19 Oct 2026 20:39:45 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
+      "desc": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 14:43:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "desc": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
+      "desc": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
       "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
       "pubDate": "2026-10-19T10:30:00-04:00",
       "image": "",
@@ -50,36 +210,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "desc": "Elon Musk says he plans to give one of his SpaceX shares to every child in the US starting next year. With around 72 million children in the US as of July 2025, Musk would be giving away about $10.5 billion worth of shares, according to a report from CNBC. Musk, who runs SpaceX and [&#8230;]",
-      "link": "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "pubDate": "2026-10-19T10:20:11-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "desc": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:20:03 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
-      "desc": "The two top tennis pros married in 2021 and have one child together.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:20:03 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "India sets import quotas for New Zealand apples, kiwifruit under FTA",
@@ -100,26 +230,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Catalonia's former rebel president can return to Spain, court rules",
-      "desc": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:06:53 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
-      "desc": "If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece of wire so they weigh [&#8230;]",
-      "link": "https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
-      "pubDate": "2026-10-19T10:03:28-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
@@ -158,18 +268,8 @@
       "pubDate": "Mon, 19 Oct 2026 19:19:35 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "desc": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:44:57 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "PC Jeweller among 8 stocks that hit 52-week high and rallied up to 42% in a month",
@@ -182,64 +282,64 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Are the French riots a warning of an intense election to come?",
-      "desc": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-      "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:43:27 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trial hears Robinson 'intimidated' Daily Mail reporters",
-      "desc": "The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence.",
-      "link": "https://www.bbc.co.uk/news/articles/cry83jz19v26o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:42:45 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded",
-      "desc": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
-      "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:42:41 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US stocks today: S&amp;P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
-      "desc": "US stocks open higher as AI-related shares rebound from last week’s sharp selloff. The S&amp;P 500 and Nasdaq gain at the open, supported by lower oil prices ahead of a busy earnings week. The Dow slips marginally, while investors track technology stocks and upcoming corporate results.",
+      "title": "US stocks today: S&amp;P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
+      "desc": "US stocks saw a significant recovery as semiconductor shares attracted investor attention following steep declines. The Nasdaq 100 and S&amp;P 500 both experienced gains in early trading, offering relief to tech investors. Notable tech companies like CoreWeave saw increases after concerns about their business sustainability were addressed. Additionally, SpaceX and Tesla gained value amid speculation over potential corporate actions.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings/articleshow/135050156.cms",
       "pubDate": "Mon, 19 Oct 2026 19:08:31 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Apu returns to The Simpsons with new voice after race row",
-      "desc": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now.",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:22:24 GMT",
+      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
+      "desc": "Doctors who volunteered in Gaza have described working during Israel’s genocidal war on the strip.",
+      "link": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 13:36:09 +0000",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Kylie Jenner's debut at Victoria's Secret Fashion Show in $50m bra sparks mixed reaction",
-      "desc": "The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:16:22 GMT",
+      "title": "Zetwerk IPO fully subscribed; Super.money triples revenues",
+      "desc": "Zetwerk’s Rs 5,012-crore IPO was subscribed 3.06 times on Monday, the last day for bids. This and more in today’s ETtech Top 5.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/super-money-triples-revenues-zetwerk-ipo-fully-subscribed/articleshow/135049722.cms",
+      "pubDate": "Mon, 19 Oct 2026 19:02:54 +0530",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
+      "desc": "Dozens of Yemenis are feared dead after a Houthi strike targeted a military camp in Yemen’s Shabwa governorate.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 13:26:01 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit",
+      "desc": "GCC states have pressed Moscow to help halt Iranian attacks and reopen the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 13:22:58 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+      "desc": "Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 13:21:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "China announces export curbs on key machinery used in India's infrastructure development",
@@ -252,34 +352,24 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-      "desc": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:01:50 GMT",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 12:54:03 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-      "desc": "Wyze announced a new version of its Ultra BodyScan smart scale that debuted nearly a year ago with additional electrodes on a retractable handle, allowing it to provide a breakdown of various health metrics across your arms, legs, and torso. With the new Ultra BodyScan Plus, Wyze is introducing a redesign that moves the scale's [&#8230;]",
-      "link": "https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display",
-      "pubDate": "2026-10-19T09:00:00-04:00",
+      "title": "Lab-grown diamond startup So/Facet raises Rs 10 crore led by Sauce",
+      "desc": "The round also saw participation from Mokobara cofounders Sangeet Agrawal and Navin Parwal, Chona Family Office (that’s behind Hocco Ice Creams), Haleon South Asia president Kedar Lele, and Moonshot co-founder Devaiah Bopanna.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/lab-grown-diamond-startup-so/facet-raises-rs-10-crore-led-by-sauce/articleshow/135049028.cms",
+      "pubDate": "Mon, 19 Oct 2026 18:05:19 +0530",
       "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Uber wins bid to throw out £200m black cab claims",
-      "desc": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-      "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 12:58:39 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "India bonds give up day's gains as oil price spike adds to rate hike fears",
@@ -292,14 +382,24 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Vibe coding is turning the music gear world upside down",
-      "desc": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly sophisticated vibe coding tools. These sorts of custom firmware were exceedingly [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
-      "pubDate": "2026-10-19T08:30:00-04:00",
+      "title": "Auto tech companies raise $1.3 billion in 2026 so far: Tracxn",
+      "desc": "The funding rounds were led by ride-hailing firm Rapido's $240 million, followed by electric two-wheeler manufacturer Simple Energy's $180 million and River's $102 million.",
+      "link": "https://economictimes.indiatimes.com/tech/startups/auto-tech-companies-raise-1-3-billion-in-2026-so-far-tracxn/articleshow/135048738.cms",
+      "pubDate": "Mon, 19 Oct 2026 17:54:09 +0530",
       "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Netflix faces questions on user engagement ahead of third-quarter report",
+      "desc": "Ted Sarandos, the co-CEO of Netflix, recently admitted the company \"is not growing as fast as I want us to\", and suggested live programming could be an opportunity to accelerate growth.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/netflix-faces-questions-on-user-engagement-ahead-of-third-quarter-report/articleshow/135048673.cms",
+      "pubDate": "Mon, 19 Oct 2026 17:48:36 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
@@ -307,19 +407,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 12:16:32 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-      "desc": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
-      "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 12:12:02 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Bajaj Finance Q2 Results: Net profit jumps 29% YoY to Rs 6,367 crore, NII up 24%",
@@ -328,18 +418,18 @@
       "pubDate": "Mon, 19 Oct 2026 17:40:07 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-inflation-treasury-yields-earnings-forecast-coreweave-broadcom-micron-stock-price-news-19th-october-2026/liveblog/135048592.cms",
       "pubDate": "Mon, 19 Oct 2026 17:37:25 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Elon Musk pledges a share of SpaceX company to 'every kid in America'",
@@ -392,7 +482,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "METALS-Copper falls as LME stocks edge higher and mine supply concerns ease",
+      "title": "Copper falls as LME stocks edge higher and mine supply concerns ease",
       "desc": "Copper prices have dipped due to rising inventories culminating from a resolution of a major strike at a Chilean mine. With available copper stocks hitting a two-month peak following substantial inflows, expert analyst Daniel Ghali pointed to US tariffs impacting global supply chains and shipping costs. In contrast, China exhibits signs of economic growth, notwithstanding ongoing struggles in its property sector.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/metals-copper-falls-as-lme-stocks-edge-higher-and-mine-supply-concerns-ease/articleshow/135048371.cms",
       "pubDate": "Mon, 19 Oct 2026 17:32:58 +0530",
@@ -412,16 +502,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Brook says he has 'learned a lot' from off-field issues",
-      "desc": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 12:00:54 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Democrats think cracking down on AI could give them an edge",
       "desc": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That [&#8230;]",
       "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -432,22 +512,12 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "What we know about apparent attack on Australian MP hit by car",
-      "desc": "Helen Haines was hit by a car in what the prime minister has called a \"deliberate act\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 11:59:26 GMT",
+      "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+      "desc": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn&#039;t been tough enough.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 11:35:52 +0000",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "desc": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 11:41:24 GMT",
-      "image": "",
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -458,38 +528,8 @@
       "pubDate": "Mon, 19 Oct 2026 16:59:33 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Meloni calls emergency meeting after weekend of violent clashes",
-      "desc": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 11:23:36 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Man accused of mass train stabbing admits wounding",
-      "desc": "Anthony Williams is in court after multiple stabbings on a train that was forced to stop in Huntingdon.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 11:22:26 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "The Maeving RM2 is high-style electric riding with a few compromises",
-      "desc": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
-      "pubDate": "2026-10-19T07:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Hindustan Zinc Q2 Results: Net profit skyrockets 142% YoY to Rs 6,412 crore, revenue soars 77%",
@@ -498,18 +538,18 @@
       "pubDate": "Mon, 19 Oct 2026 16:29:09 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Four arrested after police officer injured in shooting",
-      "desc": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 10:52:25 GMT",
+      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+      "desc": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 10:49:23 +0000",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Signature Global partners Manasum for Gurugram senior living project with Rs 575 cr sales value",
@@ -532,26 +572,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Elizabeth Holmes  documentary stuns with huge box office debut",
-      "desc": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 10:37:13 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "desc": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 10:33:12 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Rupee ends flat as stock slump, importer hedging erodes bounce",
       "desc": "The Indian rupee held steady even as it initially surged, influenced by rising dollar demand from importers. However, the local stock markets, particularly the Nifty 50, suffered a decline of more than 1% due to underwhelming results in the technology and financial sectors. Meanwhile, Brent crude oil prices dipped about 2% after the US administration's sanction waivers.",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-as-stock-slump-importer-hedging-erodes-bounce/articleshow/135046027.cms",
@@ -572,16 +592,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "England manager Wiegman signs contract extension",
-      "desc": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 10:08:01 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
       "desc": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Management’s Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
@@ -590,6 +600,26 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "People playing loud music on buses could face £100 fine",
+      "desc": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.\nA national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:49:58 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "What are the new faces coming to UK bank notes?",
+      "desc": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+      "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:48:35 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
@@ -607,9 +637,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 09:38:25 GMT",
       "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC Business",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "India corporate bond boom may scale record in 2026 as borrowers lock in rates",
@@ -632,14 +662,24 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "desc": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 09:11:42 GMT",
+      "title": "What is the Budget and what could be in it?",
+      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:01:40 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "ISB programme explores AI’s growing role in the future of digital finance",
+      "desc": "The Executive Programme in Fintech and AI at ISB is crafted to equip finance professionals with cutting-edge skills in financial services. Spanning 32 weeks, this program offers live online sessions alongside engaging experiential learning. Participants will delve into real-world applications of fintech, artificial intelligence, and blockchain. Tailored for senior finance leaders, this course seeks to enhance strategic decision-making. Applications for the next cohort are now open, creating valuable networking opportunities.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/isb-programme-explores-ais-growing-role-in-the-future-of-digital-finance/articleshow/135044413.cms",
+      "pubDate": "Mon, 19 Oct 2026 14:26:22 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
@@ -668,18 +708,8 @@
       "pubDate": "Mon, 19 Oct 2026 14:02:25 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "desc": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
-      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Jio’s mega IPO breaks all records with Rs 2.5 lakh crore anchor demand: BlackRock, GIC, LIC participate",
@@ -688,8 +718,8 @@
       "pubDate": "Mon, 19 Oct 2026 13:40:18 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Why Nebius shares are falling amid AI funding fears",
@@ -712,16 +742,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
-      "desc": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families.",
-      "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 07:55:32 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Global Market: Indonesia stock exchange to meet MSCI after downgrade warning triggers market rout",
       "desc": "Indonesia’s stock exchange will meet MSCI on Monday to seek clarity over a warning that could strip the country of its emerging-market status. The threat triggered a sharp selloff, wiping $65 billion off market capitalisation on Friday. A downgrade could prompt foreign fund outflows and weaken investor participation in Indonesian equities.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms",
@@ -742,24 +762,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
-      "desc": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
       "desc": "HFCL reported a 448% year-on-year jump in Q2FY27 net profit to Rs 394 crore, compared with Rs 71.92 crore a year ago. Revenue surged 144% to Rs 2,542 crore, while EBITDA rose 224% to Rs 658 crore. EBITDA margin expanded 640 basis points to 25.89%. The optical fibre and AI beneficiary’s stock hit the 5% upper circuit at Rs 268.70 on the BSE and has gained nearly 300% so far this year.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-results-profit-zooms-448-yoy-to-rs-394-crore-stock-hits-5-upper-circuit/articleshow/135042693.cms",
       "pubDate": "Mon, 19 Oct 2026 12:42:14 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
@@ -772,34 +782,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Watch: Shops looted and restaurants gutted in Paris riots",
-      "desc": "Violence broke out across France, with more than half a million people taking to the streets over the weekend.",
-      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 06:40:35 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in",
       "desc": "Tech Mahindra shares fell 2.1% after a sharp post-results rally, as investors booked profits. Brokerages remain divided, with Nuvama projecting 25% earnings growth over two years, while Nomura maintains a Neutral rating amid a focus on future growth and margins.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-tech-mahindra-shares-after-22-rally-in-4-days-technical-expert-weighs-in/articleshow/135041900.cms",
       "pubDate": "Mon, 19 Oct 2026 12:06:37 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "desc": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 06:29:55 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "India bonds rise after flat open as sharp drop in US yields spurs value buying",
@@ -818,8 +808,8 @@
       "pubDate": "Mon, 19 Oct 2026 11:54:40 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Global Market: South Korea regulator says Solidigm US listing may breach dual-listing rules",
@@ -828,18 +818,8 @@
       "pubDate": "Mon, 19 Oct 2026 11:49:13 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Best images of F1 in the US through the years",
-      "desc": "A selection of images from F1 races in the US, from Indianapolis, Watkins Glen and Long Beach to the streets of Dallas and the Caesars Palace car park.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 06:17:28 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Jio Platforms IPO GMP signals 22% potential listing gain; issue opens on October 21",
@@ -848,8 +828,8 @@
       "pubDate": "Mon, 19 Oct 2026 11:45:54 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "China's growth accelerates as AI boom helps boost exports",
@@ -857,9 +837,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 06:08:02 GMT",
       "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
@@ -898,28 +878,8 @@
       "pubDate": "Mon, 19 Oct 2026 11:05:53 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The portraits that helped bring the lost Aberfan children home",
-      "desc": "An artist living hundreds of miles away felt compelled to help the village that lost its children.",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5y832v8ddo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 05:28:02 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How one rule change is altering the face of one-day cricket",
-      "desc": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future.",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 05:27:56 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Global markets face fresh volatility as earnings season gains pace",
@@ -928,8 +888,8 @@
       "pubDate": "Mon, 19 Oct 2026 10:54:10 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "PC Jeweller shares soar 26% in just two sessions. Here’s what’s triggering the sharp surge",
@@ -968,8 +928,18 @@
       "pubDate": "Mon, 19 Oct 2026 10:42:40 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Charities 'busier than ever' with furniture poverty",
+      "desc": "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 05:10:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for the year",
@@ -998,8 +968,8 @@
       "pubDate": "Mon, 19 Oct 2026 10:33:40 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Global Market: Japan’s Nikkei falls 2% as tech selloff, rising oil prices fuel inflation fears",
@@ -1022,26 +992,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-      "desc": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 04:59:47 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "desc": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 04:54:25 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Global Market: Japan bond yields fall as US tech selloff fuels safe-haven demand",
       "desc": "Japanese government bond yields fell as a selloff in US technology stocks triggered demand for safer assets. Prime Minister Sanae Takaichi’s pledge to control debt issuance also supported sentiment, while Bank of Japan rate expectations remained in focus.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-fall-as-us-tech-selloff-fuels-safe-haven-demand/articleshow/135039965.cms",
@@ -1052,84 +1002,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Tech picks: Indian Hotels among 5 stocks to buy for healthy returns in short term",
-      "desc": "The Indian stock market is rebounding, powered by robust investments in IT sectors and encouraging earnings reports. Analysts highlight five stocks as prime buying opportunities, projecting solid short-term gains. Indian Hotels, Lemon Tree, and Supreme Industries make the list. While technical indicators show strong demand, investors are cautioned about looming global inflation and geopolitical tensions.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-indian-hotels-among-5-stocks-to-buy-for-healthy-returns-in-short-term/slideshow/135039935.cms",
-      "pubDate": "Mon, 19 Oct 2026 10:06:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Stock Market Down: Bulls lose ground! Sensex sinks nearly 900 points, Nifty ends below 22,900; 5 key triggers behind Rs 5 lakh crore selloff",
-      "desc": "Why is  Market Down Today: The Indian stock market took a hit on Monday after a considerable rise the previous week. Both Sensex and Nifty struggled, with Axis Bank and HDFC Bank suffering significant losses. However, firms like SBI and UltraTech Cement managed to post gains. The PSU Bank index rose, providing a stark contrast to the declining private banking sector.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
-      "pubDate": "Mon, 19 Oct 2026 10:04:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Holding company discount after Jio IPO: What is it &amp; how will it impact RIL shares?",
-      "desc": "Jio Platforms IPO: Jio Platforms is preparing to unveil its initial public offering, enhancing its valuation significantly. Analysts foresee a potential reduction in the holding company discount for Reliance Industries post-IPO. While some experts believe the anticipated changes are already included in the stock's valuation, the true effect on RIL shares will hinge on Jio's profitability and future dividend plans.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/holding-company-discount-after-jio-ipo-what-is-it-how-will-it-impact-ril-shares/articleshow/135039648.cms",
-      "pubDate": "Mon, 19 Oct 2026 10:02:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: South Korean shares fall as AI investment worries weigh on chipmakers",
-      "desc": "South Korea’s Kospi fell as AI investment concerns triggered technology stock selling, although dip buying helped recover early losses. Semiconductor shares remained weak, while automakers, battery makers and select heavyweight stocks gained. Foreign investors were net sellers, while currency and bond markets showed mixed movements amid ongoing global market uncertainty.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-ai-investment-worries-weigh-on-chipmakers/articleshow/135039691.cms",
-      "pubDate": "Mon, 19 Oct 2026 10:01:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-      "desc": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
-      "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 00:28:44 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
-      "desc": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 00:09:25 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "desc": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
       "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "South Africa-Australia Test finally resumes after rain - scorecard",
-      "desc": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha.",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 00:00:00 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
@@ -1137,9 +1017,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 23:28:45 GMT",
       "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Don't fall for this - how to protect yourself from AI scams",
@@ -1147,25 +1027,15 @@
       "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 23:24:59 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 23:20:15 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "desc": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
@@ -1200,10 +1070,20 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "desc": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 16:46:42 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-19T14:45:40.131Z",
+    "generatedAt": "2026-10-19T16:01:06.934Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1212,7 +1092,7 @@
         "price": 22888.95,
         "change": -257.2,
         "changePct": -1.11,
-        "timestamp": "2026-10-19T14:45:38.362Z",
+        "timestamp": "2026-10-19T16:01:05.618Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1220,7 +1100,7 @@
         "price": 73852.9,
         "change": -876.38,
         "changePct": -1.17,
-        "timestamp": "2026-10-19T14:45:39.322Z",
+        "timestamp": "2026-10-19T16:01:06.097Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1228,7 +1108,7 @@
         "price": 55488.1,
         "change": -355.9,
         "changePct": -0.64,
-        "timestamp": "2026-10-19T14:45:39.462Z",
+        "timestamp": "2026-10-19T16:01:06.295Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1236,33 +1116,33 @@
         "price": 94.92,
         "change": -0.04,
         "changePct": -0.04,
-        "timestamp": "2026-10-19T14:45:39.784Z",
+        "timestamp": "2026-10-19T16:01:06.455Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 127133,
-        "change": -464,
-        "changePct": -0.36,
-        "timestamp": "2026-10-19T14:45:39.919Z",
+        "price": 126998,
+        "change": -598,
+        "changePct": -0.47,
+        "timestamp": "2026-10-19T16:01:06.615Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 174804,
-        "change": -76,
-        "changePct": -0.04,
-        "timestamp": "2026-10-19T14:45:40.045Z",
+        "price": 175201,
+        "change": 320,
+        "changePct": 0.18,
+        "timestamp": "2026-10-19T16:01:06.753Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9291,
-        "change": -108,
-        "changePct": -1.15,
-        "timestamp": "2026-10-19T14:45:40.131Z",
+        "price": 9302,
+        "change": -97,
+        "changePct": -1.03,
+        "timestamp": "2026-10-19T16:01:06.934Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
