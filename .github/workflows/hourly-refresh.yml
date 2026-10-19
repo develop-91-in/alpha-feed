@@ -1,0 +1,32 @@
+name: ALPHA FEED — Hourly Edition Refresh
+# BACKGROUND REFRESH (runs even when browser is closed):
+# - Runs every hour on GitHub Actions, fetches RSS, prunes >24h, writes data/edition.json + data/market.json, commits.
+# - Vercel redeploys automatically on push (connect repo to Vercel) OR serves static files directly.
+# - If repo is PUBLIC: GitHub Actions is unlimited/free on public repos (no minute cap) per GitHub docs — verify on github.com/pricing.
+# - If repo is PRIVATE: Free plan includes 2,000 min/month (verified via third-party summaries 19 Oct 2026 — re-check github.com/pricing before relying). This workflow takes ~30-60 sec/run.
+#   Math (private, hourly): 24 runs/day * 30 days = 720 runs * ~1 min = ~720 min/month — inside 2,000 min, estimate only.
+# - Muse does NOT run this. Muse cannot run background jobs by itself.
+# - No API keys, no AI tokens. Never commit a key to this repo. Server-side keys (if ever added) go in GitHub Secrets only.
+on:
+  schedule:
+    - cron: "0 * * * *" # every hour, UTC
+  workflow_dispatch: # manual Run workflow button
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build edition
+        run: node scripts/fetch-edition.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "alpha-feed-bot"
+          git config user.email "alpha-feed-bot@users.noreply.github.com"
+          git add data/edition.json data/market.json
+          git diff --cached --quiet || git commit -m "Hourly edition: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
