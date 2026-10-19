@@ -3,11 +3,24 @@ A financial newspaper by Jatin Singh. Designed & Developed by Jatin Singh.
 
 Premium, editorial-style, single-page financial newspaper for Indian readers.
 
+## Sections — exact order (v2)
+1. Top Stories • 2. Indian Markets • 3. Indian Economy • 4. IPO Centre • 5. Earnings Calls
+6. Global Markets • 7. Global News • 8. Technology • 9. Macro & Stats (India only) • 10. Business
+
+Finance and economy only. Sports, Bollywood, entertainment, celebrity and general politics are
+filtered out in both `app.js` and `scripts/fetch-edition.mjs`. Global News covers geopolitics
+only where it has financial consequences. Technology covers AI / chips / fintech / deals with
+business significance — no gadget deals or reviews.
+
+IPO Centre and Earnings Calls are news feeds (IPO / earnings keyword-filtered), not invented
+term sheets. Price bands, subscription, allotment and call times are never invented — verify
+via the RHP / NSE / BSE link in each story.
+
 ## Files
 ```
-index.html — Masthead, ticker, 10 sections, footer
+index.html — Masthead, ticker, 10 sections in exact order, footer
 styles.css — Paper-like light mode + dark mode, Playfair Display headlines
-app.js — Search, refresh, 24h retention, ticker, IPO tabs, Earnings dates (IST)
+app.js — Search, refresh, 24h retention, ticker, finance-only filter, Earnings dates (IST)
 scripts/fetch-edition.mjs — Node script: fetches RSS directly (no API key), prunes >24h, dedups, writes data/
 data/edition.json — Latest edition built by the script (articles + market)
 data/market.json — Latest market snapshot
@@ -55,8 +68,8 @@ RSS feeds directly from publishers (Reuters, BBC, Economic Times, RBI, Al Jazeer
 If a feed blocks or fails, the edition retains still-valid (<24h) articles and shows a stale-data warning. No news is invented.
 
 ## IPO / Earnings / Macro — never invented
-- **IPO Centre:** Shows NOT VERIFIED until a verified filing (NSE/BSE/SEBI RHP) is loaded. Never invent band, dates, size or subscription.
-- **Earnings Calls:** Today / Tomorrow / Day After Tomorrow headings use IST dates automatically. If no verified schedule is loaded, each column shows “Schedule could not be verified” with NSE/BSE links. Never invent call times. Results announcement ≠ call time ≠ board meeting.
+- **IPO Centre:** News feed filtered to IPO / listing / allotment / subscription / GMP / RHP. Never invent band, dates, size or subscription. Verify via RHP / NSE / BSE.
+- **Earnings Calls:** News feed filtered to earnings / quarterly results / net profit / earnings call. Today / Tomorrow / Day After Tomorrow headings use IST dates automatically. Never invent call times. Results announcement ≠ call time ≠ board meeting.
 - **Macro & Stats:** Rows show “Awaiting verified update” with official source links unless a verified value is entered with a release date. Never show unreleased data as confirmed.
 
 ## Limits — verified vs estimate (checked 19 Oct 2026 via web search, re-check vendor pages before relying)
