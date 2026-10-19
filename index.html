@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ALPHA FEED — The World of Money, Decoded.</title>
+<meta name="description" content="ALPHA FEED — A financial newspaper by Jatin Singh. Markets, economy, global news, technology, IPOs and earnings calls.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#top-stories">Skip to Top Stories</a>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+  <div class="wrap">
+    <div class="mast-top">
+      <span id="istDate">—</span>
+      <span class="edition">Edition: India • English</span>
+      <span id="statusPill" class="pill demo">● DEMO — DATA NOT CONNECTED</span>
+    </div>
+    <div class="mast-main">
+      <div>
+        <h1>ALPHA FEED</h1>
+        <p class="tagline">THE WORLD OF MONEY, DECODED.</p>
+        <p class="publisher">A financial newspaper by Jatin Singh</p>
+      </div>
+      <div class="mast-actions">
+        <div class="last-upd">Last successful update<br><strong id="lastUpdated">—</strong><br><span id="refreshNote" class="muted">No verified refresh yet</span></div>
+        <button id="refreshBtn" class="btn-primary">↻ Refresh Edition</button>
+        <button id="themeBtn" class="btn-ghost" aria-label="Toggle dark mode">🌙 Dark</button>
+      </div>
+    </div>
+    <div class="mast-search">
+      <label class="search-box" for="searchInput">🔍 <input id="searchInput" type="search" placeholder="Search headlines & summaries across all sections…"></label>
+      <span id="searchCount" class="muted"></span>
+      <button id="clearSearch" class="btn-ghost small">Clear</button>
+    </div>
+  </div>
+</header>
+
+<!-- TICKER -->
+<div class="ticker-wrap" aria-label="Market ticker">
+  <div class="ticker-label">MARKETS</div>
+  <div class="ticker-viewport"><div id="tickerTrack" class="ticker-track"></div></div>
+</div>
+<p class="ticker-note wrap">Prices are delayed where free sources are used. Never presented as tick-by-tick exchange data. Source shown on each item. <span id="tickerSource"></span></p>
+
+<!-- NAV -->
+<nav class="nav wrap" aria-label="Sections">
+  <a href="#top-stories">Top Stories</a>
+  <a href="#indian-markets">Indian Markets</a>
+  <a href="#indian-economy">Indian Economy</a>
+  <a href="#global-markets">Global Markets</a>
+  <a href="#global-news">Global News</a>
+  <a href="#technology">Technology</a>
+  <a href="#macro">Macro &amp; Stats</a>
+  <a href="#business">Business</a>
+  <a href="#ipo">IPO Centre</a>
+  <a href="#earnings">Earnings Calls</a>
+</nav>
+
+<main class="wrap">
+  <div id="globalStatus" class="notice">Loading edition… If this persists, feeds are unavailable and no news is being invented.</div>
+
+  <!-- TOP STORIES -->
+  <section id="top-stories" class="section">
+    <div class="section-head"><h2>Top Stories</h2><span class="rule"></span><span class="section-meta" id="count-top-stories"></span></div>
+    <div id="leadStory" class="lead"></div>
+    <div id="grid-top-stories" class="grid-3"></div>
+    <div id="empty-top-stories" class="empty hidden">No articles within the last 24 hours for this section. Try Refresh Edition.</div>
+  </section>
+
+  <!-- INDIAN MARKETS -->
+  <section id="indian-markets" class="section">
+    <div class="section-head"><h2>Indian Markets</h2><span class="rule"></span><span class="section-meta" id="count-indian-markets"></span></div>
+    <p class="section-dek">Nifty 50, Sensex, sectoral trends, breadth, earnings and regulatory developments. Factual reporting only — no investment recommendations.</p>
+    <div id="grid-indian-markets" class="grid-3"></div>
+    <div id="empty-indian-markets" class="empty hidden">No verified Indian Markets articles in the last 24 hours.</div>
+  </section>
+
+  <!-- INDIAN ECONOMY -->
+  <section id="indian-economy" class="section">
+    <div class="section-head"><h2>Indian Economy</h2><span class="rule"></span><span class="section-meta" id="count-indian-economy"></span></div>
+    <p class="section-dek">RBI, inflation, GDP, jobs, Budget, tax, banking, trade and the rupee — explained in simple English.</p>
+    <div id="grid-indian-economy" class="grid-3"></div>
+    <div id="empty-indian-economy" class="empty hidden">No verified Indian Economy articles in the last 24 hours.</div>
+  </section>
+
+  <!-- GLOBAL MARKETS -->
+  <section id="global-markets" class="section">
+    <div class="section-head"><h2>Global Markets</h2><span class="rule"></span><span class="section-meta" id="count-global-markets"></span></div>
+    <p class="section-dek">US, Europe and Asia, central banks, yields, commodities and currencies — and why they matter for India.</p>
+    <div id="grid-global-markets" class="grid-3"></div>
+    <div id="empty-global-markets" class="empty hidden">No verified Global Markets articles in the last 24 hours.</div>
+  </section>
+
+  <!-- GLOBAL NEWS -->
+  <section id="global-news" class="section">
+    <div class="section-head"><h2>Global News</h2><span class="rule"></span><span class="section-meta" id="count-global-news"></span></div>
+    <p class="section-dek">Geopolitics with material financial consequences — conflicts, trade, tariffs, sanctions, energy and supply chains. Not a general politics feed.</p>
+    <div id="grid-global-news" class="grid-3"></div>
+    <div id="empty-global-news" class="empty hidden">No verified Global News articles in the last 24 hours.</div>
+  </section>
+
+  <!-- TECHNOLOGY -->
+  <section id="technology" class="section">
+    <div class="section-head"><h2>Technology</h2><span class="rule"></span><span class="section-meta" id="count-technology"></span></div>
+    <p class="section-dek">AI, semiconductors, fintech, digital infrastructure and deals with business or economic significance.</p>
+    <div id="grid-technology" class="grid-3"></div>
+    <div id="empty-technology" class="empty hidden">No verified Technology articles in the last 24 hours.</div>
+  </section>
+
+  <!-- MACRO & STATS -->
+  <section id="macro" class="section">
+    <div class="section-head"><h2>Macro &amp; Stats</h2><span class="rule"></span></div>
+    <p class="section-dek">Published indicators only. Never show unreleased data as confirmed. Verify via the source link.</p>
+    <div class="table-wrap">
+    <table class="macro-table">
+      <thead><tr><th>Indicator</th><th>Latest</th><th>Previous</th><th>Unit</th><th>Release date</th><th>Next release</th><th>Source</th></tr></thead>
+      <tbody id="macroBody"></tbody>
+    </table>
+    </div>
+    <p class="muted small">Macro table is a reference snapshot. Values below are shown only where verified at build time; otherwise the row says “Awaiting verified update” with a link to the official publisher. Do not trade on this table alone.</p>
+  </section>
+
+  <!-- BUSINESS -->
+  <section id="business" class="section">
+    <div class="section-head"><h2>Business</h2><span class="rule"></span><span class="section-meta" id="count-business"></span></div>
+    <p class="section-dek">Results, M&amp;A, corporate actions, startups, funding and industry developments that matter to investors and the economy.</p>
+    <div id="grid-business" class="grid-3"></div>
+    <div id="empty-business" class="empty hidden">No verified Business articles in the last 24 hours.</div>
+  </section>
+
+  <!-- IPO CENTRE -->
+  <section id="ipo" class="section">
+    <div class="section-head"><h2>IPO Centre</h2><span class="rule"></span></div>
+    <p class="section-dek">Verified IPO terms only. Never invent price bands, dates, subscription or listing figures. Check the official RHP / exchange notice.</p>
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-tab="mainboard" role="tab" aria-selected="true">Mainboard IPOs</button>
+      <button class="tab" data-tab="sme" role="tab" aria-selected="false">SME IPOs</button>
+    </div>
+    <div id="ipo-mainboard" class="ipo-panel"></div>
+    <div id="ipo-sme" class="ipo-panel hidden"></div>
+    <p class="muted small">IPO data must be verified against NSE / BSE / SEBI filings before publishing. If no verified IPO could be loaded, the panel shows an explicit “not verified” message — no invented figures.</p>
+  </section>
+
+  <!-- EARNINGS CALLS -->
+  <section id="earnings" class="section earnings">
+    <div class="section-head"><h2>Earnings Calls</h2><span class="rule"></span></div>
+    <p class="section-dek">Quarterly results, earnings calls and investor presentations for NSE / BSE-listed companies. Results announcement, call time and board meeting are different events — they are not interchangeable. If no call time is published, we show “Call time not announced” — we never guess.</p>
+    <div class="earnings-grid">
+      <div><h3 id="earnTodayTitle">Today</h3><div id="earnToday"></div></div>
+      <div><h3 id="earnTomorrowTitle">Tomorrow</h3><div id="earnTomorrow"></div></div>
+      <div><h3 id="earnDayAfterTitle">Day After Tomorrow</h3><div id="earnDayAfter"></div></div>
+    </div>
+    <p class="muted small">Sources to verify: company investor relations pages + NSE / BSE corporate announcements. Past events are removed as their time passes. See <a href="https://www.nseindia.com/companies-listing/corporate-filings-announcements" target="_blank" rel="noopener">NSE Announcements</a> • <a href="https://www.bseindia.com/corporates/ann.html" target="_blank" rel="noopener">BSE Announcements</a></p>
+  </section>
+
+  <section class="section method">
+    <h2>How this edition works</h2>
+    <ul>
+      <li><strong>Hourly refresh:</strong> In-browser refresh runs every hour while the page is open. True background refresh when the page is closed requires the included GitHub Actions workflow + Vercel deploy — see README. Muse alone does not run background jobs.</li>
+      <li><strong>24-hour retention:</strong> Articles are kept only if their original publication time is within the last 24 hours. Older articles are removed on every refresh.</li>
+      <li><strong>Market data:</strong> Ticker shows <strong>DATA NOT CONNECTED</strong> until a verified feed (Yahoo Finance unofficial endpoint — no SLA, may change) returns data. Sample prices are never shown as live.</li>
+      <li><strong>Verification:</strong> Every story keeps its original source, publication time (IST) and link. Summaries are short excerpts, not full copyrighted text.</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap footer-inner">
+    <div class="footer-brand">ALPHA FEED</div>
+    <p>THE WORLD OF MONEY, DECODED.</p>
+    <p>A financial newspaper by Jatin Singh.</p>
+    <p>Designed &amp; Developed by Jatin Singh.</p>
+    <p class="muted small">Educational / informational only. Not investment advice. Verify market data and IPO / earnings details against official sources before acting.</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
