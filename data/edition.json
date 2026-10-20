@@ -1,95 +1,435 @@
 {
-  "generatedAt": "2026-10-20T11:08:48.799Z",
+  "generatedAt": "2026-10-20T16:33:57.368Z",
   "articles": [
     {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "desc": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 10:36:57 +0000",
+      "title": "Qatar says only negotiations can resolve regional tensions",
+      "desc": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:21:01 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "desc": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 10:24:28 +0000",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:09:54 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+      "desc": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:01:01 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
-      "desc": "Indian equities weakened amid negative global cues and selling in private banks and IT stocks, pushing the Nifty below 23,000. Choice Equity Broking’s Sachin Gupta recommends four stocks—Federal Bank, ACME Solar, Dr Reddy’s Laboratories and Union Bank—for potential upside.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
-      "pubDate": "Tue, 20 Oct 2026 15:48:27 +0530",
+      "title": "The Gospel according to Peter (Thiel)",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "pubDate": "2026-10-20T11:45:00-04:00",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
-      "desc": "US Secretary of State Marco Rubio is in India to enhance cooperation in energy, trade, and defense matters. His visit focuses on advancing the India-US Comprehensive Global Strategic Partnership and includes discussions on economic engagement. Rubio's earlier trip in May involved meetings with Prime Minister Narendra Modi and External Affairs Minister S Jaishankar. The anticipated bilateral trade deal aims to address tariff issues and boost market access.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
-      "pubDate": "Tue, 20 Oct 2026 14:56:48 +0530",
+      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
+      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "IPO bound Paras Healthcare raises Rs 652.50 crore from anchor investors as issue set to open on October 21",
-      "desc": "The investors included Abu Dhabi Investment Authority, BlackRock Global Funds, Eastspring Investments, Government Pension Fund Global, Natixis International Funds, Integrated Core Strategies (Asia) and Citigroup Global.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-paras-healthcare-raises-rs-652-50-crore-from-anchor-investors-as-issue-set-to-open-on-october-21/articleshow/135065506.cms",
-      "pubDate": "Tue, 20 Oct 2026 14:14:06 +0530",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "desc": "Indian markets plunged on Monday as the Sensex fell nearly 900 points and the Nifty dropped below 22,900, wiping out nearly Rs 5 lakh crore in market value. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "China flags APEC's role as key for a challenged global economy",
-      "desc": "During the opening of the APEC Finance Ministers' meeting in Hong Kong, China's Finance Minister Lan Foan highlighted the importance of the APEC forum for promoting economic cooperation. He urged the 21 member countries to work together in addressing global economic challenges, stressing collaboration in sectors such as artificial intelligence, the digital economy, and green initiatives. Lan reaffirmed China's commitment to broad economic reforms designed to stimulate growth.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/update-1-china-flags-apecs-role-as-key-for-a-challenged-global-economy/articleshow/135065449.cms",
-      "pubDate": "Tue, 20 Oct 2026 14:11:01 +0530",
+      "title": "Aerospace and military contractors raise 2026 profit forecasts",
+      "desc": "Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. The companies reported record backlogs of $109.6 billion and $340 billion respectively. Sustained commercial aerospace services demand has also contributed to their growth. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "French bond yields edge down, but investors stay on alert",
-      "desc": "On Tuesday, French government bond yields lowered after a significant increase observed on the previous day. Investors are remaining cautious as they await a crucial vote on the budget bill. Recent protests highlighted challenges in reducing France's large fiscal deficit, which impacts market sentiment. Meanwhile, euro zone benchmark Bund yields also edged lower as energy price pressures persist.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-yields-edge-down-but-investors-stay-on-alert/articleshow/135065370.cms",
-      "pubDate": "Tue, 20 Oct 2026 14:09:18 +0530",
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "desc": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "What is the Budget and what could be in it?",
-      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 08:31:36 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "desc": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 10:36:57 +0000",
+      "title": "Qatar says only negotiations can resolve regional tensions",
+      "desc": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:21:01 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:09:54 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+      "desc": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:01:01 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The Gospel according to Peter (Thiel)",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "pubDate": "2026-10-20T11:45:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Google says services recovering after cloud outage hits UK banks and websites",
+      "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:37:26 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
+      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
+      "desc": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
+      "link": "https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:14:58 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "desc": "Indian markets plunged on Monday as the Sensex fell nearly 900 points and the Nifty dropped below 22,900, wiping out nearly Rs 5 lakh crore in market value. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Aerospace and military contractors raise 2026 profit forecasts",
+      "desc": "Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. The companies reported record backlogs of $109.6 billion and $340 billion respectively. Sustained commercial aerospace services demand has also contributed to their growth. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "desc": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Union attacks NatWest plans to get workers back to the office",
+      "desc": "The bank says workers will be required to attend the office at least two days a week from February.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:50:19 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "desc": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 14:39:50 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
+      "desc": "Emerging markets are displaying surprising economic resilience in light of the Federal Reserve's tightening measures. Stronger fiscal fundamentals and high bond yields provide emerging market central banks with greater flexibility. Some countries are even considering rate cuts, which may not have been possible in the past. Investor sentiment is shifting towards emerging markets as they are viewed more favorably compared to developed economies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
+      "pubDate": "Tue, 20 Oct 2026 19:17:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
+      "desc": "Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff. Major companies like General Motors and Steel Dynamics reported disappointing earnings forecasts, while 3M and Equifax exceeded expectations. Investors are closely monitoring upcoming corporate earnings reports from several high-profile companies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
+      "pubDate": "Tue, 20 Oct 2026 19:09:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Indonesians protest over land-clearing fires",
+      "desc": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:23:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "desc": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:20:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Hilton to move stock listing to Nasdaq",
+      "desc": "Hilton Worldwide plans to shift its stock listing from the NYSE to Nasdaq, with shares set to begin trading under the HLT ticker on November 5. The hotel operator says Nasdaq's focus on technology and innovation aligns with its growth strategy as it strengthens its technology and innovation efforts.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
+      "pubDate": "Tue, 20 Oct 2026 18:43:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
+      "desc": "CATL reports slower third-quarter profit growth as intense competition in China’s EV battery market weighs on earnings. Net profit rises 14.5% to 21.2 billion yuan, below estimates, while revenue grows 58.6%. CATL also unveils new heavy-duty truck batteries and plans to expand its battery-swapping network.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
+      "pubDate": "Tue, 20 Oct 2026 18:38:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "desc": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "pubDate": "2026-10-20T09:06:44-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "desc": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 12:37:06 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "desc": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 12:36:43 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran denies collapse is close as US claims IRGC running out of money",
+      "desc": "Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 12:29:58 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500 Healthcare hits record high, Dow soars over 400 points",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
+      "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Rubio says India-US trade deal is ‘very, very close’ after Jaishankar meeting",
+      "desc": "US Secretary of State Marco Rubio stated that negotiations for a trade deal with India are approaching completion. He highlighted discussions with Indian Foreign Minister Subrahmanyam Jaishankar about energy security and defense cooperation. While tensions over tariffs and energy continue to challenge negotiations, both countries aim to deepen their economic ties. Rubio’s visit to India includes a tour of the Reliance Industries refinery and meetings with business leaders.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rubio-says-india-us-trade-deal-is-very-very-close-after-jaishankar-meeting/articleshow/135068984.cms",
+      "pubDate": "Tue, 20 Oct 2026 17:19:50 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+      "desc": "Meta's upcoming third-quarter results will reflect its significant investments in artificial intelligence technologies and products. The company's revenue is expected to grow by 23.8%, despite intense competition from rival firms. Analysts predict a decline in net income, estimating it at $15.44 billion for the quarter. Investor confidence has increased due to positive responses towards its Muse personal assistant and new AI models.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
+      "pubDate": "Tue, 20 Oct 2026 17:02:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Oyo parent PRISM to cut IPO fresh issue nearly 50% to Rs 3,350 crore: Sources",
+      "desc": "PRISM is set to scale back its initial public offering from Rs 6,650 crore to Rs 3,350 crore in light of its robust cash flow and enhanced balance sheet. The majority of the newly structured funds will focus on repaying or prepaying debts. Moody's Ratings has adjusted PRISM's outlook to positive, anticipating growth in EBITDA. Notably, OYO's founder, Ritesh Agarwal, and SoftBank maintain substantial stakes in the venture.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
+      "pubDate": "Tue, 20 Oct 2026 17:00:10 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "French bond yields near 24-year high as new protests loom",
+      "desc": "As ongoing protests grip France, the yields on government securities, known as OAT, have surged to a peak not seen in over 24 years. Both Marine Le Pen and Jean-Luc Melenchon lead polling efforts, presenting hurdles for any potential fiscal reforms. Such public demonstrations illustrate the persistent opposition any administration encounters while trying to enact essential reforms.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:57:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "desc": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 11:26:48 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Number of branded housing projects in India set to jump over 2-fold in 6 years: Savills",
+      "desc": "Real estate firms in India are anticipating a significant increase in branded residences by 2032. A report suggests nearly 25 ultra-luxury housing projects will be completed in this period. Major developers have partnered with renowned brands to cater to the super-rich market. The demand for these residences is driven by rapidly increasing wealth among high-net-worth individuals. This trend reflects changing consumer expectations for quality and lifestyle within the luxury segment.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/number-of-branded-housing-projects-in-india-set-to-jump-over-2-fold-in-6-years-savills/articleshow/135068870.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:54:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
+      "desc": "3M has revised its profit outlook for the year, expecting a boost in adjusted earnings per share. Their quarterly revenue reflects growth thanks to the safety and industrial segment. Strong industrial demand and sales increases in targeted markets are contributing factors. Despite hurdles in some consumer areas, 3M is successfully unveiling innovative products while focusing on improving customer service and operational efficiency for sustained growth.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:52:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "US Stocks: GE Aerospace raises 2026 profit forecast as services strength drives growth",
+      "desc": "GE Aerospace has increased its 2026 adjusted earnings forecast due to continued demand for engine maintenance. The demand for spare parts remains high, which supports their financial outlook. Airlines are facing rising fuel costs due to disruptions in oil supply and are adjusting their capacity accordingly. Despite potential pressures on flight schedules, GE Aerospace's revenue from services is expected to remain strong.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ge-aerospace-raises-2026-profit-forecast-as-services-strength-drives-growth/articleshow/135068763.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:49:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "£30 rise in payments for crisis-hit households",
+      "desc": "More money is made available through a resilience fund for hard-pressed households in Sheffield.",
+      "link": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 11:19:22 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US Stocks: GM's core profit rises 22% on strength of pickup-truck business",
+      "desc": "General Motors exceeded analyst expectations in third-quarter earnings, driven by robust demand for their pickups and SUVs. The company reported an adjusted EBIT of $4.1 billion, marking a 22% year-over-year increase. Despite facing inflationary challenges, GM forecasts an adjusted EBIT of $14.5 billion to $15.5 billion by 2026. Additionally, a $20 billion stock buyback program was initiated to bolster share value.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-gms-core-profit-rises-22-on-strength-of-pickup-truck-business/articleshow/135068643.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:47:32 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Government to review 2019 mineral policy amid new sector priorities",
+      "desc": "The Centre is initiating a review of the National Mineral Policy, 2019, to address current sector demands. A nine-member committee will review the policy to reflect recent developments, especially in critical minerals. The committee is expected to submit recommendations within two months after its formation. Experts emphasize the need for a revised policy to enhance India's mineral potential and investment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/government-to-review-2019-mineral-policy-amid-new-sector-priorities/articleshow/135068220.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:25:02 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Drill, baby, drill: China turns the screws, India looks for own tools",
+      "desc": "China’s new export controls on tunnel boring machines (TBMs) have highlighted India’s reliance on overseas suppliers for specialised infrastructure equipment even as the government moves towards a $1.2 billion incentive scheme to expand domestic manufacturing. The proposed package aims to attract $1.8 billion in investment over seven years, but the bigger challenge will be building local capabilities in high-value components and machinery rather than simply replacing Chinese imports.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/drill-baby-drill-china-turns-the-screws-india-looks-for-own-tools/articleshow/135067949.cms",
+      "pubDate": "Tue, 20 Oct 2026 16:17:13 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
@@ -97,19 +437,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 10:28:36 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "desc": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 10:24:28 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
@@ -122,16 +452,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
-      "desc": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
-      "pubDate": "2026-10-20T06:16:47-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
@@ -140,16 +460,6 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "desc": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 09:31:29 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
@@ -422,16 +732,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-      "desc": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
-      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-      "pubDate": "2026-10-20T00:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "India eyes a  $20 billion pot of gold in New Zealand as its trade pact goes live",
       "desc": "The free trade agreement between India and New Zealand promises to promote trade and enhance professional movement. While some goods may enjoy duty-free status, a significant rise in merchandise exports might take time. However, New Zealand's engagement in several service sectors holds potential benefits for Indian companies. The agreement also opens up new job opportunities for Indian students and creates pathways for skilled professionals.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-zero-tariffs-work-visas-20-billion-investment-trade-deal/articleshow/135060766.cms",
@@ -612,76 +912,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-      "desc": "Brokerages remain optimistic about ICICI Bank's strong earnings and asset quality after the recent quarter. However, HDFC Bank's profit growth was modest, and margins are under pressure, leading to a more cautious outlook. Despite this, both banks have attractive valuations and positive earnings recovery prospects. On Monday, both stocks experienced declines, along with broader market indices. Analysts highlight potential upsides for both banks based on target prices.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
-      "pubDate": "Tue, 20 Oct 2026 06:04:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio Platforms' IPO draws Rs 2.5 lakh crore in anchor bids",
-      "desc": "Global investors included BlackRock Global Funds, Capital Group, Fidelity, New World Fund and American Funds Developing World Growth and Income Fund. Other overseas participants included Abu Dhabi Investment Authority (ADIA), Janus Henderson, Societe Generale, Morgan Stanley Investment Funds, Norway's Government Pension Fund Global, Citadel Securities Singapore, Eastspring Investments, T. Rowe Price, Prudential Hong Kong and Integrated Core Strategies (Asia).",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-      "pubDate": "Tue, 20 Oct 2026 05:56:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Banking stocks, high oil prices drag Indian markets lower",
-      "desc": "Across Asia, markets were mixed, with South Korea rebounding 1.8% from last week's losses amid simmering concerns over excessive investments in artificial intelligence (AI). Taiwan fell 0.6%, while Indonesia tumbled 3.6% following a warning from index provider MSCI that it would downgrade the country from the emerging market basket.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
-      "pubDate": "Tue, 20 Oct 2026 05:35:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
-      "desc": "Apple India's revenue reached ₹1 lakh crore in FY26, reflecting a strong growth trend in smartphone sales. Revenue growth was noted at 31%, exceeding that of its competitor Samsung, which faced a decline. Net profit increased by 66% from the previous fiscal year, highlighting Apple's robust performance. The premium smartphone market saw significant growth, benefiting Apple due to its strong brand appeal.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
-      "pubDate": "Tue, 20 Oct 2026 05:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "I have a condition people are too embarrassed to talk about",
-      "desc": "Women share their experience of lichen sclerosus.",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 23:11:13 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "The fossil fuel comeback is here",
-      "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
-      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-      "pubDate": "2026-10-19T17:48:01-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
-      "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "pubDate": "2026-10-19T17:28:20-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
       "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -690,16 +920,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
-      "desc": "US stocks ended mixed on Monday, with the Nasdaq leading gains as chip and AI-linked stocks bounced back after last week’s sharp selloff. Investors also tracked corporate earnings and fresh stock-specific moves, while concerns over AI spending and financing remained in focus.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
-      "pubDate": "Tue, 20 Oct 2026 01:48:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
@@ -714,22 +934,12 @@
     {
       "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
       "desc": "On Monday, the RBI announced a Rs 1-lakh-crore variable rate repo (VRR) auction for the first time since late July after the weighted average call rate (WACR) at 5.67% on Monday, or 17 basis points higher than the repo rate of 5.50%. The central bank will conduct another VRR for Rs 50,000 crore on Wednesday.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135055953.cms",
       "pubDate": "Tue, 20 Oct 2026 01:17:23 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Yes Bank's evaluating capital actions to back growth plans",
-      "desc": "\"The manner and the timing of reinstatement of the bonds as well as payment of the coupon is also under assessment,\" Niranjan Banodkar, CFO, Yes Bank told analysts over a call after the earnings.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-banks-evaluating-capital-actions-to-back-growth-plans/articleshow/135059065.cms",
-      "pubDate": "Tue, 20 Oct 2026 01:14:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "China curbs spur push for local manufacturing",
@@ -754,22 +964,12 @@
     {
       "title": "RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure",
       "desc": "The Reserve Bank of India is implementing stricter scrutiny on large overseas direct investments by Indian companies. Banks must now collect and present detailed information regarding these investments to the RBI. This initiative aims to prevent potential losses for both the companies and the Indian economy. The RBI's checklist requires banks to conduct thorough due diligence on the rationale behind each investment.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135059267.cms",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135055728.cms",
       "pubDate": "Tue, 20 Oct 2026 00:56:34 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Hedge funds retreat from tech at fastest pace in a decade as AI trade weakens",
-      "desc": "Hedge funds cut technology exposure at the fastest pace in at least a decade as the global AI trade weakened and tech stocks bore the brunt of last week’s selloff. Goldman Sachs data showed funds reduced risk sharply, although technology remained a major part of their portfolios.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:46:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Uneven rains may keep price of spices elevated",
@@ -842,16 +1042,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "S&amp;P Global flags potentially hidden AI debt at hyperscalers as AI spending surges",
-      "desc": "S&amp;P Global warned that hyperscalers could be carrying more AI related debt than currently visible through financing structures linked to data centres and smaller AI firms. Despite rising concerns around AI infrastructure debt, the agency saw no immediate need for rating changes, while flagging profitability and escalating investment as key risks.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-global-flags-potentially-hidden-ai-debt-at-hyperscalers-as-ai-spending-surges/articleshow/135054758.cms",
-      "pubDate": "Mon, 19 Oct 2026 23:49:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Tariff quota notified for New Zealand fruits, honey",
       "desc": "Kiwifruit imports will qualify for zero customs duty under the tariff rate quota (TRQ), subject to a minimum CIF value of $1.80 per kg while 40 tonnes of New Zealand-certified Manuka honey under the quota have been permitted for 2026. The annual limit will increase to 200 tonnes from 2027.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/tariff-quota-notified-for-new-zealand-fruits-honey/articleshow/135054549.cms",
@@ -862,26 +1052,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore",
-      "desc": "Jio Platforms successfully raised approximately Rs 8,110 crore from 212 anchor investors before its upcoming IPO. The company allotted shares to well-known investors such as LIC, BlackRock, and Fidelity. These allocations indicate strong interest from both domestic and global institutional investors. The IPO is expected to surpass the previous record held by Hyundai Motor India. Jio Platforms aims to achieve an equity valuation of nearly Rs 10.3 lakh crore.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms",
-      "pubDate": "Mon, 19 Oct 2026 23:04:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Central Bank of India reports technical glitch in RTGS outward system",
-      "desc": "Central Bank said that no customer suffered any financial loss on account of the incident. The lender has not attributed the disruption to a cyberattack and said the root cause is still under examination.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/central-bank-of-india-reports-technical-glitch-in-rtgs-outward-system/articleshow/135059072.cms",
-      "pubDate": "Mon, 19 Oct 2026 22:43:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "desc": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
       "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss",
@@ -890,190 +1060,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "CBDT exempts interest payments on rupee-denominated bonds issued by New Development Bank from TDS",
-      "desc": "The exemption applies to holders of Maharajah INR Bonds who are Indian residents or foreign institutional investors, for the 2026-27 tax year and subsequent tax years.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-exempts-interest-payments-on-rupee-denominated-bonds-issued-by-new-development-bank-from-tds/articleshow/135052435.cms",
-      "pubDate": "Mon, 19 Oct 2026 22:02:23 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
-      "desc": "AI stocks rebound after last week’s sharp selloff, with semiconductor stocks leading the recovery. CoreWeave gains after Goldman Sachs upgrades the stock to buy, while Intel, Nvidia, AMD and Broadcom also rise. Investors now turn to upcoming technology earnings for clues on AI spending, valuations, debt and interest rates.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
-      "pubDate": "Mon, 19 Oct 2026 21:47:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Bikes 'not for jousting,' says Lime after duel video",
-      "desc": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 15:44:53 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Amazon is funding a new nuclear plant in Indiana",
-      "desc": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [&#8230;]",
-      "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "pubDate": "2026-10-19T11:44:20-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
-      "desc": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has run such work only on Intel and AMD chips.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
-      "pubDate": "Mon, 19 Oct 2026 21:07:24 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "India-New Zealand FTA kicks in October 20, gives all Indian goods zero-duty access",
-      "desc": "India's free trade agreement with New Zealand will begin on October 20 and provide duty-free access for Indian goods. This agreement aims to boost bilateral trade significantly by 2030, increasing it from $2.4 billion to nearly ₹35,000 crore. New Zealand will grant 100% market access, while India will provide tariff concessions on 70% of its tariff lines. Customs clearance timelines will be expedited, enhancing trade efficiency and reducing costs.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-free-trade-agreement-zero-duty-access-for-indian-goods-begins-october-20/articleshow/135051308.cms",
-      "pubDate": "Mon, 19 Oct 2026 20:39:45 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India sets import quotas for New Zealand apples, kiwifruit under FTA",
-      "desc": "India will implement a quota system for importing apples, kiwifruit, Manuka honey, and albumins from New Zealand. The quotas will gradually increase over five years, allowing for proper regulation of imports. Apple imports will be capped initially, with no allowances in the first year. The duty rates will vary depending on the product and its CIF value, affecting import dynamics.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-sets-import-quotas-for-new-zealand-apples-kiwifruit-under-fta/articleshow/135050667.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:45:13 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India-New Zealand FTA to kick in October 20, opening market opportunities for exporters",
-      "desc": "The India-New Zealand Free Trade Agreement will come into effect on October 20, enhancing trade for both nations. New Zealand expects increased demand for its agricultural products, particularly kiwifruit, honey, and apples, in India. The agreement includes provisions to ensure tariff-free access for Indian goods in New Zealand's market. Both countries aim to strengthen economic ties and improve productivity in agricultural sectors.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-unlocking-new-market-opportunities-for-exporters-starting-october-20/articleshow/135050685.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:40:57 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say",
-      "desc": "Indian tax officials are investigating Pernod Ricard and Diageo for how they classified bulk Scotch imports. These companies may have improperly benefitted from reduced tariffs under a recent trade agreement. Tax inspectors made surprising visits to both companies' offices to gather information about their practices. The investigations are part of a broader scrutiny faced by foreign investors in India.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-probing-pernod-diageo-scotch-imports-under-india-uk-trade-pact-sources-say/articleshow/135050418.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:23:50 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Zetwerk IPO fully subscribed; Super.money triples revenues",
-      "desc": "Zetwerk’s Rs 5,012-crore IPO was subscribed 3.06 times on Monday, the last day for bids. This and more in today’s ETtech Top 5.",
-      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/super-money-triples-revenues-zetwerk-ipo-fully-subscribed/articleshow/135049722.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:02:54 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "China announces export curbs on key machinery used in India's infrastructure development",
-      "desc": "Beijing has announced new export controls on essential machinery, which will impact India's infrastructure development. These restrictions will take effect on November 18 and apply to tunnel boring machines and related items. Additionally, the export controls include walking excavators and specific dredger-related items, complicating several Indian projects.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-announces-export-curbs-on-key-machinery-used-in-indias-infrastructure-development/articleshow/135049611.cms",
-      "pubDate": "Mon, 19 Oct 2026 18:34:33 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "desc": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 12:54:03 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Lab-grown diamond startup So/Facet raises Rs 10 crore led by Sauce",
-      "desc": "The round also saw participation from Mokobara cofounders Sangeet Agrawal and Navin Parwal, Chona Family Office (that’s behind Hocco Ice Creams), Haleon South Asia president Kedar Lele, and Moonshot co-founder Devaiah Bopanna.",
-      "link": "https://economictimes.indiatimes.com/tech/funding/lab-grown-diamond-startup-so/facet-raises-rs-10-crore-led-by-sauce/articleshow/135049028.cms",
-      "pubDate": "Mon, 19 Oct 2026 18:05:19 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Auto tech companies raise $1.3 billion in 2026 so far: Tracxn",
-      "desc": "The funding rounds were led by ride-hailing firm Rapido's $240 million, followed by electric two-wheeler manufacturer Simple Energy's $180 million and River's $102 million.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/auto-tech-companies-raise-1-3-billion-in-2026-so-far-tracxn/articleshow/135048738.cms",
-      "pubDate": "Mon, 19 Oct 2026 17:54:09 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Netflix faces questions on user engagement ahead of third-quarter report",
-      "desc": "Ted Sarandos, the co-CEO of Netflix, recently admitted the company \"is not growing as fast as I want us to\", and suggested live programming could be an opportunity to accelerate growth.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/netflix-faces-questions-on-user-engagement-ahead-of-third-quarter-report/articleshow/135048673.cms",
-      "pubDate": "Mon, 19 Oct 2026 17:48:36 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-      "desc": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 12:16:32 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "NABVENTURES plans Rs 30-70 crore bets on growth-stage firms in Fund II",
-      "desc": "NABVENTURES aims to invest ₹30-70 crore per company in agriculture, rural financial services, and climate solutions. The venture capital arm plans to focus on technology-driven businesses and growth-stage companies with established traction. Larger initial checks will be adapted for follow-on funding in high-performing portfolio companies. The emphasis will be on sustainable scaling in large markets, improving productivity, and raising farmers' incomes.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/nabards-venture-capital-arm-nabventures-to-invest-30-70-crore-in-growth-stage-agri-tech-and-climate-solutions-startups/articleshow/135048277.cms",
-      "pubDate": "Mon, 19 Oct 2026 17:36:35 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Trump waives Russia sanctions, easing India’s energy concerns as US trade deal nears",
-      "desc": "US President Donald Trump waived key Russian sanctions which may enhance trade relations with India. This decision is expected to provide negotiating space for a potential trade deal. India, one of the largest importers of Russian oil, faces challenges due to declining imports. Secretary of State Marco Rubio is visiting India to discuss cooperation on this matter. The waiver could help India secure more favorable tariffs while stabilizing energy policies.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-waives-russia-sanctions-easing-indias-energy-concerns-as-us-trade-deal-nears/articleshow/135048374.cms",
-      "pubDate": "Mon, 19 Oct 2026 17:33:41 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T11:08:48.799Z",
+    "generatedAt": "2026-10-20T16:33:57.368Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1082,7 +1072,7 @@
         "price": 22888.95,
         "change": -257.2,
         "changePct": -1.11,
-        "timestamp": "2026-10-20T11:08:48.530Z",
+        "timestamp": "2026-10-20T16:33:57.011Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1090,7 +1080,7 @@
         "price": 73852.9,
         "change": -876.38,
         "changePct": -1.17,
-        "timestamp": "2026-10-20T11:08:48.541Z",
+        "timestamp": "2026-10-20T16:33:57.064Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1098,41 +1088,41 @@
         "price": 55488.1,
         "change": -355.9,
         "changePct": -0.64,
-        "timestamp": "2026-10-20T11:08:48.596Z",
+        "timestamp": "2026-10-20T16:33:57.118Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 94.93,
-        "change": 0.01,
-        "changePct": 0.02,
-        "timestamp": "2026-10-20T11:08:48.645Z",
+        "price": 94.92,
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-20T16:33:57.167Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 126334,
-        "change": -635,
-        "changePct": -0.5,
-        "timestamp": "2026-10-20T11:08:48.697Z",
+        "price": 126355,
+        "change": -601,
+        "changePct": -0.47,
+        "timestamp": "2026-10-20T16:33:57.252Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 174884,
-        "change": 82,
-        "changePct": 0.05,
-        "timestamp": "2026-10-20T11:08:48.747Z",
+        "price": 176559,
+        "change": 1776,
+        "changePct": 1.02,
+        "timestamp": "2026-10-20T16:33:57.323Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9556,
-        "change": 201,
-        "changePct": 2.15,
-        "timestamp": "2026-10-20T11:08:48.799Z",
+        "price": 9299,
+        "change": -54,
+        "changePct": -0.58,
+        "timestamp": "2026-10-20T16:33:57.368Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
