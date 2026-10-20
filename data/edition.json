@@ -1,85 +1,215 @@
 {
-  "generatedAt": "2026-10-20T20:19:48.856Z",
+  "generatedAt": "2026-10-20T23:41:01.464Z",
   "articles": [
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "desc": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "desc": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:19:52 +0000",
       "image": "",
-      "source": "BBC Business",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "desc": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon, Best Buy, and B&#38;H Photo. [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T15:09:35-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
-      "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-drought-hit-maize-crunch-pits-poultry-ethanol-makers-in-me-first-fight/articleshow/135075614.cms",
-      "pubDate": "Wed, 21 Oct 2026 00:12:23 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "CBDT mandates new disclosures for tax-free gains on govt securities",
-      "desc": "The Central Board of Direct Taxes has introduced new disclosure requirements for taxpayers claiming exemptions. Taxpayers will need to provide detailed information on government securities to qualify for these exemptions. Newly inserted Form 173A will require specific data, including securities value and interest earned. Taxpayers are asked to confirm the accuracy of the information they submit. This change aims to enhance transparency and compliance under the Income-Tax Act.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-mandates-new-disclosures-for-tax-free-gains-on-govt-securities/articleshow/135074952.cms",
-      "pubDate": "Tue, 20 Oct 2026 23:45:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "pubDate": "2026-10-20T14:07:34-04:00",
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "desc": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also [&#8230;]",
+      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "pubDate": "2026-10-20T17:30:24-04:00",
       "image": "",
       "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
-      "desc": "Copper prices remained range bound as uncertainty over potential US tariffs and inflation risks from higher oil prices kept traders cautious. China’s copper scrap shortage supported refined copper demand, while record high US inventories and cautious buying limited gains. Goldman Sachs expects copper prices to average $15,400 a ton in 2027.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
-      "pubDate": "Tue, 20 Oct 2026 23:24:33 +0530",
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "desc": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+      "desc": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to [&#8230;]",
+      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "pubDate": "2026-10-20T16:52:07-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "desc": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 [&#8230;]",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "pubDate": "2026-10-20T16:26:58-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+      "desc": "Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused after a rebound in the previous session. Healthcare shares gained, while small-caps and defensive sectors also outperformed.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+      "pubDate": "Wed, 21 Oct 2026 01:54:39 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "UK government to make Jackdaw gas field announcement",
-      "desc": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:33:42 GMT",
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "desc": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 20:23:52 +0000",
       "image": "",
-      "source": "BBC Business",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
+      "desc": "Elon Musk's SpaceX on Tuesday reported a 161% rise in revenue for the third quarter, beating estimates, buoyed by a surge in its AI business and steady growth at its Starlink",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
+      "pubDate": "Wed, 21 Oct 2026 01:50:41 +0530",
       "image": "",
-      "source": "BBC World",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:24:47 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "desc": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:19:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The tech helping crack decades-old cold cases",
+      "desc": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:13:24 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "pubDate": "2026-10-20T19:04:19-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "desc": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "pubDate": "2026-10-20T18:11:34-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+      "desc": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also [&#8230;]",
+      "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+      "pubDate": "2026-10-20T17:30:24-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "desc": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
+      "desc": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to [&#8230;]",
+      "link": "https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time",
+      "pubDate": "2026-10-20T16:52:07-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "SpaceX says big AI growth fueled revenue jump",
+      "desc": "SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday, which it says was a growth of 161 percent year-over-year \"fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity.\" While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 [&#8230;]",
+      "link": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+      "pubDate": "2026-10-20T16:26:58-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+      "desc": "Wall Street ended higher on Tuesday, led by the Dow as investors shifted towards healthcare and other value stocks. The S&amp;P 500 also gained, while the Nasdaq slipped as technology stocks paused after a rebound in the previous session. Healthcare shares gained, while small-caps and defensive sectors also outperformed.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+      "pubDate": "Wed, 21 Oct 2026 01:54:39 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "desc": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 20:23:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
+      "desc": "Elon Musk's SpaceX on Tuesday reported a 161% rise in revenue for the third quarter, beating estimates, buoyed by a surge in its AI business and steady growth at its Starlink",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
+      "pubDate": "Wed, 21 Oct 2026 01:50:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
+      "desc": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 20:17:53 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Tech Life",
@@ -112,16 +242,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "desc": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon, Best Buy, and B&#38;H Photo. [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T15:09:35-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
       "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
       "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-drought-hit-maize-crunch-pits-poultry-ethanol-makers-in-me-first-fight/articleshow/135075614.cms",
@@ -142,24 +262,14 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "pubDate": "2026-10-20T14:07:34-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Google resolves cloud outage affecting UK banks and websites",
       "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 18:03:19 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
@@ -170,16 +280,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The $20,000 Voxel bot will help you find misplaced things around your home",
-      "desc": "Tuesday Labs, a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics' Issac 1 that are designed for household chores beyond mopping or vacuuming floors, Voxel features a pair [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation",
-      "pubDate": "2026-10-20T13:49:55-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "UK government to make Jackdaw gas field announcement",
@@ -212,26 +312,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "desc": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 16:21:01 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-      "desc": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 16:01:01 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
       "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
@@ -240,16 +320,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
-      "desc": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
-      "link": "https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 15:14:58 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
@@ -902,26 +972,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Maharajah Bonds gain investor appeal with TDS exemption",
-      "desc": "In a notification dated October 19, the Central Board of Direct Taxes (CBDT) said no tax would be deducted at source on interest paid to eligible bondholders during financial year 2026-27 and subsequent tax years. The exemption covers residents and foreign institutional investors.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/maharajah-bonds-gain-investor-appeal-with-tds-exemption/articleshow/135059192.cms",
-      "pubDate": "Tue, 20 Oct 2026 06:28:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "NSE, BSE to hold Diwali Muhurat trading on November 8",
-      "desc": "According to circulars issued by the NSE, the special trading session will begin at 2:20 pm on Sunday. Continuous trading in stocks covered by the closing auction session (CAS) will end at 3:15 pm, followed by the closing auction, while trading in other stocks will continue until 3:30 pm. Equity futures and options trading will run from 2:20 pm to 3:40 pm.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-to-hold-diwali-muhurat-trading-on-november-8/articleshow/135059161.cms",
-      "pubDate": "Tue, 20 Oct 2026 06:20:51 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India-NZ FTA in force: Over half of New Zealand’s exports to India now tariff-free, Wellington also eyes Brazil, Canada",
       "desc": "New Zealand is working to strengthen trade relations with Brazil and Canada in response to economic uncertainties. The country expects to complete the first New Zealand-Brazil Trade and Investment Dialogue after upcoming elections. A new free trade agreement with India has been implemented, making more than half of exports tariff-free. The agreement will benefit various products, including sheep meat and wool, as well as local businesses.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-nz-fta-in-force-over-half-of-new-zealands-exports-to-india-now-tariff-free-wellington-also-eyes-brazil-canada/articleshow/135059156.cms",
@@ -930,20 +980,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T20:19:48.856Z",
+    "generatedAt": "2026-10-20T23:41:01.464Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -952,7 +992,7 @@
         "price": 22888.95,
         "change": -257.2,
         "changePct": -1.11,
-        "timestamp": "2026-10-20T20:19:48.132Z",
+        "timestamp": "2026-10-20T23:41:00.969Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -960,7 +1000,7 @@
         "price": 73852.9,
         "change": -876.38,
         "changePct": -1.17,
-        "timestamp": "2026-10-20T20:19:48.318Z",
+        "timestamp": "2026-10-20T23:41:01.077Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -968,41 +1008,41 @@
         "price": 55488.1,
         "change": -355.9,
         "changePct": -0.64,
-        "timestamp": "2026-10-20T20:19:48.406Z",
+        "timestamp": "2026-10-20T23:41:01.155Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.77,
-        "change": -0.14,
-        "changePct": -0.15,
-        "timestamp": "2026-10-20T20:19:48.510Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-20T23:41:01.229Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 126197,
-        "change": -558,
-        "changePct": -0.44,
-        "timestamp": "2026-10-20T20:19:48.598Z",
+        "price": 125972,
+        "change": -250,
+        "changePct": -0.2,
+        "timestamp": "2026-10-20T23:41:01.300Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 176661,
-        "change": 2154,
-        "changePct": 1.23,
-        "timestamp": "2026-10-20T20:19:48.699Z",
+        "price": 176554,
+        "change": -168,
+        "changePct": -0.1,
+        "timestamp": "2026-10-20T23:41:01.391Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9295,
-        "change": -44,
-        "changePct": -0.47,
-        "timestamp": "2026-10-20T20:19:48.856Z",
+        "price": 9321,
+        "change": 50,
+        "changePct": 0.54,
+        "timestamp": "2026-10-20T23:41:01.464Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
