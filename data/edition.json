@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-10-19T20:55:31.276Z",
+  "generatedAt": "2026-10-20T00:09:46.352Z",
   "articles": [
+    {
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "desc": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:00:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "pubDate": "2026-10-19T17:48:01-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "desc": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:46:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "pubDate": "2026-10-19T17:28:20-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Could your halal pension be funding Israel’s military?",
+      "desc": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:28:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
       "desc": "US stocks ended mixed on Monday, with the Nasdaq leading gains as chip and AI-linked stocks bounced back after last week’s sharp selloff. Investors also tracked corporate earnings and fresh stock-specific moves, while concerns over AI spending and financing remained in focus.",
@@ -8,6 +58,16 @@
       "pubDate": "Tue, 20 Oct 2026 01:48:35 +0530",
       "image": "",
       "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "desc": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT",
+      "image": "",
+      "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -22,64 +82,94 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "China curbs spur push for local manufacturing",
-      "desc": "India's government will consult stakeholders on measures to mitigate the impact of Chinese export constraints. China recently imposed new restrictions on heavy machinery, such as tunnel boring machines, set to take effect soon. Indian officials assert that there should be no significant slowdown in highway development despite these curbs. The domestic construction industry is becoming increasingly self-sufficient regarding general equipment needs.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/china-curbs-spur-push-for-local-manufacturing/articleshow/135055802.cms",
-      "pubDate": "Tue, 20 Oct 2026 01:12:26 +0530",
+      "title": "'The French correction' and 'Labour cuts £2bn from Army'",
+      "desc": "Violent unrest in France continues and Defence drops funding for frontline military vehicles lead Tuesday's papers.",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7y0vkz2yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:35:32 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Finance Ministry to run financial inclusion campaign",
-      "desc": "The finance ministry is launching a campaign to saturate financial schemes across various local bodies. This initiative will reach 2.70 lakh gram panchayats and urban local bodies throughout India. Banks are expected to organize camps for enrolments and Aadhaar seeding for key schemes. The campaign will also involve updating nominations in savings accounts and providing other financial facilities.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/finance-ministry-to-run-financial-inclusion-campaign/articleshow/135055857.cms",
-      "pubDate": "Tue, 20 Oct 2026 01:10:52 +0530",
+      "title": "I have a condition people are too embarrassed to talk about",
+      "desc": "Women share their experience of lichen sclerosus.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr43l7pdpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:11:13 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-      "desc": "Spain’s military is hoisting residents from the rooftops of their flooded homes.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-      "pubDate": "Mon, 19 Oct 2026 19:38:40 +0000",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "desc": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:00:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "pubDate": "2026-10-19T17:48:01-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "desc": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:46:00 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "RBI tightens scrutiny of $1 billion-plus overseas investments amid rupee pressure",
-      "desc": "The Reserve Bank of India is implementing stricter scrutiny on large overseas direct investments by Indian companies. Banks must now collect and present detailed information regarding these investments to the RBI. This initiative aims to prevent potential losses for both the companies and the Indian economy. The RBI's checklist requires banks to conduct thorough due diligence on the rationale behind each investment.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-tightens-scrutiny-of-1-billion-plus-overseas-investments-amid-rupee-pressure/articleshow/135055728.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:56:34 +0530",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "desc": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:30:06 GMT",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "Hedge funds retreat from tech at fastest pace in a decade as AI trade weakens",
-      "desc": "Hedge funds cut technology exposure at the fastest pace in at least a decade as the global AI trade weakened and tech stocks bore the brunt of last week’s selloff. Goldman Sachs data showed funds reduced risk sharply, although technology remained a major part of their portfolios.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:46:29 +0530",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "desc": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "pubDate": "2026-10-19T17:28:20-04:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Uneven rains may keep price of spices elevated",
-      "desc": "Southern India is currently grappling with challenges in spice production, primarily due to uneven monsoon patterns and parched soil, which are adversely affecting harvest yields. Despite expanding cultivation areas, turmeric yields are predicted to plummet owing to unfavorable weather. Additionally, delays in red chilli sowing in Andhra Pradesh and Telangana could lead to surging market prices.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/uneven-rains-may-keep-price-of-spices-elevated/articleshow/135055145.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:11:55 +0530",
+      "title": "Could your halal pension be funding Israel’s military?",
+      "desc": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:28:02 +0000",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "desc": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
@@ -90,6 +180,16 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "desc": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
@@ -217,9 +317,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 18:21:54 GMT",
       "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Apple to host 'Pro and tell' event on October 28 in LA",
@@ -262,26 +362,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Qatar to announce a new regional defence partnership",
-      "desc": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
-      "pubDate": "Mon, 19 Oct 2026 17:27:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
-      "desc": "HSBC bought $130m in shares in firms tied to Israel’s military, in breach of Islamic law compliance requirements.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
-      "pubDate": "Mon, 19 Oct 2026 17:14:41 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Vinted blocks French looters listing stolen goods for sale",
       "desc": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
       "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss",
@@ -300,26 +380,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "War on Iran backlash threatens Republican control of Congress",
-      "desc": "Public opposition to the war on Iran could threaten Republican control of Congress.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "pubDate": "Mon, 19 Oct 2026 16:24:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "desc": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 16:22:12 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
@@ -470,16 +530,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "desc": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "pubDate": "2026-10-19T09:58:41-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "India probing Pernod, Diageo Scotch imports under India-UK trade pact, sources say",
@@ -1080,50 +1130,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "desc": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "desc": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 23:28:45 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "desc": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 23:24:59 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "desc": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 23:20:15 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-19T20:55:31.276Z",
+    "generatedAt": "2026-10-20T00:09:46.352Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1132,7 +1142,7 @@
         "price": 22888.95,
         "change": -257.2,
         "changePct": -1.11,
-        "timestamp": "2026-10-19T20:55:30.630Z",
+        "timestamp": "2026-10-20T00:09:45.594Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1140,7 +1150,7 @@
         "price": 73852.9,
         "change": -876.38,
         "changePct": -1.17,
-        "timestamp": "2026-10-19T20:55:30.799Z",
+        "timestamp": "2026-10-20T00:09:45.766Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1148,41 +1158,41 @@
         "price": 55488.1,
         "change": -355.9,
         "changePct": -0.64,
-        "timestamp": "2026-10-19T20:55:30.898Z",
+        "timestamp": "2026-10-20T00:09:45.934Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.92,
-        "change": -0.04,
-        "changePct": -0.04,
-        "timestamp": "2026-10-19T20:55:30.994Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-20T00:09:46.030Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 126873,
-        "change": -723,
-        "changePct": -0.57,
-        "timestamp": "2026-10-19T20:55:31.086Z",
+        "price": 126696,
+        "change": -259,
+        "changePct": -0.2,
+        "timestamp": "2026-10-20T00:09:46.133Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 174514,
-        "change": -366,
-        "changePct": -0.21,
-        "timestamp": "2026-10-19T20:55:31.197Z",
+        "price": 174041,
+        "change": -742,
+        "changePct": -0.42,
+        "timestamp": "2026-10-20T00:09:46.234Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9346,
-        "change": -53,
-        "changePct": -0.57,
-        "timestamp": "2026-10-19T20:55:31.276Z",
+        "price": 9325,
+        "change": -28,
+        "changePct": -0.3,
+        "timestamp": "2026-10-20T00:09:46.352Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
