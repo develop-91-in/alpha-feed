@@ -1,85 +1,335 @@
 {
-  "generatedAt": "2026-10-21T14:56:32.437Z",
+  "generatedAt": "2026-10-21T19:12:03.483Z",
   "articles": [
     {
-      "title": "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
-      "desc": "Netflix shares fell after the streaming giant reported its slowest sales growth in three years and forecast another quarter of slowing revenue growth. Its fourth quarter sales outlook missed analysts’ expectations, while weaker than expected advertising revenue added to concerns. The stock had already declined 30% this year, underperforming the S&amp;P 500.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms",
-      "pubDate": "Wed, 21 Oct 2026 20:10:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
-      "desc": "Business assets under management grew 15% year on year to Rs 1.47 lakh crore. Non-vehicle finance disbursements, including SME loans, personal loans and housing finance, increased 52%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:58:03 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "IT Ministry takes 'serious note' of eMudhra incident, forms special team",
-      "desc": "The ministry said the reported security incident pertains to eMudhra’s global certificate business, and its impact on Indian websites is very limited.It also said some social media accounts were indulging in fear-mongering about the impact.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/it-ministry-takes-serious-note-of-emudhra-incident-forms-special-team/articleshow/135094444.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:49:00 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
-      "desc": "Moody’s has termed Jio Platforms’ IPO credit positive for Reliance Industries, citing debt repayment and funding flexibility. The Rs 30,200 crore issue will support investments while helping manage leverage amid elevated capital expenditure.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:32:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
-      "desc": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to banks and is set to unveil a new jewellery brand aimed at attracting younger consumers.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:29:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "desc": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 13:58:17 +0000",
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "desc": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 18:58:29 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
-      "desc": "Indian Hotels Company Ltd, under the Tata Group, has announced a remarkable 19.35% rise in consolidated profit for the September quarter, soaring to Rs 379.85 crore from Rs 318.26 crore last year. Revenue from operations also surged to Rs 2,484.32 crore, up from Rs 2,040.89 crore. The Managing Director highlighted promising growth prospects and anticipates domestic hotel business growth exceeding 20%, notwithstanding challenges faced in the aviation sector.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:27:18 +0530",
+      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "desc": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 18:51:07 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "desc": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "pubDate": "2026-10-21T14:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+      "desc": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+      "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Blinkit sees no compelling case for expanding private labels, says Dhindsa",
-      "desc": "Albinder Dhindsa, CEO of Eternal, voiced skepticism regarding the potential for private labels to enhance profit margins. He emphasised that effective brand development mandates considerable investment in both marketing and product development, areas where Blinkit falls short.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/blinkit-sees-no-compelling-case-for-expanding-private-labels-says-dhindsa/articleshow/135093867.cms",
-      "pubDate": "Wed, 21 Oct 2026 19:12:09 +0530",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:42:34 GMT",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+      "desc": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discount of up to 5% under the approved pricing terms.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+      "pubDate": "Wed, 21 Oct 2026 23:01:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "A warning to anyone with credit card debt...",
+      "desc": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
+      "link": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:06:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "desc": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:06:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "desc": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 18:58:29 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "desc": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 18:51:07 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 18:40:39 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+      "desc": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+      "pubDate": "2026-10-21T14:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+      "desc": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+      "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:42:34 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+      "desc": "Persistent Systems has opened a qualified institutional placement to raise up to USD 450 million, or about Rs 4,265 crore. The IT company has set the QIP floor price at Rs 5,550 per share and may offer investors a discount of up to 5% under the approved pricing terms.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+      "pubDate": "Wed, 21 Oct 2026 23:01:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Meta ordered to pay New Mexico $25 billion after jury finds it deceived Facebook users about privacy",
+      "desc": "Jurors in September found Meta liable for over 43 million violations of New Mexico consumer protection laws when a political consulting firm, Cambridge Analytica, harvested Facebook user data to generate targeted political ads for the 2016 election.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/meta-ordered-to-pay-new-mexico-25-billion-after-jury-finds-it-deceived-facebook-users-about-privacy/articleshow/135097554.cms",
+      "pubDate": "Wed, 21 Oct 2026 22:57:47 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "A warning to anyone with credit card debt...",
+      "desc": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
+      "link": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:06:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "desc": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:06:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "desc": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 17:04:13 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+      "desc": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 16:58:39 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Vulnerable keys were created but never put to commercial use, investigation on: eMudhra cofounder",
+      "desc": "eMudhra issues digital signature and website security certificates to enable them securely connect to browsers for public access. \"There's no impact to subscribers because we have done all the actions. We are also working with our customers to notify them that there is no impact because no certificates were issued. This does not affect our other lines of business, which is the India digital signature and our enterprise solutions business,\" eMudhra co-founder Kaushik Srinivasan told PTI.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/vulnerable-keys-were-created-but-never-put-to-commercial-use-investigation-on-emudhra-cofounder/articleshow/135096778.cms",
+      "pubDate": "Wed, 21 Oct 2026 22:21:51 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "How the project will work and the difference it will make",
+      "desc": "Business editor Simon Jack explains how the project will work, and the impact it could have on energy supply and security.",
+      "link": "https://www.bbc.co.uk/news/videos/c6wy4pdqx0w5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 16:45:50 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators",
+      "desc": "The new rules are part of the implementation of the GENIUS Act, which was signed into law last year and was meant to codify the rules and regulations around issuers of stablecoins.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/cryptocurrency-companies-can-keep-paying-interest-like-rewards-say-federal-bank-regulators/articleshow/135096555.cms",
+      "pubDate": "Wed, 21 Oct 2026 22:08:30 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Explained: What is PHP and why did it take government websites offline?",
+      "desc": "The developers of PHP said on Wednesday they would release patches for two critical vulnerabilities, and EU cybersecurity officials warned organisations unable to apply the fixes to take affected websites offline. Here is what you need to know:",
+      "link": "https://economictimes.indiatimes.com/tech/technology/explained-what-is-php-and-why-did-it-take-government-websites-offline/articleshow/135096488.cms",
+      "pubDate": "Wed, 21 Oct 2026 22:07:17 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "NaBFID gets Finance Ministry, RBI nod for national infrastructure project repository",
+      "desc": "NaBFID has obtained approvals from the finance ministry and the Reserve Bank of India to establish a national repository. This repository will offer consolidated information on infrastructure projects for lenders and investors. The platform aims to facilitate access to data sourced from various government agencies like NHAI and others. NaBFID is considering partnerships with financial institutions to enhance the repository's effectiveness.",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/nabfid-gets-finmin-rbi-nod-for-national-infrastructure-project-repository/articleshow/135096343.cms",
+      "pubDate": "Wed, 21 Oct 2026 21:57:36 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 16:07:19 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
+      "desc": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetical one-year SIP values, highlighting the importance of investment horizons and risk management.",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
+      "pubDate": "Wed, 21 Oct 2026 21:35:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Supernatural’s comeback starts today, with more music and VR workouts coming soon",
+      "desc": "Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of \"remastered\" workouts and some new ones are available in the new app starting today, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch",
+      "pubDate": "2026-10-21T12:05:51-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "desc": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 15:58:05 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "desc": "Sensex and Nifty ended above pre-closing auction session levels after extreme volatility, despite an Rs 8 lakh crore market selloff. Elevated crude prices, foreign investor outflows and weak market breadth kept sentiment cautious.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
+      "pubDate": "Wed, 21 Oct 2026 21:27:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+      "desc": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 15:36:31 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
+      "desc": "Technical analysts have recommended Wipro, NHPC, Sagility, LTTS and Hexaware Technologies for potential gains, citing bullish chart patterns, support levels and momentum indicators. The recommendations include specific entry prices, stop losses and targets to manage trading risks.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
+      "pubDate": "Wed, 21 Oct 2026 20:39:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Inflation remains top of mind, MPC minutes show",
+      "desc": "RBI's monetary policy committee has increased the benchmark repo rate by 25 basis points due to inflation concerns. Core inflation has shown an upward trajectory, indicating a normalization from earlier benign levels. Various members expressed views on external supply shocks impacting inflation expectations and the need for timely policy adjustments. The differing opinions highlight the complexities of achieving growth while managing inflation effectively.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/inflation-remains-top-of-mind-mpc-minutes-show/articleshow/135094903.cms",
+      "pubDate": "Wed, 21 Oct 2026 20:13:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
@@ -92,16 +342,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Websites taken down across Europe as critical cyber-security update issued",
-      "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 14:39:41 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
       "desc": "Business assets under management grew 15% year on year to Rs 1.47 lakh crore. Non-vehicle finance disbursements, including SME loans, personal loans and housing finance, increased 52%.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
@@ -112,7 +352,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "IT Ministry takes 'serious note' of eMudhra incident, forms special team",
+      "title": "Special team to probe eMudhra incident; impact on Indian websites, applications very limited: Govt",
       "desc": "The ministry said the reported security incident pertains to eMudhra’s global certificate business, and its impact on Indian websites is very limited.It also said some social media accounts were indulging in fear-mongering about the impact.",
       "link": "https://economictimes.indiatimes.com/tech/technology/it-ministry-takes-serious-note-of-emudhra-incident-forms-special-team/articleshow/135094444.cms",
       "pubDate": "Wed, 21 Oct 2026 19:49:00 +0530",
@@ -132,16 +372,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "desc": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 14:04:52 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
       "desc": "Moody’s has termed Jio Platforms’ IPO credit positive for Reliance Industries, citing debt repayment and funding flexibility. The Rs 30,200 crore issue will support investments while helping manage leverage amid elevated capital expenditure.",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
@@ -152,16 +382,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Blink brings 4K to its low-cost security camera lineup",
-      "desc": "Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best [&#8230;]",
-      "link": "https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch",
-      "pubDate": "2026-10-21T10:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
       "desc": "PC Jewellers Ltd has achieved an impressive 58 percent growth in net profit for Q2 of the 2026-27 fiscal year, driven by sales that surged beyond Rs 1,054 crore. The company is now debt-free after early repayment to banks and is set to unveil a new jewellery brand aimed at attracting younger consumers.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
@@ -170,26 +390,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "desc": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 13:58:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "desc": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "pubDate": "2026-10-21T09:57:43-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
@@ -212,7 +412,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "US stocks today: US stocks open higher as SpaceX, Super Micro results lift AI stocks",
+      "title": "US stocks today: US stocks rise as SpaceX, Super Micro revive appetite for AI stocks",
       "desc": "Wall Street opened higher on Wednesday, led by gains in technology and AI stocks after quarterly results from SpaceX and Super Micro Computer improved investor appetite. The Nasdaq gained 0.67%, while the S&amp;P 500 and Dow Jones also rose. Netflix slipped as its outlook disappointed investors.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
       "pubDate": "Wed, 21 Oct 2026 19:07:35 +0530",
@@ -230,26 +430,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "desc": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 13:32:57 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "desc": "The European states say their support for Riyadh is &#039;defensive&#039;, but analysts warn Houthi reaction may complicate that.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 13:25:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Glance to be integrated by default on Android TVs in US, India, Japan in partnership with Google",
@@ -270,16 +450,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-      "desc": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12, [&#8230;]",
-      "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-      "pubDate": "2026-10-21T09:09:26-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "IGI Q2 Results: Consolidated PAT surges 43% to Rs 185 crore",
@@ -322,16 +492,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Protests as UK approves new gas drilling in North Sea",
-      "desc": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 12:49:52 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains",
       "desc": "The rupee gained 46 paise to 94.45 against the dollar on optimism over a potential India-US trade deal and RBI measures. However, elevated crude prices, foreign outflows and global financial pressures continue to threaten the currency's recovery.",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms",
@@ -362,16 +522,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "desc": "Iran&#039;s nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 12:18:10 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "India wants manufacturing at 25% of GDP — will AI in factories help?",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/india-wants-manufacturing-at-25-of-gdp-will-ai-in-factories-help/videoshow/130171220.cms",
@@ -392,7 +542,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq surges at open as SpaceX, SuperMicro results lift AI stocks",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq surges 1% as SpaceX, AI stocks rise while Netflix slips",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-ai-stocks-spacex-super-micro-tesla-netflix-fed-rate-hike-treasury-yields-stock-price-news-21st-september-2026/liveblog/135092299.cms",
       "pubDate": "Wed, 21 Oct 2026 17:40:08 +0530",
@@ -542,24 +692,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "desc": "UK&#039;s deployment of jets to defend Saudi Arabia is the latest chapter in a relationship older than the kingdom itself.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 10:22:35 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
       "desc": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
       "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 21 Oct 2026 10:20:15 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
@@ -690,16 +830,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "desc": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 09:02:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Multibagger alert! PC Jeweller shares jump 6% to fresh 52-week high, rally over 100% in 2026",
@@ -872,36 +1002,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
-      "desc": "Gold prices edged lower while silver fell on MCX as investors awaited the US Federal Reserve’s upcoming policy decision for clues on interest rates. Traders expect rates to remain unchanged in October, with a possible hike in December. Analysts say dollar strength may cap gold’s upside, while central bank buying supports longer-term prices.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
-      "pubDate": "Wed, 21 Oct 2026 11:40:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Missed reversal in IT stocks? Jefferies gives 3 ideas with up to 50% re-rating potential",
-      "desc": "Jefferies sees further valuation upside in Indian IT stocks despite a muted sector growth outlook. Infosys and TCS offer over 20% rerating potential, while Sagility could deliver more than 50% in a best-case scenario. The brokerage raised target prices for Infosys and TCS, citing scope for growth expectations to stabilise.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reversal-in-it-stocks-jefferies-gives-3-ideas-with-up-to-50-re-rating-potential/articleshow/135083074.cms",
-      "pubDate": "Wed, 21 Oct 2026 11:00:02 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
-      "desc": "Bajaj Finance shares dropped on Wednesday after the NBFC reported a 29% year-on-year rise in Q2FY27 net profit to Rs 6,367 crore. Nomura and Jefferies retained Buy ratings, with Jefferies cutting its target price, while 360 One WAM upgraded the stock to Buy, citing improving risk-reward and strong growth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
-      "pubDate": "Wed, 21 Oct 2026 10:47:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "China's Moonshot AI to operate in Singapore, jobs post shows",
       "desc": "Chinese AI startup Moonshot is expanding into Singapore, with a new sales role listed on the company's LinkedIn page this week.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-to-operate-in-singapore-jobs-post-shows/articleshow/135082861.cms",
@@ -910,26 +1010,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Transrail Lighting shares rally 9% after bagging orders worth Rs 927 crore",
-      "desc": "Transrail Lighting shares rose nearly 9% after the company secured fresh orders worth Rs 927 crore, taking its financial year order intake to Rs 3,356 crore. However, foreign institutional investors trimmed their stake in the company during the September 2026 quarter.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/transrail-lighting-shares-rally-9-after-bagging-orders-worth-rs-927-crore/articleshow/135082787.cms",
-      "pubDate": "Wed, 21 Oct 2026 10:44:15 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Jio IPO Day 1: Issue subscribed 3 times on strong QIB push; retail portion booked 68%. Check GMP",
-      "desc": "Jio Platforms’ IPO saw strong demand on Day 1, getting booked 3 times overall. The IPO commanded a grey market premium (GMP) of around 23%, while brokerages remained optimistic, citing Jio’s telecom leadership, improving profitability and growth opportunities in broadband and artificial intelligence (AI).",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-a-bang-issue-booked-over-90-as-qibs-drive-demand-check-gmp/articleshow/135082741.cms",
-      "pubDate": "Wed, 21 Oct 2026 10:40:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
@@ -1100,60 +1180,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
-      "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-drought-hit-maize-crunch-pits-poultry-ethanol-makers-in-me-first-fight/articleshow/135075614.cms",
-      "pubDate": "Wed, 21 Oct 2026 00:12:23 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "CBDT mandates new disclosures for tax-free gains on govt securities",
-      "desc": "The Central Board of Direct Taxes has introduced new disclosure requirements for taxpayers claiming exemptions. Taxpayers will need to provide detailed information on government securities to qualify for these exemptions. Newly inserted Form 173A will require specific data, including securities value and interest earned. Taxpayers are asked to confirm the accuracy of the information they submit. This change aims to enhance transparency and compliance under the Income-Tax Act.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-mandates-new-disclosures-for-tax-free-gains-on-govt-securities/articleshow/135074952.cms",
-      "pubDate": "Tue, 20 Oct 2026 23:45:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 18:03:19 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "desc": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
-      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
-      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-21T14:56:32.437Z",
+    "generatedAt": "2026-10-21T19:12:03.483Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1162,7 +1192,7 @@
         "price": 22811.35,
         "change": -77.6,
         "changePct": -0.34,
-        "timestamp": "2026-10-21T14:56:31.861Z",
+        "timestamp": "2026-10-21T19:12:03.065Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1170,7 +1200,7 @@
         "price": 73709.69,
         "change": -143.21,
         "changePct": -0.19,
-        "timestamp": "2026-10-21T14:56:31.972Z",
+        "timestamp": "2026-10-21T19:12:03.206Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1178,7 +1208,7 @@
         "price": 54976.9,
         "change": -511.2,
         "changePct": -0.92,
-        "timestamp": "2026-10-21T14:56:32.057Z",
+        "timestamp": "2026-10-21T19:12:03.257Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1186,33 +1216,33 @@
         "price": 94.45,
         "change": -0.32,
         "changePct": -0.34,
-        "timestamp": "2026-10-21T14:56:32.205Z",
+        "timestamp": "2026-10-21T19:12:03.323Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 125944,
-        "change": 149,
-        "changePct": 0.12,
-        "timestamp": "2026-10-21T14:56:32.290Z",
+        "price": 125434,
+        "change": -361,
+        "changePct": -0.29,
+        "timestamp": "2026-10-21T19:12:03.383Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 175017,
-        "change": -1108,
-        "changePct": -0.63,
-        "timestamp": "2026-10-21T14:56:32.366Z",
+        "price": 173923,
+        "change": -2202,
+        "changePct": -1.25,
+        "timestamp": "2026-10-21T19:12:03.434Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9240,
-        "change": 1,
-        "changePct": 0.01,
-        "timestamp": "2026-10-21T14:56:32.437Z",
+        "price": 9292,
+        "change": 53,
+        "changePct": 0.57,
+        "timestamp": "2026-10-21T19:12:03.483Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
