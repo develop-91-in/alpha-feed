@@ -1,98 +1,288 @@
 {
-  "generatedAt": "2026-10-22T19:06:58.197Z",
+  "generatedAt": "2026-10-22T23:03:11.801Z",
   "articles": [
     {
-      "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has strong flywheel, aims to fix basics before expanding",
-      "desc": "He said Swiggy’s priority is a stable business with “the clearest line of sight to Ebitda zero,” and that it would not use its cash reserves to open new fronts simply because the money is available. “I think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,” he said on the call following the announcement of the company's September quarter results.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:17:28 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Chana sowing holds key to pulses inflation",
-      "desc": "Chana, India's most consumed pulse, which is central to making everything from salty snacks to nutritious meals, needs adequate soil moisture and cool weather for a good crop. Sowing has started in some regions, but the progress is slow. State advisories to conserve water and shift to less water-intensive crops have added to concerns over winter sowing.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/chana-sowing-holds-key-to-pulses-inflation/articleshow/135125963.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:09:29 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India-Germany trade can surge 10-fold, says Piyush Goyal",
-      "desc": "India-Germany bilateral trade is expected to increase significantly, with aims of reaching 310 billion from 31 billion. Both countries are focused on co-creating and leveraging their complementary strengths for economic growth. The India-EU free trade agreement is anticipated to be signed soon and will facilitate mutual benefits. Minister Piyush Goyal emphasized the importance of trust and cooperation between the nations.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-germany-trade-can-surge-10-fold-says-piyush-goyal/articleshow/135125958.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:08:34 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "GST return forms likely to be tweaked to curb mismatches",
-      "desc": "The government is looking to revamp GST return forms to minimise discrepancies between reported sales and tax payments. Draft forms will be available for public feedback starting November 1 and the changes take effect on April 1, 2027.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-return-forms-likely-to-be-tweaked-to-curb-mismatches/articleshow/135125817.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:00:31 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "desc": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Berlin Global Dialogue: EU inviting disaster through carbon tax, says Piyush Goyal",
-      "desc": "Piyush Goyal expressed concerns over the EU's carbon tax and numerous regulations impacting their steel industry. He warned that these measures could lead to increased costs and decreased competitiveness for EU businesses. Goyal highlighted that the high import duties and standards could harm the economy and raise the cost of living. He mentioned the reciprocal nature of trade regulations in response to the EU's actions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/berlin-global-dialogue-eu-inviting-disaster-through-carbon-tax-says-piyush-goyal/articleshow/135125548.cms",
-      "pubDate": "Thu, 22 Oct 2026 23:55:21 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-      "desc": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 17:58:04 +0000",
+      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+      "desc": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 22:25:14 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "desc": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "pubDate": "2026-10-22T13:42:52-04:00",
+      "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "desc": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 22:09:38 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Fall 2026 earnings watch",
+      "desc": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "pubDate": "2026-10-22T17:15:16-04:00",
       "image": "",
       "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Discord now formats Markdown previews right",
-      "desc": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "pubDate": "2026-10-22T14:58:19-04:00",
+      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "desc": "Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 20:51:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "desc": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "pubDate": "2026-10-22T16:32:05-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "pubDate": "2026-10-22T16:24:04-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
+      "desc": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&amp;P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:45:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
+      "desc": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 22:25:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe",
+      "desc": "Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 22:09:38 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "desc": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "pubDate": "2026-10-22T17:51:25-04:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
     },
     {
-      "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has strong flywheel, aims to fix basics before expanding",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Fall 2026 earnings watch",
+      "desc": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+      "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "pubDate": "2026-10-22T17:15:16-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "IEA chief warns energy is becoming a geopolitical weapon",
+      "desc": "Dr. Fatih Birol, Executive Director of the IEA, warns that energy is becoming a geopolitical weapon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
+      "pubDate": "Thu, 22 Oct 2026 20:51:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "desc": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "pubDate": "2026-10-22T16:32:05-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "pubDate": "2026-10-22T16:24:04-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "desc": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [&#8230;]",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "pubDate": "2026-10-22T16:23:48-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
+      "desc": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&amp;P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:45:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Moderna stock crashes 25%, loses about $24 billion after cancer vaccine data leak",
+      "desc": "Moderna’s stock price dropped over 25% after trial results for its personalized melanoma vaccine with Merck were disclosed. The decline erased approximately $24 billion from Moderna’s market value, ending a significant rally this year. Analysts noted that this reaction was expected as investors often sell after news becomes public. Despite the drop, the trial results showed promising reductions in cancer recurrence when paired with Merck's Keytruda.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-plummet-25-loses-about-24-billion-after-cancer-vaccine-data-leak/articleshow/135127206.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:41:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "desc": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "pubDate": "2026-10-22T15:45:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+      "desc": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp",
+      "pubDate": "2026-10-22T15:44:51-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+      "desc": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:56:43 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Centre flags land, green tape hurdles in infra projects",
+      "desc": "Delays in land acquisition and obtaining various environmental clearances have significantly impacted the progress of infrastructure projects. Although central agencies are improving approval times, states are still facing lengthy procedures for necessary permits. Utility shifting is also causing major disruptions, often taking longer than projected. The recent analysis reveals a considerable increase in costs due to pre-construction delays.",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/centre-flags-land-green-tape-hurdles-in-infra-projects/articleshow/135126737.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:51:12 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "desc": "Investors sold shares of Meta Platforms and a wealth of companies central to the AI trade, a day after Meta -- one of the so-called hyperscalers spending billions to build data centers and other infrastructure supporting the AI boom -- said it would issue a new class of shares that will help it raise funds.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:47:43 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "desc": "The suit, filed by Rhode Island Attorney General Peter Neronha in Providence Superior Court, accuses Meta of unlawfully profiting from and participating in the creation of billions of dollars in scam advertising - even as it assured its billions of users that it was working diligently to protect them.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:45:39 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "desc": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this [&#8230;]",
+      "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+      "pubDate": "2026-10-22T15:13:42-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
+      "desc": "The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege basis. The measures include auditing source code, repositories, configuration files, client applications and cloud storage for exposed credentials, and immediately rotating and purging compromised credentials.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:37:54 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Treasuries see best day in over a year as AI selloff revives haven demand",
+      "desc": "US Treasury bonds surged as a sharp selloff in AI-linked stocks revived demand for safe-haven assets. Treasury yields posted their biggest declines in more than a year, despite Brent crude rising above $112 a barrel. Investors also scaled back expectations for a December Fed rate hike amid growing concerns over AI spending and US growth.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:33:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
       "desc": "He said Swiggy’s priority is a stable business with “the clearest line of sight to Ebitda zero,” and that it would not use its cash reserves to open new fronts simply because the money is available. “I think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,” he said on the call following the announcement of the company's September quarter results.",
       "link": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
       "pubDate": "Fri, 23 Oct 2026 00:17:28 +0530",
@@ -100,16 +290,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "The new Fire TV Stick 4K is already half off",
-      "desc": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-      "pubDate": "2026-10-22T14:43:57-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Chana sowing holds key to pulses inflation",
@@ -162,26 +342,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "desc": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "pubDate": "2026-10-22T14:15:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "desc": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "pubDate": "2026-10-22T14:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
       "desc": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
       "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
@@ -190,26 +350,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "desc": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands [&#8230;]",
-      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-      "pubDate": "2026-10-22T13:46:40-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "desc": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "pubDate": "2026-10-22T13:42:52-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Neocloud short sellers rack up $6 billion as AI debt fears deepen",
@@ -250,16 +390,6 @@
       "source": "Economic Times Industry",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Israeli attacks kill four as famine risk looms in Gaza",
-      "desc": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 16:06:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
@@ -332,16 +462,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-      "desc": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 15:00:37 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "NSDC raises Rs 4 crore through Social Stock Exchange for global skilling initiative",
       "desc": "The funds raised will be used to provide skilling and employment opportunities to 600 youth from economically weaker other backward classes (OBC) households in Madhya Pradesh. The programme, with an estimated outlay of Rs 11.25 crore, aims to prepare 600 candidates for international employment opportunities, with 300 candidates earmarked for Japan and another 300 for Germany, the ministry of skills development and entrepreneurship said in a statement on Thursday.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/nsdc-raises-rs-4-crore-through-social-stock-exchange-for-global-skilling-initiative/articleshow/135121447.cms",
@@ -360,16 +480,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Germany arrests Ukrainian man accused of spying for Russia",
-      "desc": "Military has raised the threat level of ​Russian sabotage against German troops and facilities.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 14:36:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
@@ -642,7 +752,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq crashes 2% as AI, oil risks drive flight to bonds",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Highlights: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms",
       "pubDate": "Thu, 22 Oct 2026 17:45:35 +0530",
@@ -962,36 +1072,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "NCDEX launches NDEX and FINNDEX indices to foray into equity and derivatives markets",
-      "desc": "NCDEX has launched NDEX and FINNDEX, two rule-based indices covering large and liquid Indian equities and financial sector stocks. The benchmarks use a multi-factor methodology incorporating market capitalisation, liquidity, beta and volatility, with semi-annual rebalancing.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-indices-to-foray-into-equity-and-derivatives-markets/articleshow/135112040.cms",
-      "pubDate": "Thu, 22 Oct 2026 13:23:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Ashish Kacholia portfolio: Ace investor adds 3 new stocks, trims stake in 13 companies in Q2",
-      "desc": "Ace investor Ashish Kacholia reshuffled his Rs 3,000 crore portfolio in Q2FY27, adding three stocks, increasing stakes in two companies and trimming holdings in 13 others. The changes include new bets on ESDS Software Solutions, Ardee Industries and Credent Connect N Care, while Fineotex Chemicals and Brand Concepts may have been exited.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-portfolio-ace-investor-adds-3-new-stocks-trims-stake-in-13-companies-in-q2/articleshow/135111945.cms",
-      "pubDate": "Thu, 22 Oct 2026 13:19:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: China's yuan hits more than four-year high against dollar",
-      "desc": "In a remarkable turn of events, China's yuan has surged against the US dollar, hitting levels unseen in over four years. This strength is linked to a declining dollar and prevailing central bank strategies. Although the People's Bank of China set a midpoint lower than anticipated, its actions aim to moderate currency appreciation. Analysts believe the yuan's resilience may hinge on sustained export performance and domestic demand influences.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-more-than-four-year-high-against-dollar/articleshow/135111723.cms",
-      "pubDate": "Thu, 22 Oct 2026 13:15:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Domestic cos need strategic approach to tap India-Europe FTA gains: FICCI",
       "desc": "Indian companies must adopt a strategic approach to fully leverage the European free trade agreement benefits, as tariff concessions alone may not suffice. The focus should be on product quality, market penetration, and building significant relationships with European buyers. Compliance with European standards will be crucial for export success, particularly for small enterprises.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/domestic-cos-need-strategic-approach-to-tap-india-europe-fta-gains-ficci/articleshow/135110995.cms",
@@ -1112,16 +1192,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "desc": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 03:05:28 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
       "desc": "Tesla is aiming to start selling its Cybercab robotaxis to the public by the end of this year, its engineering chief said on Wednesday, even as the US auto safety agency probes the vehicles that come without manual controls which federal regulations",
       "link": "https://economictimes.indiatimes.com/tech/technology/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe/articleshow/135105576.cms",
@@ -1240,110 +1310,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "desc": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 22:54:58 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 21:49:07 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "desc": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "desc": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 19:58:06 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 19:54:57 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "RBI flags widening inflation risks, puts rate cuts on ice",
-      "desc": "RBI's Monetary Policy Committee raised the benchmark repo rate by 25 basis points to address rising inflation concerns. Governor Sanjay Malhotra indicated a generalisation of inflation, with many commodities exceeding 4% inflation. Deputy Governor Poonam Gupta highlighted the influence of external supply-side shocks on inflation projections. External members expressed concerns about the implications of an aggressive rate hike on economic growth.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-flags-widening-inflation-risks-puts-rate-cuts-on-ice/articleshow/135100146.cms",
-      "pubDate": "Thu, 22 Oct 2026 01:22:04 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Critical tech list under review to push self-reliance",
-      "desc": "India's Niti Aayog is preparing a list of critical technologies for enhancing self-reliance and investment. This initiative aims to protect against disruptions due to limited access to essential technologies. Potential technologies include 6G, defence equipment, and electric vehicle powertrains. The government seeks to encourage innovation through the Anusandhan National Research Foundation and other funds. A comprehensive roadmap is expected to be finalized and released next month.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/critical-tech-list-under-review-to-push-self-reliance/articleshow/135100174.cms",
-      "pubDate": "Thu, 22 Oct 2026 01:13:51 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Core output grows at series high of 7.9% in Sept",
-      "desc": "India's core sector output growth for September recorded a remarkable 7.9%, driven largely by expansion in coal and electricity. Notably, refinery products and iron ore also contributed to this growth, supported by a favorable base effect. Coal production saw a sharp rebound with a growth rate of 10.7% following previous negative trends. Electricity generation growth declined slightly, impacted by heatwave conditions in the country.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/core-output-grows-at-series-high-of-7-9-in-sept/articleshow/135100149.cms",
-      "pubDate": "Thu, 22 Oct 2026 01:09:39 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Piyush Goyal to explore trade, investment avenues in Germany &amp; Netherlands",
-      "desc": "Commerce and industry minister Piyush Goyal is set to visit Germany and the Netherlands for trade engagements. He will participate in the Berlin Global Dialogue and meet various government officials in Germany. The focus will be on technological cooperation, clean technology, and the India-EU FTA negotiations. In the Netherlands, Goyal will hold ministerial meetings to explore expanded trade channels and green transition initiatives.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-to-explore-trade-investment-avenues-in-germany-netherlands/articleshow/135100125.cms",
-      "pubDate": "Thu, 22 Oct 2026 01:05:25 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "OpenAI president urges AI safeguards as group he funds opposes regulation",
-      "desc": "OpenAI's safety practices have been in the spotlight in recent months, after the company said a swarm of its AI agents escaped containment and hacked into the AI platform Hugging Face. OpenAI President Greg Brockman was among the group of six tech executives who later signed US President Donald Trump's voluntary AI safety agreement on behalf of their companies, agreeing to work with \"independent auditors\" and to ensure their AI tools do not \"hack or access technical systems in unintended ways.\"",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-president-urges-ai-safeguards-as-group-he-funds-opposes-regulation/articleshow/135099790.cms",
-      "pubDate": "Thu, 22 Oct 2026 00:38:55 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-22T19:06:58.197Z",
+    "generatedAt": "2026-10-22T23:03:11.801Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1352,15 +1322,15 @@
         "price": 22687.65,
         "change": -123.7,
         "changePct": -0.54,
-        "timestamp": "2026-10-22T19:06:57.785Z",
+        "timestamp": "2026-10-22T23:03:11.466Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
         "price": 73249.39,
-        "change": -460.3,
-        "changePct": -0.62,
-        "timestamp": "2026-10-22T19:06:57.841Z",
+        "change": -603.51,
+        "changePct": -0.82,
+        "timestamp": "2026-10-22T23:03:11.527Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1368,7 +1338,7 @@
         "price": 54925.7,
         "change": -51.2,
         "changePct": -0.09,
-        "timestamp": "2026-10-22T19:06:57.889Z",
+        "timestamp": "2026-10-22T23:03:11.577Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1376,33 +1346,33 @@
         "price": 94.81,
         "change": 0.36,
         "changePct": 0.38,
-        "timestamp": "2026-10-22T19:06:57.951Z",
+        "timestamp": "2026-10-22T23:03:11.629Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123379,
-        "change": -3121,
-        "changePct": -2.47,
-        "timestamp": "2026-10-22T19:06:58.050Z",
+        "price": 123306,
+        "change": -463,
+        "changePct": -0.37,
+        "timestamp": "2026-10-22T23:03:11.681Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 166920,
-        "change": -8992,
-        "changePct": -5.11,
-        "timestamp": "2026-10-22T19:06:58.147Z",
+        "price": 166554,
+        "change": -1119,
+        "changePct": -0.67,
+        "timestamp": "2026-10-22T23:03:11.743Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9431,
-        "change": 220,
-        "changePct": 2.39,
-        "timestamp": "2026-10-22T19:06:58.197Z",
+        "price": 9384,
+        "change": -46,
+        "changePct": -0.49,
+        "timestamp": "2026-10-22T23:03:11.801Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
