@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-10-23T18:55:51.164Z",
+  "generatedAt": "2026-10-23T21:56:45.722Z",
   "articles": [
+    {
+      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+      "desc": "US stocks ended lower after a turbulent week as fresh doubts over the AI trade weighed on sentiment. The Dow fell 1.25%, while the S&amp;P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon, along with next week’s Federal Reserve meeting.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+      "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "desc": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+      "pubDate": "Fri, 23 Oct 2026 20:02:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump’s broken promises: economy, war and ICE",
+      "desc": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+      "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "pubDate": "Fri, 23 Oct 2026 20:01:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+      "desc": "Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ₹23,930 crore, up 42% from the previous year. Improved demand was driven by higher fleet utilization and industrial activity, according to managing director Girish Wagh. Consolidated profit also increased to ₹1,257 crore, aided by a drop in mark-to-market losses.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Commerce minister Piyush Goyal discusses investment avenues with German companies",
+      "desc": "Piyush Goyal engaged with major German firms like Siemens Healthineers, Bayer, and Fresenius to discuss investments. He highlighted Bayer's plans for expansion and collaboration in India's healthcare ecosystem. Goyal also addressed opportunities for Fresenius to leverage India's talent for healthcare solutions. Furthermore, he explored ways to strengthen Siemens Healthineers' presence in the country. These discussions reflect India's growing relevance in the global healthcare market.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/commerce-minister-piyush-goyal-discusses-investment-avenues-with-german-companies/articleshow/135154186.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:28:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Private sector activity hits four month high in October",
+      "desc": "India's private sector activity experienced significant growth in October, reaching a four-month high as new orders increased. The HSBC Flash India Composite Purchasing Managers' Index rose to 56.7, signaling expansion. Manufacturing output and new orders remained stable, while services activity saw notable improvement. Employment increased slightly, although firms showed caution in hiring due to adequate staffing levels. International demand contributed to growth, with export orders expanding significantly during this period.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-activity-hits-four-month-high-in-october/articleshow/135153950.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:25:01 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "desc": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
@@ -22,64 +82,94 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Periodic Labour Force Survey to expand coverage to capture unpaid household, volunteers from January 2027",
-      "desc": "From January 2027, the Periodic Labour Force Survey will include unpaid household activities and digital platform workers. New questions will identify individuals engaged in caregiving and relevant unpaid volunteer work in both urban and rural settings. This expansion aims to enhance the measurement of labour-market data. The survey will enable better reporting and data collection on these aspects annually.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/periodic-labour-force-survey-to-expand-coverage-to-capture-unpad-household-volunteers-from-january-2027/articleshow/135153132.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:48:04 +0530",
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "desc": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "pubDate": "2026-10-23T17:11:07-04:00",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "White House says the US is lifting tariffs on some Canadian goods",
+      "desc": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 20:39:39 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India to remain strict on quality: Industry minister Piyush Goyal",
-      "desc": "India's Commerce Minister Piyush Goyal emphasised a strict stance on quality and environmental regulations. He noted that many companies are eager to invest in India across various sectors. Goyal mentioned India's advantages in decarbonisation amidst competition from Europe’s carbon border adjustment mechanism. Discussions on free trade agreements indicate significant potential for job creation in India.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-to-remain-strict-on-quality-industry-minister-piyush-goyal/articleshow/135152792.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:32:54 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year",
-      "desc": "Even Healthcare led deal activity with $50 million, followed by Different at $48 million, Baba Care at $40 million, and AuxoAI at $20.7 million. General Catalyst was among the most active investors, backing Baba Care and Different. Blume Ventures invested in Hunar.AI and Harajuku, while Seedstars participated in rounds of Hunar.AI and Karta.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-even-different-lead-as-weekly-funding-hits-246-million-down-27-on-year/articleshow/135152641.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:25:26 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "FSDC stresses on vigilance, reforms amid global uncertainty &amp; AI boom",
-      "desc": "Finance minister Nirmala Sitharaman led an important session of the Financial Stability and Development Council, focusing on maintaining financial stability amidst looming geopolitical tensions and fluctuating global bond yields. Key topics included fostering a robust domestic investment climate, ensuring effective capital movement for reform, and addressing cybersecurity needs within the financial sector.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/fsdc-stresses-on-vigilance-reforms-amid-global-uncertainty-ai-boom/articleshow/135152520.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:23:20 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Apple India revenue grows 32% to cross Rs 1 lakh crore mark in FY26",
-      "desc": "\"Apple India Private Limited provides and markets Apple brand products and software, and reported its revenues for the financial year 2025-26 at Rs 1,04,607 crore, a 32 per cent jump since the last financial year,\" Tofler said.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/apple-india-revenue-grows-32-to-cross-rs-1-lakh-crore-mark-in-fy26/articleshow/135152541.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:18:57 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Treasury yields rise but 10-year stays below 5% as AI jitters persist",
-      "desc": "US Treasury yields rise after a sharp drop in the previous session, but the benchmark 10 year yield stays below 5% as lingering AI market concerns keep investors cautious. Strong economic activity and sticky inflation remain key factors for bond markets, while expectations of a Federal Reserve rate hike next week weaken further.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
-      "pubDate": "Fri, 23 Oct 2026 22:54:04 +0530",
+      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+      "desc": "US stocks ended lower after a turbulent week as fresh doubts over the AI trade weighed on sentiment. The Dow fell 1.25%, while the S&amp;P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon, along with next week’s Federal Reserve meeting.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+      "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+      "desc": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+      "pubDate": "Fri, 23 Oct 2026 20:02:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Trump’s broken promises: economy, war and ICE",
+      "desc": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+      "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+      "pubDate": "Fri, 23 Oct 2026 20:01:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "desc": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "pubDate": "2026-10-23T15:32:39-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+      "desc": "Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ₹23,930 crore, up 42% from the previous year. Improved demand was driven by higher fleet utilization and industrial activity, according to managing director Girish Wagh. Consolidated profit also increased to ₹1,257 crore, aided by a drop in mark-to-market losses.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Commerce minister Piyush Goyal discusses investment avenues with German companies",
+      "desc": "Piyush Goyal engaged with major German firms like Siemens Healthineers, Bayer, and Fresenius to discuss investments. He highlighted Bayer's plans for expansion and collaboration in India's healthcare ecosystem. Goyal also addressed opportunities for Fresenius to leverage India's talent for healthcare solutions. Furthermore, he explored ways to strengthen Siemens Healthineers' presence in the country. These discussions reflect India's growing relevance in the global healthcare market.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/commerce-minister-piyush-goyal-discusses-investment-avenues-with-german-companies/articleshow/135154186.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:28:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Private sector activity hits four month high in October",
+      "desc": "India's private sector activity experienced significant growth in October, reaching a four-month high as new orders increased. The HSBC Flash India Composite Purchasing Managers' Index rose to 56.7, signaling expansion. Manufacturing output and new orders remained stable, while services activity saw notable improvement. Employment increased slightly, although firms showed caution in hiring due to adequate staffing levels. International demand contributed to growth, with export orders expanding significantly during this period.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-activity-hits-four-month-high-in-october/articleshow/135153950.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:25:01 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -100,6 +190,26 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+      "desc": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+      "pubDate": "2026-10-23T14:43:30-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
+      "desc": "Global data centre spending is expected to reach $1 trillion in 2026 and more than double to $2.1 trillion by 2028, driven by rising demand for AI services, BofA Global Research estimates. The data centre market could reach $2.93 trillion by 2030 as AI fuels rapid infrastructure expansion.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:00:36 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Periodic Labour Force Survey to expand coverage to capture unpaid household, volunteers from January 2027",
@@ -222,16 +332,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
-      "desc": "An escalation would &#039;create nothing but losers&#039;, French foreign minister says as US official warns of possible strike.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
-      "pubDate": "Fri, 23 Oct 2026 16:29:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "India's exports to Germany could cross $50 billion by 2030: ASSOCHAM",
       "desc": "ASSOCHAM said the potential for expanding market access, investment and business partnerships between India and Germany. It said the two countries could use their respective strengths in manufacturing, technology and innovation to deepen economic ties and create new growth opportunities.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-germany-could-cross-50-billion-by-2030-assocham/articleshow/135150336.cms",
@@ -280,16 +380,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
-      "desc": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:51:29 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "The little-known investment Martin Lewis wants you to understand...",
@@ -372,26 +462,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "desc": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "pubDate": "2026-10-23T10:47:41-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
-      "desc": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is only claiming its new FP2 is the \"world's [&#8230;]",
-      "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
-      "pubDate": "2026-10-23T10:42:46-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "RBI's Rs 2.5 lakh crore liquidity infusion raises questions over tightening policy signal: SBI Report",
       "desc": "In its report, SBI said the RBI had consistently signalled its commitment to monetary tightening through its policy resolution, the Governor’s statement and the minutes of the Monetary Policy Committee (MPC). The liquidity infusion through repo auctions, however, appeared difficult to reconcile with this approach.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/questions-raised-over-rbi-policy-after-rs-2-5-lakh-crore-liquidity-infusion/articleshow/135148493.cms",
@@ -450,16 +520,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
-      "desc": "White House says &#039;localised&#039; ceasefire to take effect, as Russia and Ukraine say timing being determined.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
-      "pubDate": "Fri, 23 Oct 2026 13:39:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Why US stocks are falling: Dow Jones crashes over 700 points as AI selloff, SpaceX fears hit markets",
@@ -592,7 +652,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "US Stock Market Live Updates: Dow Jones crashes over 600 points as AI, telecom stocks tumble",
+      "title": "US Stock Market Highlights: Dow Jones ends 600 pts lower as AI doubts persist ahead of Fed rate meet",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
       "pubDate": "Fri, 23 Oct 2026 17:39:43 +0530",
@@ -740,16 +800,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "desc": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 10:23:07 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Rupee little changed this week as oil-fueled declines wipe out early gains",
@@ -1022,16 +1072,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Infinx plans $300 million IPO in India, appoints three bankers",
-      "desc": "Infinx Technology Solutions has appointed Kotak Mahindra Capital, Nomura and Avendus to manage its proposed $300 million IPO, targeting FY28. Backed by KKR and Norwest Venture Partners, the healthcare IT firm provides AI-powered revenue cycle management services and has expanded through strategic investments and acquisitions, including i3 Verticals’ healthcare business.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/infinx-plans-300-million-ipo-in-india-appoints-three-bankers/articleshow/135137145.cms",
-      "pubDate": "Fri, 23 Oct 2026 11:43:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
       "title": "Tech Mahindra, SpaceXSI partner to accelerate AI-powered software engineering",
       "desc": "The company said it will combine its global engineering, enterprise transformation and AI consulting capabilities with SpaceXSI's AI-powered development platform to help enterprises expand application modernisation, streamline software development and improve code quality.",
       "link": "https://economictimes.indiatimes.com/tech/technology/tech-mahindra-spacexsi-partner-to-accelerate-ai-powered-software-engineering/articleshow/135136980.cms",
@@ -1040,26 +1080,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Moderna Stock Selloff: Why positive cancer vaccine results failed to lift shares",
-      "desc": "Moderna shares plunged after detailed cancer vaccine trial results triggered profit-taking despite reducing melanoma recurrence risk by 42%. Investors weigh commercial prospects, regulatory timelines, and future oncology opportunities.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-stock-selloff-why-positive-cancer-vaccine-results-failed-to-lift-shares/slideshow/135137094.cms",
-      "pubDate": "Fri, 23 Oct 2026 11:31:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Christopher Wood swapped Nvidia for a Greek infrastructure stock. The bet is paying off",
-      "desc": "Jefferies’ Christopher Wood replaced Nvidia with Greek infrastructure company GEK TERNA in his global long-only equity portfolio in October 2025. Since then, GEK TERNA has gained 65% in US-dollar terms, compared with Nvidia’s 15%. The shift reflects Wood’s preference for infrastructure, fiscal reform and improving economic fundamentals over crowded AI trades.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-swapped-nvidia-for-a-greek-infrastructure-stock-the-bet-is-paying-off/articleshow/135136490.cms",
-      "pubDate": "Fri, 23 Oct 2026 11:29:42 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Piyush Goyal discusses investment opportunities with Bayer, Fresenius",
@@ -1270,60 +1290,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
-      "desc": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:56:43 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Centre flags land, green tape hurdles in infra projects",
-      "desc": "Delays in land acquisition and obtaining various environmental clearances have significantly impacted the progress of infrastructure projects. Although central agencies are improving approval times, states are still facing lengthy procedures for necessary permits. Utility shifting is also causing major disruptions, often taking longer than projected. The recent analysis reveals a considerable increase in costs due to pre-construction delays.",
-      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/centre-flags-land-green-tape-hurdles-in-infra-projects/articleshow/135126737.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:51:12 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
-      "desc": "Investors sold shares of Meta Platforms and a wealth of companies central to the AI trade, a day after Meta -- one of the so-called hyperscalers spending billions to build data centers and other infrastructure supporting the AI boom -- said it would issue a new class of shares that will help it raise funds.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:47:43 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
-      "desc": "The suit, filed by Rhode Island Attorney General Peter Neronha in Providence Superior Court, accuses Meta of unlawfully profiting from and participating in the creation of billions of dollars in scam advertising - even as it assured its billions of users that it was working diligently to protect them.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:45:39 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
-      "desc": "The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege basis. The measures include auditing source code, repositories, configuration files, client applications and cloud storage for exposed credentials, and immediately rotating and purging compromised credentials.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:37:54 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-23T18:55:51.164Z",
+    "generatedAt": "2026-10-23T21:56:45.721Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1332,7 +1302,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-23T18:55:50.513Z",
+        "timestamp": "2026-10-23T21:56:45.334Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1340,7 +1310,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-23T18:55:50.649Z",
+        "timestamp": "2026-10-23T21:56:45.399Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1348,7 +1318,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-23T18:55:50.743Z",
+        "timestamp": "2026-10-23T21:56:45.453Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1356,33 +1326,33 @@
         "price": 94.93,
         "change": 0.12,
         "changePct": 0.13,
-        "timestamp": "2026-10-23T18:55:50.840Z",
+        "timestamp": "2026-10-23T21:56:45.560Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 122400,
-        "change": -1526,
-        "changePct": -1.23,
-        "timestamp": "2026-10-23T18:55:50.928Z",
+        "price": 122388,
+        "change": -1538,
+        "changePct": -1.24,
+        "timestamp": "2026-10-23T21:56:45.616Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 164934,
-        "change": -2951,
-        "changePct": -1.76,
-        "timestamp": "2026-10-23T18:55:51.082Z",
+        "price": 164690,
+        "change": -3196,
+        "changePct": -1.9,
+        "timestamp": "2026-10-23T21:56:45.671Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9825,
-        "change": 383,
-        "changePct": 4.05,
-        "timestamp": "2026-10-23T18:55:51.164Z",
+        "price": 9820,
+        "change": 377,
+        "changePct": 3.99,
+        "timestamp": "2026-10-23T21:56:45.721Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
