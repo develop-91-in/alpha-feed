@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-24T20:37:12.615Z",
+  "generatedAt": "2026-10-24T22:58:58.372Z",
   "articles": [
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "desc": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "desc": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 20:37:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "German companies plan to double, triple growth in India over 3-5 years: Piyush Goyal",
       "desc": "German companies are planning significant growth in India over the next three to five years. Piyush Goyal emphasized partnerships in technology co-creation and skill development for Indian youth. During his visit to Germany, he met with various industry leaders to discuss investment opportunities. There is a focus on expanding German manufacturing and research capabilities in India. Promising sectors for collaboration include electronics, automobiles, and smart manufacturing.",
@@ -42,26 +62,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "desc": "Netanyahu floats Crypto to bypass sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 13:27:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "desc": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 13:06:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
@@ -80,6 +80,46 @@
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
+      "desc": "The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:31:41 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "desc": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "desc": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "pubDate": "2026-10-24T17:29:12-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "desc": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 20:37:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Pennsylvania will require labels on AI-generated ads",
@@ -150,26 +190,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "desc": "Netanyahu floats Crypto to bypass sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 13:27:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "desc": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 13:06:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
@@ -360,16 +380,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
-      "desc": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 06:32:35 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Concurrent Losers: 13 stocks decline for 5 consecutive sessions",
@@ -762,16 +772,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "California considers imposing 'world's first' tax on billionaires",
-      "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 23:11:31 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "The artist dropping her debut album after a billion streams",
       "desc": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
       "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&amp;at_campaign=rss",
@@ -780,30 +780,10 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
-      "desc": "Users have begun reporting instances of broken inner displays in the new iPhone Duo model. Cracks are appearing near the hinge, causing concern about the device's durability. Some owners experienced damage after minimal use, with one individual reporting a crack after just six hours. Apple is currently analyzing reported cases to determine whether there is a manufacturing issue involved.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
-      "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "desc": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "pubDate": "2026-10-23T17:11:07-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T20:37:12.615Z",
+    "generatedAt": "2026-10-24T22:58:58.372Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -812,7 +792,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-24T20:37:12.088Z",
+        "timestamp": "2026-10-24T22:58:57.896Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -820,7 +800,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-24T20:37:12.223Z",
+        "timestamp": "2026-10-24T22:58:58.004Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -828,7 +808,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-24T20:37:12.302Z",
+        "timestamp": "2026-10-24T22:58:58.076Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -836,7 +816,7 @@
         "price": 94.94,
         "change": 0.13,
         "changePct": 0.14,
-        "timestamp": "2026-10-24T20:37:12.379Z",
+        "timestamp": "2026-10-24T22:58:58.148Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -844,7 +824,7 @@
         "price": 122337,
         "change": -1603,
         "changePct": -1.29,
-        "timestamp": "2026-10-24T20:37:12.455Z",
+        "timestamp": "2026-10-24T22:58:58.228Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -853,7 +833,7 @@
         "price": 164673,
         "change": -3229,
         "changePct": -1.92,
-        "timestamp": "2026-10-24T20:37:12.535Z",
+        "timestamp": "2026-10-24T22:58:58.300Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -862,7 +842,7 @@
         "price": 9804,
         "change": 361,
         "changePct": 3.82,
-        "timestamp": "2026-10-24T20:37:12.615Z",
+        "timestamp": "2026-10-24T22:58:58.372Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
