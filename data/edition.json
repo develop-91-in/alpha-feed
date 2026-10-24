@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-23T21:56:45.722Z",
+  "generatedAt": "2026-10-24T00:26:33.369Z",
   "articles": [
+    {
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+      "desc": "Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 22:54:57 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
+      "desc": "Users have begun reporting instances of broken inner displays in the new iPhone Duo model. Cracks are appearing near the hinge, causing concern about the device's durability. Some owners experienced damage after minimal use, with one individual reporting a crack after just six hours. Apple is currently analyzing reported cases to determine whether there is a manufacturing issue involved.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
+      "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
       "desc": "US stocks ended lower after a turbulent week as fresh doubts over the AI trade weighed on sentiment. The Dow fell 1.25%, while the S&amp;P 500 and Nasdaq also declined. Investors turned their focus to major earnings from Alphabet, Microsoft and Amazon, along with next week’s Federal Reserve meeting.",
@@ -52,34 +82,94 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Private sector activity hits four month high in October",
-      "desc": "India's private sector activity experienced significant growth in October, reaching a four-month high as new orders increased. The HSBC Flash India Composite Purchasing Managers' Index rose to 56.7, signaling expansion. Manufacturing output and new orders remained stable, while services activity saw notable improvement. Employment increased slightly, although firms showed caution in hiring due to adequate staffing levels. International demand contributed to growth, with export orders expanding significantly during this period.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-activity-hits-four-month-high-in-october/articleshow/135153950.cms",
-      "pubDate": "Sat, 24 Oct 2026 00:25:01 +0530",
+      "title": "How does the UK state pension compare with other countries?",
+      "desc": "Do British pensioners have it better or worse than those in other countries?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "desc": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 18:52:17 GMT",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
       "image": "",
-      "source": "BBC World",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Target reached, but asset monetisation to continue: DIPAM secretary Arunish Chawla",
-      "desc": "\"We have already identified a cluster of 10 national highways, which will provide the underlying capital asset. So, the second public InvITs is in the works and hopefully before the close of this financial year, it will also come to fruition,\" Chawla said. \"We are also bringing down the equity (stake) in nationalised banks gradually to the minimum public shareholding norm of 75%, that is part of the mandate that we have to share the wealth with the people and also in line with regulations...we are moving ahead on that path.\"",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/target-reached-but-asset-monetisation-to-continue-dipam-secretary-arunish-chawla/articleshow/135153825.cms",
-      "pubDate": "Sat, 24 Oct 2026 00:21:12 +0530",
+      "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+      "desc": "Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 23:50:45 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 23:11:31 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The artist dropping her debut album after a billion streams",
+      "desc": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
+      "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 23:08:55 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The Papers: 'Meghan warned over father' and 'Don't risk Truss-style budget'",
+      "desc": "Meghan Markle's responds to allegations over her father and PM warned to not risk 'Truss-style' budget leads Saturday's papers.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8devv08nno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 23:06:12 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 22:54:57 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
+      "desc": "Users have begun reporting instances of broken inner displays in the new iPhone Duo model. Cracks are appearing near the hinge, causing concern about the device's durability. Some owners experienced damage after minimal use, with one individual reporting a crack after just six hours. Apple is currently analyzing reported cases to determine whether there is a manufacturing issue involved.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
+      "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "OpenAI now trains its frontier AI models with no internet access",
@@ -90,16 +180,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "White House says the US is lifting tariffs on some Canadian goods",
-      "desc": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 20:39:39 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
@@ -282,16 +362,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Indonesia seizes more than a tonne of ketamine from tanker",
-      "desc": "Indonesian authorities seized 1.16 tonnes of ketamine from a Malaysian vessel in the Strait of Malacca.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_indonesia-seizes-more-than-a-tonne-of-ketamine-231026?traffic_source=rss",
-      "pubDate": "Fri, 23 Oct 2026 17:00:22 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Strong macro fundamentals, policy interventions to anchor eco against global headwinds: RBI bulletin",
       "desc": "Strong macroeconomic fundamentals continue to support the Indian economy against global inflation and trade tensions. Recent geopolitical frictions have resulted in increased prices and supply chain issues, leading to policy changes. Currency fluctuations were observed, but measures by the Reserve Bank helped stabilize the rupee recently. Foreign Direct Investment remains robust, driven by significant inflows from major sources like the US and Singapore.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/strong-macro-fundamentals-policy-interventions-to-anchor-eco-against-global-headwinds-rbi-bulletin/articleshow/135151046.cms",
@@ -320,16 +390,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
-      "desc": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
-      "pubDate": "Fri, 23 Oct 2026 16:37:59 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "India's exports to Germany could cross $50 billion by 2030: ASSOCHAM",
@@ -1062,16 +1122,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Safe-haven demand pushes Japan’s 10-year yield to two-month low",
-      "desc": "Japanese government bonds saw a rally on Friday, leading to the benchmark 10-year yield hitting a two-month low. This surge occurred in response to a global selloff in tech stocks, prompting investors to flock to safer investment options. The approaching Bank of Japan policy meeting is the center of attention as market watchers analyze the implications for inflation and possible interest rate shifts.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/safe-haven-demand-pushes-japans-10-year-yield-to-two-month-low/articleshow/135137115.cms",
-      "pubDate": "Fri, 23 Oct 2026 11:49:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Tech Mahindra, SpaceXSI partner to accelerate AI-powered software engineering",
       "desc": "The company said it will combine its global engineering, enterprise transformation and AI consulting capabilities with SpaceXSI's AI-powered development platform to help enterprises expand application modernisation, streamline software development and improve code quality.",
       "link": "https://economictimes.indiatimes.com/tech/technology/tech-mahindra-spacexsi-partner-to-accelerate-ai-powered-software-engineering/articleshow/135136980.cms",
@@ -1260,40 +1310,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "desc": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 23:20:38 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-      "desc": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
-      "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 23:16:20 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "desc": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-23T21:56:45.721Z",
+    "generatedAt": "2026-10-24T00:26:33.369Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1302,7 +1322,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-23T21:56:45.334Z",
+        "timestamp": "2026-10-24T00:26:33.051Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1310,7 +1330,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-23T21:56:45.399Z",
+        "timestamp": "2026-10-24T00:26:33.107Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1318,7 +1338,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-23T21:56:45.453Z",
+        "timestamp": "2026-10-24T00:26:33.162Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1326,7 +1346,7 @@
         "price": 94.93,
         "change": 0.12,
         "changePct": 0.13,
-        "timestamp": "2026-10-23T21:56:45.560Z",
+        "timestamp": "2026-10-24T00:26:33.217Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1334,7 +1354,7 @@
         "price": 122388,
         "change": -1538,
         "changePct": -1.24,
-        "timestamp": "2026-10-23T21:56:45.616Z",
+        "timestamp": "2026-10-24T00:26:33.267Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -1343,7 +1363,7 @@
         "price": 164690,
         "change": -3196,
         "changePct": -1.9,
-        "timestamp": "2026-10-23T21:56:45.671Z",
+        "timestamp": "2026-10-24T00:26:33.316Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -1352,7 +1372,7 @@
         "price": 9820,
         "change": 377,
         "changePct": 3.99,
-        "timestamp": "2026-10-23T21:56:45.721Z",
+        "timestamp": "2026-10-24T00:26:33.369Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
