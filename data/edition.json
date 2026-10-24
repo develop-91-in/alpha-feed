@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-24T14:20:49.344Z",
+  "generatedAt": "2026-10-24T17:57:24.512Z",
   "articles": [
+    {
+      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "desc": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 16:48:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Full lockdown of occupied West Bank begins",
+      "desc": "The Israeli army begins its lockdown and military operations across the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 14:24:19 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Netanyahu floats Crypto to bypass sanctions",
       "desc": "Netanyahu floats Crypto to bypass sanctions",
@@ -62,24 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India, Uzbekistan discuss bilateral ties during foreign minister Jaishankar's Azerbaijan visit",
-      "desc": "External Affairs Minister S Jaishankar met Uzbek Foreign Minister Bakhtiyor Saidov in Azerbaijan’s Baku to discuss bilateral issues and stress the timely implementation of agreements reached at the highest level. The meeting follows Prime Minister Narendra Modi’s August visit to Uzbekistan, during which the two countries upgraded ties to a comprehensive strategic partnership and set a $5 billion bilateral trade target.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-uzbekistan-discuss-bilateral-ties-during-jaishankars-azerbaijan-visit/articleshow/135167363.cms",
-      "pubDate": "Sat, 24 Oct 2026 15:18:12 +0530",
+      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "desc": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 16:48:36 +0000",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 15:45:46 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors’ wealth in 2026",
-      "desc": "The Trade Desk has emerged as the biggest loser on this list, with shares plunging 65.75% in 2026, from $37.96 at the end of last year to $13.00. The digital advertising technology company now has a market capitalisation of $6.1 billion.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
-      "pubDate": "Sat, 24 Oct 2026 15:03:10 +0530",
+      "title": "Full lockdown of occupied West Bank begins",
+      "desc": "The Israeli army begins its lockdown and military operations across the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 14:24:19 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
@@ -166,16 +196,6 @@
       "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
       "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 11:03:57 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 11:00:48 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
@@ -672,7 +692,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "How does the UK state pension compare with other countries?",
+      "title": "How the UK state pension compares with other countries",
       "desc": "Do British pensioners have it better or worse than those in other countries?",
       "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
@@ -680,6 +700,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How does the UK state pension compare with other countries?",
+      "desc": "Do British pensioners have it better or worse than those in other countries?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -693,7 +723,7 @@
     },
     {
       "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-      "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
       "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 23:50:45 GMT",
       "image": "",
@@ -702,7 +732,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "title": "California considers imposing 'world's first' tax on billionaires",
       "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
       "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 23:11:31 GMT",
@@ -752,16 +782,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "desc": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "pubDate": "2026-10-23T15:32:39-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
       "desc": "Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ₹23,930 crore, up 42% from the previous year. Improved demand was driven by higher fleet utilization and industrial activity, according to managing director Girish Wagh. Consolidated profit also increased to ₹1,257 crore, aided by a drop in mark-to-market losses.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
@@ -802,16 +822,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-      "desc": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-      "pubDate": "2026-10-23T14:43:30-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
       "desc": "Global data centre spending is expected to reach $1 trillion in 2026 and more than double to $2.1 trillion by 2028, driven by rising demand for AI services, BofA Global Research estimates. The data centre market could reach $2.93 trillion by 2030 as AI fuels rapid infrastructure expansion.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
@@ -850,210 +860,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year",
-      "desc": "Even Healthcare led deal activity with $50 million, followed by Different at $48 million, Baba Care at $40 million, and AuxoAI at $20.7 million. General Catalyst was among the most active investors, backing Baba Care and Different. Blume Ventures invested in Hunar.AI and Harajuku, while Seedstars participated in rounds of Hunar.AI and Karta.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-even-different-lead-as-weekly-funding-hits-246-million-down-27-on-year/articleshow/135152641.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:25:26 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "FSDC stresses on vigilance, reforms amid global uncertainty &amp; AI boom",
-      "desc": "Finance minister Nirmala Sitharaman led an important session of the Financial Stability and Development Council, focusing on maintaining financial stability amidst looming geopolitical tensions and fluctuating global bond yields. Key topics included fostering a robust domestic investment climate, ensuring effective capital movement for reform, and addressing cybersecurity needs within the financial sector.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/fsdc-stresses-on-vigilance-reforms-amid-global-uncertainty-ai-boom/articleshow/135152520.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:23:20 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
-      "desc": "The minister said that global giants, who are among the top three or four AI ecosystems in the world, need to work jointly on fundamental principles on the technology.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/articleshow/135152578.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:20:29 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Apple India revenue grows 32% to cross Rs 1 lakh crore mark in FY26",
-      "desc": "\"Apple India Private Limited provides and markets Apple brand products and software, and reported its revenues for the financial year 2025-26 at Rs 1,04,607 crore, a 32 per cent jump since the last financial year,\" Tofler said.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/apple-india-revenue-grows-32-to-cross-rs-1-lakh-crore-mark-in-fy26/articleshow/135152541.cms",
-      "pubDate": "Fri, 23 Oct 2026 23:18:57 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "US Treasury yields rise but 10-year stays below 5% as AI jitters persist",
-      "desc": "US Treasury yields rise after a sharp drop in the previous session, but the benchmark 10 year yield stays below 5% as lingering AI market concerns keep investors cautious. Strong economic activity and sticky inflation remain key factors for bond markets, while expectations of a Federal Reserve rate hike next week weaken further.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
-      "pubDate": "Fri, 23 Oct 2026 22:54:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Strong macro fundamentals, policy interventions to anchor eco against global headwinds: RBI bulletin",
-      "desc": "Strong macroeconomic fundamentals continue to support the Indian economy against global inflation and trade tensions. Recent geopolitical frictions have resulted in increased prices and supply chain issues, leading to policy changes. Currency fluctuations were observed, but measures by the Reserve Bank helped stabilize the rupee recently. Foreign Direct Investment remains robust, driven by significant inflows from major sources like the US and Singapore.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/strong-macro-fundamentals-policy-interventions-to-anchor-eco-against-global-headwinds-rbi-bulletin/articleshow/135151046.cms",
-      "pubDate": "Fri, 23 Oct 2026 22:26:53 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
-      "desc": "EAAA India Alternatives has successfully raised approximately Rs 360 crore from anchor investors prior to its IPO. This IPO is set to open for public subscription on October 26. The company will not receive any proceeds from the issue as it is an offer for sale. Prominent institutional investors and major domestic mutual fund houses participated in the anchor allocation.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
-      "pubDate": "Fri, 23 Oct 2026 22:20:32 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "India's exports to Germany could cross $50 billion by 2030: ASSOCHAM",
-      "desc": "ASSOCHAM said the potential for expanding market access, investment and business partnerships between India and Germany. It said the two countries could use their respective strengths in manufacturing, technology and innovation to deepen economic ties and create new growth opportunities.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-germany-could-cross-50-billion-by-2030-assocham/articleshow/135150336.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:42:25 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
-      "desc": "Shriram Finance reported a 59.4% year-on-year rise in Q2 FY27 standalone profit to Rs 3,677 crore, driven by higher net interest income and lower funding costs. Assets under management grew 17%, while the board declared an interim dividend of Rs 6.50 per share.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:35:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Shree Cement profit falls 15% YoY to Rs 263 crore on higher fuel costs",
-      "desc": "Shree Cement’s September-quarter net profit fell over 15% year-on-year to Rs 263 crore for the third consecutive quarterly decline. Revenue rose 24% and sales volumes increased 14%, but soaring fuel costs pressured profitability despite stronger premium product sales.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-falls-15-yoy-to-rs-263-crore-on-higher-fuel-costs/articleshow/135150160.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:33:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
-      "desc": "Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore, supported by business growth, higher margins and improved gross asset quality. The bank raised its annual profit growth guidance to 100%, while loans and deposits expanded.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:30:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "RBI flags rising inflation risks from West Asia conflict, El Nino despite resilient Indian economy",
-      "desc": "India's external sector shows resilience due to a narrowing trade gap and comfortable foreign exchange reserves. Inflationary pressures have intensified due to geopolitical tensions and supply-side bottlenecks. The RBI reported an increase in both industry and services indicators, showcasing economic strength. The IMF has revised India's growth projection for 2026-27 to 7% based on resilient domestic demand. Global financial volatility has increased amid global challenges and rising inflation risks.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:24:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The little-known investment Martin Lewis wants you to understand...",
-      "desc": "The little-known investment Martin Lewis wants you to understand",
-      "link": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:41:28 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
-      "desc": "Jindal Steel’s Q2 FY26 profit rose 21% year-on-year to Rs 771 crore, while revenue surged 44% to a record Rs 19,448 crore. Higher steel production and sales boosted earnings, while adjusted EBITDA grew 33% and net debt declined sequentially.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:03:11 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "desc": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%",
-      "desc": "BPCL reported a 21.45% year-on-year decline in Q2 FY27 profit to Rs 4,863.05 crore, despite 29.78% revenue growth. Sequential performance rebounded sharply from a quarterly loss, while the company approved a subsidiary for its proposed Andhra Pradesh refinery.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms",
-      "pubDate": "Fri, 23 Oct 2026 20:57:55 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons",
-      "desc": "India's central bank governor said on Friday non-bank finance companies classified in the upper layer are required to list on the stock market, reiterating the Reserve Bank of India's stance on the listing of Tata Sons without commenting directly on the company.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
-      "pubDate": "Fri, 23 Oct 2026 20:55:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "desc": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:15:13 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Jio IPO breaks 12 records: Rs 4.5 lakh crore bids, highest applications and more",
-      "desc": "Mukesh Ambani’s Jio Platforms IPO attracted bids exceeding Rs 4.5 lakh crore, setting 12 records, including over 1.25 crore applications. Institutional and retail participation surged, making it India’s largest public offering, with allotment expected October 26 and listing October 28.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms",
-      "pubDate": "Fri, 23 Oct 2026 20:34:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "RBI's Rs 2.5 lakh crore liquidity infusion raises questions over tightening policy signal: SBI Report",
-      "desc": "In its report, SBI said the RBI had consistently signalled its commitment to monetary tightening through its policy resolution, the Governor’s statement and the minutes of the Monetary Policy Committee (MPC). The liquidity infusion through repo auctions, however, appeared difficult to reconcile with this approach.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/questions-raised-over-rbi-policy-after-rs-2-5-lakh-crore-liquidity-infusion/articleshow/135148493.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:53:11 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T14:20:49.344Z",
+    "generatedAt": "2026-10-24T17:57:24.512Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1062,7 +872,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-24T14:20:48.907Z",
+        "timestamp": "2026-10-24T17:57:24.174Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1070,7 +880,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-24T14:20:49.029Z",
+        "timestamp": "2026-10-24T17:57:24.256Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1078,7 +888,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-24T14:20:49.095Z",
+        "timestamp": "2026-10-24T17:57:24.311Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1086,7 +896,7 @@
         "price": 94.94,
         "change": 0.13,
         "changePct": 0.14,
-        "timestamp": "2026-10-24T14:20:49.194Z",
+        "timestamp": "2026-10-24T17:57:24.368Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1094,7 +904,7 @@
         "price": 122337,
         "change": -1603,
         "changePct": -1.29,
-        "timestamp": "2026-10-24T14:20:49.255Z",
+        "timestamp": "2026-10-24T17:57:24.422Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -1103,7 +913,7 @@
         "price": 164673,
         "change": -3229,
         "changePct": -1.92,
-        "timestamp": "2026-10-24T14:20:49.321Z",
+        "timestamp": "2026-10-24T17:57:24.456Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -1112,7 +922,7 @@
         "price": 9804,
         "change": 361,
         "changePct": 3.82,
-        "timestamp": "2026-10-24T14:20:49.344Z",
+        "timestamp": "2026-10-24T17:57:24.512Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
