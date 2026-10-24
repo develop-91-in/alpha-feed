@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-10-24T10:33:12.436Z",
+  "generatedAt": "2026-10-24T14:20:49.344Z",
   "articles": [
+    {
+      "title": "Netanyahu floats Crypto to bypass sanctions",
+      "desc": "Netanyahu floats Crypto to bypass sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 13:27:11 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "desc": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 13:06:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
+      "desc": "AU's gross non-performing assets ratio fell 42 basis points (bps) to 1.99% at the end of September. This helped in 25% lower provision at Rs 359 crore against Rs 481 crore. Net NPA ratio improved by 7 bps to 0.81%. Annualised credit cost improved by 45 bps to 0.8% from 1.2% over the year.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
+      "pubDate": "Sat, 24 Oct 2026 17:21:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "FICCI seeks Dutch investment in mfg, tech; calls for project-level follow-up",
+      "desc": "FICCI has called for enhanced Dutch investments in India’s manufacturing and technology sectors during Piyush Goyal's visit. The discussions may lead to manufacturing partnerships and technology collaborations which would strengthen bilateral trade. Greater emphasis is placed on supply chain integration to meet Dutch quality and sustainability standards. The upcoming India-EU free trade agreement is expected to facilitate deeper commercial ties.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ficci-urges-dutch-investment-surge-in-indian-manufacturing-and-tech-amid-growing-trade-relations/articleshow/135169159.cms",
+      "pubDate": "Sat, 24 Oct 2026 16:53:50 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Honasa Consumer elevates Vipul Maheshwari to chief product &amp; technology officer",
       "desc": "In his new role, Maheshwari will lead the company’s product, technology, engineering and analytics functions. His main task will be to advance Honasa’s plans to use artificial intelligence (AI) in its business, including agentic AI, which refers to AI systems that can carry out multi-step tasks with human oversight.",
@@ -32,52 +82,102 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Govt of Singapore’s India portfolio: 10 stocks rally up to 100% in FY27 so far",
-      "desc": "In terms of stock performance, around 14 stocks in the portfolio have delivered positive returns so far in FY27, while nearly half have posted negative returns.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-of-singapores-india-portfolio-10-stocks-rally-up-to-100-in-fy27-so-far/slideshow/135167433.cms",
-      "pubDate": "Sat, 24 Oct 2026 14:50:31 +0530",
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "desc": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is [&#8230;]",
+      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "pubDate": "2026-10-24T10:00:00-04:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "desc": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:14:40 +0000",
+      "title": "Netanyahu floats Crypto to bypass sanctions",
+      "desc": "Netanyahu floats Crypto to bypass sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 13:27:11 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "desc": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 13:06:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "desc": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 12:59:49 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
-      "desc": "Kotak Mahindra Bank has announced an impressive 26% year-on-year increase in consolidated profit after tax for the second quarter, highlighting strong financial performance. Their standalone profit after tax surged by 29% compared to last year’s figures. Additionally, net interest income saw a rise of 16% year-on-year, hitting Rs 8,459 crore. Customer assets also grew significantly, reaching Rs 6,99,250 crore, while the capital adequacy ratio remains robust at 22.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
-      "pubDate": "Sat, 24 Oct 2026 13:54:37 +0530",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Rising demand from families needing Christmas help",
+      "desc": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:55:35 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
+      "desc": "AU's gross non-performing assets ratio fell 42 basis points (bps) to 1.99% at the end of September. This helped in 25% lower provision at Rs 359 crore against Rs 481 crore. Net NPA ratio improved by 7 bps to 0.81%. Annualised credit cost improved by 45 bps to 0.8% from 1.2% over the year.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
+      "pubDate": "Sat, 24 Oct 2026 17:21:56 +0530",
       "image": "",
       "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "FICCI seeks Dutch investment in mfg, tech; calls for project-level follow-up",
+      "desc": "FICCI has called for enhanced Dutch investments in India’s manufacturing and technology sectors during Piyush Goyal's visit. The discussions may lead to manufacturing partnerships and technology collaborations which would strengthen bilateral trade. Greater emphasis is placed on supply chain integration to meet Dutch quality and sustainability standards. The upcoming India-EU free trade agreement is expected to facilitate deeper commercial ties.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ficci-urges-dutch-investment-surge-in-indian-manufacturing-and-tech-amid-growing-trade-relations/articleshow/135169159.cms",
+      "pubDate": "Sat, 24 Oct 2026 16:53:50 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:03:57 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "FIIs dump Indian stocks for 10th straight week as markets slide: Is the worst over or more pain ahead?",
-      "desc": "The Nifty 50 declined in all four sessions of the holiday-shortened week, hitting an intraweek low of 22,372 on Friday before closing 2.4% lower at 22,600. The Bank Nifty fell 2.8%, while the Nifty Midcap 100 and Nifty Smallcap 100 plunged 5.6% and 7.3%, respectively, as selling pressure intensified beyond frontline stocks.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
-      "pubDate": "Sat, 24 Oct 2026 13:41:14 +0530",
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:00:48 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "The Tender247 Story: Turning tender intelligence into a competitive advantage with Anupam Kher",
-      "desc": "Harnessing the power of AI, Tender247 is transforming the landscape for businesses seeking tender opportunities on government platforms. Appointing Anupam Kher as its brand ambassador, the company focuses on simplifying the tender process for smaller businesses. The initiative promises to enhance decision-making capabilities and facilitate greater access to public procurement contracts, resulting in a more inclusive bidding environment.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/the-tender247-story-turning-tender-intelligence-into-a-competitive-advantage-with-anupam-kher/articleshow/135165216.cms",
-      "pubDate": "Sat, 24 Oct 2026 13:26:54 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -130,16 +230,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "desc": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
-      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:14:40 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
@@ -202,16 +292,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-      "desc": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 07:09:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Bitcoin hovers near $80,000 and Ethereum at $2,370 as macro uncertainty and weak institutional flows weigh on crypto markets",
       "desc": "In recent developments, Bitcoin has dropped to roughly $80,685, while Ethereum hovers around $2,370 due to various market influences. Major altcoins such as XRP and Dogecoin have also experienced dips, some decreasing by 2.2%. A noticeable decline in institutional interest is evident, with substantial outflows from Bitcoin and Ether ETFs. Both Bitcoin and Ethereum are facing challenges sustaining their momentum amidst the market's volatility.",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hovers-near-80000-and-ethereum-at-2370-as-macro-uncertainty-and-weak-institutional-flows-weigh-on-crypto-markets/articleshow/135164499.cms",
@@ -220,16 +300,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "COP17 puts Armenia’s environmental record in the spotlight",
-      "desc": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 06:52:41 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Lenskart, Meesho among top picks as value retail leads India's consumption story: Siddhartha Khemka",
@@ -352,16 +422,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-      "desc": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 04:48:40 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
       "desc": "PHP is a widely used general-purpose scripting language that is geared toward web development, and thus, it powers the majority of websites around the world. When the organization behind the language and the FBI's cyber division warned Wednesday of significant vulnerabilities in the language, government agencies, corporations and other organizations were sent into a flurry.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
@@ -450,16 +510,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-      "desc": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 03:51:58 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Adani Power profit surges 142% on strong demand amid weak rains",
@@ -637,12 +687,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
       "desc": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
       "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 23:50:45 GMT",
@@ -862,16 +912,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "desc": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "pubDate": "2026-10-23T12:52:55-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
       "desc": "EAAA India Alternatives has successfully raised approximately Rs 360 crore from anchor investors prior to its IPO. This IPO is set to open for public subscription on October 26. The company will not receive any proceeds from the issue as it is an offer for sale. Prominent institutional investors and major domestic mutual fund houses participated in the anchor allocation.",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
@@ -1010,200 +1050,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Aditya Birla Real Estate eyes Rs 1,650 cr revenue from new project in Pune",
-      "desc": "Aditya Birla Real Estate Ltd has announced plans to develop a housing project in Pune. This initiative will generate an estimated revenue of Rs 1,650 crore through a Joint Development Agreement. The project, located in Hinjewadi, spans 5.62 acres and features a total saleable area of approximately 1.25 million sq ft. Birla Estates, a subsidiary of Aditya Birla Real Estate, will oversee the project development.",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aditya-birla-real-estate-eyes-rs-1650-cr-revenue-from-new-project-in-pune/articleshow/135148283.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:40:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "RBI does not target any specific Rupee level, focuses on curbing volatility, says Governor Sanjay Malhotra",
-      "desc": "Reserve Bank of India (RBI) Governor Sanjay Malhotra on Friday said the central bank does not target any specific exchange rate or level for the rupee against the US dollar, stressing that its primary objective is to ensure orderly conditions in the foreign exchange market and prevent excessive volatility.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-does-not-target-any-specific-rupee-level-focuses-on-curbing-volatility-says-governor-sanjay-malhotra/articleshow/135148201.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:38:55 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "SBI Cards Q2 profit jumps 75% YoY to Rs 778 crore as bad loan costs fall sharply",
-      "desc": "SBI Cards reported a 75% year-on-year profit increase to Rs 778 crore in Q2 FY27, driven by lower credit costs and improved asset quality. However, corporate card spending declined, receivables contracted, and net interest margins narrowed.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q2-profit-jumps-75-yoy-to-rs-778-crore-as-bad-loan-costs-fall-sharply/articleshow/135147815.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:15:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "PLFS set for fresh overhaul, govt seeks public &amp; expert opinion on upcoming new things",
-      "desc": "The National Statistics Office (NSO), which has conducted the PLFS since 2017, plans to introduce the modifications from January 2027, when fresh samples for the 2027-2028 two-year period, designated Panel 6, will be drawn using an updated sampling frame.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/plfs-set-for-fresh-overhaul-govt-seeks-public-expert-opinion-on-upcoming-new-things/articleshow/135147149.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:10:25 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Satellite lights, Google searches cut state growth estimation errors by up to 62%: RBI study",
-      "desc": "RBI study indicates that combining night-time light data with Google search trends can improve state economic growth estimates. Researchers tested their model in Gujarat, Maharashtra, and Karnataka, showing significant reductions in forecasting errors. This framework could help provide timely economic insights, as state data is often delayed. Night-time illumination proved to be a strong predictor of Gross State Value Added growth.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/satellite-lights-google-searches-cut-state-growth-estimation-errors-by-up-to-62-rbi-study/articleshow/135147331.cms",
-      "pubDate": "Fri, 23 Oct 2026 19:09:36 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Explained: Why is Meta creating a new class of non-voting shares amid its AI growth?",
-      "desc": "Meta plans to create a new class of publicly traded non-voting stock, known as Class C shares, and distribute one Class C share for each existing Class A and Class B share - effectively splitting its stock two-for-one. The new shares are expected to begin trading in January 2027.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/explainer-why-is-meta-creating-a-new-class-of-non-voting-shares-amid-its-ai-growth/articleshow/135147442.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:59:57 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Inflation stays high, growth slows, central bankers face a bigger challenge, says RBI Guv Malhotra",
-      "desc": "RBI Governor Sanjay Malhotra highlighted the challenges faced by central banks due to global uncertainties and supply chain issues. He noted the elevated global inflation and lower growth forecasts impacting monetary policy decisions worldwide. India entered this phase with strong macroeconomic fundamentals, maintaining growth at 7.8% despite rising inflation levels. The RBI's goal remains to achieve price stability while ensuring financial market order and health.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/inflation-stays-high-growth-slows-central-bankers-face-a-bigger-challenge-says-rbi-guv-malhotra/articleshow/135147071.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:57:26 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "SK Hynix drops US IPO plan for Solidigm: Report",
-      "desc": "The news comes weeks after SK Hynix said it was reviewing various options to strengthen Solidigm's competitiveness, but that no decisions had been made.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports/articleshow/135147377.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:57:23 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "India eyes 30 million tonnes fish output in 5 years, seafood exports of Rs 1.25 lakh crore",
-      "desc": "India has initiated a national action plan for inland small-scale fisheries to increase fish production. The plan aims to achieve a target of 30 million tonnes over the next five years. It will focus on improving livelihoods and sustainability amid climate change challenges. Stakeholder consultations will be conducted to finalise the plan, which covers diverse aquatic ecosystems.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eyes-30-million-tonnes-fish-output-in-5-years-seafood-exports-of-rs-1-25-lakh-crore/articleshow/135146993.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:57:17 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity says",
-      "desc": "In a separate social media post on Friday, the social media account, Yuyuan Tantian, said overseas internet users had also urged other Chinese open-source large language models to follow suit.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/articleshow/135147333.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:55:47 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
-      "desc": "AI helped drive a doubling of the number of digital flaws discovered year-on-year, according to research due to be published in the coming days by VulnCheck, a Massachusetts-based threat intelligence firm.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/articleshow/135147270.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:52:58 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Apple bets iPhone Duo can remake foldable market as sales begin",
-      "desc": "Its reception could prove an early test for new Apple CEO John Ternus, the former hardware chief who unveiled iPhone Duo barely a week after taking charge in September.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/articleshow/135147159.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:51:29 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Pathos AI teams up with Bristol Myers and Tempus AI to advance drug development",
-      "desc": "Pathos AI said on Friday it had entered into a collaboration with Bristol Myers Squibb and Tempus AI to develop artificial intelligence tools for drug development in Alzheimer's",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/pathos-ai-teams-up-with-bristol-myers-and-tempus-ai-to-advance-drug-development/articleshow/135147121.cms",
-      "pubDate": "Fri, 23 Oct 2026 18:49:29 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "desc": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 12:24:17 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Despite global tensions, India’s business sentiment rebounds in Q2 FY27: NCAER",
-      "desc": "India's Business Confidence Index has risen to 107.8 in the second quarter of this fiscal year. The survey included 502 companies across six major cities, reflecting both large firms and MSMEs. All four key parameters evaluated by the index showed gains when compared to the previous quarter. NCAER indicated that confidence improved in expectations of economic conditions and financial health.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/despite-global-tensions-indias-business-sentiment-rebounds-in-q2-fy27-ncaer/articleshow/135144159.cms",
-      "pubDate": "Fri, 23 Oct 2026 17:35:55 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Island inflation rate rises to 3%, figures show",
-      "desc": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
-      "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 11:58:19 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "desc": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 11:48:04 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "India’s forex reserves fall $5 billion to $721.02 billion as of October 16",
-      "desc": "India's foreign exchange reserves fell by $5 billion to reach $721.02 billion for the week ending October 16. Previously, reserves declined by $8.578 billion to an amount of $726.027 billion. The decline in reserves reflects ongoing economic conditions impacting forex stability within the country. This trend indicates a continued volatility in India's foreign exchange market and its implications for the economy.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-fall-5-billion-to-721-02-billion-as-of-october-16/articleshow/135144411.cms",
-      "pubDate": "Fri, 23 Oct 2026 17:07:11 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Infosys Q2 Results: Profit rises 6% YoY to Rs 7,823 crore; co lowers revenue guidance",
-      "desc": "Infosys Q2 Results: IT services major Infosys Ltd on Friday reported 6% year-on-year (YoY) growth in its consolidated net profit at Rs 7,823 crore in the second quarter. The same stood at Rs 7,364 crore in the year-ago period. The company has trimmed its revenue growth guidance to 1-2% in constant currency for FY27 as against 1.5-3% given earlier.",
-      "link": "https://economictimes.indiatimes.com/tech/information-tech/infosys-q2-results-profit-rises-6-yoy-to-rs-7823-crore-co-lowers-revenue-guidance/articleshow/135144436.cms",
-      "pubDate": "Fri, 23 Oct 2026 16:21:38 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T10:33:12.436Z",
+    "generatedAt": "2026-10-24T14:20:49.344Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1212,7 +1062,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-24T10:33:11.947Z",
+        "timestamp": "2026-10-24T14:20:48.907Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1220,7 +1070,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-24T10:33:12.058Z",
+        "timestamp": "2026-10-24T14:20:49.029Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1228,7 +1078,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-24T10:33:12.132Z",
+        "timestamp": "2026-10-24T14:20:49.095Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1236,7 +1086,7 @@
         "price": 94.94,
         "change": 0.13,
         "changePct": 0.14,
-        "timestamp": "2026-10-24T10:33:12.205Z",
+        "timestamp": "2026-10-24T14:20:49.194Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1244,7 +1094,7 @@
         "price": 122337,
         "change": -1603,
         "changePct": -1.29,
-        "timestamp": "2026-10-24T10:33:12.276Z",
+        "timestamp": "2026-10-24T14:20:49.255Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -1253,7 +1103,7 @@
         "price": 164673,
         "change": -3229,
         "changePct": -1.92,
-        "timestamp": "2026-10-24T10:33:12.363Z",
+        "timestamp": "2026-10-24T14:20:49.321Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -1262,7 +1112,7 @@
         "price": 9804,
         "change": 361,
         "changePct": 3.82,
-        "timestamp": "2026-10-24T10:33:12.436Z",
+        "timestamp": "2026-10-24T14:20:49.344Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
