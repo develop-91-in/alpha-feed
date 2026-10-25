@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-24T22:58:58.372Z",
+  "generatedAt": "2026-10-25T01:01:10.898Z",
   "articles": [
+    {
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "desc": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "pubDate": "Sun, 25 Oct 2026 00:34:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "desc": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "pubDate": "Sun, 25 Oct 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "desc": "Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 23:08:16 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "How have Democrats’ policies shifted since the last major US election?",
       "desc": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
@@ -52,34 +82,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Full lockdown of occupied West Bank begins",
-      "desc": "The Israeli army begins its lockdown and military operations across the West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 14:24:19 +0000",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "desc": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+      "pubDate": "Sun, 25 Oct 2026 00:34:43 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "desc": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "pubDate": "Sun, 25 Oct 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "desc": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 23:15:18 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "desc": "Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 23:08:16 +0000",
       "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "AU Small Finance Bank Q2 profit jumps 53% to Rs 858 crore",
-      "desc": "AU's gross non-performing assets ratio fell 42 basis points (bps) to 1.99% at the end of September. This helped in 25% lower provision at Rs 359 crore against Rs 481 crore. Net NPA ratio improved by 7 bps to 0.81%. Annualised credit cost improved by 45 bps to 0.8% from 1.2% over the year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/au-small-finance-bank-q2-profit-jumps-53-to-rs-858-crore/articleshow/135169847.cms",
-      "pubDate": "Sat, 24 Oct 2026 17:21:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
@@ -156,26 +196,6 @@
       "desc": "Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.",
       "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
       "pubDate": "Sat, 24 Oct 2026 16:48:36 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 15:45:46 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Full lockdown of occupied West Bank begins",
-      "desc": "The Israeli army begins its lockdown and military operations across the West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 14:24:19 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -720,70 +740,10 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "desc": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 00:36:47 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "How the UK state pension compares with other countries",
-      "desc": "Do British pensioners have it better or worse than those in other countries?",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How does the UK state pension compare with other countries?",
-      "desc": "Do British pensioners have it better or worse than those in other countries?",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "desc": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-      "desc": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 23:50:45 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The artist dropping her debut album after a billion streams",
-      "desc": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 23:08:55 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T22:58:58.372Z",
+    "generatedAt": "2026-10-25T01:01:10.898Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -792,7 +752,7 @@
         "price": 22600,
         "change": -87.65,
         "changePct": -0.39,
-        "timestamp": "2026-10-24T22:58:57.896Z",
+        "timestamp": "2026-10-25T01:01:10.583Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -800,7 +760,7 @@
         "price": 73123.83,
         "change": -125.56,
         "changePct": -0.17,
-        "timestamp": "2026-10-24T22:58:58.004Z",
+        "timestamp": "2026-10-25T01:01:10.646Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -808,7 +768,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-24T22:58:58.076Z",
+        "timestamp": "2026-10-25T01:01:10.679Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -816,7 +776,7 @@
         "price": 94.94,
         "change": 0.13,
         "changePct": 0.14,
-        "timestamp": "2026-10-24T22:58:58.148Z",
+        "timestamp": "2026-10-25T01:01:10.799Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -824,7 +784,7 @@
         "price": 122337,
         "change": -1603,
         "changePct": -1.29,
-        "timestamp": "2026-10-24T22:58:58.228Z",
+        "timestamp": "2026-10-25T01:01:10.832Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -833,7 +793,7 @@
         "price": 164673,
         "change": -3229,
         "changePct": -1.92,
-        "timestamp": "2026-10-24T22:58:58.300Z",
+        "timestamp": "2026-10-25T01:01:10.864Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -842,7 +802,7 @@
         "price": 9804,
         "change": 361,
         "changePct": 3.82,
-        "timestamp": "2026-10-24T22:58:58.372Z",
+        "timestamp": "2026-10-25T01:01:10.898Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
