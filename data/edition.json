@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-25T20:34:23.761Z",
+  "generatedAt": "2026-10-25T23:04:34.535Z",
   "articles": [
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
       "desc": "India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system adjustments. Audit committees are discussing transition plans while awaiting final rules and guidance from regulatory bodies.",
@@ -28,16 +38,6 @@
       "pubDate": "Sun, 25 Oct 2026 20:34:36 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "desc": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 14:47:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -80,6 +80,26 @@
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+      "desc": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 22:37:36 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
@@ -130,16 +150,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "desc": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 14:47:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Gabon says access to social media restored after eight-month ban",
@@ -440,30 +450,10 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 23:03:21 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "desc": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "pubDate": "2026-10-24T17:29:12-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-25T20:34:23.761Z",
+    "generatedAt": "2026-10-25T23:04:34.535Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -472,7 +462,7 @@
         "price": 22600,
         "change": -87.7,
         "changePct": -0.39,
-        "timestamp": "2026-10-25T20:34:23.449Z",
+        "timestamp": "2026-10-25T23:04:34.283Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -480,7 +470,7 @@
         "price": 73123.83,
         "change": -125.57,
         "changePct": -0.17,
-        "timestamp": "2026-10-25T20:34:23.507Z",
+        "timestamp": "2026-10-25T23:04:34.338Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -488,7 +478,7 @@
         "price": 54287.35,
         "change": -638.35,
         "changePct": -1.16,
-        "timestamp": "2026-10-25T20:34:23.558Z",
+        "timestamp": "2026-10-25T23:04:34.385Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -496,33 +486,33 @@
         "price": 94.93,
         "change": 0.12,
         "changePct": 0.13,
-        "timestamp": "2026-10-25T20:34:23.608Z",
+        "timestamp": "2026-10-25T23:04:34.435Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 122324,
-        "change": -1602,
-        "changePct": -1.29,
-        "timestamp": "2026-10-25T20:34:23.659Z",
+        "price": 122541,
+        "change": 217,
+        "changePct": 0.18,
+        "timestamp": "2026-10-25T23:04:34.482Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 164656,
-        "change": -3229,
-        "changePct": -1.92,
-        "timestamp": "2026-10-25T20:34:23.712Z",
+        "price": 165483,
+        "change": 827,
+        "changePct": 0.5,
+        "timestamp": "2026-10-25T23:04:34.486Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9803,
-        "change": 361,
-        "changePct": 3.82,
-        "timestamp": "2026-10-25T20:34:23.761Z",
+        "price": 9690,
+        "change": -114,
+        "changePct": -1.16,
+        "timestamp": "2026-10-25T23:04:34.535Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
