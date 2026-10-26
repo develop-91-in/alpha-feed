@@ -1,85 +1,475 @@
 {
-  "generatedAt": "2026-10-25T23:04:34.535Z",
+  "generatedAt": "2026-10-26T03:54:19.302Z",
   "articles": [
     {
-      "title": "Deeply divided Israel braces for pivotal election",
-      "desc": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 22:11:13 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
-      "desc": "India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system adjustments. Audit committees are discussing transition plans while awaiting final rules and guidance from regulatory bodies.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-inc-braces-for-financial-reporting-overhaul-with-ind-as-118-key-changes-and-impacts/articleshow/135197446.cms",
-      "pubDate": "Mon, 26 Oct 2026 01:38:55 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "desc": "Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 16:42:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "‘Very high’ expectations from India-EU FTA, says Rotterdam port chief",
-      "desc": "Boudewijn Siemons, CEO of the Port of Rotterdam, expressed high expectations for the India-EU free trade agreement. He highlighted the importance of collaboration between ports and nations to facilitate global trade. Siemons conveyed his optimism about increased business opportunities between Europe and India. Negotiations for the free trade agreement have concluded, with hopes to sign it by year-end. The implementation of the agreement is anticipated for next year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/very-high-expectations-from-india-eu-fta-says-rotterdam-port-chief/articleshow/135193153.cms",
-      "pubDate": "Sun, 25 Oct 2026 20:34:36 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "desc": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 14:39:47 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Cities cannot be governed from state capitals, need empowered local governments: NITI Aayog's Rajiv Gauba",
-      "desc": "Rajiv Gauba emphasized the need for reforms in urban governance during the National Urban Conclave. He highlighted the importance of empowering city governments and proposed directly elected mayors for better governance. The projected increase in India's urban population demands significant infrastructure and service management changes. Gauba called for improved municipal revenues and the adoption of the Model Tenancy Act to support affordable housing.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/empowering-local-governments-niti-aayogs-vision-for-indias-urban-future/articleshow/135192416.cms",
-      "pubDate": "Sun, 25 Oct 2026 19:34:21 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Google’s AI search changes upended online publishing",
-      "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on [&#8230;]",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "pubDate": "2026-10-25T08:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "desc": "Indian equities fell over 2% last week as rising crude oil prices, FII outflows and geopolitical tensions weighed on sentiment. Broader markets underperformed, while global indices also declined and market breadth strongly favoured bears.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
-      "pubDate": "Sun, 25 Oct 2026 16:21:41 +0530",
+      "title": "PMS Talk: AI, defence and electronics manufacturing are the next growth engines, says Vaibhav Agarwal",
+      "desc": "In this edition of ETMarkets PMS Talk, we speak with Vaibhav Agarwal, Founder &amp; CIO, Accelt Asset Management LLP, about how his team’s bottom-up stock-picking approach identifies businesses capable of delivering sustained earnings growth. He explains why smallcaps offer opportunities among companies growing earnings at 25–30%, how the GMCV framework — Growth, Management, Capital Efficiency and Valuation — helps separate potential compounders from value traps, and why paying the right price matters even when a business has a compelling growth story.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-ai-defence-and-electronics-manufacturing-are-the-next-growth-engines-says-vaibhav-agarwal/articleshow/135201983.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:06:39 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "FSN E-Commerce Ventures among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "desc": "As of October 23, five NSE F&amp;O stocks recorded more than 7% growth in futures open interest, signalling increased trader participation and fresh position-building. FSN E-Commerce Ventures and Godfrey Phillips India led the list with 10.88% increases each, followed by CG Power, Ujjivan Small Finance Bank and Siemens Energy India.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fsn-e-commerce-ventures-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135202087.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:02:40 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "EAAA India Alternatives IPO opens today: Check GMP, anchor investment and other key details",
+      "desc": "EAAA India Alternatives’ Rs 1,200-crore IPO opens on October 26 and closes October 28, 2026, with a price band of Rs 1,585–Rs 1,665 per share. The offer is entirely an OFS. Its grey market premium stands at around 2%. FY26 income rose 23%, while profit increased 15%.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-opens-today-check-gmp-anchor-investment-and-other-key-details/articleshow/135201979.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:00:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "PMS Talk: How Rs 50 lakh invested in Karma Capital in 2006 grew to Rs 5.4 crore",
+      "desc": "In this edition of ETMarkets PMS Talk, the co-founders discuss the lessons from their 20-year investment journey, how they identify companies before their growth stories become market favourites, and why valuation discipline, management quality and capital protection matter as much as returns. They also share their outlook on India's healthcare and auto component sectors, and explain what investors should evaluate beyond CAGR when choosing a PMS.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-how-rs-50-lakh-invested-in-karma-capital-in-2006-grew-to-rs-5-4-crore/articleshow/135201700.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:51:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ipca Laboratories among 4 stocks showing RSI trending up",
+      "desc": "Ipca Laboratories, Shree Cement, JSW Cement and Oil &amp; Natural Gas Corporation featured in StockEdge’s RSI Trending Up scan on October 23, signalling improving price momentum across four stocks.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ipca-laboratories-among-4-stocks-showing-rsi-trending-up/slideshow/135201669.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:33:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James",
+      "desc": "Indian equities could face another leg of weakness unless the Nifty reclaims 22,800 early next week, with the index strategist Anand James warning that a break below the 22,000–22,070 support zone could open the way towards 21,500. He also sees HDFC Bank’s long-term bullish structure as broken, with the stock vulnerable to ₹640, while the recent IT rebound appears more like a relief rally than a durable sector rotation.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-risks-21500-hdfc-bank-eyes-640-it-rally-shows-fatigue-anand-james/articleshow/135201103.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:26:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+      "desc": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:24:55 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Prime Focus among 4 stocks closing above VWAP",
+      "desc": "Sterlite Technologies, Cemindia Projects, Prime Focus and Gabriel India featured in StockEdge’s VWAP scan on October 23, with closing prices more than 2% above their respective volume-weighted average prices.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-closing-above-vwap/slideshow/135201453.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:24:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "PMS Talk: AI, defence and electronics manufacturing are the next growth engines, says Vaibhav Agarwal",
+      "desc": "In this edition of ETMarkets PMS Talk, we speak with Vaibhav Agarwal, Founder &amp; CIO, Accelt Asset Management LLP, about how his team’s bottom-up stock-picking approach identifies businesses capable of delivering sustained earnings growth. He explains why smallcaps offer opportunities among companies growing earnings at 25–30%, how the GMCV framework — Growth, Management, Capital Efficiency and Valuation — helps separate potential compounders from value traps, and why paying the right price matters even when a business has a compelling growth story.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-ai-defence-and-electronics-manufacturing-are-the-next-growth-engines-says-vaibhav-agarwal/articleshow/135201983.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:06:39 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "FSN E-Commerce Ventures among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "desc": "As of October 23, five NSE F&amp;O stocks recorded more than 7% growth in futures open interest, signalling increased trader participation and fresh position-building. FSN E-Commerce Ventures and Godfrey Phillips India led the list with 10.88% increases each, followed by CG Power, Ujjivan Small Finance Bank and Siemens Energy India.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fsn-e-commerce-ventures-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135202087.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:02:40 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "EAAA India Alternatives IPO opens today: Check GMP, anchor investment and other key details",
+      "desc": "EAAA India Alternatives’ Rs 1,200-crore IPO opens on October 26 and closes October 28, 2026, with a price band of Rs 1,585–Rs 1,665 per share. The offer is entirely an OFS. Its grey market premium stands at around 2%. FY26 income rose 23%, while profit increased 15%.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-opens-today-check-gmp-anchor-investment-and-other-key-details/articleshow/135201979.cms",
+      "pubDate": "Mon, 26 Oct 2026 09:00:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Talent, compute and R&amp;D key to India's AI ambitions: Report",
+      "desc": "India will need to strengthen its talent pool, research and development (R&amp;D) capabilities, computing infrastructure and data systems to translate advances in artificial intelligence (AI) and other emerging technologies into economic and social benefits, according to a report by KPMG.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/talent-compute-and-rd-key-to-indias-ai-ambitions-report/articleshow/135201920.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:53:49 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "PMS Talk: How Rs 50 lakh invested in Karma Capital in 2006 grew to Rs 5.4 crore",
+      "desc": "In this edition of ETMarkets PMS Talk, the co-founders discuss the lessons from their 20-year investment journey, how they identify companies before their growth stories become market favourites, and why valuation discipline, management quality and capital protection matter as much as returns. They also share their outlook on India's healthcare and auto component sectors, and explain what investors should evaluate beyond CAGR when choosing a PMS.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/pms-talk-how-rs-50-lakh-invested-in-karma-capital-in-2006-grew-to-rs-5-4-crore/articleshow/135201700.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:51:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Ipca Laboratories among 4 stocks showing RSI trending up",
+      "desc": "Ipca Laboratories, Shree Cement, JSW Cement and Oil &amp; Natural Gas Corporation featured in StockEdge’s RSI Trending Up scan on October 23, signalling improving price momentum across four stocks.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ipca-laboratories-among-4-stocks-showing-rsi-trending-up/slideshow/135201669.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:33:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Nifty risks 21,500, HDFC Bank eyes ₹640, IT rally shows fatigue: Anand James",
+      "desc": "Indian equities could face another leg of weakness unless the Nifty reclaims 22,800 early next week, with the index strategist Anand James warning that a break below the 22,000–22,070 support zone could open the way towards 21,500. He also sees HDFC Bank’s long-term bullish structure as broken, with the stock vulnerable to ₹640, while the recent IT rebound appears more like a relief rally than a durable sector rotation.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-risks-21500-hdfc-bank-eyes-640-it-rally-shows-fatigue-anand-james/articleshow/135201103.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:26:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Elon Musk says SpaceX raised $40 billion in debt for GPUs",
+      "desc": "Musk's post comes after Reuters reported earlier this month that SpaceX is in talks with banks and asset managers to raise $40 billion for the purchase of ​Nvidia artificial intelligence chips.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:24:55 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Prime Focus among 4 stocks closing above VWAP",
+      "desc": "Sterlite Technologies, Cemindia Projects, Prime Focus and Gabriel India featured in StockEdge’s VWAP scan on October 23, with closing prices more than 2% above their respective volume-weighted average prices.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/prime-focus-among-4-stocks-closing-above-vwap/slideshow/135201453.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:24:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Jio IPO allotment likely today: GMP signals 22% listing gains — Here’s how to check status",
+      "desc": "The IPO allotment is expected to be finalised today, allowing applicants to check whether they have been allotted shares through the registrar’s website and other online platforms. Jio Platforms shares are scheduled to list on the BSE and NSE on October 28, 2026.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-allotment-likely-today-gmp-signals-22-listing-gains-heres-how-to-check-status/articleshow/135201263.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:18:36 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "CreditAccess Grameen among 4 stocks closing below VWAP",
+      "desc": "CreditAccess Grameen, Sagility, Zensar Technologies and Atul featured in StockEdge’s VWAP scan on October 23, with closing prices more than 2% below their respective volume-weighted average prices.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-4-stocks-closing-below-vwap/slideshow/135201378.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:17:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Reports -7.99% Returns Over the Week",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-26-oct-2026/liveblog/135201297.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:16:49 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's monthly returns highlight growth",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-26-oct-2026/liveblog/135201060.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:02:03 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic's Claude accessed Georgia state vote count information behind paywall",
+      "desc": "Anthropic's Claude bypassed a paywall and accessed publicly available US state of Georgia voter data without human authorization, Axios reported on Sunday.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall/articleshow/135201024.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:01:26 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital Reports Negative Weekly Returns",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-26-oct-2026/liveblog/135201017.cms",
+      "pubDate": "Mon, 26 Oct 2026 08:00:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Oil Price Today (October 26): Crude oil at $115, retreats from 6-month high despite lingering concerns. What are experts saying?",
+      "desc": "US crude futures declined $1.82, or 2%, to $101.48 a barrel, while Brent crude futures dropped $1.50, or 1.72%, to $115 a barrel. Both benchmarks had settled nearly $3 higher on Friday following Houthi attacks in Saudi Arabia that heightened concerns over energy supplies. Brent gained 6% over the week, while US West Texas Intermediate (WTI) rose 2.3%.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-26-crude-oil-at-115-retreats-from-6-month-high-despite-lingering-concerns-what-are-experts-saying/articleshow/135200948.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:56:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
+      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 02:16:37 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Currency markets subdued ahead of pivotal central bank week",
+      "desc": "As the week kicks off, major currencies hover in narrow trading bands amidst pivotal central bank meetings. Oil prices experienced a decline after hitting a six-month high, affecting the strength of the dollar. Meanwhile, US Treasury yields remain elevated due to lingering inflation worries connected to the rising oil costs. With five significant central banks likely to hold rates steady, market watchers are keen to decipher forward guidance.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/currency-markets-subdued-ahead-of-pivotal-central-bank-week/articleshow/135200680.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:37:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Unacademy founders plan AI fund; Flipkart’s premium push",
+      "desc": "Happy Monday! Unacademy’s founders are raising a fund focused on AI and deeptech. This and more in today’s ETtech Morning Dispatch.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:34:54 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari",
+      "desc": "Foreign investors may return to Indian equities only if crude oil prices cool, according to Ashutosh Tiwari, managing director and chief investment officer—public equities at Equirus Asset Management. While valuations have corrected and earnings growth is expected to improve, rising oil prices have emerged as the key trigger behind renewed FII selling and remain the biggest hurdle to a sharper market re-rating.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/crude-oil-is-the-key-to-bringing-fii-money-back-to-dalal-street-equirus-amcs-ashutosh-tiwari/articleshow/135200515.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:28:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Negative Breakout: These 5 stocks cross below their 200 DMAs",
+      "desc": "The 200 DMA is a widely used technical indicator that helps traders assess the overall trend of a stock.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-5-stocks-cross-below-their-200-dmas/slideshow/135200624.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:26:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Gold lingers near three-month low ahead of Fed policy meeting",
+      "desc": "Gold prices dipped close to a three-month low, reflecting worries from investors as the Federal Reserve meeting approaches. While an interest rate hike appears more likely for December, this week’s chances remain low. In the oil market, prices fell back after a prior rise, amid ongoing supply worries linked to conflicts.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-three-month-low-ahead-of-fed-policy-meeting/articleshow/135200563.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:24:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Oil slips from near six-months highs despite supply concerns",
+      "desc": "Oil prices took a dip on Monday after peaking at six-month highs due to rising supply concerns stemming from ongoing militant attacks. US crude futures tumbled sharply, with Brent crude following suit. The heightened fears arose from the recent Houthi attacks in Saudi Arabia, especially after a notable price spike last Friday.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-from-near-six-months-highs-despite-supply-concerns/articleshow/135200551.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:20:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Fed expected to pause rate hikes ahead of US midterms",
+      "desc": "The US Federal Reserve's upcoming meeting is expected to result in steady interest rates. High inflation continues to challenge economic policies, with rates anticipated to rise later this year. The Federal Open Market Committee will analyze data amidst political considerations ahead of the midterm elections. Analysts believe that while inflation remains a concern, a cautious approach will likely be taken.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-expected-to-pause-rate-hikes-ahead-of-us-midterms/articleshow/135200484.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:14:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade lower",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-infosys-kotak-bank-share-price-26-october-2026/liveblog/135200505.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:08:12 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sinking profits turn China’s $3.5 trillion rout into trap",
+      "desc": "Chinese stocks are experiencing a significant selloff resulting in a loss of $3.5 trillion since May. Increased competition and declining demand have negatively impacted corporate profits across various industries. Many companies, including major technology firms, are under financial pressure, prompting them to seek additional funding. The third-quarter earnings reports have shown disappointing results, highlighting ongoing profitability concerns. Analysts remain cautious about the potential for economic recovery as consumption remains weak.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sinking-profits-turn-chinas-3-5-trillion-rout-into-trap/articleshow/135200415.cms",
+      "pubDate": "Mon, 26 Oct 2026 07:06:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "G-Sec yields at three-year peak, could climb to 7.75% by December",
+      "desc": "India's benchmark 10-year government bond yield is expected to reach 7.75% by December. This increase is influenced by high crude oil prices and tight liquidity conditions. Persistent bond supply and expectations of further monetary tightening are driving the yield higher. Foreign portfolio investors have sold significant amounts of Indian debt, contributing to market instability. Economic concerns are spreading across emerging markets due to the interplay of oil prices and yields.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-yields-at-three-year-peak-could-climb-to-7-75-by-december/articleshow/135200262.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:35:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Double-digit growth seen on corporate scoreboard in Q2, but bank, IT, pharma lag",
+      "desc": "September quarter earnings exhibited significant revenue and profit growth for various companies in key sectors. Revenue rose by 22.1% with net profit increasing by 27.5%, surpassing the previous quarter. However, banking, IT, and pharmaceuticals sectors experienced a slow down in growth rates. Excluding lending, operating margins improved, indicating stronger performance in non-banking sectors. Analysts expect 13 out of 18 sectors to deliver double-digit sales growth in the coming quarters.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/double-digit-growth-seen-on-corporate-scoreboard-in-q2-but-bank-it-pharma-lags/articleshow/135200205.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:26:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "The Papers: 'Budget tax reprieve for pensioners' and 'Meghan dad net to widen'",
+      "desc": "Stories about the Budget and the investigation into the father of the Duchess of Sussex  feature on Monday's front pages.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn28nd58no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 00:50:51 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Global Market Today: Asian shares slip as AI jitters deepen ahead of big tech earnings",
+      "desc": "MSCI Inc.’s Asia Pacific equities gauge fell 0.2% ahead of this season’s busiest earnings week in Asia. US equity-index futures erased earlier gains and traded little changed.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-slip-as-ai-jitters-deepen-ahead-of-big-tech-earnings/articleshow/135200167.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:14:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "India valuations hit 6-year low, but stocks still expensive than EM peers",
+      "desc": "India's equity valuations have reached their lowest levels in six years after a recent market decline. Factors contributing to this decline include foreign selling, a weaker rupee, and rising crude prices. Despite lower valuations, overseas investors remain hesitant to invest in Indian equities due to comparative valuations. The MSCI India Index trades at a premium compared to other emerging markets, influencing foreign investor sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:07:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "D-St set for a cautious opening as GIFT Nifty signals muted start",
+      "desc": "Benchmark indices experienced a decline on Friday due to high Brent crude oil prices and global market weakness. Nifty was noted to face immediate resistance at 22,850 levels, with previous week's high acting as a hurdle. The rupee fell against the dollar for the second consecutive day, impacted by rising crude prices. Foreign portfolio investors were net buyers, while domestic institutional investors also increased their holdings.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135199481.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:00:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
+      "desc": "Indian equity markets have faced a decline for four consecutive sessions, with the Nifty falling significantly. Various factors, including selling by foreign investors and rising crude oil prices, have contributed to this downturn. Notable stocks such as Infosys and Kotak Mahindra Bank have attracted investor attention due to their quarterly earnings. Upcoming developments may influence market sentiment further as investors remain watchful.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
+      "pubDate": "Mon, 26 Oct 2026 06:00:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "desc": "The economic is positive now but come January things could become trickier for the Labour government",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 00:26:49 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "BlackRock stays cautious on Indian equities despite cheaper valuations",
+      "desc": "BlackRock Investment Institute has not yet adopted a bullish stance on Indian equities due to ongoing uncertainties. The firm anticipates greater clarity on corporate earnings and energy prices before changing its outlook. Despite elevated energy costs, India's economic resilience remains noteworthy amidst geopolitical tensions. Foreign investors have been net sellers of Indian equities for several months, impacting market performance.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-stays-cautious-on-indian-equities-despite-cheaper-valuations/articleshow/135200058.cms",
+      "pubDate": "Mon, 26 Oct 2026 05:53:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "IPO rush continues: 9 issues to raise Rs 2,768 crore this week",
+      "desc": "In the upcoming week, the market gears up for an exciting round of initial public offerings, featuring five mainboard IPOs and four small and medium enterprise (SME) IPOs, with a target of raising ₹2,768 crore. The largest mainboard IPO comes from EAAA India Alternatives, aiming for ₹1,200 crore. Other participants include SFC Environmental Technologies with a ₹667.53 crore offer and MK Sons Fine Jewels planning to raise ₹275.40 crore.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-9-issues-to-raise-rs-2768-crore-this-week/articleshow/135199752.cms",
+      "pubDate": "Mon, 26 Oct 2026 05:41:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Nifty outlook bearish, but near-term recovery in sight: Analysts",
+      "desc": "The Nifty index fell over 2% amid sustained selling pressures with technical indicators signaling support levels. Analysts have identified crucial resistance levels and potential near-term recovery points for the index. Several stocks have shown strength and recommendations have been made for buying opportunities. Additionally, bearish momentum remains evident in specific sectors while futures strategies are advised. Overall, investors are encouraged to adopt a cautious approach during this volatile period.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-outlook-can-the-index-rebound-despite-bearish-signals/articleshow/135199446.cms",
+      "pubDate": "Mon, 26 Oct 2026 05:31:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Iran war live: Trump rules out strikes ‘today’; missile downed near Riyadh",
+      "desc": "Trump&#039;s statement comes as Iran says renewed US-Israeli attacks &#039;will achieve no different outcome&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "desc": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 23:44:34 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -112,6 +502,16 @@
       "sectionLabel": "Indian Economy"
     },
     {
+      "title": "Dr Reddy's bets on generic semaglutide, biosimilars",
+      "desc": "Dr Reddy's domestic formulations business grew in the September quarter, while Revlimid sales declined in North America. A relaunch of generic semaglutide and the US launch of abatacept biosimilar are anticipated for future growth. The company aims to sell millions of pens for semaglutide with a focus on international markets. Furthermore, an expanding biosimilars portfolio aims to strengthen its position beyond traditional generics.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-pioneering-the-future-with-generic-semaglutide-and-expanding-biosimilar-portfolio/articleshow/135200343.cms",
+      "pubDate": "Mon, 26 Oct 2026 01:19:21 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Competition Commission of India to hire 41 across departments",
       "desc": "Individuals will be hired for positions at both CCI and its investigation arm, the director general (DG) office, according to public notices.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/competition-commission-of-india-to-hire-41-across-departments/articleshow/135197277.cms",
@@ -120,6 +520,16 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Insurance commission: NBFCs seek 5-year transition period to reduce selling fee",
+      "desc": "The industry body of NBFCs has told the Insurance Regulatory and Development Authority of India (IRDAI) that the proposed commission caps of 2% for credit life and 5% for credit health insurance would make credit-linked insurance distribution unviable, given distribution costs are about 32% of the premium.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-commission-nbfcs-seek-5-year-transition-period-to-reduce-selling-fee/articleshow/135200328.cms",
+      "pubDate": "Mon, 26 Oct 2026 00:56:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Zen Browser is the Arc replacement I was looking for",
@@ -132,14 +542,34 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "desc": "Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 16:42:33 +0000",
+      "title": "Insurance commission: IRDAI extends time for feedback to October 31",
+      "desc": "The regulator is engaging with different stakeholder groups and has not reached a conclusion on the proposals, IRDAI chairman Ajay Seth had said recently. The objective is to move towards a more efficient regime without disrupting existing businesses or livelihoods. Some stakeholders have sought a longer transition period, while others have raised concerns about low-ticket policies, Seth had said. Larger insurers, smaller companies and new entrants have different concerns, as do various categories of insurance distributors.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-commission-irdai-extends-time-for-feedback-to-october-31/articleshow/135200321.cms",
+      "pubDate": "Mon, 26 Oct 2026 00:49:24 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "AI narrative needs to change for India: K Balasubramanian, CEO, Citibank India",
+      "desc": "Long-term capital-gains tax is a big factor on the equity side. On direct investment, the trade agreements are going to be a big positive. Trade agreements create potentially important UK-India and EU-India corridors. We have been doing a lot of work identifying companies that could benefit and engage with clients. For Citi, that opportunity can flow through services and markets and potentially through investment-banking transactions as multinational companies raise capital in India, says K Balasubramanian, CEO, Citibank India.",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/ai-narrative-needs-to-change-for-india-k-balasubramanian-ceo-citibank-india/articleshow/135200254.cms",
+      "pubDate": "Mon, 26 Oct 2026 00:40:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "RBI data centre to strengthen payment systems, cyber resilience",
+      "desc": "The Reserve Bank of India inaugurated a new sovereign data centre to enhance the resilience of financial services and reduce reliance on third-party cloud providers. Prime Minister Narendra Modi also inaugurated a cybersecurity training institute, which will develop expertise in emerging technologies. The data centre will support critical systems like RTGS and NEFT for efficient financial transactions.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-data-centre-to-strengthen-payment-systems-cyber-resilience/articleshow/135200305.cms",
+      "pubDate": "Sun, 25 Oct 2026 21:56:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "‘Very high’ expectations from India-EU FTA, says Rotterdam port chief",
@@ -287,9 +717,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 07:15:38 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Heating oil costs 'more than double' ahead of winter",
@@ -367,9 +797,9 @@
       "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 06:00:15 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "MSME business confidence improves despite rising input costs, manufacturing sentiment strongest: SIDBI",
@@ -440,79 +870,69 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s fate next week",
-      "desc": "Indian stock markets faced a setback as crude oil prices soared, triggered by increasing geopolitical tensions in the Middle East. Despite some defensive buying from domestic institutions, foreign investors pulled back. The forthcoming US Federal Reserve meeting is poised to impact global market moods. Investors will be keenly watching industrial production metrics and second-quarter earnings for insights on corporate health, as macroeconomic stability remains crucial for market trends.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
-      "pubDate": "Sun, 25 Oct 2026 09:18:39 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-25T23:04:34.535Z",
+    "generatedAt": "2026-10-26T03:54:19.301Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
       {
         "symbol": "NIFTY 50",
-        "price": 22600,
-        "change": -87.7,
-        "changePct": -0.39,
-        "timestamp": "2026-10-25T23:04:34.283Z",
+        "price": 22408.7,
+        "change": -191.3,
+        "changePct": -0.85,
+        "timestamp": "2026-10-26T03:54:19.001Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
         "price": 73123.83,
-        "change": -125.57,
-        "changePct": -0.17,
-        "timestamp": "2026-10-25T23:04:34.338Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-26T03:54:19.086Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
-        "price": 54287.35,
-        "change": -638.35,
-        "changePct": -1.16,
-        "timestamp": "2026-10-25T23:04:34.385Z",
+        "price": 53847,
+        "change": -440.35,
+        "changePct": -0.81,
+        "timestamp": "2026-10-26T03:54:19.137Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.93,
-        "change": 0.12,
-        "changePct": 0.13,
-        "timestamp": "2026-10-25T23:04:34.435Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-26T03:54:19.186Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 122541,
-        "change": 217,
-        "changePct": 0.18,
-        "timestamp": "2026-10-25T23:04:34.482Z",
+        "price": 122794,
+        "change": 470,
+        "changePct": 0.38,
+        "timestamp": "2026-10-26T03:54:19.232Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 165483,
-        "change": 827,
-        "changePct": 0.5,
-        "timestamp": "2026-10-25T23:04:34.486Z",
+        "price": 165559,
+        "change": 903,
+        "changePct": 0.55,
+        "timestamp": "2026-10-26T03:54:19.257Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9690,
-        "change": -114,
-        "changePct": -1.16,
-        "timestamp": "2026-10-25T23:04:34.535Z",
+        "price": 9575,
+        "change": -229,
+        "changePct": -2.33,
+        "timestamp": "2026-10-26T03:54:19.301Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
