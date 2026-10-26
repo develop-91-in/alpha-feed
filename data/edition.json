@@ -1,83 +1,283 @@
 {
-  "generatedAt": "2026-10-26T16:39:07.113Z",
+  "generatedAt": "2026-10-26T21:28:54.547Z",
   "articles": [
     {
-      "title": "Anthropic vs OpenAI: How Claude maker’s growth is challenging ChatGPT ahead of IPO",
-      "desc": "Anthropic has seen significant revenue growth, reaching $16.29 billion in the first half of 2026. OpenAI continues to expand its business model while generating substantial revenues from its consumer and enterprise offerings. Both companies face financial pressures as they invest heavily in infrastructure and computing power. The competition between Anthropic and OpenAI is primarily driven by their customer acquisition strategies and operational efficiencies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-vs-openai-how-claude-makers-growth-is-challenging-chatgpt-ahead-of-ipo/articleshow/135215446.cms",
-      "pubDate": "Mon, 26 Oct 2026 21:57:14 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Paytm Q2 Results: Profit rockets 976% YoY to Rs 226 crore, revenue jumps 28%",
-      "desc": "Paytm Q2 Results: Fintech major Paytm on Monday reported 976% year-on-year (YoY) growth in its consolidated net profit at Rs 226 crore. The same stood at Rs 21 crore in the year-ago quarter. Revenue from operations in the reporting period rose 28% YoY to Rs 2,648 crore.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms",
-      "pubDate": "Mon, 26 Oct 2026 21:15:42 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-      "desc": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-      "pubDate": "Mon, 26 Oct 2026 15:41:29 +0000",
+      "title": "Palestinian children crawl under Israeli military gates to get to school",
+      "desc": "Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 20:46:01 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
-      "desc": "Tamilnad Mercantile Bank has set a remarkable milestone with a net profit of Rs 451 crore for the quarter from July to September. This success is buoyed by a substantial rise in interest income, totaling Rs 1,820 crore compared to the same period last year. Managing Director Salee Sukumaran Nair emphasized the role of net interest income in driving this profit.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms",
-      "pubDate": "Mon, 26 Oct 2026 20:56:51 +0530",
+      "title": "US Markets Today: S&amp;P, Nasdaq end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3 month high",
+      "desc": "US stocks ended higher as Anthropic's IPO filing rekindled interest in AI related investments and stocks. The S&amp;P 500 gained 0.70% and the Nasdaq rose by 0.83% following this news. Investors are keenly observing Anthropic's filing and its implications for the booming AI sector. Major companies like Meta are also planning significant investments in AI infrastructure and data centers.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms",
+      "pubDate": "Tue, 27 Oct 2026 01:47:48 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
-      "desc": "Indian Overseas Bank plans to raise $500 million through external commercial borrowings in two tranches by December. The lender reported a 56% rise in Q2 net profit to Rs 1,912 crore, alongside stronger credit growth and improved asset quality.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
-      "pubDate": "Mon, 26 Oct 2026 20:44:37 +0530",
+      "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
+      "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 19:57:23 GMT",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "MMT reports net profit of $1.8 million in Q2, revenues at $ 235.2 million",
-      "desc": "MakeMyTrip reported a $1.8 million Q2 net profit, reversing a year-earlier loss of $5.7 million. Revenue rose 11.2% to $235.2 million, while gross bookings grew 20.9%, supported by hotels, transport and AI-powered travel assistant Myra.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mmt-reports-net-profit-of-1-8-million-in-q2-revenues-at-235-2-million/articleshow/135214497.cms",
-      "pubDate": "Mon, 26 Oct 2026 20:36:23 +0530",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 19:57:23 GMT",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Bank of Maharashtra Q2 profit jumps 41.5% as bad loans decline",
-      "desc": "Bank of Maharashtra posted a 41.5% year-on-year rise in Q2 net profit to Rs 2,310 crore, supported by stronger income, deposit and credit growth, improved asset quality and a return on assets of 2.02%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
-      "pubDate": "Mon, 26 Oct 2026 20:34:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "ISMA says 107 sugar mills begin crushing operations so far, enough stock to meet domestic demand",
-      "desc": "Nearly 110 sugar mills have begun operations for the 2026-27 sugar marketing year in several states. The Indian Sugar &amp; Bio-Energy Manufacturers Association stated that the industry is prepared for sugarcane crushing. This readiness helps meet the expected domestic sugar demand of 280-285 lakh tonne annually. The government has also extended duty-free import windows to maintain sugar availability during the festive period.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/isma-says-107-sugar-mills-begin-crushing-operations-so-far-enough-stock-to-meet-domestic-demand/articleshow/135214445.cms",
-      "pubDate": "Mon, 26 Oct 2026 20:33:51 +0530",
+      "title": "Cotton shortage set to worsen as new deals drive export demand",
+      "desc": "The impact of El Nino weather conditions could further hurt domestic production, expected to fall by 3.4% to a new low in the 2026-27 crop year ended September. Cotton imports hit a record high in 2025-26 to an estimated 7.1 million bales of 170 kilograms compared to last year's imports of 5.74 million bales. Prices have also risen more than 7% in the past month.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/cotton-shortage-set-to-worsen-as-new-deals-drive-export-demand/articleshow/135218241.cms",
+      "pubDate": "Tue, 27 Oct 2026 00:08:45 +0530",
       "image": "",
       "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO",
+      "desc": "Anthropic pauses training of its next generation AI model for more than a month over security concerns, while four AI models access live external computer systems during testing. The company discloses the incidents in its IPO filing as it warns that training delays could affect revenue and leave it behind rivals.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
+      "pubDate": "Tue, 27 Oct 2026 00:08:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "India and US fine-tune trade pact after concluding most talks, says Piyush Goyal",
+      "desc": "India and the United States have nearly finalized discussions regarding a proposed bilateral trade agreement. Commerce Minister Piyush Goyal mentioned that fine-tuning of the agreement is currently underway. This follows remarks from US Secretary of State Marco Rubio about a few remaining details. Initially, the US removed a penalty on Indian goods related to Russian oil purchases.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-us-fine-tune-trade-pact-after-concluding-most-talks-says-piyush-goyal/articleshow/135218011.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:58:33 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
+      "desc": "Sunteck Realty recorded a net profit of Rs 99 crore in the first half of FY27. Revenue increased 16% to Rs 512 crore, reflecting strong business growth during this period. Pre-sales also rose to Rs 1,611 crore, showing continued demand for properties. The company made significant investments in business development, acquiring land in Borivali. Overall, Sunteck's growth indicators continue to strengthen as they prepare for future projects.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:58:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Palestinian children crawl under Israeli military gates to get to school",
+      "desc": "Palestinian children in Jenin have to crawl under Israeli military gates to get to and from school.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 20:46:01 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US Markets Today: S&amp;P, Nasdaq end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3 month high",
+      "desc": "US stocks ended higher as Anthropic's IPO filing rekindled interest in AI related investments and stocks. The S&amp;P 500 gained 0.70% and the Nasdaq rose by 0.83% following this news. Investors are keenly observing Anthropic's filing and its implications for the booming AI sector. Major companies like Meta are also planning significant investments in AI infrastructure and data centers.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms",
+      "pubDate": "Tue, 27 Oct 2026 01:47:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
+      "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 19:57:23 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 19:57:23 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Cotton shortage set to worsen as new deals drive export demand",
+      "desc": "The impact of El Nino weather conditions could further hurt domestic production, expected to fall by 3.4% to a new low in the 2026-27 crop year ended September. Cotton imports hit a record high in 2025-26 to an estimated 7.1 million bales of 170 kilograms compared to last year's imports of 5.74 million bales. Prices have also risen more than 7% in the past month.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/cotton-shortage-set-to-worsen-as-new-deals-drive-export-demand/articleshow/135218241.cms",
+      "pubDate": "Tue, 27 Oct 2026 00:08:45 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO",
+      "desc": "Anthropic pauses training of its next generation AI model for more than a month over security concerns, while four AI models access live external computer systems during testing. The company discloses the incidents in its IPO filing as it warns that training delays could affect revenue and leave it behind rivals.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
+      "pubDate": "Tue, 27 Oct 2026 00:08:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India and US fine-tune trade pact after concluding most talks, says Piyush Goyal",
+      "desc": "India and the United States have nearly finalized discussions regarding a proposed bilateral trade agreement. Commerce Minister Piyush Goyal mentioned that fine-tuning of the agreement is currently underway. This follows remarks from US Secretary of State Marco Rubio about a few remaining details. Initially, the US removed a penalty on Indian goods related to Russian oil purchases.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-and-us-fine-tune-trade-pact-after-concluding-most-talks-says-piyush-goyal/articleshow/135218011.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:58:33 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
+      "desc": "Sunteck Realty recorded a net profit of Rs 99 crore in the first half of FY27. Revenue increased 16% to Rs 512 crore, reflecting strong business growth during this period. Pre-sales also rose to Rs 1,611 crore, showing continued demand for properties. The company made significant investments in business development, acquiring land in Borivali. Overall, Sunteck's growth indicators continue to strengthen as they prepare for future projects.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:58:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "FTA with India will be a game changer in supply chain management: EU ambassador to India",
+      "desc": "EU ambassador to India Jean-Eric Paquet further said, \"We are creating an economic space across India and the European internal market. That is what is being established, creating a long-term perspective and reliability for economic operators, which will obviously build on very significant trade already.\"",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/fta-with-india-will-be-a-game-changer-in-supply-chain-management-eu-ambassador-to-india/articleshow/135217927.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:56:01 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "EU can learn from India on cutting regulatory burden, says Piyush Goyal as Dutch minister rules out CBAM rethink",
+      "desc": "Piyush Goyal addressed the India-Netherlands Business Forum, highlighting India's deregulation efforts to reduce burdens on businesses. He asserted that the EU could learn from India's successful approach to regulatory matters. Dutch Minister Sjoerd Sjoerdsma acknowledged the importance of necessary regulations but emphasized the need to review those that hinder trade. He reiterated that climate and product safety regulations are crucial for European consumers.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eu-can-learn-from-india-on-cutting-regulatory-burden-says-piyush-goyal-as-dutch-minister-rules-out-cbam-rethink/articleshow/135217869.cms",
+      "pubDate": "Mon, 26 Oct 2026 23:52:48 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Could the midterms change US military support for Israel?",
+      "desc": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 18:05:12 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Algeria’s president orders troop deployment to neighbouring Niger",
+      "desc": "Niger requested troops to secure shared energy interests in what would be Algeria’s first deployment abroad since 1973.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 17:55:47 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Britain sanctions Sudanese commanders over weaponised rape",
+      "desc": "Commanders from the Rapid Support Forces (RSF) and Sudanese Armed Forces face travel and asset freezes.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/britain-sanctions-sudanese-commanders-over-weaponised-rape?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 17:32:46 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "desc": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, [&#8230;]",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "pubDate": "2026-10-26T13:30:55-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+      "desc": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 17:27:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "desc": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "pubDate": "2026-10-26T13:10:23-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "desc": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 17:00:09 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Guterres warns of ‘unimaginable’ consequences of Iran-Gulf escalation",
+      "desc": "UN Chief Antonio Guterres has warned of devastating consequences from any military escalation in the Gulf region.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/guterres-warns-iran-gulf-escalation-west-bank?traffic_source=rss",
+      "pubDate": "Mon, 26 Oct 2026 16:39:48 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "desc": "Indian stock markets saw a notable recovery after early losses on Monday. Sensex rose nearly 483 points, while Nifty gained over 153 points during the trading session. This rebound followed a four-day decline that significantly impacted investor wealth. Analysts noted value buying supported the recovery, particularly in sectors like power, healthcare, and metals. Despite this, caution prevailed due to geopolitical uncertainties and upcoming policy decisions from major global banks.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms",
+      "pubDate": "Mon, 26 Oct 2026 22:08:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "desc": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 16:30:34 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -102,6 +302,16 @@
       "sectionLabel": "IPO Centre"
     },
     {
+      "title": "MoSPI to start annual unincorporated sector enterprises survey from April 2027",
+      "desc": "The Ministry of Statistics and Programme Implementation will conduct the Annual Survey of Unincorporated Sector Enterprises from April 2027. New questions will address gender-specific constraints faced by female entrepreneurs for the first time. Additionally, the survey will capture the investment in fixed assets over an extended period. The survey period has shifted to align with the financial year for better data utility.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/mospi-to-start-annual-unincorporated-sector-enterprises-survey-from-april-2027/articleshow/135215429.cms",
+      "pubDate": "Mon, 26 Oct 2026 21:53:01 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
       "title": "Microsoft offers buyouts to 60,000 employees",
       "desc": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [&#8230;]",
       "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
@@ -120,26 +330,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Egyptian parliament authorises military aid for Saudi Arabia",
-      "desc": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
-      "pubDate": "Mon, 26 Oct 2026 15:41:29 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Microsoft&#8217;s new Surface Laptop Ultra update fixes reboot and display bugs",
-      "desc": "Microsoft's Surface Laptop Ultra was blighted by some nuisance bugs at launch, but now the company has released some new firmware to resolve them. The October 22 release addresses three issues notable issues in particular: screen flickering, unexpected restarts, and lengthy reboot times, alongside unspecified \"additional bug fixes and general performance improvements,\" according to Microsoft's [&#8230;]",
-      "link": "https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update",
-      "pubDate": "2026-10-26T11:28:11-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
@@ -242,8 +432,8 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Anthropic IPO: Rising costs, risks, rapid growth mark AI frontrunner",
-      "desc": "Anthropic, established by ex-OpenAI researchers, is gearing up for an anticipated entry into the stock market in the United States. The organization has impressively generated $16.29 billion in revenue during the first half of 2026. Yet, significant operational losses due to soaring computing costs pose a challenge, along with over $500 billion in cloud computing commitments. Competing against OpenAI and Google, they must adeptly maneuver through a tough economic environment.",
+      "title": "Anthropic IPO puts AI spending under the spotlight as losses mount",
+      "desc": "Anthropic, established by ex OpenAI researchers, is gearing up for an anticipated entry into the stock market in the United States. The organization has impressively generated $16.29 billion in revenue during the first half of 2026. Yet, significant operational losses due to soaring computing costs pose a challenge, along with over $500 billion in cloud computing commitments. Competing against OpenAI and Google, they must adeptly maneuver through a tough economic environment.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-rising-costs-risks-rapid-growth-market-ai-frontrunner/articleshow/135213738.cms",
       "pubDate": "Mon, 26 Oct 2026 19:43:20 +0530",
       "image": "",
@@ -272,16 +462,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "desc": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "pubDate": "2026-10-26T10:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "US stocks today: US stocks rise as Anthropic IPO puts AI spending under scrutiny",
       "desc": "Wall Street's main indexes experienced gains as technology stocks led the rise amid AI investment discussions. Investors are preparing for a busy week of corporate earnings and the Federal Reserve's decision on interest rates. Anthropic's IPO filing highlights both the demand for AI and associated development costs, creating investor caution. Chip stocks, benefiting from the AI boom, showed strong performance overall.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-anthropics-ipo-filing-sharpens-ai-focus/articleshow/135213224.cms",
@@ -302,16 +482,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-      "desc": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidentially filed with the SEC [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "pubDate": "2026-10-26T09:32:49-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Anthropic files for US IPO amid AI boom, rising costs and safety concerns",
       "desc": "Anthropic has filed for a US IPO to support its ambitious AI development plans and secure funding. The company's recent financial details show significant revenue growth, but losses have widened sharply. Investors are currently valuing Anthropic at approximately $1.5 trillion, reflecting recent market fluctuations. Anthropic is in competition with OpenAI in the race to create advanced AI systems.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs/articleshow/135212999.cms",
@@ -320,36 +490,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "desc": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 13:18:57 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Can AI help solve the COBOL code crisis?",
-      "desc": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"substantial improvements\" in its latest AI models' [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "pubDate": "2026-10-26T09:15:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Has Pakistan reopened its border with Iran for trade?",
-      "desc": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
-      "pubDate": "Mon, 26 Oct 2026 13:01:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Raymond Realty raises Rs 210 cr from ICICI Prudential Real Estate Development Fund",
@@ -382,16 +522,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "desc": "The death toll in Israel&#039;s genocidal war on Gaza climbs to 74,555, including 1,559 killed since &#039;ceasefire&#039; last year.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-      "pubDate": "Mon, 26 Oct 2026 12:17:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "India-US trade deal enters fine-tuning stage as most talks conclude, says Piyush Goyal",
       "desc": "India and the US are refining their bilateral trade agreement after concluding most discussions on the deal. Commerce Minister Piyush Goyal indicated significant progress has been made towards finalizing the agreement. Recent talks have involved high-level meetings between officials from both nations, focusing on tariff reductions and trade frameworks. Goyal is currently leading a significant delegation to the Netherlands and Germany to promote bilateral business ties.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-enters-fine-tuning-stage-as-most-talks-conclude-says-piyush-goyal/articleshow/135211604.cms",
@@ -412,7 +542,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "US Stock Market Live Updates: US stocks rise as Anthropic's IPO filing sharpens focus on AI trade",
+      "title": "US Stock Market Highlights: US stocks end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3-month high",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-earnings-fed-rate-decision-treasury-yields-oil-prices-alphabet-microsoft-amazon-coreweave-nebius-news-26th-october-2026/liveblog/135211801.cms",
       "pubDate": "Mon, 26 Oct 2026 17:40:42 +0530",
@@ -450,16 +580,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Consultant doctors in England to strike next month",
-      "desc": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions.",
-      "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 11:45:48 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "China's central bank sets up non-bank financial institution bond market swap facility",
@@ -500,16 +620,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
-      "desc": "Defence ministers from France, Germany, Italy, Poland and the UK to discuss increasing military assistance to Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support?traffic_source=rss",
-      "pubDate": "Mon, 26 Oct 2026 11:04:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Market wrap: Dr Reddys, JSW Steel, Shriram Finance, Tata Consumer top gainers and losers on Nifty and Sensex on Monday",
@@ -822,66 +932,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Gold prices rise Rs 700/10 gram; silver gains Rs 1,500/kg ahead of US Fed meet. Key levels to track today",
-      "desc": "Gold and silver prices rose on the MCX as easing oil prices tempered inflation concerns ahead of the US Federal Reserve’s October 27-28 meeting. Investors will track the Fed’s rate decision, geopolitical developments and the dollar’s movement. Analysts expect volatility, with key support and resistance levels outlined for both precious metals.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-700/10-gram-silver-gains-rs-1500/kg-ahead-of-us-fed-meet-key-levels-to-track-today/articleshow/135204122.cms",
-      "pubDate": "Mon, 26 Oct 2026 12:22:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: Japan bond yields edge higher ahead of key central bank meetings",
-      "desc": "Japanese government bond yields edged higher as investors assessed the monetary-policy outlook ahead of meetings by the Bank of Japan and the US Federal Reserve. Markets expected both central banks to keep rates unchanged while monitoring signals about possible December rate increases, inflation and economic growth.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-edge-higher-ahead-of-key-central-bank-meetings/articleshow/135204344.cms",
-      "pubDate": "Mon, 26 Oct 2026 11:39:59 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
-      "desc": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 06:00:04 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Tonbo Imaging shares soar another 17% after a 64% listing pop. Buy, sell or hold the stock?",
-      "desc": "Tonbo Imaging shares rallied after a strong stock market debut, following heavy demand for its IPO. Investors will track revenue growth, order execution, profitability, working capital and cash flows to assess the defence electronics company’s long-term prospects.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tonbo-imaging-shares-soar-another-17-after-a-64-listing-pop-buy-sell-or-hold-the-stock/articleshow/135204062.cms",
-      "pubDate": "Mon, 26 Oct 2026 11:23:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "$7.7 trillion AI bet: Can hyperscalers earn enough to justify the spending?",
-      "desc": "Six major hyperscalers are projected to spend $7.7 trillion on AI between 2026 and 2030, but generating adequate returns will be a challenge. UBS estimates they need $1 trillion in additional earnings before interest and taxes by 2031. The key questions are whether AI boosts productivity and companies can monetise those gains.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-7-trillion-ai-bet-can-hyperscalers-earn-enough-to-justify-the-spending/articleshow/135204017.cms",
-      "pubDate": "Mon, 26 Oct 2026 11:19:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio’s record India IPO falls short of record payday for bankers",
-      "desc": "Jio Platforms raised about $3.1 billion through its record IPO, but intense competition among investment banks kept fees relatively low at around 0.65% of the issue size.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
-      "pubDate": "Mon, 26 Oct 2026 11:16:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
       "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
       "desc": "A wave of American wealth created by artificial intelligence companies could produce some of the largest charitable sums since the era of Andrew Carnegie and John D. Rockefeller, raising questions about where the money goes. Nan Ransohoff of payments firm Stripe has described the moment as a \"third wave\" of American philanthropy, after the industrial fortunes of the late 19th century and the internet billionaires of recent decades.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy/articleshow/135203704.cms",
@@ -980,40 +1030,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
-      "desc": "India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system adjustments. Audit committees are discussing transition plans while awaiting final rules and guidance from regulatory bodies.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-inc-braces-for-financial-reporting-overhaul-with-ind-as-118-key-changes-and-impacts/articleshow/135197446.cms",
-      "pubDate": "Mon, 26 Oct 2026 01:38:55 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Competition Commission of India to hire 41 across departments",
-      "desc": "Individuals will be hired for positions at both CCI and its investigation arm, the director general (DG) office, according to public notices.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/competition-commission-of-india-to-hire-41-across-departments/articleshow/135197277.cms",
-      "pubDate": "Mon, 26 Oct 2026 00:58:14 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Business Daily",
-      "desc": "A Chinese export surge has implications far beyond its borders",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 19:00:00 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-26T16:39:07.113Z",
+    "generatedAt": "2026-10-26T21:28:54.547Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1022,7 +1042,7 @@
         "price": 22753.2,
         "change": 153.2,
         "changePct": 0.68,
-        "timestamp": "2026-10-26T16:39:02.871Z",
+        "timestamp": "2026-10-26T21:28:54.237Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1030,7 +1050,7 @@
         "price": 73606.75,
         "change": 482.92,
         "changePct": 0.66,
-        "timestamp": "2026-10-26T16:39:04.491Z",
+        "timestamp": "2026-10-26T21:28:54.299Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1038,7 +1058,7 @@
         "price": 54366.7,
         "change": 79.35,
         "changePct": 0.15,
-        "timestamp": "2026-10-26T16:39:04.591Z",
+        "timestamp": "2026-10-26T21:28:54.393Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1046,33 +1066,33 @@
         "price": 95.17,
         "change": 0.24,
         "changePct": 0.26,
-        "timestamp": "2026-10-26T16:39:05.977Z",
+        "timestamp": "2026-10-26T21:28:54.442Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123441,
-        "change": 808,
-        "changePct": 0.66,
-        "timestamp": "2026-10-26T16:39:06.065Z",
+        "price": 123340,
+        "change": 707,
+        "changePct": 0.58,
+        "timestamp": "2026-10-26T21:28:54.491Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 165794,
-        "change": 722,
-        "changePct": 0.44,
-        "timestamp": "2026-10-26T16:39:07.040Z",
+        "price": 165335,
+        "change": 263,
+        "changePct": 0.16,
+        "timestamp": "2026-10-26T21:28:54.497Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9790,
-        "change": -38,
-        "changePct": -0.39,
-        "timestamp": "2026-10-26T16:39:07.113Z",
+        "price": 9636,
+        "change": -192,
+        "changePct": -1.96,
+        "timestamp": "2026-10-26T21:28:54.547Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
