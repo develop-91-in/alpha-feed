@@ -1,95 +1,215 @@
 {
-  "generatedAt": "2026-10-27T19:55:49.938Z",
+  "generatedAt": "2026-10-27T23:39:26.164Z",
   "articles": [
     {
-      "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
-      "desc": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 19:36:01 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
-      "desc": "Das said the BFSI sector has a crucial role to play in India's journey from a lower-middle-income economy to a high-income economy, through its intermediation in allocation of financial resources. He said the sector would be required to support India's next-gen Digital Public Infrastructure (DPI), be the frontline of green and transition finance and become the catalyst for democratising financial inclusion to support this journey.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-in-striking-distance-of-8-growth-as-reforms-boost-economy-shaktikanta-das/articleshow/135244810.cms",
-      "pubDate": "Wed, 28 Oct 2026 00:42:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 18:45:56 GMT",
+      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
+      "desc": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 23:04:12 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Boeing cuts delivery target, shares hit 18-month low as recovery takes longer",
-      "desc": "Boeing has announced a cut in its 737 Max delivery target for this year, which raises concerns. The company now aims to increase 737 production to 52 jets per month in the second half of next year. Boeing reported a wider than expected loss in its commercial airplane division but posted positive free cash flow results. Despite delays, the company plans to begin deliveries of its 777-9 jets next year.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-cuts-delivery-target-shares-hit-18-month-low-as-recovery-takes-longer/articleshow/135243808.cms",
-      "pubDate": "Wed, 28 Oct 2026 00:00:07 +0530",
+      "title": "Smotrich dances in Israel despite far-right decline",
+      "desc": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 23:03:44 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 18:28:23 GMT",
+      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+      "desc": "Some families say they cannot afford to stockpile in line with the government's advice.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:51:50 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "desc": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:29:31 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:11:08 GMT",
       "image": "",
       "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "GST registration gets easier as CBIC drops Udyam proof, sets seven-day limit for approvals",
-      "desc": "The Central Board of Indirect Taxes and Customs has issued clarifications regarding GST registration requirements for businesses. Companies will no longer need to provide Udyam certificates or face rejections due to unpaid bills. Registration applications must be processed within seven working days with Aadhaar authentication. Tax demands must include clear justifications and cannot be arbitrary. These changes aim to simplify compliance and reduce disputes in tax administration.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/gst-registration-gets-easier-as-cbic-drops-udyam-proof-sets-seven-day-limit-for-approvals/articleshow/135243010.cms",
-      "pubDate": "Tue, 27 Oct 2026 23:32:00 +0530",
+      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+      "desc": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:28:33 +0000",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India to emerge as major exporter to China, ASEAN, get edge in US trade pact, says Piyush Goyal",
-      "desc": "Commerce and Industry Minister Piyush Goyal highlighted India's potential to expand exports to China and ASEAN. Negotiations are underway for a trade pact with the United States that could provide India a comparative advantage. The country is also working towards an Investment Protection Agreement with the European Union. Goyal indicated that discussions for preferential trade agreements are progressing with multiple countries and groups.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-to-emerge-as-major-exporter-to-china-asean-get-edge-in-us-trade-pact-says-piyush-goyal/articleshow/135242679.cms",
-      "pubDate": "Tue, 27 Oct 2026 23:18:44 +0530",
+      "title": "Forever Wars: Why can’t America stop?",
+      "desc": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:21:08 +0000",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Prediction market Kalshi expands safeguards for young traders",
-      "desc": "Kalshi is tightening safeguards for traders aged 18 to 20, introducing a $2,500 monthly deposit limit and alerts for users who put a large share of their funds into one trade. The prediction market also announced partnerships with youth safety groups as scrutiny over gambling risks grows",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-market-kalshi-expands-safeguards-for-young-traders/articleshow/135241699.cms",
-      "pubDate": "Tue, 27 Oct 2026 22:49:02 +0530",
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "desc": "Israel&#039;s military operation in West Bank&#039;s Hebron has disrupted Palestinian life, including a postponed wedding.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:12:27 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Plaid demands more cash, but how could the Budget affect Wales?",
+      "desc": "Welsh Finance Minister Elin Jones has called for a spending plan that \"finally treats us fairly\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ex97l1n7yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 23:04:12 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Smotrich dances in Israel despite far-right decline",
+      "desc": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 23:03:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+      "desc": "Some families say they cannot afford to stockpile in line with the government's advice.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:51:50 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
       "desc": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
       "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 19:41:05 GMT",
+      "pubDate": "Tue, 27 Oct 2026 22:30:09 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "desc": "Iranian president&#039;s words came at summit for gas exporting countries in Russia.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:29:31 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 22:11:08 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+      "desc": "US president seeks to highlight Venezuela operation as Iran war makes affordability a key midterm issue.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:28:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Forever Wars: Why can’t America stop?",
+      "desc": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:21:08 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Dream postponed: Hebron groom caught in Israeli military lockdown",
+      "desc": "Israel&#039;s military operation in West Bank&#039;s Hebron has disrupted Palestinian life, including a postponed wedding.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 21:12:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 20:54:48 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "pubDate": "2026-10-27T16:48:58-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "desc": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 20:42:38 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+      "desc": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve began its policy meeting, with expectations for interest rates to remain unchanged. Nearly half of S&amp;P 500 companies reported earnings, with many exceeding estimates while some major firms faced declines.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+      "pubDate": "Wed, 28 Oct 2026 01:46:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
@@ -130,6 +250,16 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "NYSE bets on all-or-nothing options as event driven trading gains traction",
+      "desc": "NYSE is preparing to launch binary return options that will let investors make all-or-nothing bets on whether stocks and ETFs finish above or below set prices. The exchange is also seeking approval for KPI options linked to company earnings metrics, expanding the range of event-driven trading products available to investors.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nyse-bets-on-binary-options-as-event-driven-trading-gains-traction/articleshow/135244896.cms",
+      "pubDate": "Wed, 28 Oct 2026 00:48:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
@@ -352,36 +482,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
-      "desc": "Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/27/lulas-victory-echoes-across-brics-after-fears-over-a-bolsonaro-win?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 16:05:22 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "pubDate": "2026-10-27T12:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Iranian and Qatari leaders meet at Russian energy forum",
-      "desc": "Iranian and Qatari leaders meet at Russian energy forum",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:49:19 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "West warns of famine risk in Sudan as civil war grinds on",
       "desc": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&amp;at_campaign=rss",
@@ -412,16 +512,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-      "desc": "Tehran remains firm on demands despite diplomatic urgency to prevent escalation in the ongoing US-Israeli conflict.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:26:59 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Waaree Energies Q2 Results: Profit falls 15% YoY to Rs 719 crore, revenue rises 24%",
       "desc": "Waaree Energies reported a 14.7% year-on-year profit decline to Rs 718.68 crore in Q2FY27, despite 23.9% revenue growth. Margin pressure persisted as the company acquired data centre subsidiaries, exploring diversification into AI and digital infrastructure.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-profit-falls-15-yoy-to-rs-719-crore-revenue-rises-24/articleshow/135239084.cms",
@@ -440,36 +530,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "desc": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:13:24 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Israeli military detains Egyptian national who crossed border",
-      "desc": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:10:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "desc": "The Iran war and Trump&#039;s criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:08:59 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -622,16 +682,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget",
-      "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 13:08:26 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
       "desc": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
       "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
@@ -682,14 +732,14 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "US Stock Market Live Updates: US stocks rise as AI momentum holds heading into key earnings, Fed decision",
+      "title": "US Stock Market Live Updates: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-coca-cola-paypal-tesla-meta-earnings-federal-reserve-fed-rate-decision-us-stocks-oil-crude-oil-treasury-yields-ai-stocks-anthropic-ipo-27th-october-2026/liveblog/135233966.cms",
       "pubDate": "Tue, 27 Oct 2026 17:42:29 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Larsen &amp; Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
@@ -700,16 +750,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "First-time buyer wary of Budget housing loan scheme",
-      "desc": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 12:05:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Raymond Q2 Results: Net profit jumps 130% YoY to Rs 32 crore, revenue rises 24%",
@@ -1062,16 +1102,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "D-Street in gloomy mood, but Kotak sees 3 triggers for rebounds and adds 5 midcap stocks to portfolio",
-      "desc": "Dalal Street faces significant market challenges, leading Kotak Institutional Equities to spotlight selective stock value. With large-cap stocks in view, the impact of geopolitical strife and fluctuating crude oil prices weighs heavily on investor sentiment. The brokerage sees potential recovery catalysts in peace talks regarding the Iran-US situation and favorable Q2 earnings.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-in-gloomy-mood-but-kotak-sees-3-triggers-for-rebounds-and-adds-5-midcap-stocks-to-portfolio/articleshow/135228137.cms",
-      "pubDate": "Tue, 27 Oct 2026 13:37:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "Tata Motors, Amazon partner to deploy 3,000 electric trucks for ecommerce logistics",
       "desc": "Heavy Industries Minister H D Kumaraswamy flagged off the initial fleet of trucks. \"I congratulate Tata Motors and Amazon on this significant collaboration to deploy 3,000 electric trucks across Amazon's transportation network in India,\" Kumaraswamy said.",
       "link": "https://economictimes.indiatimes.com/tech/startups/tata-motors-amazon-partner-to-deploy-3000-electric-trucks-for-ecommerce-logistics/articleshow/135228266.cms",
@@ -1092,16 +1122,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Global Market: HSBC third-quarter profit jumps 32% to $9.6 billion",
-      "desc": "HSBC has announced a remarkable 32% rise in pretax profits for the third quarter, totaling $9.6 billion. This surge is attributed to increased interest rates and a decrease in anticipated credit losses, significantly boosting profitability. However, despite these promising results and a share buyback initiative, the bank's shares saw a decline of over 3%. The interim dividend remains steady at $0.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-hsbc-third-quarter-profit-jumps-32-to-9-6-billion/articleshow/135228083.cms",
-      "pubDate": "Tue, 27 Oct 2026 13:26:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "ByteDance founder Zhang Yiming reclaims top spot in China's rich list, thanks to his firm's AI push",
       "desc": "The rankings released by The Hurun Research Institute on Tuesday reflected that the country's high-tech sectors were rising but others like consumer and real estate were under pressure.",
       "link": "https://economictimes.indiatimes.com/tech/technology/bytedance-founder-zhang-yiming-reclaims-top-spot-in-chinas-rich-list-thanks-to-his-firms-ai-push/articleshow/135228103.cms",
@@ -1116,16 +1136,6 @@
       "desc": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
       "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 27 Oct 2026 06:33:11 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Will the Budget pass Burnham's Makerfield test?",
-      "desc": "People in the prime minister's constituency say rising costs are squeezing household finances.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 06:17:44 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
@@ -1280,30 +1290,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Business Daily",
-      "desc": "After decades of ultra-cheap money, the cost of borrowing in Japan is rising",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8grq?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 21:30:00 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "desc": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 19:57:23 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-27T19:55:49.938Z",
+    "generatedAt": "2026-10-27T23:39:26.164Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1312,7 +1302,7 @@
         "price": 22749.75,
         "change": -3.45,
         "changePct": -0.01,
-        "timestamp": "2026-10-27T19:55:49.488Z",
+        "timestamp": "2026-10-27T23:39:25.733Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1320,7 +1310,7 @@
         "price": 73598.67,
         "change": -8.08,
         "changePct": -0.01,
-        "timestamp": "2026-10-27T19:55:49.601Z",
+        "timestamp": "2026-10-27T23:39:25.795Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1328,7 +1318,7 @@
         "price": 53974.9,
         "change": -391.8,
         "changePct": -0.72,
-        "timestamp": "2026-10-27T19:55:49.691Z",
+        "timestamp": "2026-10-27T23:39:25.843Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1336,33 +1326,33 @@
         "price": 95.11,
         "change": -0.07,
         "changePct": -0.07,
-        "timestamp": "2026-10-27T19:55:49.768Z",
+        "timestamp": "2026-10-27T23:39:25.893Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124638,
-        "change": 1150,
-        "changePct": 0.93,
-        "timestamp": "2026-10-27T19:55:49.840Z",
+        "price": 124580,
+        "change": -15,
+        "changePct": -0.01,
+        "timestamp": "2026-10-27T23:39:25.995Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 166806,
-        "change": 639,
-        "changePct": 0.39,
-        "timestamp": "2026-10-27T19:55:49.859Z",
+        "price": 166730,
+        "change": 37,
+        "changePct": 0.02,
+        "timestamp": "2026-10-27T23:39:26.097Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9495,
-        "change": -184,
-        "changePct": -1.9,
-        "timestamp": "2026-10-27T19:55:49.938Z",
+        "price": 9510,
+        "change": 9,
+        "changePct": 0.09,
+        "timestamp": "2026-10-27T23:39:26.164Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
