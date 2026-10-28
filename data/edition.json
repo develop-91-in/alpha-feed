@@ -1,13 +1,73 @@
 {
-  "generatedAt": "2026-10-28T18:04:47.397Z",
+  "generatedAt": "2026-10-28T22:59:14.718Z",
   "articles": [
     {
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "desc": "Here is what you need to know about the payment that millions will receive from January.",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:47:37 GMT",
+      "title": "Government extends PLI scheme for textiles until 2033-34 to boost MSME participation and investments",
+      "desc": "The government has announced an extension of the Production Linked Incentive scheme for the textiles sector until 2034. This change aims to encourage more companies to participate by relaxing eligibility norms for investment. The textiles ministry has reduced the minimum turnover requirement for certain manufacturers from ₹200 crore to ₹100 crore. A reopened application portal will accept submissions for manufacturing various textiles from November 1 to December 31.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/government-extends-pli-scheme-for-textiles-until-2033-34-to-boost-msme-participation-and-investments/articleshow/135279965.cms",
+      "pubDate": "Thu, 29 Oct 2026 02:09:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Union cabinet approves 3% DA hike for 11.6 million central employees and pensioners, effective July 1",
+      "desc": "On Wednesday, the Union cabinet approved a 3% increase in dearness allowance for employees and pensioners. This increase is expected to benefit over 11.6 million individuals ahead of the festive season. The change will take effect retrospectively from July 1, costing the exchequer ₹10,016 crore. Additionally, the government revised dearness allowance rates for employees under the Fifth and Sixth Pay Commissions.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-approves-3-da-hike-for-11-6-million-central-employees-and-pensioners-effective-july-1/articleshow/135279321.cms",
+      "pubDate": "Thu, 29 Oct 2026 02:03:12 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "desc": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:31:39 GMT",
       "image": "",
       "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Google says its investments in AI are driving more searches",
+      "desc": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "pubDate": "2026-10-28T16:22:26-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "desc": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:22:16 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "desc": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "pubDate": "2026-10-28T16:20:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+      "desc": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now speculating a significant chance of a rate hike in December.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:44:51 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -15,83 +75,323 @@
       "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
       "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
       "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:32:51 GMT",
+      "pubDate": "Wed, 28 Oct 2026 19:51:01 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "desc": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
-      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:09:05 +0000",
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "desc": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "pubDate": "2026-10-28T17:34:04-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Government extends PLI scheme for textiles until 2033-34 to boost MSME participation and investments",
+      "desc": "The government has announced an extension of the Production Linked Incentive scheme for the textiles sector until 2034. This change aims to encourage more companies to participate by relaxing eligibility norms for investment. The textiles ministry has reduced the minimum turnover requirement for certain manufacturers from ₹200 crore to ₹100 crore. A reopened application portal will accept submissions for manufacturing various textiles from November 1 to December 31.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/government-extends-pli-scheme-for-textiles-until-2033-34-to-boost-msme-participation-and-investments/articleshow/135279965.cms",
+      "pubDate": "Thu, 29 Oct 2026 02:09:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Union cabinet approves 3% DA hike for 11.6 million central employees and pensioners, effective July 1",
+      "desc": "On Wednesday, the Union cabinet approved a 3% increase in dearness allowance for employees and pensioners. This increase is expected to benefit over 11.6 million individuals ahead of the festive season. The change will take effect retrospectively from July 1, costing the exchequer ₹10,016 crore. Additionally, the government revised dearness allowance rates for employees under the Fifth and Sixth Pay Commissions.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-approves-3-da-hike-for-11-6-million-central-employees-and-pensioners-effective-july-1/articleshow/135279321.cms",
+      "pubDate": "Thu, 29 Oct 2026 02:03:12 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "desc": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:31:39 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Google says its investments in AI are driving more searches",
+      "desc": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+      "pubDate": "2026-10-28T16:22:26-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "desc": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:22:16 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Budget 2026: Key points at a glance",
-      "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:55:27 GMT",
+      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+      "desc": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+      "pubDate": "2026-10-28T16:20:00-04:00",
       "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "The one thing that didn't change that will affect your pay the most",
-      "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:55:03 GMT",
+      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+      "desc": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now speculating a significant chance of a rate hike in December.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:44:51 +0530",
       "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-      "desc": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:54:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Bank of Canada raises interest rates for the first time in three years",
-      "desc": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:44:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:43:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Healey tells departments to make 1% cuts to fund defence",
-      "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:52:48 GMT",
+      "title": "What we now know about the UK economy in four charts",
+      "desc": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:08:45 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "desc": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "pubDate": "2026-10-28T16:03:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "desc": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:02:38 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:51:01 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+      "desc": "Federal Reserve Chairman Kevin Warsh said on Wednesday that the US economy is not running too hot despite some demand pressures from the boom in AI investment, adding",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:18:14 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Manjhi releases 1,000 crore under PM job scheme to support 11,333 micro enterprises",
+      "desc": "Micro, Small &amp; Medium Enterprises minister Jitan Ram Manjhi announced the release of ₹1,000 crore in subsidy. This funding aims to support 11,333 new micro enterprises while facilitating bank credit of ₹3,260 crore. The initiative is anticipated to create over 1.02 lakh sustainable employment opportunities, primarily in rural areas. The subsidy is part of the Prime Minister's Employment Generation Programme, designed to boost grassroots entrepreneurship.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/manjhi-releases-1000-crore-under-pm-job-scheme-to-support-11333-micro-enterprises/articleshow/135279148.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:15:32 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Green financing in India rises to $82 billion, but flows mostly to established sectors: Report",
+      "desc": "The Landscape of Green Finance in India, now in its fourth edition, maps actual finance flows or disbursements across sources, instruments, sectors, and subsectors for financial years 2022-23 and 2023-24. According to the report, while green finance has increased substantially between 2016-17 and 2023-24, financial flows remain concentrated in established sectors and technologies.",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/green-financing-in-india-rises-to-82-billion-but-flows-mostly-to-established-sectors-report/articleshow/135279184.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:11:20 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Heat-related deaths up 36% since Paris Agreement: Lancet",
+      "desc": "The report, which was released on Wednesday, said the annual average heat-related deaths rose by nearly 36% globally after the Paris Agreement was introduced. \"In 2023 alone, heat was linked to a record 710,000 deaths with more than 70% of that toll attributable to human-caused climate change,\" it said.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/heat-related-deaths-up-36-since-paris-agreement-lancet/articleshow/135279061.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:05:33 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "New GST registration route allows online sellers to expand using ecommerce warehouses as local bases",
+      "desc": "Starting November 1, small online sellers will have a new option for GST registration. They can use ecommerce warehouses as local bases in other states, promoting nationwide sales. This initiative is part of a broader effort to simplify regulations and reduce expansion costs for small traders. Eligible sellers must meet specific conditions, including tax liability limits and operator consent.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/new-gst-registration-route-allows-online-sellers-to-expand-using-ecommerce-warehouses-as-local-bases/articleshow/135278992.cms",
+      "pubDate": "Thu, 29 Oct 2026 01:00:37 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "desc": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:15:58 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Fed leaves interest rates unchanged despite inflation in the US",
+      "desc": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:05:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "What are the implications of Israel’s elections?",
+      "desc": "No clear winner in Israel&#039;s first election since the October 7 attacks and genocidal war in Gaza.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:03:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
+      "desc": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:01:46 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Healey tells departments to make 1% cuts to fund defence",
+      "desc": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 19:01:34 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
+      "desc": "Wendy’s shares jump after Nelson Peltz’s Trian Fund Management offers $7.35 per share to take the burger chain private, as the company faces high beef costs, weaker consumer demand, store closures and intensifying competition in the US fast-food market.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
+      "pubDate": "Thu, 29 Oct 2026 00:31:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic tells California governor courts should be able to block risky AI models",
+      "desc": "Anthropic itself has faced government restrictions on its AI systems. The Trump administration in June ordered Anthropic to immediately restrict foreign access to its cyber-capable Mythos 5 and Fable 5 models, citing national security concerns. The US Commerce Department later lifted the order.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-california-governor-courts-should-be-able-to-block-risky-ai-models/articleshow/135278359.cms",
+      "pubDate": "Thu, 29 Oct 2026 00:30:57 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "desc": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:45:09 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Three ways the Budget affects you",
+      "desc": "The BBC's Esyllt Carr explains how the chancellor's spending plans impact young people.",
+      "link": "https://www.bbc.co.uk/news/videos/cjkgern1yw0lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:32:56 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "desc": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:31:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "IIP growth eases to 4-month low in September as mining output contracts",
+      "desc": "September witnessed a decline in India's factory output growth, falling to 6.7%, the lowest rate observed in four months. The drop is largely linked to a high base effect and decreased mining activity. Despite this, manufacturing output surged by 7.6% compared to the previous year, while electricity generation also grew, spurred by robust demand even with insufficient rainfall. Economists anticipate GDP growth to surpass 7% for the July-September period.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/iip-growth-eases-to-4-month-low-in-september-as-mining-output-contracts/articleshow/135276567.cms",
+      "pubDate": "Wed, 28 Oct 2026 23:49:01 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "The Budget explained in less than one minute",
+      "desc": "What the Budget means for you in under a minute",
+      "link": "https://www.bbc.co.uk/news/videos/crkg70lnlx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:17:43 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+      "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:12:24 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
+      "desc": "The US Federal Reserve has decided to keep its benchmark interest rate unchanged to evaluate inflation trends. Policymakers are assessing how high inflation might affect future monetary policy amid the upcoming midterm elections. Rising energy prices and tariffs contribute significantly to the ongoing inflation pressures faced by the economy. Traders are closely monitoring the upcoming Personal Consumption Expenditures inflation report for indications of future rate hikes.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
+      "pubDate": "Wed, 28 Oct 2026 23:31:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Will I get the £100 energy payment and when will I receive it?",
       "desc": "Here is what you need to know about the payment that millions will receive from January.",
       "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&amp;at_campaign=rss",
@@ -102,24 +402,14 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:32:51 GMT",
+      "title": "World Bank sees commodity prices surging 23% in 2026 on Middle East war",
+      "desc": "Commodity prices were projected to rise 23% in 2026 as the Middle East war disrupted energy supplies and shipping, while grain disruptions and safe haven demand pushed food and metals prices higher. The World Bank warned that further conflict escalation and a severe El Niño could intensify inflation and food security risks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/world-bank-sees-commodity-prices-surging-23-in-2026-on-middle-east-war/articleshow/135274754.cms",
+      "pubDate": "Wed, 28 Oct 2026 22:56:20 +0530",
       "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Here’s where you can preorder the new OLED-equipped iPad Mini",
-      "desc": "Apple's smallest tablet is getting a bigger screen. Earlier this week, the company announced the eighth-generation iPad Mini alongside several new MacBook Pro models, bringing OLED technology to Apple's miniature tablet for the first time. The diminutive slate won't hit shelves until November 6th; however, you can already preorder it from Amazon, Walmart, Apple, and [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1019037/oled-ipad-mini-2026-preorder-price-how-to-buy-release-date",
-      "pubDate": "2026-10-28T13:12:47-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -132,17 +422,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "desc": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "pubDate": "2026-10-28T13:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Key points at a glance",
+      "title": "Budget key points at a glance",
       "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 28 Oct 2026 16:55:27 GMT",
@@ -156,16 +436,6 @@
       "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 28 Oct 2026 16:55:27 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The one thing that didn't change that will affect your pay the most",
-      "desc": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
-      "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:55:03 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
@@ -242,16 +512,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
-      "desc": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today [&#8230;]",
-      "link": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
-      "pubDate": "2026-10-28T12:33:32-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Centre releases Rs 78 crore for senior citizens' welfare scheme",
       "desc": "The ministry said it has released funds under the Integrated Programme for Senior Citizens (IPSrC), a component of the Atal Vayo Abhyuday Yojana (AVYAY), for the financial year 2026-27.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/centre-releases-rs-78-crore-for-senior-citizens-welfare-scheme/articleshow/135273270.cms",
@@ -280,16 +540,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "The main announcements from the Budget - and how they will be funded",
-      "desc": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:12:57 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Kremlin says European countries not included in next Ukraine talks",
@@ -420,16 +670,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
-      "desc": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 13:47:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Acutaas Chemicals among 5 stocks hitting 52-week highs; rallied up to 18% in a month",
@@ -572,16 +812,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "More cats abandoned 'due to rising costs'",
-      "desc": "A shelter says it has looked after 150 more cats and kittens this summer than last year.",
-      "link": "https://www.bbc.co.uk/news/videos/cked3en749pyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 12:21:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "India, Mexico begin talks for trade pact; aim to boost commerce, investments",
       "desc": "India and Mexico have initiated negotiations for a preferential trade agreement to enhance bilateral trade and investment. The agreement aims to create new economic opportunities while addressing market access, customs procedures, and trade facilitation. Discussions included organising a Mexican business mission to India in early 2027 to improve commercial ties. India had a trade surplus with Mexico, largely due to exports in autos and pharmaceuticals.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-mexico-begin-talks-for-trade-pact-aim-to-boost-commerce-investments/articleshow/135264913.cms",
@@ -622,7 +852,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Live: US stocks turn choppy as megacaps offset chip gains before Fed meet",
+      "title": "FED Meeting Live | Dow Jones Futures | US Stock Market Highlights: US stocks end higher after turning choppy on Fed's rate decision",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-meeting-live-updates-dow-jones-nasdaq-sp-500-us-stock-market-today-kevin-warsh-fomc-meet-rate-cut-news-28th-oct/liveblog/135265171.cms",
       "pubDate": "Wed, 28 Oct 2026 17:33:22 +0530",
@@ -832,16 +1062,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "'Government to decide who to help and who picks up the tab'",
-      "desc": "Helen Miller, director at the Institute for Fiscal Studies, speaks to the Today programme about challenges in the budget.",
-      "link": "https://www.bbc.co.uk/news/videos/cw1l39g2n8dyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 09:25:28 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Hyundai Motor India Q2 Results: Standalone profit falls 24% YoY to Rs 1,189 crore, but revenue rises 18%",
       "desc": "Hyundai Motors India has reported a standalone net profit of Rs 1,189 crore for Q2 FY27, reflecting a notable decrease of 24% compared to Rs 1,570 crore during the same period last year. However, their operational revenue has grown to Rs 20,191 crore, representing an 18% increase from Rs 17,061 crore in the corresponding quarter of the previous fiscal year. This performance illustrates the company's resilience amidst shifting market conditions.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
@@ -1002,26 +1222,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
-      "desc": "BNP Paribas reported a 14% year-on-year rise in third-quarter net income to €3.46 billion, beating analyst estimates as record equity trading revenue boosted investment banking. The French lender also announced a €1.3 billion share buyback.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bnp-paribas-q3-profit-rises-14-to-beat-estimates-announces-1-3-billion-buyback/articleshow/135255907.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:34:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Global Market: China's yuan holds near four-year high as markets await Fed decision",
-      "desc": "China’s yuan held near a four-year high against the US dollar as investors awaited the Federal Reserve’s policy decision for clues on the US interest rate outlook. The currency drew support from stronger-than-expected industrial profit growth, while concerns over persistent inflation and elevated energy prices kept markets alert to potential monetary tightening.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-four-year-high-as-markets-await-fed-decision/articleshow/135255461.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:27:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
       "desc": "Malaysian customs said on Wednesday that it had seized about 49.5 million ringgit ($12.11 million) worth of advanced artificial intelligence chips this month, as",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chips-worth-12-1-million-seized-at-malaysia-airport-customs-authority-says/articleshow/135255556.cms",
@@ -1030,16 +1230,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "US Fed expected to hold rates as Iran war fuels inflation concerns",
-      "desc": "The US Federal Reserve is widely expected to hold interest rates steady as rising energy prices linked to the Iran war fuel inflation concerns. With consumer prices accelerating and affordability under pressure, investors will watch Chair Kevin Warsh’s comments for clues on the December rate decision and the outlook for further monetary tightening.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-expected-to-hold-rates-as-iran-war-fuels-inflation-concerns/articleshow/135255367.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:21:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "India's soybean imports surge to record as domestic prices rally",
@@ -1062,16 +1252,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
-      "desc": "Indian IT stocks fell sharply on Wednsday as renewed optimism around the global AI trade weighed on sentiment. Strong earnings from SK Hynix and Anthropic’s IPO filing fuelled gains in AI-linked stocks globally. However, concerns over an AI bubble persist, with analysts highlighting a potential advantage for Indian IT services firms.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:16:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
       "title": "TPG pursues $5 billion acquisition of British data centre group Ark: FT",
       "desc": "Global alternative asset manager TPG is in talks to buy British data centre group Ark from Elliott Investment Management at a valuation of about $5 billion, the Financial Times reported on Wednesday, citing people familiar with the matter.",
       "link": "https://economictimes.indiatimes.com/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft/articleshow/135255354.cms",
@@ -1080,16 +1260,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Can the AI boom sustain SK Hynix's record earnings?",
-      "desc": "South Korean chipmaker SK Hynix reported record quarterly earnings as booming demand for artificial intelligence memory chips boosted revenue and profitability.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/slideshow/135255297.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:03:34 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "GST clarification on foreign investor brokerage offers sentiment boost, analysts say",
@@ -1270,60 +1440,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "desc": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 22:11:08 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Landline switchover could cut people off in emergency, minister warned",
-      "desc": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 20:54:48 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "desc": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 20:42:38 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "India in striking distance of 8% growth as reforms boost economy: Shaktikanta Das",
-      "desc": "Das said the BFSI sector has a crucial role to play in India's journey from a lower-middle-income economy to a high-income economy, through its intermediation in allocation of financial resources. He said the sector would be required to support India's next-gen Digital Public Infrastructure (DPI), be the frontline of green and transition finance and become the catalyst for democratising financial inclusion to support this journey.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-in-striking-distance-of-8-growth-as-reforms-boost-economy-shaktikanta-das/articleshow/135244810.cms",
-      "pubDate": "Wed, 28 Oct 2026 00:42:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "desc": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 18:28:23 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-28T18:04:47.397Z",
+    "generatedAt": "2026-10-28T22:59:14.718Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1332,15 +1452,15 @@
         "price": 22698.85,
         "change": -50.9,
         "changePct": -0.22,
-        "timestamp": "2026-10-28T18:04:46.959Z",
+        "timestamp": "2026-10-28T22:59:14.225Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
         "price": 73246.03,
-        "change": -352.64,
-        "changePct": -0.48,
-        "timestamp": "2026-10-28T18:04:47.107Z",
+        "change": -360.77,
+        "changePct": -0.49,
+        "timestamp": "2026-10-28T22:59:14.341Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1348,7 +1468,7 @@
         "price": 54267.4,
         "change": 292.5,
         "changePct": 0.54,
-        "timestamp": "2026-10-28T18:04:47.157Z",
+        "timestamp": "2026-10-28T22:59:14.413Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1356,33 +1476,33 @@
         "price": 95.21,
         "change": 0.1,
         "changePct": 0.11,
-        "timestamp": "2026-10-28T18:04:47.226Z",
+        "timestamp": "2026-10-28T22:59:14.489Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124065,
-        "change": -661,
-        "changePct": -0.53,
-        "timestamp": "2026-10-28T18:04:47.275Z",
+        "price": 124417,
+        "change": 395,
+        "changePct": 0.32,
+        "timestamp": "2026-10-28T22:59:14.564Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 164303,
-        "change": -2565,
-        "changePct": -1.54,
-        "timestamp": "2026-10-28T18:04:47.341Z",
+        "price": 164869,
+        "change": 594,
+        "changePct": 0.36,
+        "timestamp": "2026-10-28T22:59:14.643Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9769,
-        "change": 257,
-        "changePct": 2.7,
-        "timestamp": "2026-10-28T18:04:47.397Z",
+        "price": 9716,
+        "change": -70,
+        "changePct": -0.71,
+        "timestamp": "2026-10-28T22:59:14.718Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
