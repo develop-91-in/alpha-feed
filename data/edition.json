@@ -1,85 +1,315 @@
 {
-  "generatedAt": "2026-10-28T22:59:14.718Z",
+  "generatedAt": "2026-10-29T02:19:51.011Z",
   "articles": [
     {
-      "title": "Government extends PLI scheme for textiles until 2033-34 to boost MSME participation and investments",
-      "desc": "The government has announced an extension of the Production Linked Incentive scheme for the textiles sector until 2034. This change aims to encourage more companies to participate by relaxing eligibility norms for investment. The textiles ministry has reduced the minimum turnover requirement for certain manufacturers from ₹200 crore to ₹100 crore. A reopened application portal will accept submissions for manufacturing various textiles from November 1 to December 31.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/government-extends-pli-scheme-for-textiles-until-2033-34-to-boost-msme-participation-and-investments/articleshow/135279965.cms",
-      "pubDate": "Thu, 29 Oct 2026 02:09:57 +0530",
+      "title": "Meesho Q2 loss narrows; Info Edge names Sanjeev Bikhchandani CEO",
+      "desc": "Happy Thursday! Meesho’s losses shrunk as revenue grew in the second quarter of FY27. This and more in today’s ETtech Morning Dispatch.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:28:23 +0530",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Union cabinet approves 3% DA hike for 11.6 million central employees and pensioners, effective July 1",
-      "desc": "On Wednesday, the Union cabinet approved a 3% increase in dearness allowance for employees and pensioners. This increase is expected to benefit over 11.6 million individuals ahead of the festive season. The change will take effect retrospectively from July 1, costing the exchequer ₹10,016 crore. Additionally, the government revised dearness allowance rates for employees under the Fifth and Sixth Pay Commissions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-approves-3-da-hike-for-11-6-million-central-employees-and-pensioners-effective-july-1/articleshow/135279321.cms",
-      "pubDate": "Thu, 29 Oct 2026 02:03:12 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
-      "desc": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
-      "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 20:31:39 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Google says its investments in AI are driving more searches",
-      "desc": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "pubDate": "2026-10-28T16:22:26-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
-      "desc": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 20:22:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "desc": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-      "pubDate": "2026-10-28T16:20:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
-      "desc": "US stock markets ended on a high note after the Federal Reserve opted to maintain current interest rates while gauging the economic landscape. A notable resurgence in chipmakers, fueled by strong results from SK Hynix, played a key role in this upward momentum. Analysts are now speculating a significant chance of a rate hike in December.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
-      "pubDate": "Thu, 29 Oct 2026 01:44:51 +0530",
+      "title": "Jio among world’s top five telcos, with a digital edge",
+      "desc": "Jio Platforms made its public listing in India, achieving a market cap of $137.3 billion. This valuation positions it as the fifth-largest telecom company worldwide, surpassing Deutsche Telekom. Global competitors like China Mobile and Verizon continue to lead in market capitalization. Jio's valuation reflects its advanced 4G and 5G networks, which differ from legacy infrastructures of global giants.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:20:41 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "desc": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 19:51:01 GMT",
+      "title": "Jio Platforms draws bullish bets, analysts see up to 28% upside",
+      "desc": "Four brokerages have begun coverage on Jio Platforms just before its upcoming listing with favorable ratings. Nomura, Motilal Oswal Securities, and Elara Capital issued 'Buy' ratings indicating significant upside potential. Dolat Capital provided an 'Accumulate' rating with a higher target price suggesting a 28% increase. Analysts believe Jio Platforms may influence tariffs in the telecom industry substantially.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:14:34 +0530",
       "image": "",
-      "source": "BBC Business",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Persistent Systems to raise Rs 6,000 crore via NCDs for Nagarro deal",
+      "desc": "Persistent Systems plans to raise more than ₹6,000 crore through non-convertible debentures for its Nagarro SE acquisition. The company successfully completed a QIP earlier this week, raising ₹4,264 crore. NCDs will range from one to five years, averaging three years in maturity. Persistent secured 94% of Nagarro shares after receiving shareholder offers this month. The total acquisition value is around $1.25 billion, with additional debt financing to be arranged.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:41:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Patna to raise Rs 200 crore via municipal bonds",
+      "desc": "The Patna Municipal Corporation is set to launch ₹200 crore worth of municipal bonds, with bids opening on October 30. This move marks Bihar's inaugural bond issuance, sparking renewed enthusiasm for municipal bonds. Meanwhile, Kanpur Nagar Nigam is also gearing up to issue ₹125 crore soon. Early interest from investors like HUDCO and NaBFID indicates a growing momentum in the bond market, supported by governmental efforts to boost urban financing.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:33:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+      "desc": "Nasdaq 100 Index futures dropped 0.9% and contracts for the S&amp;P 500 slipped 0.4% as Alphabet slumped 10% in extended trading after the Google parent’s sales underwhelmed. MSCI Inc.’s Asia Pacific equities gauge climbed 0.3%, led by gains in Japan’s Nikkei 225 and South Korea’s Kospi indexes.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:26:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
+      "desc": "Jio Platforms made a remarkable entrance in the stock market, soaring 21.4% above its IPO price on the first day of trading. Closing at ₹1,417.35, the stock surpassed Bharti Airtel in market capitalization. With a staggering 22 times oversubscription, the IPO attracted considerable institutional backing. At the launch event, executive director Anant Ambani recognized the invaluable support from millions of subscribers.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:25:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Rupee weakens on dollar demand, elevated crude oil prices",
+      "desc": "The Indian rupee closed at 95.22, reflecting a minor drop attributed to ongoing market pressures. With traders exercising caution ahead of the critical decision from the US Federal Reserve, the prevailing demand for dollars and high oil prices are weighing on the currency's stability. Throughout the trading session, the rupee oscillated between 95.25 and 95.00, with the Reserve Bank of India likely stepping in to prevent further declines beyond 95.25.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:03:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meesho Q2 loss narrows; Info Edge names Sanjeev Bikhchandani CEO",
+      "desc": "Happy Thursday! Meesho’s losses shrunk as revenue grew in the second quarter of FY27. This and more in today’s ETtech Morning Dispatch.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:28:23 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Jio among world’s top five telcos, with a digital edge",
+      "desc": "Jio Platforms made its public listing in India, achieving a market cap of $137.3 billion. This valuation positions it as the fifth-largest telecom company worldwide, surpassing Deutsche Telekom. Global competitors like China Mobile and Verizon continue to lead in market capitalization. Jio's valuation reflects its advanced 4G and 5G networks, which differ from legacy infrastructures of global giants.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-among-worlds-top-five-telcos-with-a-digital-edge/articleshow/135285980.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:20:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Jio Platforms draws bullish bets, analysts see up to 28% upside",
+      "desc": "Four brokerages have begun coverage on Jio Platforms just before its upcoming listing with favorable ratings. Nomura, Motilal Oswal Securities, and Elara Capital issued 'Buy' ratings indicating significant upside potential. Dolat Capital provided an 'Accumulate' rating with a higher target price suggesting a 28% increase. Analysts believe Jio Platforms may influence tariffs in the telecom industry substantially.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms",
+      "pubDate": "Thu, 29 Oct 2026 07:14:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "desc": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 01:27:40 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
+      "desc": "MSCI has decided to delay the removal of Polycab India from its indices amid insolvency uncertainty. The company was placed on the Insolvency Resolution Process board on October 7. However, the National Company Law Appellate Tribunal stayed the company’s admission to the insolvency process on October 9. MSCI continues to monitor the status of Polycab India and any related orders from the NCLAT.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:47:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Persistent Systems to raise Rs 6,000 crore via NCDs for Nagarro deal",
+      "desc": "Persistent Systems plans to raise more than ₹6,000 crore through non-convertible debentures for its Nagarro SE acquisition. The company successfully completed a QIP earlier this week, raising ₹4,264 crore. NCDs will range from one to five years, averaging three years in maturity. Persistent secured 94% of Nagarro shares after receiving shareholder offers this month. The total acquisition value is around $1.25 billion, with additional debt financing to be arranged.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:41:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Patna to raise Rs 200 crore via municipal bonds",
+      "desc": "The Patna Municipal Corporation is set to launch ₹200 crore worth of municipal bonds, with bids opening on October 30. This move marks Bihar's inaugural bond issuance, sparking renewed enthusiasm for municipal bonds. Meanwhile, Kanpur Nagar Nigam is also gearing up to issue ₹125 crore soon. Early interest from investors like HUDCO and NaBFID indicates a growing momentum in the bond market, supported by governmental efforts to boost urban financing.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:33:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+      "desc": "Nasdaq 100 Index futures dropped 0.9% and contracts for the S&amp;P 500 slipped 0.4% as Alphabet slumped 10% in extended trading after the Google parent’s sales underwhelmed. MSCI Inc.’s Asia Pacific equities gauge climbed 0.3%, led by gains in Japan’s Nikkei 225 and South Korea’s Kospi indexes.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:26:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
+      "desc": "Jio Platforms made a remarkable entrance in the stock market, soaring 21.4% above its IPO price on the first day of trading. Closing at ₹1,417.35, the stock surpassed Bharti Airtel in market capitalization. With a staggering 22 times oversubscription, the IPO attracted considerable institutional backing. At the launch event, executive director Anant Ambani recognized the invaluable support from millions of subscribers.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:25:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Rupee weakens on dollar demand, elevated crude oil prices",
+      "desc": "The Indian rupee closed at 95.22, reflecting a minor drop attributed to ongoing market pressures. With traders exercising caution ahead of the critical decision from the US Federal Reserve, the prevailing demand for dollars and high oil prices are weighing on the currency's stability. Throughout the trading session, the rupee oscillated between 95.25 and 95.00, with the Reserve Bank of India likely stepping in to prevent further declines beyond 95.25.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:03:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "The Papers: 'Healey offers cold comfort' and 'A £100 trick or treat?'",
+      "desc": "Thursday's papers focus entirely on John Healey's first Budget that included £100 for energy bills and a bank tax.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j470yx0nweo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 00:30:52 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "D-Street poised for positive start as GIFT Nifty signals gains",
+      "desc": "Benchmark Nifty experienced a marginal decline after recovering from a significant low during the trading session. Analysts believe Indian equities may remain range-bound ahead of the US Federal Reserve's upcoming policy decision. The rupee weakened against the US dollar due to rising crude oil prices and a strengthening dollar. Foreign portfolio investors were net buyers on Wednesday, with significant purchases noted.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:00:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
+      "desc": "Indian equities ended lower on Wednesday, primarily driven by selling in heavyweight stocks. Information technology and oil and gas shares experienced significant declines, falling more than 2%. The Nifty 50 index settled at 22,699, down 51 points, indicating ongoing resistance at 22,800. Several companies, including Jio Platforms and Hero MotoCorp, reported their quarterly earnings that impacted market sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-hero-motocorp-meesho-tvs-motor-vedanta-aluminium-and-suzlon-energy/articleshow/135273790.cms",
+      "pubDate": "Thu, 29 Oct 2026 06:00:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "RBI accepts 20 bps higher treasury bill cutoff yields than last auction",
+      "desc": "The Reserve Bank of India has increased the cut-off yields for treasury bills after canceling a prior auction. Yields of the 91-day, 182-day, and 364-day bills experienced a significant rise. While system liquidity has dropped compared to last month, it still remains in a positive state. Traders are bracing for additional hikes as they face liquidity constraints and high oil prices, with the 10-year yield standing at 7.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-accepts-20-bps-higher-treasury-bill-cutoff-yields-than-last-auction/articleshow/135284706.cms",
+      "pubDate": "Thu, 29 Oct 2026 05:57:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sensex, Nifty fall as IT stocks slide, rising oil prices weigh",
+      "desc": "Indian equity markets took a hit on Wednesday, primarily due to declines in the IT sector and escalating crude oil prices. Both the Sensex and Nifty closed lower, showcasing investors' cautious mood amidst significant intraday drops. Key downturns were influenced by Reliance Industries along with various IT stocks, but the auto sector and select banking stocks sparked some buying activities that alleviated part of the losses.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-benchmarks-decline-as-it-stocks-rising-crude-oil-prices-weigh-on-market-sentiment/articleshow/135284084.cms",
+      "pubDate": "Thu, 29 Oct 2026 05:51:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sebi to review FPI rules, align with global norms",
+      "desc": "The Securities and Exchange Board of India is set to release a consultation paper aimed at refining compliance requirements for foreign portfolio investors. Chairman Tuhin Kanta Pandey highlighted the progress in the onboarding of international funds while pointing out the heavy compliance burden in India. Sebi is also considering the possibility of self-listing for stock exchanges despite the challenges that may arise.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-fpi-rules-align-with-global-norms/articleshow/135284367.cms",
+      "pubDate": "Thu, 29 Oct 2026 05:49:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Fed holds rates, says data will guide next move",
+      "desc": "In their latest meeting, Federal Reserve officials decided to keep interest rates steady, reflecting a measured approach towards inflation concerns. Not all agreed, however; two officials pushed for an increase to counteract growing prices. Current economic indicators reveal robust growth, driven by increased consumer spending and investment. Analysts are keenly awaiting upcoming inflation data to better gauge the Fed's policy direction, which aims for a 2 percent inflation target.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms",
+      "pubDate": "Thu, 29 Oct 2026 05:48:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 00:00:25 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "desc": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 00:00:15 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "HUL sales rise 15% to hit 14-quarter high, but inflation clouds demand outlook",
+      "desc": "Hindustan Unilever posted a turnover of ₹18,071 crore for the September quarter, highlighting a 15% rise. Even with a price increase of 7.5%, the company's volume growth remained stable at 7%. Homecare emerged as the standout performer, boasting a robust 22% sales growth. Earnings before interest, tax, depreciation, and amortisation climbed to ₹4,089 crore, an 8% boost. However, ongoing inflation and wage issues in rural sectors pose significant challenges.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-sales-rise-15-to-hit-14-quarter-high-but-inflation-clouds-demand-outlook/articleshow/135285021.cms",
+      "pubDate": "Thu, 29 Oct 2026 05:30:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "desc": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "pubDate": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "desc": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "pubDate": "2026-10-28T19:05:39-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Jio Platforms lists on NSE as 3,138th company, making Ambani family proud with a 21.36% surge",
+      "desc": "Jio Platforms became the 3,138th company to list on the NSE after a significant public offering. The listing resulted in a notable 21.36% increase, making Jio the second most valuable Indian company. Mukesh Ambani expressed strong emotions as he witnessed his children outline their vision for the future. Following the listing ceremony, the family visited a temple and celebrated with a drone show.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-lists-on-nse-as-3138th-company-making-ambani-family-proud-with-a-21-36-surge/articleshow/135285169.cms",
+      "pubDate": "Thu, 29 Oct 2026 03:22:46 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Akai is embracing vibe-coded mods with an open-source MPC",
@@ -377,9 +607,9 @@
       "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 28 Oct 2026 18:12:24 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
@@ -412,16 +642,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "desc": "Soaring food prices and shrinking incomes force families in Sudan&#039;s capital to borrow money and skip meals.",
-      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 17:09:05 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Budget key points at a glance",
       "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
@@ -440,36 +660,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-      "desc": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:54:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "desc": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:52:16 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Bank of Canada raises interest rates for the first time in three years",
-      "desc": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:44:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "How the Budget affects you",
@@ -502,16 +692,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
-      "desc": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:35:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Centre releases Rs 78 crore for senior citizens' welfare scheme",
       "desc": "The ministry said it has released funds under the Integrated Programme for Senior Citizens (IPSrC), a component of the Atal Vayo Abhyuday Yojana (AVYAY), for the financial year 2026-27.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/centre-releases-rs-78-crore-for-senior-citizens-welfare-scheme/articleshow/135273270.cms",
@@ -542,16 +722,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "desc": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:12:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
       "desc": "Satin Creditcare Network reported a more than three-fold rise in consolidated net profit to Rs 176 crore in the second quarter, helped by lower microfinance provisions, portfolio growth and improved asset quality. Its gross NPA ratio improved to 1.9% from 3.5% a year earlier, signalling a recovery from earlier stress.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms",
@@ -560,16 +730,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "desc": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:06:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
@@ -992,16 +1152,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Elevated oil prices keep up heat on rupee, traders await cues from Fed",
-      "desc": "The Indian rupee closed lower against the dollar as oil prices surged due to supply concerns. Brent oil rose to $115.3 per barrel following recent events in Saudi Arabia. Iranian mediators proposed a new draft to resolve ongoing conflicts, with expectations for Tehran's response by week's end. Traders remain increasingly bearish on the rupee amid uncertainty in oil markets and economic implications.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/elevated-oil-prices-keep-up-heat-on-rupee-traders-await-cues-from-fed/articleshow/135261558.cms",
-      "pubDate": "Wed, 28 Oct 2026 15:59:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "What do you want from the Budget?",
       "desc": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget.",
       "link": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&amp;at_campaign=rss",
@@ -1022,16 +1172,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "US Market: Rising Treasury yields put US banks under pressure over bond losses",
-      "desc": "Rising US Treasury yields are deepening unrealised losses in American banks’ bond portfolios, forcing lenders to weigh immediate losses from selling securities against the capital and liquidity pressures of holding them.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-rising-treasury-yields-put-us-banks-under-pressure-over-bond-losses/articleshow/135260352.cms",
-      "pubDate": "Wed, 28 Oct 2026 15:25:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
       "desc": "Sir Jeremy Hunt spoke to BBC Breakfast about his hopes and qualms ahead of John Healey's autumn Budget.",
       "link": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&amp;at_campaign=rss",
@@ -1050,76 +1190,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring some relief?",
-      "desc": "Dalal Street heads into Samvat 2083 after a turbulent year that saw the Sensex plunge over 10,750 points and the Nifty shed nearly 12% since last Diwali. The Iran-US conflict, elevated crude oil prices, persistent FII outflows and AI-led IT selloff weighed on sentiment. Can easing headwinds revive the market?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-sensex-plunged-10000-points-nifty-dropped-12-since-last-diwali-will-samvat-2083-bring-some-relief/articleshow/135259845.cms",
-      "pubDate": "Wed, 28 Oct 2026 15:09:34 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Hyundai Motor India Q2 Results: Standalone profit falls 24% YoY to Rs 1,189 crore, but revenue rises 18%",
-      "desc": "Hyundai Motors India has reported a standalone net profit of Rs 1,189 crore for Q2 FY27, reflecting a notable decrease of 24% compared to Rs 1,570 crore during the same period last year. However, their operational revenue has grown to Rs 20,191 crore, representing an 18% increase from Rs 17,061 crore in the corresponding quarter of the previous fiscal year. This performance illustrates the company's resilience amidst shifting market conditions.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
-      "pubDate": "Wed, 28 Oct 2026 14:49:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "From Dhirubhai Ambani’s Rs 10 crore IPO to Akash Ambani’s Rs 12.5 lakh crore Jio debut: Reliance’s biggest wealth story",
-      "desc": "Jio Platforms’ Rs 12.5 lakh crore debut marks a new milestone in the Ambani family’s wealth creation journey, tracing Reliance’s evolution from its Rs 10 crore IPO in 1977 to a digital technology giant.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-dhirubhai-ambanis-rs-10-crore-ipo-to-akash-ambanis-rs-12-5-lakh-crore-jio-debut-reliances-biggest-wealth-story/articleshow/135258986.cms",
-      "pubDate": "Wed, 28 Oct 2026 14:38:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Vedanta Q2 Results: Profit zooms 78% YoY to Rs 6,202 crore; revenue surges 57%",
-      "desc": "Vedanta Q2 Results: Vedanta Ltd reported a 78% year-on-year rise in consolidated net profit to Rs 6,202 crore in the September quarter, while revenue increased 57% to Rs 26,356 crore. EBITDA more than doubled to Rs 9,938 crore, with margins improving to 60%. Higher commodity prices and increased production supported earnings, while net debt fell by Rs 4,624 crore to Rs 3,675 crore during the quarter.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-q2-results-profit-zooms-78-yoy-to-rs-6202-crore-revenue-surges-57/articleshow/135258623.cms",
-      "pubDate": "Wed, 28 Oct 2026 14:21:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Ambani bluechip bet gets bigger: Investors mark 82% of traded Jio shares for holding beyond listing",
-      "desc": "Jio Platforms saw nearly 82% of its traded volume marked for delivery on debut, with 10.66 crore shares carried into settlement out of 13.02 crore shares traded. The stock listed at a 21.36% premium to its IPO price, while Nomura, Motilal Oswal and Elara Securities initiated coverage with Buy ratings.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ambani-blue-chip-bet-gets-bigger-investors-mark-82-of-traded-shares-for-holding-beyond-listing/articleshow/135258717.cms",
-      "pubDate": "Wed, 28 Oct 2026 14:21:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore,  profit at Rs 1,492 crore",
-      "desc": "Adani Enterprises Q2 Results 2026: Adani Enterprises has reported a 55% drop in consolidated net profit for the second quarter of FY27, with figures reaching Rs 1,492 crore compared to Rs 3,304 crore from the previous year. Conversely, operational revenue surged by 75%, hitting Rs 37,216 crore. This stark contrast is notable due to the previous year's inflated profits, driven by exceptional gains totaling Rs 3,583 crore, highlighting a dramatic shift in financial performance.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q2-results-revenue-spikes-75-yoy-to-rs-37216-crore-profit-at-rs-1492-crore/articleshow/135257734.cms",
-      "pubDate": "Wed, 28 Oct 2026 13:53:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio effect! Reliance beats Tata to become India's most valued conglomerate",
-      "desc": "Jio Platforms’ listing has propelled the Reliance Group to become India’s most valuable conglomerate, with a combined market capitalisation of over Rs 28 lakh crore, surpassing the Tata Group. Jio debuted at Rs 1,358, a 21% premium to its IPO price of Rs 1,119, adding over Rs 12.5 lakh crore to Reliance Group’s market value.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
-      "pubDate": "Wed, 28 Oct 2026 13:26:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Delivery Hero raises full-year forecast again on strong Q3 growth",
@@ -1150,76 +1220,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Hyundai Motor Q2 Results Live Updates: Standalone profit at Rs 1189 cr vs Rs 1570 cr, down 24% YoY",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-hyundai-vedanta-adani-enterprises-quarter-2-fy27-earnings-result-dividend-share-price-updates/liveblog/135257115.cms",
-      "pubDate": "Wed, 28 Oct 2026 13:11:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Global Market: UBS Q3 profit rises 8% to $2.69 billion, accelerates buyback plan",
-      "desc": "ETMutualFunds identifies Axis, SBI, Kotak and Nippon India small-cap funds using parameters such as rolling returns, consistency, downside risk, outperformance and asset size. These schemes offer strong long-term return potential but are suitable mainly for aggressive investors with a high risk appetite.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ubs-q3-profit-rises-8-to-2-69-billion-accelerates-buyback-plan/articleshow/135256901.cms",
-      "pubDate": "Wed, 28 Oct 2026 13:09:23 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "US Market: AI boom could weaken dollar’s safe-haven appeal as foreign flows rise",
-      "desc": "The US dollar’s safe-haven status could face pressure if the AI investment boom unwinds, prompting foreign investors to pull back from American equities and corporate bonds. Weaker growth, lower interest rates and credit-market stress could amplify the risk.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-ai-boom-could-weaken-dollars-safe-haven-appeal-as-foreign-flows-rise/articleshow/135256789.cms",
-      "pubDate": "Wed, 28 Oct 2026 13:07:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
-      "desc": "Adani Ports Q2 Results: Adani Ports reported a 17% year-on-year rise in Q2 FY27 net profit to Rs 3,622 crore, while revenue grew 24% to Rs 11,340 crore. The company raised its FY27 revenue and EBITDA guidance by Rs 1,000 crore each and increased its capex guidance by Rs 3,000 crore, citing strong first-half performance.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q2-results-net-profit-jumps-17-yoy-to-rs-3622-crore-revenue-up-24/articleshow/135256370.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:53:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio Platforms delivers biggest listing gain among India’s 5 largest IPOs, jumps 21% on debut",
-      "desc": "Jio Platforms shares listed at a 21.35% premium to the IPO price of Rs 1,119, delivering the biggest listing-day gain among India’s five largest IPOs by issue size. Brokerages Nomura, Motilal Oswal and Elara Capital initiated coverage with Buy ratings, citing tariff hikes, subscriber monetisation and digital services growth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:48:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "US Market: Treasury yields face pressure despite expected Fed rate pause",
-      "desc": "US Treasury yields face continued pressure from persistent inflation, rising government borrowing and uncertainty over AI investments, despite a recent bond market recovery. Investors are watching the Federal Reserve’s policy decision and midterm elections for signals on the outlook.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-yields-face-pressure-despite-expected-fed-rate-pause/articleshow/135256143.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:41:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Adani Green’s debt maths: Why leverage may fall below 4x as capex cycle matures",
-      "desc": "Adani Green Energy Limited is looking forward to a decrease in leverage as its upcoming projects start functioning and yield cash flow. With a substantial ₹2.4 lakh crore earmarked for capital expenditures by FY30, the company aims to enhance its renewable energy capacity. As project loans are paid off, leverage is expected to dip below four times.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-greens-debt-maths-why-leverage-may-fall-below-4x-as-capex-cycle-matures/articleshow/135256023.cms",
-      "pubDate": "Wed, 28 Oct 2026 12:37:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
@@ -1400,50 +1400,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Cognizant eyes Sarvam stake; Ather aims for higher market share",
-      "desc": "Happy Wednesday! Cognizant has held discussions to invest in homegrown AI startup Sarvam. This and more in today’s ETtech Morning Dispatch.",
-      "link": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/cognizant-eyes-sarvam-stake-ather-aims-for-higher-market-share/articleshow/135249122.cms",
-      "pubDate": "Wed, 28 Oct 2026 07:25:17 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Snabbit's Aayush Agarwal on the $100B Home Services Opportunity | The Brand Equity Show",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/tech/startups/snabbits-aayush-agarwal-on-the-100b-home-services-opportunity-the-brand-equity-show/videoshow/135248580.cms",
-      "pubDate": "Wed, 28 Oct 2026 06:15:35 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "desc": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 00:01:10 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "China's families are now supporting more old people than kids",
-      "desc": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 23:16:08 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-28T22:59:14.718Z",
+    "generatedAt": "2026-10-29T02:19:51.011Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1452,7 +1412,7 @@
         "price": 22698.85,
         "change": -50.9,
         "changePct": -0.22,
-        "timestamp": "2026-10-28T22:59:14.225Z",
+        "timestamp": "2026-10-29T02:19:50.695Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1460,7 +1420,7 @@
         "price": 73246.03,
         "change": -360.77,
         "changePct": -0.49,
-        "timestamp": "2026-10-28T22:59:14.341Z",
+        "timestamp": "2026-10-29T02:19:50.748Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1468,41 +1428,41 @@
         "price": 54267.4,
         "change": 292.5,
         "changePct": 0.54,
-        "timestamp": "2026-10-28T22:59:14.413Z",
+        "timestamp": "2026-10-29T02:19:50.794Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 95.21,
-        "change": 0.1,
-        "changePct": 0.11,
-        "timestamp": "2026-10-28T22:59:14.489Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-10-29T02:19:50.848Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124417,
-        "change": 395,
-        "changePct": 0.32,
-        "timestamp": "2026-10-28T22:59:14.564Z",
+        "price": 124665,
+        "change": 643,
+        "changePct": 0.52,
+        "timestamp": "2026-10-29T02:19:50.916Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 164869,
-        "change": 594,
-        "changePct": 0.36,
-        "timestamp": "2026-10-28T22:59:14.643Z",
+        "price": 165007,
+        "change": 732,
+        "changePct": 0.45,
+        "timestamp": "2026-10-29T02:19:50.965Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9716,
-        "change": -70,
-        "changePct": -0.71,
-        "timestamp": "2026-10-28T22:59:14.718Z",
+        "price": 9669,
+        "change": -117,
+        "changePct": -1.2,
+        "timestamp": "2026-10-29T02:19:51.011Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
