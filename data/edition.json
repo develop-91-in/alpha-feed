@@ -1,105 +1,395 @@
 {
-  "generatedAt": "2026-10-30T15:41:52.779Z",
+  "generatedAt": "2026-10-30T20:32:30.449Z",
   "articles": [
     {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "desc": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "RBI deliberates economic risks at 625th Central Board meeting chaired by Governor Sanjay Malhotra",
-      "desc": "The Reserve Bank of India conducted its 625th Central Board meeting under Governor Sanjay Malhotra. The board reviewed economic conditions and potential risks facing India’s economy while evaluating the Deposit Insurance and Credit Guarantee Corporation’s activities. Additionally, the board members participated in the Integrity Pledge as part of Vigilance Week 2026. Deputy Governors and other board members contributed to the discussions during the meeting.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-deliberates-economic-risks-at-625th-central-board-meeting-chaired-by-governor-sanjay-malhotra/articleshow/135367509.cms",
-      "pubDate": "Fri, 30 Oct 2026 20:43:38 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India's services trade surplus rises to $53.39 billion in Q2",
-      "desc": "The country received $113.029 billion under this head during the three months while it paid $59.637 billion, the data showed. September saw the biggest surplus at $19.208 billion while it was $17.647 billion and $16.537 billion in July and August respectively.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-services-trade-surplus-rises-to-53-39-billion-in-q2/articleshow/135367632.cms",
-      "pubDate": "Fri, 30 Oct 2026 20:39:07 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "desc": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "pubDate": "2026-10-30T10:58:06-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digital spending",
-      "desc": "Reliance Retail Q2 Results: The company's gross revenue increased 6.4% YoY to Rs 91,716 crore in Q2FY27, compared with Rs 86,169 crore in the year-ago period. The growth came despite the absence of major festive occasions during the quarter, with the festive calendar shifting to the December quarter.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
-      "pubDate": "Fri, 30 Oct 2026 20:15:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-      "desc": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 14:40:19 +0000",
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "desc": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:13:36 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Reliance Industries announces fundraising, to raise Rs 15,000 crore through NCDs",
-      "desc": "Reliance Industries has approved plans to raise up to Rs 15,000 crore through non-convertible debentures via private placement. The fundraising announcement came with the company's Q2 earnings where it reported a 41% year-on-year rise in net profit to Rs 25,548 crore.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-15000-crore-via-ncds/articleshow/135366327.cms",
-      "pubDate": "Fri, 30 Oct 2026 20:09:10 +0530",
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "desc": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:10:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "desc": "Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:00:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "desc": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 18:55:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+      "desc": "Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic and could lead to a decline in daily active users. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cross border sellers weighed on its business and growth expectations.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+      "pubDate": "Sat, 31 Oct 2026 00:03:48 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Reliance Industries Q2 Results: Profit shoots up 41% YoY to Rs 25,548 crore, revenue surges 29%",
-      "desc": "Reliance Industries Q2 Results: Mukesh Ambani-led Reliance Industries Ltd (RIL) on Friday reported a 41% year-on-year (YoY) growth in consolidated net profit to Rs 25,548 crore for the September quarter of FY27, compared with Rs 18,165 crore in the corresponding period last year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-profit-shoots-up-41-yoy-to-rs-25548-crore-revenue-up-12/articleshow/135361960.cms",
-      "pubDate": "Fri, 30 Oct 2026 19:46:49 +0530",
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+      "desc": "Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 18:33:29 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "desc": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:35:30 GMT",
+      "title": "Fiscal deficit in H1 rises to 42.1% of FY27 target on higher capex, subsidies",
+      "desc": "By September 2026, the Centre's fiscal deficit had escalated to ₹7.14 lakh crore, exceeding last year's figures. This increase is fueled by a 10.7% rise in total expenditure, largely a result of heightened capital spending and food subsidies, while petroleum subsidies sharply declined. Gross tax revenue, however, saw a modest growth of 6.1%, even with lower excise duty collections attributed to tax reforms.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/fiscal-deficit-in-h1-rises-to-42-1-of-fy27-target-on-higher-capex-subsidies/articleshow/135374307.cms",
+      "pubDate": "Fri, 30 Oct 2026 23:46:21 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+      "desc": "Colombia&#039;s president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:43:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "desc": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "pubDate": "2026-10-30T16:26:10-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "desc": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:13:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "desc": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:10:56 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears",
-      "desc": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "desc": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:10:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nasdaq 100 cracks 5%, faces $2 trillion wipeout in October as AI spending fears deepen",
+      "desc": "Investor concerns about the high expenditures on artificial intelligence have intensified amidst rising borrowing costs. Major technology companies like Meta, Alphabet, and Microsoft are increasing their capital outlays to strengthen AI infrastructure. The Nasdaq 100 index has already seen a significant decline of more than 5.8% in October. Analysts predict that global AI infrastructure spending could reach unprecedented levels by 2030.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
+      "pubDate": "Sat, 31 Oct 2026 01:40:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "desc": "Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:00:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "desc": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 18:55:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+      "desc": "Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic and could lead to a decline in daily active users. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cross border sellers weighed on its business and growth expectations.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+      "pubDate": "Sat, 31 Oct 2026 00:03:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+      "desc": "Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 18:33:29 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "desc": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "pubDate": "2026-10-30T14:21:38-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Fiscal deficit in H1 rises to 42.1% of FY27 target on higher capex, subsidies",
+      "desc": "By September 2026, the Centre's fiscal deficit had escalated to ₹7.14 lakh crore, exceeding last year's figures. This increase is fueled by a 10.7% rise in total expenditure, largely a result of heightened capital spending and food subsidies, while petroleum subsidies sharply declined. Gross tax revenue, however, saw a modest growth of 6.1%, even with lower excise duty collections attributed to tax reforms.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/fiscal-deficit-in-h1-rises-to-42-1-of-fy27-target-on-higher-capex-subsidies/articleshow/135374307.cms",
+      "pubDate": "Fri, 30 Oct 2026 23:46:21 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "City of London chief tops UK Black Powerlist",
+      "desc": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 18:00:24 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "desc": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:27:54 GMT",
+      "pubDate": "Fri, 30 Oct 2026 17:47:01 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
+      "desc": "Colombia&#039;s president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:43:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Binance's $6.3bn crypto hack biggest in history",
+      "desc": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+      "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:41:10 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "desc": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "pubDate": "2026-10-30T13:38:04-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "desc": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Rivian’s autonomy gamble faces its first real test",
+      "desc": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+      "pubDate": "2026-10-30T13:16:09-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+      "desc": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighed on sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
+      "pubDate": "Fri, 30 Oct 2026 22:37:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+      "desc": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted at Walmart, with the [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+      "pubDate": "2026-10-30T13:01:07-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "desc": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:00:32 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sun Pharma Q2 profit falls 36% as litigation costs hit earnings",
+      "desc": "Sun Pharma reported a 36% decline in Q2FY27 net profit to Rs 1,989 crore due to exceptional litigation and acquisition-related costs. Revenue grew 11.8%, supported by strong domestic and emerging market sales, while US formulations weakened.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-falls-36-as-litigation-costs-hit-earnings/articleshow/135370217.cms",
+      "pubDate": "Fri, 30 Oct 2026 22:14:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Syrma SGS reports best-ever quarter; Q2 revenue up 73% to Rs 1,999.5 crore",
+      "desc": "Syrma SGS Technology reported an 87.2% increase in consolidated net profit for the quarter ending September 2026. Consolidated revenue increased by 73.2%, reaching a record high of Rs 1,999.5 crore. The company’s exports grew by 91% year-on-year, showcasing strong international demand. Investments are planned in collaboration with Kaga Electronics to enhance the domestic supply ecosystem.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/syrma-sgs-reports-best-ever-quarter-q2-revenue-up-73-to-rs-1999-5-crore/articleshow/135369732.cms",
+      "pubDate": "Fri, 30 Oct 2026 22:05:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "desc": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+      "desc": "Lodha Developers reported a 63% rise in first-half FY27 profit to Rs 2,386 crore, driven by strong property sales and market expansion. The developer expects to exceed annual profit guidance while pursuing data centres to boost recurring income.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
+      "pubDate": "Fri, 30 Oct 2026 21:43:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Niti Aayog's Lahiri flags growth risks in case of further monetary policy tightening",
+      "desc": "In India, it's essential for policymakers to harmonize growth output with inflation expectations. Niti Aayog’s Ashok Lahiri pointed out the importance of addressing inflation alongside job creation. He urged banks to play a pivotal role in linking enterprises with financial support and investment options. To capitalize on its natural resources, West Bengal must focus on industry attraction, while effective land acquisition and good infrastructure remain key for business development.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/niti-aayogs-lahiri-flags-growth-risks-in-case-of-further-monetary-policy-tightening/articleshow/135369106.cms",
+      "pubDate": "Fri, 30 Oct 2026 21:35:30 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Spandana Sphoorty returns to profit at Rs 18 crore in Q2FY27",
+      "desc": "Spandana Sphoorty Financial reported consolidated Q2 profit of Rs 18 crore, reversing a Rs 249 crore year-ago loss. Assets under management grew 31% to Rs 5,364 crore, while improving asset quality reduced gross and net NPAs.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spandana-sphoorty-returns-to-profit-at-rs-18-crore-in-q2fy27/articleshow/135369091.cms",
+      "pubDate": "Fri, 30 Oct 2026 21:35:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "desc": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 16:04:55 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
+      "desc": "Bank of Baroda reported 36% year-on-year profit growth to Rs 6,532 crore in Q2FY27, boosted by NSE stake sale gains and higher interest income. The lender raised annual credit and deposit growth guidance amid strong loan demand.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
+      "pubDate": "Fri, 30 Oct 2026 21:32:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+      "desc": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:26:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Record earnings! 5 big takeaways from RIL Q2 results investors should watch for Monday trading",
+      "desc": "Reliance Industries reported record Q2FY27 profit of Rs 29,550 crore and revenue of Rs 3.62 lakh crore, driven by strong refining margins and Jio growth. Retail profitability weakened, while declining debt improved the conglomerate's financial position.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
+      "pubDate": "Fri, 30 Oct 2026 20:48:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
@@ -142,7 +432,7 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digital spending",
+      "title": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
       "desc": "Reliance Retail Q2 Results: The company's gross revenue increased 6.4% YoY to Rs 91,716 crore in Q2FY27, compared with Rs 86,169 crore in the year-ago period. The growth came despite the absence of major festive occasions during the quarter, with the festive calendar shifting to the December quarter.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
       "pubDate": "Fri, 30 Oct 2026 20:15:00 +0530",
@@ -193,7 +483,7 @@
     },
     {
       "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-      "desc": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's [&#8230;]",
+      "desc": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota [&#8230;]",
       "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
       "pubDate": "2026-10-30T09:52:14-04:00",
       "image": "",
@@ -242,16 +532,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Italy tightens security as students, unions launch nationwide protests",
-      "desc": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 13:14:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "NTPC Green Energy Q2 Results: Profit jumps 56% YoY to Rs 137 crore, revenue rises 53%",
       "desc": "NTPC Green Energy reported a 56.2% year-on-year rise in Q2FY27 net profit to Rs 137.5 crore, driven by 53.2% revenue growth. EBITDA margins improved, while new solar capacity boosted its operational renewable energy portfolio.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-green-energy-q2-results-profit-jumps-56-yoy-to-rs-137-crore-revenue-rises-53/articleshow/135363615.cms",
@@ -270,26 +550,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "desc": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "pubDate": "2026-10-30T09:01:14-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
-      "desc": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
-      "pubDate": "2026-10-30T09:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Big dividends, bigger losses? The hidden risk in Wall Street's highest-yielding stocks",
@@ -322,26 +582,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
-      "desc": "The mediation mission comes amid speculation about a potential resumption of hostilities.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 12:26:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-      "desc": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 12:25:53 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "India bonds buckle for fourth straight month on oil's climb",
       "desc": "Indian government bonds ended October with losses, marking a fourth consecutive decline in bond yields. Brent crude oil prices surged, raising inflation concerns for the country. The Reserve Bank of India raised its policy rate for the first time in nearly four years this month. Foreign investments in Indian bonds fell to a four-month low, causing further concerns about the rupee's performance.",
       "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
@@ -352,7 +592,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: Nasdaq sinks 2.2% to near three-month low as AI spending fears deepen",
+      "title": "US Stock Market Live Updates: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
       "pubDate": "Fri, 30 Oct 2026 17:44:11 +0530",
@@ -470,16 +710,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
-      "desc": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 10:40:52 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "India's fiscal deficit for April-September at Rs 7.14 lakh crore, widens to 42.1% of FY27 aim",
@@ -862,66 +1092,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Global Market: BOJ to accelerate ETF sales, cut holdings overhaul timeline to 43 years",
-      "desc": "The Bank of Japan will accelerate the sale of its exchange-traded fund holdings, targeting annual disposals of 860 billion yen ($5.45 billion) at book value, equivalent to around 0.1% of market trading value. The move aims to unwind its massive stock portfolio, with the estimated time to complete the sell-off falling to 43 years from the earlier estimate of 112 years.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-to-accelerate-etf-sales-cut-holdings-overhaul-timeline-to-43-years/articleshow/135345633.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:59:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?",
-      "desc": "India’s Q2 FY27 earnings show signs of resilience, with Jefferies reporting that 50% of the 105 companies it tracks received FY27 earnings estimate upgrades, while 41% saw downgrades and 9% remained unchanged. The share of companies beating expectations rose to 56% from 52% in the previous quarter, though the recovery remains uneven across sectors.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:48:44 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
-      "desc": "In 2026, the Nifty 50 index faced significant drops, with 34 out of 50 stocks plummeting by as much as 34%. Analysts believe that the sell-off is driven by foreign institutional investor exits and a conservative outlook on earnings. This decline presents potential opportunities for long-term investors as valuations dip below historical norms.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:45:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Global Market: Japan's Nikkei falls 3% as AI spending concerns hit chip stocks; BOJ holds rates",
-      "desc": "Japanese shares fell sharply as concerns over the profitability of AI investments sparked a global technology sell-off. The Nikkei 225 dropped as much as 3%, led by steep losses in chip and AI-related stocks. Meanwhile, the Bank of Japan held its policy rate at 1.25% but signalled a hawkish stance, leaving the possibility of a future rate increase open.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-3-as-ai-spending-concerns-hit-chip-stocks-boj-holds-rates/articleshow/135345052.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:43:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Q2 results impact: 2 Vedanta stocks rally up to 14% after Sept quarter earnings. How have they performed since demerger?",
-      "desc": "Shares of Vedanta Power and Vedanta Oil and Gas rallied up to 14% after both demerged companies reported a sharp year-on-year improvement in Q2 FY27 earnings. Vedanta Power returned to profit, while Vedanta Oil and Gas reported higher revenue and EBITDA.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:36:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Laurus Labs shares climb 4% after Q2 profit zooms 126% YoY",
-      "desc": "Laurus Labs shares rose 3.79% to Rs 2,329 after the pharmaceutical company reported strong Q2FY27 results. Revenue increased 33% year-on-year to Rs 2,206 crore, while net profit more than doubled to Rs 441 crore. Growth was supported by sustained momentum in its CDMO business and Affordable Medicines division, alongside improving margins and continued investments in manufacturing capabilities.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shares-climb-4-after-q2-profit-zooms-126-yoy/articleshow/135343867.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:31:43 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "India records one of the fastest poverty declines in the world, poverty down from 27.1% to 2.6%: World Bank",
       "desc": "India has seen a significant decline in poverty, with the rate dropping from 27.1 percent to 2.6 percent. Approximately 496 million people were lifted out of poverty between 2011 and 2023. Employment has increased, particularly among rural women, which contributed to this progress. However, youth unemployment has also risen, particularly among young rural women. The report highlights the need for productive employment opportunities to continue reducing poverty.",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-records-one-of-the-fastest-poverty-declines-in-the-world-poverty-down-from-27-1-to-2-6-world-bank/articleshow/135344552.cms",
@@ -952,36 +1122,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Jio Platforms share price up 28% from IPO price. Here’s what these 4 brokerages are saying",
-      "desc": "Jio Platforms shares extended their post-listing rally, rising over 28% in three sessions. Nomura, Motilal Oswal, Dolat Capital and Elara Capital remain positive, citing tariff hikes, 5G monetisation, broadband expansion and digital services growth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-share-price-up-28-from-ipo-price-heres-what-these-4-brokerages-are-saying/articleshow/135343944.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:10:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Rupee rises 7 paise to 95.19 against US dollar in early trade",
-      "desc": "The rupee appreciated by 7 paise, settling at 95.19 against the US dollar, influenced by a declining dollar. Brent crude's lower trading prices, however, constrained further gains. The dollar index fell by 0.27 percent, reflecting decreased demand. Investors are observing geopolitical developments and domestic equity trends for potential consequences, while the IMF advises greater exchange rate flexibility to tackle energy-related economic challenges.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-7-paise-to-95-19-against-us-dollar-in-early-trade/articleshow/135343759.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:03:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Ashish Kacholia Q2 portfolio: Ace investor adds 3 new stocks, increases stake in 2 companies. Own any?",
-      "desc": "In the second quarter of 2027, Ashish Kacholia has made notable changes to his investment portfolio. He has increased his stakes in both Indo SMC and Stove Kraft, which have demonstrated impressive growth this year. Additionally, Kacholia has invested in newly-listed firms like ESDS Software Solutions and Ardee Industries, as well as Credent Connect N Care, reflecting his adaptive strategy amidst evolving market trends.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-q2-portfolio-ace-investor-adds-3-new-stocks-increases-stake-in-2-companies-own-any/slideshow/135344222.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:01:03 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "'Rs 10,000 crore businesses worth at risk': Delhi traders urge Sonia Gandhi to postpone November 1 Ramlila Maidan rally",
       "desc": "The Chamber of Trade and Industry (CTI) has urged Congress Parliamentary Party chairperson Sonia Gandhi to defer the INDIA bloc's November 1 mega-rally at Delhi's Ramlila Maidan until after Diwali. The traders' body warned that the expected turnout of 10 lakh people and 15,000-20,000 vehicles could cause severe traffic congestion, disrupting business across 20 major markets during the peak festive shopping season. It has suggested postponing the rally or shifting it to Burari Maidan.",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/rs-10000-crore-businesses-worth-at-risk-delhi-traders-urge-sonia-gandhi-to-postpone-november-1-ramlila-maidan-rally/articleshow/135343491.cms",
@@ -990,16 +1130,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Reliance Industries Q2 results today: Can the old economy rescue the new Reliance?",
-      "desc": "Reliance Industries is poised to reveal its Q2 earnings, with anticipation surrounding a notable profit revival in its oil-to-chemicals division. Analysts forecast a rise in consolidated EBITDA, supported by enhanced refining margins and solid petrochemical performance. Jio Platforms should offer consistent contributions, though Reliance Retail may face pressures with shrinking margins. Investors will keep a watchful eye on insights regarding future expansion in new energy ventures.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-q2-results-today-can-the-old-economy-rescue-the-new-reliance/articleshow/135343621.cms",
-      "pubDate": "Fri, 30 Oct 2026 09:59:14 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
@@ -1140,100 +1270,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "desc": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "desc": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 19:11:10 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The South West reacts to Budget announcements",
-      "desc": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 18:07:26 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "IMF flags Super El Niño risks to India’s growth, says impact yet to materialise",
-      "desc": "According to the IMF, India continues to act as a significant growth engine within the global economy. Despite looming threats posed by weather phenomena like Super El Nino, these risks have yet to materialize. Recent adjustments have raised growth forecasts to 7 percent for the fiscal years 2027 and 2028, reflecting robust domestic demand and a thriving service sector.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/imf-flags-super-el-nio-risks-to-indias-growth-says-impact-yet-to-materialise/articleshow/135325476.cms",
-      "pubDate": "Thu, 29 Oct 2026 23:06:10 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "desc": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 17:15:05 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Watch: Hundreds queue for city's new Lego store",
-      "desc": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
-      "link": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 17:10:34 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "desc": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "India can achieve $1 trillion exports target this fiscal despite global headwinds: Piyush Goyal",
-      "desc": "Commerce Minister Piyush Goyal expressed confidence that India would achieve its $1 trillion exports target in 2026-27 despite global uncertainties. He said nine FTAs could open preferential market access to economies with a combined GDP of $60 trillion. Goods and services exports were estimated at $476.2 billion in April-September.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-achieve-1-trillion-exports-target-this-fiscal-despite-global-headwinds-piyush-goyal/articleshow/135322112.cms",
-      "pubDate": "Thu, 29 Oct 2026 21:24:18 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "desc": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 15:48:44 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-30T15:41:52.778Z",
+    "generatedAt": "2026-10-30T20:32:30.449Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1242,7 +1282,7 @@
         "price": 23053.1,
         "change": 116.35,
         "changePct": 0.51,
-        "timestamp": "2026-10-30T15:41:52.485Z",
+        "timestamp": "2026-10-30T20:32:29.920Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1250,7 +1290,7 @@
         "price": 74459.53,
         "change": 308.49,
         "changePct": 0.42,
-        "timestamp": "2026-10-30T15:41:52.542Z",
+        "timestamp": "2026-10-30T20:32:30.034Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1258,7 +1298,7 @@
         "price": 54686.95,
         "change": -222.7,
         "changePct": -0.41,
-        "timestamp": "2026-10-30T15:41:52.586Z",
+        "timestamp": "2026-10-30T20:32:30.114Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1266,33 +1306,33 @@
         "price": 94.94,
         "change": -0.27,
         "changePct": -0.28,
-        "timestamp": "2026-10-30T15:41:52.669Z",
+        "timestamp": "2026-10-30T20:32:30.208Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 119483,
-        "change": -3571,
-        "changePct": -2.9,
-        "timestamp": "2026-10-30T15:41:52.704Z",
+        "price": 118637,
+        "change": -4417,
+        "changePct": -3.59,
+        "timestamp": "2026-10-30T20:32:30.290Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 150391,
-        "change": -9493,
-        "changePct": -5.94,
-        "timestamp": "2026-10-30T15:41:52.739Z",
+        "price": 150055,
+        "change": -9829,
+        "changePct": -6.15,
+        "timestamp": "2026-10-30T20:32:30.372Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9841,
-        "change": 158,
-        "changePct": 1.63,
-        "timestamp": "2026-10-30T15:41:52.778Z",
+        "price": 9780,
+        "change": 96,
+        "changePct": 0.99,
+        "timestamp": "2026-10-30T20:32:30.449Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
