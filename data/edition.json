@@ -1,115 +1,205 @@
 {
-  "generatedAt": "2026-11-01T09:04:18.896Z",
+  "generatedAt": "2026-11-01T16:38:56.241Z",
   "articles": [
     {
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "desc": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
-      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:34:55 +0000",
+      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
+      "desc": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
+      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 13:25:27 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-      "desc": "Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:24:20 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "10 penny stocks plunge up to 70% in three months. Do you own any?",
-      "desc": "Ten actively traded penny stocks have fallen between 34% and 73% over the past three months, highlighting the risks associated with low-priced shares. Cropster Agro recorded the steepest decline at 73%, followed by Bridge Securities and Empower India, which dropped 55% and 50%, respectively.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms",
-      "pubDate": "Sun, 01 Nov 2026 12:53:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Energy bills help 'doesn't go far enough'",
-      "desc": "Families in the West Midlands say they are worried about paying winter energy bills.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:15:06 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India's October Gross GST collections jump 22.9% to Rs 2.31 lakh crore",
-      "desc": "India's gross GST collection reached Rs 2.31 lakh crore in October, representing a 22.9% increase from last year. The gross GST collected for the April-October period totaled Rs 14.78 lakh crore, showing a 13.2% growth year-on-year. Maharashtra recorded the highest revenue for October at Rs 35,150 crore, followed by Karnataka and Gujarat. Some states, including Sikkim and Ladakh, experienced significant declines in GST collections during the month.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-october-gross-gst-collections-jump-22-9-to-rs-2-31-lakh-crore/articleshow/135420137.cms",
-      "pubDate": "Sun, 01 Nov 2026 12:22:53 +0530",
+      "title": "Sebi to delist penny stocks: Market regulator plans AI-based surveillance of such firms",
+      "desc": "The Securities and Exchange Board of India plans to delist companies that have no economic activity. This move aims to protect investors, especially those investing in penny stocks. The regulator highlights the potential dangers posed by such inactive companies in the market. Additionally, Sebi intends to announce compliance requirements for foreign institutional investors soon.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/market-regulator-plans-ai-based-surveillance-of-such-firms/articleshow/135428476.cms",
+      "pubDate": "Sun, 01 Nov 2026 18:49:51 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
-      "desc": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
-      "pubDate": "Sun, 01 Nov 2026 12:22:22 +0530",
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "desc": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to &#039;take care of&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 13:02:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "EAM Jaishankar discusses Ukraine-Russia conflict solutions amid G20 summit",
+      "desc": "India has engaged in discussions with Russia, Europe, and Ukraine regarding the ongoing conflict and its impact. These talks focused on preventing attacks on civilian shipping and restoring grain exports affected by Black Sea disruptions. External Affairs Minister S. Jaishankar emphasised the complexity of discussions around ceasing attacks on energy installations. Various interpretations of what constitutes energy installations have complicated these discussions.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-discusses-ukraine-russia-conflict-solutions-amid-g20-summit/articleshow/135427894.cms",
+      "pubDate": "Sun, 01 Nov 2026 18:21:45 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "desc": "Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices fell as much as 2% amid rising crude oil prices, inflation concerns and a global technology sell-off.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms",
+      "pubDate": "Sun, 01 Nov 2026 17:16:33 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
-      "desc": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors will track oil price movements, foreign institutional investor (FII) activity, global cues and domestic market trends for direction. FIIs turned net buyers after a 10-week selling streak, lending support to sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
-      "pubDate": "Sun, 01 Nov 2026 12:07:22 +0530",
+      "title": "Kashmiri apple supplies fall short of Diwali demand amid fungal outbreak",
+      "desc": "Supply of Kashmiri apples is currently inadequate due to a significant scab outbreak that has affected this year's crop. The primary concern is that a large percentage of apples arriving in markets are of lower grades. Growers are facing high production costs while receiving low returns on affected apples. Demand remains good ahead of Diwali, with higher-quality apples commanding good prices.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/kashmiri-apple-supplies-fall-short-of-diwali-demand-amid-fungal-outbreak/articleshow/135421493.cms",
+      "pubDate": "Sun, 01 Nov 2026 15:15:22 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Good intentions, unintended consequences: The cost of regulation",
+      "desc": "Regulation is vital for protecting consumers and building trust, but unpredictable or poorly calibrated policy changes can disrupt business economics, valuations and investment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms",
+      "pubDate": "Sun, 01 Nov 2026 14:56:29 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week",
-      "desc": "Amidst rising economic fears, foreign portfolio investors withdrew Rs 34,843 crore from Indian equities in October. Although they had made significant contributions in July and August, outflows continued through September. By late October, a turnaround occurred as foreign investors became net buyers, infusing approximately Rs 6,300 crore into the market. Support from domestic institutional investors provided much-needed stability as all eyes turn to potential global impacts on investor sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
-      "pubDate": "Sun, 01 Nov 2026 11:55:21 +0530",
+      "title": "Global beverage majors advance India IPO plans, from DRHP filing to board approval",
+      "desc": "Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a potential IPO for its Indian bottling operations, emphasizing the value in the domestic market. These developments indicate a growing interest in public listings among multinational beverage companies in India.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
+      "pubDate": "Sun, 01 Nov 2026 14:45:28 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 08:43:00 GMT",
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "desc": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better AirPlay? For $50 more than [&#8230;]",
+      "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "pubDate": "2026-11-01T09:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
+      "desc": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
+      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 13:25:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Sebi to delist penny stocks: Market regulator plans AI-based surveillance of such firms",
+      "desc": "The Securities and Exchange Board of India plans to delist companies that have no economic activity. This move aims to protect investors, especially those investing in penny stocks. The regulator highlights the potential dangers posed by such inactive companies in the market. Additionally, Sebi intends to announce compliance requirements for foreign institutional investors soon.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/market-regulator-plans-ai-based-surveillance-of-such-firms/articleshow/135428476.cms",
+      "pubDate": "Sun, 01 Nov 2026 18:49:51 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "desc": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "desc": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families&#039; hopes of return.",
-      "link": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:34:55 +0000",
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "desc": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to &#039;take care of&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 13:02:10 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Gaza doctors struggle with bereavement, overwork, trauma amid genocidal war",
-      "desc": "Doctors and nurses struggle to cope with the horrors they endured during the height of the Gaza war.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/gaza-doctors-struggle-with-bereavement-overwork-trauma-amid-genocidal-war?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:24:20 +0000",
+      "title": "Mansukh Mandaviya rolls out EPFO services on WhatsApp, starts auto-settlement of small inoperative accounts",
+      "desc": "Union Labour &amp; Employment Minister Mansukh Mandaviya launched EPFO services through WhatsApp for easier access. Subscribers can check their PF balance and transaction history conveniently using this platform. The automatic settlement for inoperative EPF accounts was also introduced, streamlining the process for beneficiaries. In total, around one lakh accounts will benefit from this initiative. The EPFO's commitment to evolve and focus on worker-centric innovations was emphasized during the celebration.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/mansukh-mandaviya-rolls-out-epfo-services-on-whatsapp-starts-auto-settlement-of-small-inoperative-accounts/articleshow/135428041.cms",
+      "pubDate": "Sun, 01 Nov 2026 18:27:31 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "EAM Jaishankar discusses Ukraine-Russia conflict solutions amid G20 summit",
+      "desc": "India has engaged in discussions with Russia, Europe, and Ukraine regarding the ongoing conflict and its impact. These talks focused on preventing attacks on civilian shipping and restoring grain exports affected by Black Sea disruptions. External Affairs Minister S. Jaishankar emphasised the complexity of discussions around ceasing attacks on energy installations. Various interpretations of what constitutes energy installations have complicated these discussions.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-discusses-ukraine-russia-conflict-solutions-amid-g20-summit/articleshow/135427894.cms",
+      "pubDate": "Sun, 01 Nov 2026 18:21:45 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "desc": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "desc": "Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices fell as much as 2% amid rising crude oil prices, inflation concerns and a global technology sell-off.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms",
+      "pubDate": "Sun, 01 Nov 2026 17:16:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Kashmiri apple supplies fall short of Diwali demand amid fungal outbreak",
+      "desc": "Supply of Kashmiri apples is currently inadequate due to a significant scab outbreak that has affected this year's crop. The primary concern is that a large percentage of apples arriving in markets are of lower grades. Growers are facing high production costs while receiving low returns on affected apples. Demand remains good ahead of Diwali, with higher-quality apples commanding good prices.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/kashmiri-apple-supplies-fall-short-of-diwali-demand-amid-fungal-outbreak/articleshow/135421493.cms",
+      "pubDate": "Sun, 01 Nov 2026 15:15:22 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Good intentions, unintended consequences: The cost of regulation",
+      "desc": "Regulation is vital for protecting consumers and building trust, but unpredictable or poorly calibrated policy changes can disrupt business economics, valuations and investment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms",
+      "pubDate": "Sun, 01 Nov 2026 14:56:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Global beverage majors advance India IPO plans, from DRHP filing to board approval",
+      "desc": "Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a potential IPO for its Indian bottling operations, emphasizing the value in the domestic market. These developments indicate a growing interest in public listings among multinational beverage companies in India.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
+      "pubDate": "Sun, 01 Nov 2026 14:45:28 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "10 penny stocks plunge up to 70% in three months. Do you own any?",
@@ -143,7 +233,7 @@
     },
     {
       "title": "Festive spending drives record UPI transactions in October",
-      "desc": "Festive spending pushed UPI transactions to a record 25.47 billion in October, up 23% year-on-year, while transaction value rose 16% to a record ₹31.53 lakh crore, according to NPCI data. Average daily transaction value crossed ₹1 lakh crore for the first time, driven by festive shopping, dining and online sales.",
+      "desc": "UPI processed transactions worth Rs 31.53 lakh crore during the month, a 16% rise from a year earlier and the highest on record, signalling that the platform continues to expand even as consumers navigate higher prices of electronics and other festive purchases this year.",
       "link": "https://economictimes.indiatimes.com/tech/technology/festive-spending-drives-record-upi-transactions-in-october/articleshow/135420426.cms",
       "pubDate": "Sun, 01 Nov 2026 12:38:40 +0530",
       "image": "",
@@ -242,6 +332,16 @@
       "sectionLabel": "Indian Markets"
     },
     {
+      "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+      "desc": "Binance has announced the resumption of cryptocurrency withdrawals after recovering a significant portion of stolen assets. The exchange has identified a North Korean unit behind the theft and is actively working to recover remaining tokens. Law enforcement agencies are tracking the laundering of stolen assets into cryptocurrencies. Binance has committed to covering the financial losses incurred due to the hack.",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/articleshow/135427270.cms",
+      "pubDate": "Sun, 01 Nov 2026 10:29:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
       "desc": "The Securities and Exchange Board of India (Sebi) has taken serious action against EKI Energy Services Ltd and its Managing Director due to financial misreporting. The regulatory body discovered that the company recognized revenue too early and inflated expenses, distorting profit reports. In addition to the company's penalties totaling Rs 88 lakh, several executives were also fined for their complicity in these discrepancies.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
@@ -252,24 +352,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "What we know about latest efforts to end US war on Iran",
-      "desc": "The foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 03:24:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "desc": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 01 Nov 2026 01:37:26 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
@@ -310,140 +400,10 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "pubDate": "2026-10-31T12:05:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Centre releases states Rs 1.09 lakh cr festive boost",
-      "desc": "Uttar Pradesh received the largest allocation of ₹19,208 crore, followed by Bihar at ₹10,845 crore. Madhya Pradesh was allocated ₹8,010 crore, West Bengal ₹7,866 crore, Maharashtra ₹7,022 crore and Rajasthan ₹6,460 crore. Odisha received ₹4,819 crore and Andhra Pradesh ₹4,597 crore.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/centre-releases-addition-instalment-of-tax-devolution-of-rs-1-09-lakh-crore-to-states/articleshow/135405282.cms",
-      "pubDate": "Sat, 31 Oct 2026 21:16:12 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "GST reforms: Easier registration for small e-commerce sellers, faster refunds to take effect Nov 1",
-      "desc": "Simplified GST registration processes will benefit small sellers using e-commerce platforms without physical presence in multiple states. The GST portal will offer user-friendly interfaces and clearer documentation requirements for registration applications. Automatic sanctioning of full refund claims for excess balance in electronic cash ledgers will expedite the refund process. Flexibility in post-supply discount taxation will support industries with volume-based incentives and trade schemes.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-reforms-easier-registration-for-small-e-commerce-sellers-faster-refunds-to-take-effect-nov-1/articleshow/135404278.cms",
-      "pubDate": "Sat, 31 Oct 2026 20:24:46 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "desc": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore",
-      "desc": "Muthoot Finance reported a 36% year-on-year rise in consolidated net profit to Rs 3,278 crore in Q2, while assets under management grew 42% to Rs 2.09 lakh crore. However, standalone gross NPA ratio rose to 3.87% from 2.28% in the previous quarter, indicating a deterioration in asset quality",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms",
-      "pubDate": "Sat, 31 Oct 2026 18:15:32 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "India extends cotton import duty exemption till December 31",
-      "desc": "The Indian government has extended the customs duty exemption on cotton imports to December 31. This decision aims to support the textile industry by ensuring adequate raw material availability. The waiver allows greater flexibility for manufacturers to source inputs at reduced costs. Domestic cotton prices have remained firm due to production concerns, prompting this extension. The move is expected to strengthen Indian textiles in both domestic and international markets.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-extends-cotton-import-duty-exemption-till-december-31/articleshow/135400613.cms",
-      "pubDate": "Sat, 31 Oct 2026 17:40:40 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
-      "desc": "Sebi is likely to release a consultation paper on foreign investor compliance requirements within weeks, chairman Tuhin Kanta Pandey said. The proposed document will explore aligning Indian norms with global standards amid heavy FII outflows. The regulator is also planning a capacity-building network to strengthen independent directors’ effectiveness.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
-      "pubDate": "Sat, 31 Oct 2026 17:36:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "US bonds rally, sending yields to biggest monthly decline since 2023",
-      "desc": "US Treasuries experienced a notable rise as technology stock selloffs caused a shift towards safer investments. The yield on the benchmark 10-year note had its largest monthly drop in nearly three years. Earnings reports from Amazon and Intel negatively impacted investor confidence amid rising AI costs. Expectations for a December interest rate hike remain high after a recent Federal Reserve meeting.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms",
-      "pubDate": "Sat, 31 Oct 2026 17:23:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "NTPC Q2 Results: Standalone profit rises 14% YoY to Rs 5,320 crore; revenue up 17%",
-      "desc": "NTPC has showcased a strong performance in the second quarter of FY27, with a significant 14% increase in standalone net profit year-on-year. The operational revenue saw a notable rise of 16.8% from the same quarter last year, reflecting solid financial health. An interim dividend of Rs 3 per share was announced for shareholders. In a move to bolster growth, NTPC is also increasing its capital expenditure on pumped storage initiatives.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms",
-      "pubDate": "Sat, 31 Oct 2026 16:57:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
-      "desc": "The Nifty gained 2% last week, recovering above the crucial 200-week moving average at 22,700. While easing volatility and buying at lower levels support the rebound, bearish momentum indicators suggest caution. Analysts identify 23,300–23,450 as immediate resistance and 22,750–22,525 as key support for the coming week.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
-      "pubDate": "Sat, 31 Oct 2026 16:35:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "CDSL Q2 results: Net profit jumps 24% YoY to Rs 173 crore, revenue up 24%",
-      "desc": "CDSL reported a 24% year-on-year rise in Q2 net profit to Rs 173 crore, while revenue grew 23.7% to Rs 395 crore. EBITDA margin expanded to 58%. The depository opened around 75 lakh new demat accounts during the quarter, taking assets under custody beyond Rs 89 lakh crore.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms",
-      "pubDate": "Sat, 31 Oct 2026 15:50:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
-      "desc": "S Naren of ICICI Prudential Mutual Fund highlights how only six companies from the 1990 Sensex remain in the benchmark today. At ET Wealth Expo, he explained why beaten-down stocks may never recover and urged investors to distinguish between asset allocation and stock selection, while cautioning against chasing strong past returns.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
-      "pubDate": "Sat, 31 Oct 2026 15:40:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Commerce ministry sets up committee for better utilisation of RELIEF initiative for exporters",
-      "desc": "The commerce ministry has established a six-member committee to enhance the RELIEF initiative for exporters. This initiative aims to mitigate challenges posed by rising freight costs and insurance premiums. The committee includes officials from various government departments working to improve fund utilization. It will assess the implementation of the initiative and recommend measures for better uptake. The overall goal is to support exporters during trade disruptions in crucial regions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/commerce-ministry-sets-up-committee-for-better-utilisation-of-relief-initiative-for-exporters/articleshow/135397107.cms",
-      "pubDate": "Sat, 31 Oct 2026 15:32:20 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-01T09:04:18.896Z",
+    "generatedAt": "2026-11-01T16:38:56.241Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -452,7 +412,7 @@
         "price": 23053.1,
         "change": 116.35,
         "changePct": 0.51,
-        "timestamp": "2026-11-01T09:04:18.356Z",
+        "timestamp": "2026-11-01T16:38:55.603Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -460,7 +420,7 @@
         "price": 74459.53,
         "change": 308.49,
         "changePct": 0.42,
-        "timestamp": "2026-11-01T09:04:18.464Z",
+        "timestamp": "2026-11-01T16:38:55.777Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -468,41 +428,41 @@
         "price": 54686.95,
         "change": -222.7,
         "changePct": -0.41,
-        "timestamp": "2026-11-01T09:04:18.537Z",
+        "timestamp": "2026-11-01T16:38:55.865Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 94.95,
-        "change": -0.26,
-        "changePct": -0.27,
-        "timestamp": "2026-11-01T09:04:18.611Z",
+        "price": 94.94,
+        "change": -0.27,
+        "changePct": -0.28,
+        "timestamp": "2026-11-01T16:38:55.970Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 119022,
-        "change": -4045,
+        "price": 119010,
+        "change": -4044,
         "changePct": -3.29,
-        "timestamp": "2026-11-01T09:04:18.687Z",
+        "timestamp": "2026-11-01T16:38:56.057Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 150425,
-        "change": -9476,
+        "price": 150410,
+        "change": -9475,
         "changePct": -5.93,
-        "timestamp": "2026-11-01T09:04:18.760Z",
+        "timestamp": "2026-11-01T16:38:56.153Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9886,
+        "price": 9885,
         "change": 201,
         "changePct": 2.08,
-        "timestamp": "2026-11-01T09:04:18.896Z",
+        "timestamp": "2026-11-01T16:38:56.241Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
