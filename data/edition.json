@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-31T22:20:11.215Z",
+  "generatedAt": "2026-11-01T01:58:33.920Z",
   "articles": [
+    {
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "desc": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran&#039;s conditions.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:00:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "CBDT tightens merger rules for charity trusts, imposes five-year curbs on changing objectives",
       "desc": "The Central Board of Direct Taxes (CBDT) has made it mandatory for organisations merging with another registered non-profit to inform the I-T Department within a prescribed deadline, get their accounts audited and disclose the reasons for the merger. The new rules, notified on October 30, also prevent organisations with regular registration from merging with those holding provisional registration, and vice versa.",
@@ -18,16 +28,6 @@
       "pubDate": "Sat, 31 Oct 2026 16:55:47 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-      "desc": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-      "pubDate": "Sat, 31 Oct 2026 16:28:04 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -82,6 +82,26 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "desc": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 01:37:26 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+      "desc": "Top diplomat says Iran and Qatar have reached a plan to reopen Hormuz in two days if the US meets Tehran&#039;s conditions.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:00:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
       "title": "CBDT tightens merger rules for charity trusts, imposes five-year curbs on changing objectives",
       "desc": "The Central Board of Direct Taxes (CBDT) has made it mandatory for organisations merging with another registered non-profit to inform the I-T Department within a prescribed deadline, get their accounts audited and disclose the reasons for the merger. The new rules, notified on October 30, also prevent organisations with regular registration from merging with those holding provisional registration, and vice versa.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-tightens-merger-rules-for-charity-trusts-imposes-five-year-curbs-on-changing-objectives/articleshow/135409569.cms",
@@ -108,16 +128,6 @@
       "pubDate": "Sat, 31 Oct 2026 16:55:47 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
-      "desc": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
-      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-      "pubDate": "Sat, 31 Oct 2026 16:28:04 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -597,9 +607,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "OpenAI cuts funding target by $10 billion: FT",
@@ -620,60 +630,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India-Brazil bilateral trade set to reach $20 bn with focus on critical minerals, AI, defence: Envoy",
-      "desc": "Brazil's Ambassador to India highlighted growing trade relations, expecting bilateral trade to reach USD 20 billion soon. The partnership encompasses critical sectors such as defence, energy, and pharmaceuticals, promoting economic engagement. Both nations aim to deepen cultural ties, celebrating the centenary of musician Antonio Carlos Jobim in 2027. Recent political visits strengthened commitments toward technological and economic cooperation in multilateral forums.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-brazil-bilateral-trade-set-to-reach-20-bn-with-focus-on-critical-minerals-ai-defence-envoy/articleshow/135383999.cms",
-      "pubDate": "Sat, 31 Oct 2026 07:23:37 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-      "desc": "Wall Street’s tech sell-off deepened on Friday as investors questioned whether massive spending on artificial intelligence will deliver enough returns to justify lofty valuations. The S&amp;P 500 fell 1.8% and the Nasdaq 2.9%, with Intel plunging nearly 29% and Nvidia down 4.2%, while bitcoin also slid after a major hack at Binance.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
-      "pubDate": "Sat, 31 Oct 2026 06:20:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
-      "desc": "Reliance Industries Ltd has set a new benchmark with a record net profit of ₹29,550 crore for the September quarter, fueled by significant advancements in the oil-to-chemicals and digital segments. With a yearly revenue surge of 28.5% to ₹3.38 lakh crore, the O2C division's Ebitda skyrocketed 68%, reflecting the advantages of elevated energy prices and the firm’s adaptability in challenging market scenarios.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
-      "pubDate": "Sat, 31 Oct 2026 05:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "New-age beauty brands enjoy revenue glow-up",
-      "desc": "New-age beauty and personal care brands in India demonstrated impressive revenue growth in fiscal year 2026. Companies like Foxtale and Innovist achieved significant increases, doubling and tripling their sales figures. In contrast, older brands such as Sugar Cosmetics experienced revenue declines due to intensified competition and a lack of product innovation. Many newer brands focus on niche market segments and specific consumer problems to attract customers.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/new-age-beauty-brands-enjoy-revenue-glow-up/articleshow/135390466.cms",
-      "pubDate": "Sat, 31 Oct 2026 05:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
-      "desc": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 23:19:17 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-31T22:20:11.215Z",
+    "generatedAt": "2026-11-01T01:58:33.920Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -682,7 +642,7 @@
         "price": 23053.1,
         "change": 116.35,
         "changePct": 0.51,
-        "timestamp": "2026-10-31T22:20:10.714Z",
+        "timestamp": "2026-11-01T01:58:33.399Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -690,7 +650,7 @@
         "price": 74459.53,
         "change": 308.49,
         "changePct": 0.42,
-        "timestamp": "2026-10-31T22:20:10.889Z",
+        "timestamp": "2026-11-01T01:58:33.531Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -698,7 +658,7 @@
         "price": 54686.95,
         "change": -222.7,
         "changePct": -0.41,
-        "timestamp": "2026-10-31T22:20:10.972Z",
+        "timestamp": "2026-11-01T01:58:33.609Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -706,7 +666,7 @@
         "price": 94.95,
         "change": -0.26,
         "changePct": -0.27,
-        "timestamp": "2026-10-31T22:20:11.045Z",
+        "timestamp": "2026-11-01T01:58:33.684Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -714,7 +674,7 @@
         "price": 119022,
         "change": -4045,
         "changePct": -3.29,
-        "timestamp": "2026-10-31T22:20:11.119Z",
+        "timestamp": "2026-11-01T01:58:33.762Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -723,7 +683,7 @@
         "price": 150425,
         "change": -9476,
         "changePct": -5.93,
-        "timestamp": "2026-10-31T22:20:11.195Z",
+        "timestamp": "2026-11-01T01:58:33.841Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -732,7 +692,7 @@
         "price": 9886,
         "change": 201,
         "changePct": 2.08,
-        "timestamp": "2026-10-31T22:20:11.215Z",
+        "timestamp": "2026-11-01T01:58:33.920Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
