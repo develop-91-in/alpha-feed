@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-11-01T16:38:56.241Z",
+  "generatedAt": "2026-11-01T21:00:04.731Z",
   "articles": [
     {
-      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-      "desc": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
-      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 13:25:27 +0000",
+      "title": "PM Modi to meet Niti Aayog leadership on Nov 5; likely to  review  work as govt begins shaping  FY28 Budget",
+      "desc": "Prime Minister Narendra Modi is scheduled to meet the new leadership of Niti Aayog on November 5. This meeting aims to establish budget priorities amidst global uncertainty and economic growth challenges. The focus will be on enhancing domestic manufacturing and creating employment opportunities. Experts from various sectors will provide insights related to India's development objectives.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/pm-modi-to-meet-niti-aayog-leadership-on-nov-5-likely-to-review-work-as-govt-begins-shaping-fy28-budget/articleshow/135436989.cms",
+      "pubDate": "Mon, 02 Nov 2026 01:19:15 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "desc": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:48:17 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "CII calls for GST-like reforms in land, labour &amp; local approvals",
+      "desc": "CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across different government tiers.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/cii-calls-for-gst-like-reforms-in-land-labour-local-approvals/articleshow/135436910.cms",
+      "pubDate": "Mon, 02 Nov 2026 01:09:53 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
+      "desc": "The conflict has become a central issue ahead of Tuesday&#039;s polls.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:00:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "desc": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 18:23:57 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -18,16 +58,6 @@
       "pubDate": "Sun, 01 Nov 2026 18:49:51 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "desc": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to &#039;take care of&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 13:02:10 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -52,34 +82,74 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Kashmiri apple supplies fall short of Diwali demand amid fungal outbreak",
-      "desc": "Supply of Kashmiri apples is currently inadequate due to a significant scab outbreak that has affected this year's crop. The primary concern is that a large percentage of apples arriving in markets are of lower grades. Growers are facing high production costs while receiving low returns on affected apples. Demand remains good ahead of Diwali, with higher-quality apples commanding good prices.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/kashmiri-apple-supplies-fall-short-of-diwali-demand-amid-fungal-outbreak/articleshow/135421493.cms",
-      "pubDate": "Sun, 01 Nov 2026 15:15:22 +0530",
+      "title": "One nation, many opportunities: Why India's many elections may be keeping protests peaceful",
+      "desc": "People across India are protesting peacefully, contrasting with violent agitations seen in other countries. The 'one nation, multiple elections' framework allows diverse political benefits to be shared among parties. This electoral model keeps governments accountable and responsive to public needs. Elections help to channel frustrations and enable citizens to express their concerns. As a result, the political landscape remains dynamic and participatory, fostering a sense of empowerment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/one-nation-many-opportunities-why-indias-many-elections-may-be-keeping-protests-peaceful/articleshow/135437101.cms",
+      "pubDate": "Mon, 02 Nov 2026 01:24:24 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Good intentions, unintended consequences: The cost of regulation",
-      "desc": "Regulation is vital for protecting consumers and building trust, but unpredictable or poorly calibrated policy changes can disrupt business economics, valuations and investment.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/good-intentions-unintended-consequences-the-cost-of-regulation/articleshow/135422850.cms",
-      "pubDate": "Sun, 01 Nov 2026 14:56:29 +0530",
+      "title": "PM Modi to meet Niti Aayog leadership on Nov 5; likely to  review  work as govt begins shaping  FY28 Budget",
+      "desc": "Prime Minister Narendra Modi is scheduled to meet the new leadership of Niti Aayog on November 5. This meeting aims to establish budget priorities amidst global uncertainty and economic growth challenges. The focus will be on enhancing domestic manufacturing and creating employment opportunities. Experts from various sectors will provide insights related to India's development objectives.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/pm-modi-to-meet-niti-aayog-leadership-on-nov-5-likely-to-review-work-as-govt-begins-shaping-fy28-budget/articleshow/135436989.cms",
+      "pubDate": "Mon, 02 Nov 2026 01:19:15 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Global beverage majors advance India IPO plans, from DRHP filing to board approval",
-      "desc": "Carlsberg has filed an updated draft red herring prospectus for its potential IPO in India. Pernod Ricard continues to prepare for its proposed listing while awaiting board approval for its Indian business. Coca-Cola is exploring a potential IPO for its Indian bottling operations, emphasizing the value in the domestic market. These developments indicate a growing interest in public listings among multinational beverage companies in India.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/global-beverage-majors-advance-india-ipo-plans-from-drhp-filing-to-board-approval/articleshow/135422834.cms",
-      "pubDate": "Sun, 01 Nov 2026 14:45:28 +0530",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+      "desc": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:48:17 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "CII calls for GST-like reforms in land, labour &amp; local approvals",
+      "desc": "CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across different government tiers.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/cii-calls-for-gst-like-reforms-in-land-labour-local-approvals/articleshow/135436910.cms",
+      "pubDate": "Mon, 02 Nov 2026 01:09:53 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
+      "desc": "The conflict has become a central issue ahead of Tuesday&#039;s polls.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 19:00:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "desc": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 18:23:57 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "desc": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 16:57:14 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
@@ -90,16 +160,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-      "desc": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
-      "link": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 13:25:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Sebi to delist penny stocks: Market regulator plans AI-based surveillance of such firms",
@@ -120,16 +180,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "desc": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to &#039;take care of&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 13:02:10 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Mansukh Mandaviya rolls out EPFO services on WhatsApp, starts auto-settlement of small inoperative accounts",
@@ -370,65 +420,35 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "CBDT tightens merger rules for charity trusts, imposes five-year curbs on changing objectives",
-      "desc": "The Central Board of Direct Taxes (CBDT) has made it mandatory for organisations merging with another registered non-profit to inform the I-T Department within a prescribed deadline, get their accounts audited and disclose the reasons for the merger. The new rules, notified on October 30, also prevent organisations with regular registration from merging with those holding provisional registration, and vice versa.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cbdt-tightens-merger-rules-for-charity-trusts-imposes-five-year-curbs-on-changing-objectives/articleshow/135409569.cms",
-      "pubDate": "Sat, 31 Oct 2026 23:59:57 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Amitabh Kant pitches for development model with rural communities as producers, innovators",
-      "desc": "Kant also stressed the need to transform rural India into centres of economic activity, innovation and entrepreneurship rather than limiting it to welfare delivery.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/amitabh-kant-pitches-for-development-model-with-rural-communities-as-producers-innovators/articleshow/135407958.cms",
-      "pubDate": "Sat, 31 Oct 2026 22:50:13 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "desc": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 16:55:47 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-01T16:38:56.241Z",
+    "generatedAt": "2026-11-01T21:00:04.730Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
       {
         "symbol": "NIFTY 50",
         "price": 23053.1,
-        "change": 116.35,
+        "change": 116.3,
         "changePct": 0.51,
-        "timestamp": "2026-11-01T16:38:55.603Z",
+        "timestamp": "2026-11-01T21:00:04.410Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
         "price": 74459.53,
-        "change": 308.49,
+        "change": 308.53,
         "changePct": 0.42,
-        "timestamp": "2026-11-01T16:38:55.777Z",
+        "timestamp": "2026-11-01T21:00:04.479Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
         "price": 54686.95,
-        "change": -222.7,
+        "change": -222.65,
         "changePct": -0.41,
-        "timestamp": "2026-11-01T16:38:55.865Z",
+        "timestamp": "2026-11-01T21:00:04.536Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -436,7 +456,7 @@
         "price": 94.94,
         "change": -0.27,
         "changePct": -0.28,
-        "timestamp": "2026-11-01T16:38:55.970Z",
+        "timestamp": "2026-11-01T21:00:04.585Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -444,7 +464,7 @@
         "price": 119010,
         "change": -4044,
         "changePct": -3.29,
-        "timestamp": "2026-11-01T16:38:56.057Z",
+        "timestamp": "2026-11-01T21:00:04.595Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -453,7 +473,7 @@
         "price": 150410,
         "change": -9475,
         "changePct": -5.93,
-        "timestamp": "2026-11-01T16:38:56.153Z",
+        "timestamp": "2026-11-01T21:00:04.679Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -462,7 +482,7 @@
         "price": 9885,
         "change": 201,
         "changePct": 2.08,
-        "timestamp": "2026-11-01T16:38:56.241Z",
+        "timestamp": "2026-11-01T21:00:04.730Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
