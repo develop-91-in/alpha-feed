@@ -1,85 +1,185 @@
 {
-  "generatedAt": "2026-11-01T21:00:04.731Z",
+  "generatedAt": "2026-11-02T00:35:45.433Z",
   "articles": [
     {
-      "title": "PM Modi to meet Niti Aayog leadership on Nov 5; likely to  review  work as govt begins shaping  FY28 Budget",
-      "desc": "Prime Minister Narendra Modi is scheduled to meet the new leadership of Niti Aayog on November 5. This meeting aims to establish budget priorities amidst global uncertainty and economic growth challenges. The focus will be on enhancing domestic manufacturing and creating employment opportunities. Experts from various sectors will provide insights related to India's development objectives.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/pm-modi-to-meet-niti-aayog-leadership-on-nov-5-likely-to-review-work-as-govt-begins-shaping-fy28-budget/articleshow/135436989.cms",
-      "pubDate": "Mon, 02 Nov 2026 01:19:15 +0530",
+      "title": "Nifty faces key 23,200 hurdle, analysts remain cautious",
+      "desc": "Nifty has recently surged by nearly 2%, approaching the resistance level at 23,200. Analysts recommend building long positions to capitalize on a potential breakout. Support is set between 22,600 and 22,800, serving as a buffer. Recommended stocks for investment this week include DLF and Zensar Technologies. Investors should exercise caution in the broader market until significant resistance levels are broken.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-faces-key-23200-hurdle-analysts-remain-cautious/articleshow/135440855.cms",
+      "pubDate": "Mon, 02 Nov 2026 05:38:15 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "GST collections jump 22.9% to Rs 2.31 lakh crore in October as festive demand beats high inflation and interest rates",
+      "desc": "India's GST collections in October reached ₹2.31 lakh crore, reflecting a 22.9% year-on-year increase. Strong consumption trends are indicated by rising passenger car sales and record digital payments. Power consumption also surged nearly 22% compared to last year, further emphasizing economic strength. Despite a high inflation rate of 5.5%, demand has remained robust, supporting growth forecasts. Analysts suggest this growth aligns with leading indicators of a consumption-driven economy.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/gst-collections-jump-22-9-to-rs-2-31-lakh-crore-in-october-as-festive-demand-beats-high-inflation-and-interest-rates/articleshow/135435948.cms",
+      "pubDate": "Mon, 02 Nov 2026 05:30:00 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "desc": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "desc": "US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "desc": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 23:19:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "desc": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 22:15:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 19:48:17 GMT",
+      "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT",
       "image": "",
       "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "CII calls for GST-like reforms in land, labour &amp; local approvals",
-      "desc": "CII has called for extending the GST Council's approach to decriminalise offences in various sectors. This move aims to enhance ease of doing business and attract investments in land, labour, and construction. The organisation emphasizes the importance of simplifying regulatory processes across different government tiers.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/cii-calls-for-gst-like-reforms-in-land-labour-local-approvals/articleshow/135436910.cms",
-      "pubDate": "Mon, 02 Nov 2026 01:09:53 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How will the Iran war shape the outcome of the US midterm vote?",
-      "desc": "The conflict has become a central issue ahead of Tuesday&#039;s polls.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 19:00:32 +0000",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "desc": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:28:47 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-      "desc": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-      "pubDate": "Sun, 01 Nov 2026 18:23:57 +0000",
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "desc": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday&#039;s US midterm elections.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:01:33 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Sebi to delist penny stocks: Market regulator plans AI-based surveillance of such firms",
-      "desc": "The Securities and Exchange Board of India plans to delist companies that have no economic activity. This move aims to protect investors, especially those investing in penny stocks. The regulator highlights the potential dangers posed by such inactive companies in the market. Additionally, Sebi intends to announce compliance requirements for foreign institutional investors soon.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/market-regulator-plans-ai-based-surveillance-of-such-firms/articleshow/135428476.cms",
-      "pubDate": "Sun, 01 Nov 2026 18:49:51 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "EAM Jaishankar discusses Ukraine-Russia conflict solutions amid G20 summit",
-      "desc": "India has engaged in discussions with Russia, Europe, and Ukraine regarding the ongoing conflict and its impact. These talks focused on preventing attacks on civilian shipping and restoring grain exports affected by Black Sea disruptions. External Affairs Minister S. Jaishankar emphasised the complexity of discussions around ceasing attacks on energy installations. Various interpretations of what constitutes energy installations have complicated these discussions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-discusses-ukraine-russia-conflict-solutions-amid-g20-summit/articleshow/135427894.cms",
-      "pubDate": "Sun, 01 Nov 2026 18:21:45 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "desc": "Sensex and Nifty ended the week up about 0.5%, supported by resilient large-cap, IT and healthcare stocks. However, midcap and smallcap indices fell as much as 2% amid rising crude oil prices, inflation concerns and a global technology sell-off.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135426334.cms",
-      "pubDate": "Sun, 01 Nov 2026 17:16:33 +0530",
+      "title": "Nifty faces key 23,200 hurdle, analysts remain cautious",
+      "desc": "Nifty has recently surged by nearly 2%, approaching the resistance level at 23,200. Analysts recommend building long positions to capitalize on a potential breakout. Support is set between 22,600 and 22,800, serving as a buffer. Recommended stocks for investment this week include DLF and Zensar Technologies. Investors should exercise caution in the broader market until significant resistance levels are broken.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-faces-key-23200-hurdle-analysts-remain-cautious/articleshow/135440855.cms",
+      "pubDate": "Mon, 02 Nov 2026 05:38:15 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "GST collections jump 22.9% to Rs 2.31 lakh crore in October as festive demand beats high inflation and interest rates",
+      "desc": "India's GST collections in October reached ₹2.31 lakh crore, reflecting a 22.9% year-on-year increase. Strong consumption trends are indicated by rising passenger car sales and record digital payments. Power consumption also surged nearly 22% compared to last year, further emphasizing economic strength. Despite a high inflation rate of 5.5%, demand has remained robust, supporting growth forecasts. Analysts suggest this growth aligns with leading indicators of a consumption-driven economy.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/gst-collections-jump-22-9-to-rs-2-31-lakh-crore-in-october-as-festive-demand-beats-high-inflation-and-interest-rates/articleshow/135435948.cms",
+      "pubDate": "Mon, 02 Nov 2026 05:30:00 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "desc": "US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "desc": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 23:34:49 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "desc": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 23:19:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "desc": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 22:25:51 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "desc": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 22:15:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "desc": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "desc": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:28:47 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "desc": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday&#039;s US midterm elections.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "pubDate": "Sun, 01 Nov 2026 21:01:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "One nation, many opportunities: Why India's many elections may be keeping protests peaceful",
@@ -100,16 +200,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
-      "desc": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 19:48:17 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "CII calls for GST-like reforms in land, labour &amp; local approvals",
@@ -410,20 +500,10 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "desc": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 00:17:05 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-01T21:00:04.730Z",
+    "generatedAt": "2026-11-02T00:35:45.432Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -432,7 +512,7 @@
         "price": 23053.1,
         "change": 116.3,
         "changePct": 0.51,
-        "timestamp": "2026-11-01T21:00:04.410Z",
+        "timestamp": "2026-11-02T00:35:44.721Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -440,7 +520,7 @@
         "price": 74459.53,
         "change": 308.53,
         "changePct": 0.42,
-        "timestamp": "2026-11-01T21:00:04.479Z",
+        "timestamp": "2026-11-02T00:35:44.882Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -448,41 +528,41 @@
         "price": 54686.95,
         "change": -222.65,
         "changePct": -0.41,
-        "timestamp": "2026-11-01T21:00:04.536Z",
+        "timestamp": "2026-11-02T00:35:44.986Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.94,
-        "change": -0.27,
-        "changePct": -0.28,
-        "timestamp": "2026-11-01T21:00:04.585Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-11-02T00:35:45.114Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 119010,
-        "change": -4044,
-        "changePct": -3.29,
-        "timestamp": "2026-11-01T21:00:04.595Z",
+        "price": 119269,
+        "change": 259,
+        "changePct": 0.22,
+        "timestamp": "2026-11-02T00:35:45.239Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 150410,
-        "change": -9475,
-        "changePct": -5.93,
-        "timestamp": "2026-11-01T21:00:04.679Z",
+        "price": 151917,
+        "change": 1508,
+        "changePct": 1,
+        "timestamp": "2026-11-02T00:35:45.333Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9885,
-        "change": 201,
-        "changePct": 2.08,
-        "timestamp": "2026-11-01T21:00:04.730Z",
+        "price": 9729,
+        "change": -156,
+        "changePct": -1.57,
+        "timestamp": "2026-11-02T00:35:45.432Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
