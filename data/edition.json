@@ -1,175 +1,725 @@
 {
-  "generatedAt": "2026-11-04T08:59:57.153Z",
+  "generatedAt": "2026-11-04T17:06:37.792Z",
   "articles": [
     {
-      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure: FT",
-      "desc": "US officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:20:40 +0530",
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared to last [&#8230;]",
+      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "pubDate": "2026-11-04T12:03:32-05:00",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
-      "desc": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fundamentals. Industrial and jewellery demand may weaken, while institutional buying and supply constraints could offer support.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:09:18 +0530",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google extends voluntary buyout offers to employees in several countries",
-      "desc": "The move comes amid mounting AI spending that has unnerved Wall Street and dented Alphabet's stock price. Microsoft last week offered voluntary buyouts to 60,000 employees in an effort to contain costs. Alphabet's workforce has grown steadily in recent quarters, but it has sought to shift resources toward priority areas.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/articleshow/135532115.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:08:42 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
-      "desc": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:05:41 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "China Services PMI slows to three-month low; what lies ahead for Chinese stocks?",
-      "desc": "China’s services sector expanded at its slowest pace in three months as rising costs and intense competition squeezed margins. The weaker PMI and declining business confidence may weigh on Chinese equities, although sustained growth in export orders offers some support.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-services-pmi-slows-to-three-month-low-what-lies-ahead-for-chinese-stocks/articleshow/135530252.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:02:57 +0530",
+      "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
+      "desc": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid concerns over changing government spending and immigration policies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
+      "pubDate": "Wed, 04 Nov 2026 22:01:06 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
-      "desc": "The company, which nearly doubled its data-center revenue in the third quarter, is benefiting as a shift in AI workloads toward running models in real-world applications drives demand for its graphics processing units and central processors. This has enabled AMD to capture market share from rival Intel, which last week forecast quarterly revenue well below estimates and triggered a global selloff in chip stocks.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-forecasts-quarterly-revenue-above-estimates-as-data-center-growth-accelerates/articleshow/135531712.cms",
-      "pubDate": "Wed, 04 Nov 2026 13:59:28 +0530",
+      "title": "Data centers lost the midterms",
+      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "pubDate": "2026-11-04T11:05:39-05:00",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-      "desc": "AMD in February agreed to sell up to $60 billion worth of AI chips to Meta over five years, giving the Facebook owner warrants that could let it buy as much as 10% of the chip firm if it meets certain milestones. The deal followed a similar agreement with OpenAI last year, giving the startup the option to buy up to roughly 10% of the chipmaker.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135531648.cms",
-      "pubDate": "Wed, 04 Nov 2026 13:57:13 +0530",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "pubDate": "2026-11-04T10:58:45-05:00",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-      "desc": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
-      "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 08:22:15 +0000",
+      "title": "My favorite 25W wireless power bank is down to $35",
+      "desc": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery, which happens to be steeply discounted right now at Amazon. Originally [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+      "pubDate": "2026-11-04T10:57:55-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "desc": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:45:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US markets rise as Democrats sweep midterm elections",
+      "desc": "Nasdaq, Dow, and S&amp;P 500 open higher after Democrats take control and Trump accepts results.",
+      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:39:38 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure: FT",
-      "desc": "US officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:20:40 +0530",
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared to last [&#8230;]",
+      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "pubDate": "2026-11-04T12:03:32-05:00",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
-      "desc": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fundamentals. Industrial and jewellery demand may weaken, while institutional buying and supply constraints could offer support.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:09:18 +0530",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Google extends voluntary buyout offers to employees in several countries",
-      "desc": "The move comes amid mounting AI spending that has unnerved Wall Street and dented Alphabet's stock price. Microsoft last week offered voluntary buyouts to 60,000 employees in an effort to contain costs. Alphabet's workforce has grown steadily in recent quarters, but it has sought to shift resources toward priority areas.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/articleshow/135532115.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:08:42 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
-      "desc": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:05:41 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "China Services PMI slows to three-month low; what lies ahead for Chinese stocks?",
-      "desc": "China’s services sector expanded at its slowest pace in three months as rising costs and intense competition squeezed margins. The weaker PMI and declining business confidence may weigh on Chinese equities, although sustained growth in export orders offers some support.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-services-pmi-slows-to-three-month-low-what-lies-ahead-for-chinese-stocks/articleshow/135530252.cms",
-      "pubDate": "Wed, 04 Nov 2026 14:02:57 +0530",
+      "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
+      "desc": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid concerns over changing government spending and immigration policies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
+      "pubDate": "Wed, 04 Nov 2026 22:01:06 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
-      "desc": "The company, which nearly doubled its data-center revenue in the third quarter, is benefiting as a shift in AI workloads toward running models in real-world applications drives demand for its graphics processing units and central processors. This has enabled AMD to capture market share from rival Intel, which last week forecast quarterly revenue well below estimates and triggered a global selloff in chip stocks.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-forecasts-quarterly-revenue-above-estimates-as-data-center-growth-accelerates/articleshow/135531712.cms",
-      "pubDate": "Wed, 04 Nov 2026 13:59:28 +0530",
+      "title": "Government prepares draft sustainable aviation fuels policy; moots mandatory blending in ATF from 2027",
+      "desc": "The civil aviation ministry has circulated the draft National Policy on Sustainable Aviation Fuels which mandates use of only indigenously manufactured SAF to be blended with Aviation Turbine Fuel (ATF).",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/government-prepares-draft-sustainable-aviation-fuels-policy-moots-mandatory-blending-in-atf-from-2027/articleshow/135545649.cms",
+      "pubDate": "Wed, 04 Nov 2026 21:55:27 +0530",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-      "desc": "AMD in February agreed to sell up to $60 billion worth of AI chips to Meta over five years, giving the Facebook owner warrants that could let it buy as much as 10% of the chip firm if it meets certain milestones. The deal followed a similar agreement with OpenAI last year, giving the startup the option to buy up to roughly 10% of the chipmaker.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135531648.cms",
-      "pubDate": "Wed, 04 Nov 2026 13:57:13 +0530",
+      "title": "Data centers lost the midterms",
+      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "pubDate": "2026-11-04T11:05:39-05:00",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
-      "desc": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
-      "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 08:22:15 +0000",
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "pubDate": "2026-11-04T10:58:45-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "My favorite 25W wireless power bank is down to $35",
+      "desc": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery, which happens to be steeply discounted right now at Amazon. Originally [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
+      "pubDate": "2026-11-04T10:57:55-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "desc": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:51:37 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "desc": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:45:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US markets rise as Democrats sweep midterm elections",
+      "desc": "Nasdaq, Dow, and S&amp;P 500 open higher after Democrats take control and Trump accepts results.",
+      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:39:38 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
-      "desc": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 08:05:32 GMT",
+      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+      "desc": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:28:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US Treasury shifts language, opening door to auction size changes",
+      "desc": "The US Treasury Department has updated its regulations regarding upcoming auction sizes for treasury securities. This revision hints at a potential increase in the issuance of short- and intermediate-term debt. They also flagged a likely decrease in demand for longer-term 20- and 30-year auctions. Future adjustments will rely on demand trends and financial requirements, with the Treasury planning to consult market participants for a thorough understanding of these changing factors.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-shifts-language-opening-door-to-auction-size-changes/articleshow/135543878.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:51:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
+      "desc": "Meta Platforms has successfully garnered an impressive €53 billion in investor interest for its inaugural euro bond issuance. With an ambition to raise €9 billion divided into six distinct parts, this move follows their recent $15 billion bond offering in the US market. Citigroup and Morgan Stanley are at the helm of this euro bond sale, with pricing anticipated shortly. As of September 30, Meta's total debt reached $83.67 billion.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-draws-record-orders-for-debut-euro-bond-sale-bloomberg-news-reports/articleshow/135543860.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:50:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
+      "desc": "On Wednesday, gold prices surged by 3%, reaching impressive new levels following the midterm elections, during which Democrats secured control of both the Senate and House. This political transformation, combined with a weaker dollar, heightened gold and precious metals demand. Investors are keenly watching for the upcoming US non-farm payrolls report, as rising interest rates and ongoing fiscal risk concerns continue to influence market sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:48:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Prediction markets get Democratic win right, with a few surprises",
+      "desc": "Prediction markets provided insights during the US midterm elections, with $1.48 billion wagered on the outcomes. Democrats gained control of both the Senate and House of Representatives after delivering a rebuke to Donald Trump. Despite some accurate forecasts, notable surprises emerged, such as Annie Andrews' victory in South Carolina against expectations. Kalshi and Polymarket reflected varying probabilities, emphasizing the predictive capabilities of betting markets.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-get-democratic-win-right-with-a-few-surprises/articleshow/135543698.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:47:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Indian bonds rally most since April as oil slides after US midterm verdict",
+      "desc": "Indian government bonds experienced a significant rally influenced by falling oil prices after the US midterm elections. The benchmark bond yield dropped notably, reflecting a three-day decline in yields. Brent crude oil prices decreased, easing inflation and fiscal pressures on India. The Reserve Bank of India anticipates inflation will peak this quarter, supporting future bond market performance.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rally-most-since-april-as-oil-slides-after-us-midterm-verdict/articleshow/135543664.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:45:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Aptus Value Housing Finance Q2 profit rises 18% to Rs 267 cr",
+      "desc": "Aptus Value Housing Finance India achieved a remarkable net profit of Rs 267 crore in the second quarter, signifying strong financial growth. The total income surged to Rs 634 crore, up from Rs 554 crore the year prior. Additionally, interest income climbed to Rs 551 crore from Rs 472 crore.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aptus-value-housing-finance-q2-profit-rises-18-to-rs-267-cr/articleshow/135543628.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:43:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "desc": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:13:14 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "desc": "Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:13:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Keystone Realtors Q2 profit jumps 10-fold to Rs 101 cr",
+      "desc": "Keystone Realtors has announced a ten-fold increase in consolidated net profit for the quarter ended September. The net profit rose to Rs 100.75 crore, attributed to significant profit share from joint ventures. Total income for the quarter, however, saw a decline from the previous year. The company's pre-sales reached record levels, reflecting strong demand for luxury housing projects.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q2-profit-jumps-10-fold-to-rs-101-cr/articleshow/135543604.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:42:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Property giant Vonovia 'concerned' over Berlin left's housing plans",
+      "desc": "Europe's leading corporate landlord Vonovia said Wednesday it was \"concerned\" at plans by Berlin's possible incoming far-left led city administration to expropriate apartments to tackle the city's housing crisis. \"Of course, we are concerned about plans to nationalise housing owned by private companies,\" Vonovia CEO Luka Mucic told reporters Wednesday during a conference call on the company's third-quarter results.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/property-giant-vonovia-concerned-over-berlin-lefts-housing-plans/articleshow/135543553.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:40:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sunday PropTech acquires 89-room hotel in Kolkata, marks entry into city",
+      "desc": "Sunday PropTech Ltd marks a significant milestone with its inaugural acquisition of an 89-room hotel in Rajarhat. This venue will be included in its emerging mid-premium Clubhouse brand, bolstering its footprint in eastern India. Given its advantageous proximity to Netaji Subhas Chandra Bose International Airport, it appeals to business travelers. The company plans to revamp and reposition the hotel, while also identifying additional investment prospects in West Bengal.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:33:46 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "The fight for tech accountability starts now",
+      "desc": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulation. Meta overhauled its content policy to allow calling gay people mentally ill and women property. Elon [&#8230;]",
+      "link": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
+      "pubDate": "2026-11-04T10:02:25-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
+      "desc": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 15:01:10 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
+      "desc": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "pubDate": "2026-11-04T09:46:01-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US stocks today: US stocks rally after Democrats' midterm sweep as AI infrastructure stocks slide",
+      "desc": "US stocks rallied after Democrats secured control of both chambers of Congress in the midterm elections, easing concerns over major policy shifts. The Dow, S&amp;P 500 and Nasdaq advanced, while data centre stocks declined amid AI regulation concerns. AMD gained on its upbeat 2027 growth forecast, while clean energy stocks surged.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:11:36 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Piyush Goyal sets March 2027 deadline for digitisation of DGFT services, aims to end physical visits",
+      "desc": "Commerce Minister Piyush Goyal has set March 31, 2027, as the deadline for complete digitisation of DGFT services, including licence, permit and SCOMET approvals. From April 1, businesses will no longer need physical visits to government offices for these services. The move also includes digitising historical records and simplifying procedures.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-sets-march-2027-deadline-for-digitisation-of-dgft-services-aims-to-end-physical-visits/articleshow/135542057.cms",
+      "pubDate": "Wed, 04 Nov 2026 20:00:47 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Lenskart, Nykaa, PhysicsWallah see Q2 profits surge",
+      "desc": "New-age companies Nykaa, Lenskart, and PhysicsWallah reported strong numbers for the September quarter. This and more in today’s ETtech Top 5.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/nykaa-lenskart-physicswallah-see-q2-profits-surge/articleshow/135540651.cms",
+      "pubDate": "Wed, 04 Nov 2026 19:25:48 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Ather Energy among 15 stocks that hit 52-week highs and rallied up to 30% in a month",
+      "desc": "The Sensex gained 384 points to close at 77,301, while 15 BSE 500 stocks touched fresh 52-week highs. Ather Energy, PVR Inox, Marico and Indian Hotels featured among notable gainers, reflecting broad market momentum.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-15-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/135541189.cms",
+      "pubDate": "Wed, 04 Nov 2026 19:07:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sebi cancels registrations of 8 investment advisers for non-payment of renewal fees",
+      "desc": "Sebi has announced relaxed KYC requirements for Non-Resident Indians, Overseas Citizens of India, and foreign nationals. These changes will allow them to complete digital onboarding from FATF-compliant countries effectively. Intermediaries can accept KYC submissions without requiring physical presence in India. Video In-Person Verification is now permitted where in-person verification isn't feasible, enhancing compliance capabilities. The revised framework, effective from December 3, is aimed at simplifying the entire onboarding process.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registrations-of-8-investment-advisers-for-non-payment-of-renewal-fees/articleshow/135540926.cms",
+      "pubDate": "Wed, 04 Nov 2026 19:06:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US Stock Market Live Updates: US stocks rally after Democrats win Congress; data center stocks slide",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
+      "pubDate": "Wed, 04 Nov 2026 18:42:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+      "desc": "Democrats can block Trump&#039;s legislative agenda, launch investigations but don&#039;t have the numbers to override his veto.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 12:48:11 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+      "desc": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 12:44:30 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
+      "desc": "Investors are watching the implications of the recent Democratic win in the US midterm elections. Geopolitical tensions, particularly the Iran war, continue to elevate oil prices and market risks. Regulatory scrutiny on the rapidly growing AI sector is expected following the election outcomes. Market volatility is anticipated to persist due to fiscal policy debates and increasing debt concerns. The market response so far has shown modest gains despite heightened uncertainties.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
+      "pubDate": "Wed, 04 Nov 2026 17:59:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Beyond Equity: Jiraaf’s Saurav Ghosh on how to customise your portfolio, and the importance of bonds",
+      "desc": "An investment portfolio should be customised to one’s own needs, because there tends to be no one-size-fits-all portfolio. The idea is to ensure financial goals are realised across timelines and not just a decade or twenty years later. Jiraaf founder, Saurav Ghosh, talked about the customisation, profit margins, risk management and more when it comes to allocating a part of one’s portfolio to bonds. Read on!",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/beyond-equity-jiraafs-saurav-ghosh-on-how-to-customise-your-portfolio-and-the-importance-of-bonds/articleshow/135538953.cms",
+      "pubDate": "Wed, 04 Nov 2026 17:48:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Uber's profit forecast disappoints as driver shortages, Middle East conflict hurt",
+      "desc": "The company is responding by spending more to recruit and retain drivers, a cost that will be watched closely because it comes as the company also funds a major push into autonomous vehicles and a string of acquisitions.",
+      "link": "https://economictimes.indiatimes.com/tech/startups/ubers-profit-forecast-disappoints-as-driver-shortages-middle-east-conflict-hurt/articleshow/135538660.cms",
+      "pubDate": "Wed, 04 Nov 2026 17:30:20 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Tech funding hits 12-month low of $592 million in October; late-stage funding plunges 72%",
+      "desc": "Early-stage funding, by contrast, rose 114% sequentially to $361.6 million from $168.6 million and was up 10.8% from $326.4 million in October 2025. Early-stage rounds accounted for 61% of the month's funding.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/tech-funding-hits-12-month-low-of-592-million-in-october-late-stage-funding-plunges-72/articleshow/135538367.cms",
+      "pubDate": "Wed, 04 Nov 2026 17:20:15 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "desc": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 11:46:09 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
+      "desc": "Nykaa reported a 207% year-on-year profit surge to Rs 101 crore in Q2FY27, with revenue rising 28% to Rs 3,006 crore. Beauty and fashion businesses accelerated growth, while quick commerce, owned brands and strategic acquisitions strengthened expansion.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:51:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Auto sales growth to cool post-festive season, says Monarch; bets on Minda Corp, RK Forgings and Sundram Fasteners",
+      "desc": "Auto sales growth is expected to moderate in the second half of FY27 after strong festive demand, while tractor sales may remain weak. Monarch Networth Capital prefers diversified ancillary players Minda Corporation, RK Forgings and Sundram Fasteners, with potential upside of up to 44%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-growth-to-cool-post-festive-season-says-monarch-bets-on-minda-corp-rk-forgings-and-sundram-fasteners/articleshow/135537265.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:42:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "desc": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 10:47:31 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "European shares rise as banks, clean energy stocks rally; Novo Nordisk jumps",
+      "desc": "European shares advanced after Democrats secured both chambers of the US Congress, lifting investor sentiment. Banks and clean-energy stocks led the rally, while Novo Nordisk gained after raising its full-year sales and profit forecasts.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-rise-as-banks-clean-energy-stocks-rally-novo-nordisk-jumps/articleshow/135536424.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:17:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Rupee gains 17 paise to settle at 94.58 against Us dollar",
+      "desc": "The Indian rupee appreciated for the second consecutive session, closing 17 paise higher against the US dollar. Easing crude oil prices and inflows from foreign investors contributed to the rupee's firmness. Domestic equity markets also performed well, with both Sensex and Nifty rising significantly. The dollar index experienced a decline, reflecting a weaker American currency. These factors indicated improved global sentiment following the US midterm elections.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-gains-17-paise-to-settle-at-94-58-against-us-dollar/articleshow/135536340.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:13:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus",
+      "desc": "Bitcoin traded near $78,000 as institutional outflows and macroeconomic uncertainty kept sentiment cautious across the cryptocurrency market. Investors tracked US midterm election results, potential changes in crypto regulation, Federal Reserve rate expectations, and ETF flows for cues on the market's next move.",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-78600-ethereum-at-2300-as-us-midterm-results-put-crypto-regulation-in-focus/articleshow/135536095.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:10:21 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "AI bubble is coming, and there is no way out! Aswath Damodaran explains what investors should do before the crash begins",
+      "desc": "Valuation expert Aswath Damodaran believes an AI bubble is inevitable and investors cannot avoid its impact entirely. In a recent podcast, he traced the AI frenzy to ChatGPT's 2022 launch, which brought artificial intelligence into public consciousness. He explained how advances in computing power and access to vast amounts of data have transformed AI and fuelled today's enthusiasm.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-is-coming-and-there-is-no-way-out-ashwath-damodaran-explains-what-investors-should-do-before-the-crash-begins/articleshow/135535989.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:03:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Lenskart Q2 Results: Profit zooms 122% YoY to Rs 227 crore; revenue grows 36%",
+      "desc": "Lenskart Solutions achieved a net profit of Rs 227.08 crore in Q2FY27, reflecting a 122.1% YoY increase. Revenue from operations rose to Rs 2,845.03 crore, marking a 35.7% YoY growth. Product margin improved to 64% compared to 63.4% in the same quarter last year. The company added 165 new stores in Q2FY27, enhancing its active store count to 3,624.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q2-results-profit-zooms-122-yoy-to-rs-227-crore-revenue-grows-36/articleshow/135535400.cms",
+      "pubDate": "Wed, 04 Nov 2026 16:00:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Eurozone bond yields steady as investors await inflation data; US Treasury yields ease after midterm elections",
+      "desc": "Eurozone government bond yields were steady as investors awaited October inflation data, while US Treasury yields declined after Democrats gained control of both chambers of Congress. Markets also assessed the likelihood of further European Central Bank rate hikes in December.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-steady-as-investors-await-inflation-data-us-treasury-yields-ease-after-midterm-elections/articleshow/135535574.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:51:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Dr Lal PathLabs posts higher quarterly profit on strong diagnostic test demand",
+      "desc": "Dr Lal PathLabs announced a 27% increase in its second-quarter profit, with net earnings rising to 1.92 billion rupees. The company experienced a near 20% increase in consolidated revenue from operations during this period. A rise in healthcare awareness has fueled the demand for preventive health check-ups, contributing to these earnings. Dr Lal tested 13.6% more samples this quarter compared to the previous year.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-lal-pathlabs-posts-higher-quarterly-profit-on-strong-diagnostic-test-demand/articleshow/135535528.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:49:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Allcargo Logistics Q2 Results: Co posts Rs 19 crore profit; revenue rises 3.4%",
+      "desc": "Allcargo Logistics Ltd reported a positive shift in financial performance during the September quarter of FY27, achieving a consolidated profit after tax of Rs 19 crore. This demonstrates a year-on-year growth alongside a 3.4 percent increase in operational revenue. With the festive season on the horizon, the company anticipates further demand, focusing on enhancing capacity utilization and reinstating volume growth in the upcoming months.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/allcargo-logistics-q2-results-co-posts-rs-19-crore-profit-revenue-rises-3-4/articleshow/135535457.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:47:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Bayer CropScience Q2 profit rises 9% to Rs 166 crore despite 19% decline in revenue",
+      "desc": "Bayer CropScience Ltd has announced an impressive 8.84% growth in net profit, totaling Rs 166.2 crore for Q2 FY27. However, total income saw a 19.4% decline year-over-year, attributed to ongoing market challenges. Factors such as unpredictable monsoon patterns have disrupted both sowing and crop protection demand. In response, the company emphasizes efficiency improvements and portfolio enhancements, while the board has declared an interim dividend of Rs 90 per share.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bayer-cropscience-q2-profit-rises-9-to-rs-166-crore-despite-19-decline-in-revenue/articleshow/135535378.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:44:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Saregama India Q2 net profit jumps over 46% to Rs 64.2 cr, revenue grows 36.6%",
+      "desc": "Saregama India has reported an impressive 46.4 percent rise in its consolidated net profit for the September quarter. Alongside this, the company’s operational revenue saw a 36.63 percent increase, with the music segment generating Rs 251.3 crore and live events thriving remarkably. The total income for the first half of FY27 reached Rs 587.28 crore, showcasing solid financial results.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/saregama-india-q2-net-profit-jumps-over-46-to-rs-64-2-cr-revenue-grows-36-6/articleshow/135535225.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:42:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "AMD shares jump as AI-driven data-center strength fuels growth outlook",
+      "desc": "AMD, which recently joined the ranks of trillion-dollar companies, has gained about 126% this year and is poised to add about $58 billion in market value if premarket gains hold. The company's strong outlook highlighted growing momentum in its server processor business, signaling that spending on AI computing was extending beyond Nvidia's accelerators, which dominate the market.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-shares-jump-as-ai-driven-data-center-strength-fuels-growth-outlook/articleshow/135534882.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:29:12 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "BMW Q3 profit falls 15% as China competition weighs",
+      "desc": "BMW reported a 15% year-on-year decline in third-quarter net profit to 1.45 billion euros, a day after issuing its second profit warning of 2026. Intensifying competition from Chinese automakers, rising costs and weaker demand in China are weighing on the German luxury carmaker. Its vehicle deliveries in China plunged 24.8% during the quarter, while global deliveries fell 6.3%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bmw-q3-profit-falls-15-as-china-competition-weighs/articleshow/135534091.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:08:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "70% of global business leaders report rising risk exposure amid AI, geopolitical disruptions: KPMG",
+      "desc": "According to the report, 56% of respondents said external disruptions involving geopolitical, energy, cyber, trade or climate-related factors would cause severe operational disruptions or significantly affect their organisations' costs and performance over the next three to five years.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/70-of-global-business-leaders-report-rising-risk-exposure-amid-ai-geopolitical-disruptions-kpmg/articleshow/135533874.cms",
+      "pubDate": "Wed, 04 Nov 2026 15:01:28 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "12 BSE 500 stocks defy market trend, rally up to 65% in 3 months",
+      "desc": "While the BSE 500 declined around 5% over the past three months, 12 stocks bucked the broader market trend, delivering gains ranging from 25% to 64%. Welspun Living led the rally, followed by Ather Energy and Welspun Corp.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-bse-500-stocks-defy-market-trend-rally-up-to-65-in-3-months/slideshow/135533709.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:48:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US midterm election results 2026: India sees some trade relief, new risks after US midterm vote",
+      "desc": "Indian officials are cautiously optimistic about the recent US midterm election results and their implications. While the election reduces trade tension, it introduces new uncertainties for US-India relations. Analysts suggest it is too early to gauge the long-term effects of these political changes. The potential for increased tariffs still looms due to ongoing investigations.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-midterm-election-results-2026-india-sees-some-trade-relief-new-risks-after-us-midterm-vote/articleshow/135532996.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:41:02 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
+      "desc": "Singapore Airlines said on Tuesday that about 46,000 booking records may have been ​affected by a cybersecurity incident involving Amadeus, its reservation technology",
+      "link": "https://economictimes.indiatimes.com/tech/technology/singapore-airlines-says-46000-booking-records-affected-by-amadeus-breach/articleshow/135533259.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:40:10 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure: FT",
+      "desc": "US officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:20:40 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
+      "desc": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fundamentals. Industrial and jewellery demand may weaken, while institutional buying and supply constraints could offer support.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:09:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Google extends voluntary buyout offers to employees in several countries",
+      "desc": "The move comes amid mounting AI spending that has unnerved Wall Street and dented Alphabet's stock price. Microsoft last week offered voluntary buyouts to 60,000 employees in an effort to contain costs. Alphabet's workforce has grown steadily in recent quarters, but it has sought to shift resources toward priority areas.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/articleshow/135532115.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:08:42 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "desc": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:05:41 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "China Services PMI slows to three-month low; what lies ahead for Chinese stocks?",
+      "desc": "China’s services sector expanded at its slowest pace in three months as rising costs and intense competition squeezed margins. The weaker PMI and declining business confidence may weigh on Chinese equities, although sustained growth in export orders offers some support.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-services-pmi-slows-to-three-month-low-what-lies-ahead-for-chinese-stocks/articleshow/135530252.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:02:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "AMD forecasts quarterly revenue above estimates as data-center growth accelerates",
+      "desc": "The company, which nearly doubled its data-center revenue in the third quarter, is benefiting as a shift in AI workloads toward running models in real-world applications drives demand for its graphics processing units and central processors. This has enabled AMD to capture market share from rival Intel, which last week forecast quarterly revenue well below estimates and triggered a global selloff in chip stocks.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amd-forecasts-quarterly-revenue-above-estimates-as-data-center-growth-accelerates/articleshow/135531712.cms",
+      "pubDate": "Wed, 04 Nov 2026 13:59:28 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+      "desc": "AMD in February agreed to sell up to $60 billion worth of AI chips to Meta over five years, giving the Facebook owner warrants that could let it buy as much as 10% of the chip firm if it meets certain milestones. The deal followed a similar agreement with OpenAI last year, giving the startup the option to buy up to roughly 10% of the chipmaker.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135531648.cms",
+      "pubDate": "Wed, 04 Nov 2026 13:57:13 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Warren Buffett has lived through 16 US Presidents. Why he ignores election impact on markets",
@@ -230,16 +780,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
-      "desc": "Iran's Islamic Revolutionary Guard Corps says the vessels had hit sea mines while trying to cross a prohibited route.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 07:17:08 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
@@ -392,46 +932,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "AMD forecasts fourth-quarter revenue above estimates on strong AI chip demand",
-      "desc": "Advanced Micro Devices estimates its fourth-quarter revenue will hit about $17 billion, driven primarily by robust demand for AI chips. Although the company's forecast for adjusted gross margin stands at 55%, it falls slightly short of analyst expectations. A remarkable 97% year-on-year increase in data-centre revenue showcases AMD's growth. However, the company currently faces challenges in sourcing high-bandwidth memory, essential for its AI processors.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-forecasts-fourth-quarter-revenue-above-estimates-on-strong-ai-chip-demand/articleshow/135525070.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:56:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bharat Electronics shares gain 3% as Motilal raises target price after Q2; Elara Capital upgrades to Buy",
-      "desc": "Bharat Electronics shares gained after Motilal Oswal raised its price target and Elara Capital upgraded its rating to Buy. Brokerages cited strong order visibility, healthy revenue growth and margin prospects, while delays in major defence orders remain a key risk.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-electronics-shares-gain-3-as-motilal-raises-target-price-after-q2-elara-capital-upgrades-to-buy/articleshow/135524961.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:50:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Rupee rises 14 paise to 94.61 against Us dollar in early trade",
-      "desc": "In early trade, the rupee appreciated by 14 paise, reaching 94.61 against the US dollar. This upswing was fueled by declining crude oil prices and a weaker US dollar. Additionally, the inflow of foreign funds and a buoyant equities market bolstered the rupee's strength. During this period, the Sensex increased by 435.10 points, while the Nifty rose by 115.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-14-paise-to-94-61-against-us-dollar-in-early-trade/articleshow/135524906.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:47:42 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Entering the new Samvat: How to position your portfolio for long-term wealth creation",
-      "desc": "As investors enter Vikram Samvat 2083 amid market volatility, disciplined portfolio construction matters more than short-term predictions. Sound asset allocation, genuine diversification, regular reviews and continued SIP investing can help investors manage uncertainty and build long-term wealth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/entering-the-new-samvat-how-to-position-your-portfolio-for-long-term-wealth-creation/articleshow/135524391.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:43:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
       "desc": "Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and banking.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms",
@@ -440,46 +940,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Awfis Space Solutions shares rally 13% after Q2 profit jumps 94% YoY, revenue rises 20%",
-      "desc": "Awfis Space Solutions shares rallied after the company reported 94% year-on-year profit growth and a 20% rise in Q2 FY27 revenue. Strong seat sales, premium workspace expansion and enterprise demand supported its operational performance, even as FIIs and mutual funds trimmed stakes.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/awfis-space-solutions-shares-rally-13-after-q2-profit-jumps-94-yoy-revenue-rises-20/articleshow/135524247.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:30:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Bajaj Finserv shares rise 2%, extend gains after Q2 results. Why Jefferies reduced target price but still sees 34% upside",
-      "desc": "Bajaj Finserv shares had gained around 2% on Tuesday as well after the company announced the earnings, reporting a 17% YoY increase in revenue from operations to Rs 43,416 crore for the second quarter of the ongoing financial year 2027, from Rs 37,215 crore reported in the year-ago period. The shares of the company rose further to Rs 1,749 apiece on Wednesday morning.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finserv-shares-rise-2-extend-gains-after-q2-results-why-jefferies-reduced-target-price-but-still-sees-34-upside/articleshow/135524029.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:26:03 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Can AMD stock extend its rally on an upbeat 2027 outlook?",
-      "desc": "AMD reported record third-quarter revenue, driven by a near-doubling of data centre sales amid strong AI demand. The chipmaker also issued an upbeat revenue forecast and projected growth of over 80% in 2027, boosting investor sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-amd-stock-extend-its-rally-on-an-upbeat-2027-outlook/slideshow/135524436.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:22:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Sensex jumps 400 points, Nifty above 23,900  as investors eye US midterm poll outcome. What lies ahead?",
-      "desc": "The Indian stock market has surged, with both Sensex and Nifty climbing to their highest points in two months. As investors keep a keen eye on outcomes from the US midterm elections, which could influence international exchanges, major sectors such as Realty and FMCG have thrived. There's a marked increase in buying from foreign institutional investors, suggesting renewed confidence in large-cap stocks.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-above-23900-as-investors-eye-us-midterm-poll-outcome-what-lies-ahead/articleshow/135523578.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:20:16 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Piyush Goyal holds talks with Danish minister to expand economic partnership",
@@ -492,86 +952,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "US midterm elections: Early Democratic wins rattle Wall Street",
-      "desc": "Early Democratic victories in key US Senate races have raised expectations of a potential shift in control of Congress, although the final outcome remains uncertain. The emerging results triggered a sharp reaction across financial markets, with US stock futures falling, Treasury yields declining and the dollar weakening as investors assessed the implications of a possible Democratic sweep.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterm-elections-early-democratic-wins-rattle-wall-street/articleshow/135523666.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:18:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Diwali dhamaka stocks: Eternal, ICICI Bank, among 10 with upside of up to 34%",
-      "desc": "As the cautious journey of Samvat 2083 unfolds against a backdrop of external challenges, JM Financial unveils ten promising stocks for Diwali investment. ICICI Bank stands out for anticipated returns and robust loan growth. Bharat Electronics and Eternal are recognized for their strategic sector positions and remarkable growth prospects. In light of a volatile market shaped by global incidents, these selections embody long-term growth potential despite current economic uncertainties.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-dhamaka-stocks-eternal-icici-bank-among-10-with-upside-of-up-to-34/slideshow/135523989.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:12:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Chinese yuan hits over two-week low against dollar as PBOC signals caution on appreciation",
-      "desc": "China’s yuan weakened to a more than two-week low against the dollar after the central bank set a weaker daily fixing and raised foreign exchange reserve requirements. The moves signal Beijing’s efforts to moderate the currency’s rapid appreciation.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-yuan-hits-over-two-week-low-against-dollar-as-pboc-signals-caution-on-appreciation/articleshow/135523461.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:08:54 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Samvat 2083 stock picks! Adani Power, Coal India, 8 others to add in your portfolio this festive season",
-      "desc": "​HDFC Securities unveils a list of ten promising stocks ideal for festive season investments, showcasing growth prospects across multiple sectors. This selection features established giants such as Ambuja Cements and rising stars like Emcure Pharmaceuticals. Each stock comes with a recommended investment range aimed at enticing upside targets. Investors are urged to align their picks with personal sector strategies and market trends, enabling a well-rounded approach to opportunities.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/samvat-2083-stock-picks-adani-power-coal-india-8-others-to-add-in-your-portfolio-this-festive-season/slideshow/135523639.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:04:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Arisinfra Solutions reports 110% rise in H1 net profit to Rs 42.9 cr",
-      "desc": "Arisinfra Solutions reported a 110% jump in first-half profit as revenue and operating margins improved. Strong growth in contract manufacturing and its Developer as a Service business helped the company post its highest-ever quarterly profit.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/arisinfra-solutions-reports-110-rise-in-h1-net-profit-to-rs-42-9-cr/articleshow/135523135.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:02:01 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Emcure Pharma shares hit 10% upper circuit after FY27 guidance hike; Jefferies raises target price by 8%",
-      "desc": "Emcure Pharma shares hit a 10% upper circuit after strong Q2 FY27 results prompted the company to raise its full-year growth guidance. Brokerages turned more positive, citing robust international business, improving domestic growth and a strong product pipeline.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/emcure-pharma-shares-hit-10-upper-circuit-after-fy27-guidance-hike-jefferies-raises-target-price-by-8/articleshow/135523159.cms",
-      "pubDate": "Wed, 04 Nov 2026 10:01:03 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Marico among 7 stocks showing White Marubozu Pattern",
-      "desc": "Six Nifty500 stocks gained over 4% on November 3 and featured in StockEdge’s White Marubozu bullish scanner. The candlestick pattern indicates strong buying momentum, with stocks closing near their session highs.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marico-among-7-stocks-showing-white-marubozu-pattern/slideshow/135523394.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:59:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Diwali 2026: Will banking stocks shine in Samvat 2083? Analysts list top picks",
-      "desc": "With Diwali 2026 on the horizon, banking stocks like HDFC Bank, ICICI Bank, and Karur Vysya Bank are drawing attention from analysts as potential winners for Samvat 2083. Following a period of volatility, these stocks are anticipated to regain momentum, driven by consistent loan growth and enhanced management practices. Investors are advised to navigate the changing landscape prudently as opportunities unfold.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-will-banking-stocks-shine-in-samvat-2083-analysts-list-top-picks/articleshow/135522918.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:55:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Gig workers may get social security benefits through 2% transaction levy on businesses",
       "desc": "The government is considering implementing a 2% transaction-based levy on aggregators to support social security for gig workers. This levy will fund benefits such as insurance, health, and maternity support for over 12 million workers. There is a consensus that this approach ensures fairness among different types of aggregators. The new scheme is expected to be launched in 2027, requiring gig workers to meet specific work criteria.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/gig-workers-may-get-social-security-benefits-through-2-transaction-levy-on-businesses/articleshow/135522592.cms",
@@ -580,46 +960,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "M.K. Sons Fine Jewels shares list at 6% premium over IPO price",
-      "desc": "M.K. Sons Fine Jewels made its stock market debut at a 6% premium over its IPO price. The company raised Rs 275.40 crore through its initial public offering, which saw high investor interest. Shares opened at Rs 171 compared to the issue price of Rs 162, indicating strong demand. The company's financial performance showed significant growth, with income rising to Rs 539 crore in FY26.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-k-sons-fine-jewels-shares-to-list-today-check-gmp-ahead-of-market-debut/articleshow/135522802.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:52:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "US midterm election betting surges past $1.4 billion as Democrats score major wins",
-      "desc": "Betting on the 2026 US midterm elections has crossed $1.4 billion, putting prediction markets such as Kalshi and Polymarket to a major test. Strong Democratic gains have triggered sharp movements in election-related contracts, drawing attention to the platforms' growing influence. However, concerns over manipulation, insider trading and forecasting accuracy continue to challenge their credibility as political forecasting tools.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterm-election-betting-surges-past-1-4-billion-as-democrats-score-major-wins/articleshow/135522851.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:51:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank News",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-04-nov-2026/liveblog/135522861.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:50:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "MCX shares tumble 7% even as Q2 net profit surges 130% YoY, revenue more than doubles",
-      "desc": "MCX shares fell nearly 7% despite reporting 130% growth in second-quarter net profit and a 114% rise in revenue. Jefferies said EBITDA was largely in line with estimates, while higher technology costs and taxes affected the results.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-tumble-7-even-as-q2-net-profit-surges-130-yoy-revenue-more-than-doubles/articleshow/135522688.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:48:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Meta raises $15 billion in five-part US bond sale",
@@ -632,16 +972,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "SBI share price target: Jefferies, Motilal, others see up to 34% upside in state lender. Buy, sell or hold?",
-      "desc": "State Bank of India has seen a remarkable 15% increase in profits year-on-year, totaling Rs 23,038 crore for the second quarter. With a loan book surpassing Rs 52 lakh crore and a 10% rise in interest income, brokerages have set optimistic Buy ratings on SBI shares, suggesting target prices between Rs 1,225 and Rs 1,350. Despite this positive outlook, management highlighted possible obstacles from macroeconomic shifts and potential treasury losses.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-share-price-target-jefferies-motilal-others-see-up-to-34-upside-in-state-lender-buy-sell-or-hold/articleshow/135522578.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:45:15 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India's palm oil imports hit 14-month high, soyoil purchases set record",
       "desc": "In October, India experienced a surge in palm oil imports to 866,000 metric tons. Soyoil imports reached a record high of 653,000 tons, reflecting increased demand. The overall edible oil imports rose by 13%, reaching 1.74 million tons during the festive season. This demand is driven by concerns about limited domestic supplies and El Nino-related crop damage.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-palm-oil-imports-hit-14-month-high-soyoil-purchases-set-record/articleshow/135522525.cms",
@@ -650,106 +980,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "MCX gold prices at Rs 1.39 lakh/10 gram; silver tanks Rs 2,000/kg as US jobs data fuels rate hike bets. Key levels to track ahead of Dhanteras",
-      "desc": "In the domestic market, MCX silver futures for December 2026 delivery were down by Rs 2,000 to Rs 1,77,784 per kg. Gold futures for December 2026 delivery fell marginally to Rs 1,30,300 per 10 grams.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-at-rs-1-39-lakh/10-gram-silver-tanks-rs-2000/kg-as-us-jobs-data-fuels-rate-hike-bets-key-levels-to-track-ahead-of-dhanteras/articleshow/135522437.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:42:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Angel One among 4 stocks showing RSI trending up",
-      "desc": "Four Nifty500 stocks that gained over 5% on November 3 featured in StockEdge’s RSI Trending Up scan, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-among-4-stocks-showing-rsi-trending-up/slideshow/135522358.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:34:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Price and Volatility Overview",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-04-nov-2026/liveblog/135522241.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:32:42 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Gold prices ahead of Dhanteras: Up 10% in a year, but is the worst of correction still ahead?",
-      "desc": "Gold has outperformed the Nifty and Sensex since Dhanteras 2025, despite falling sharply from its January peak. With inflation concerns, Fed rate expectations and weak demand weighing on prices, analysts remain divided on its near-term outlook, while major banks see scope for a recovery in 2027.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/gold-prices-ahead-of-dhanteras-up-10-in-a-year-but-is-the-worst-of-correction-still-ahead/articleshow/135521928.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:25:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "CarTrade Tech among 4 stocks closing above VWAP",
-      "desc": "Four Nifty500 stocks closed more than 1.4% above their respective volume-weighted average prices on November 3, according to StockEdge’s technical scan.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cartrade-tech-among-4-stocks-closing-above-vwap/slideshow/135521982.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:22:21 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "NSE shares gain as Jefferies, other brokerages remain bullish after Q2 results. What lies ahead?",
-      "desc": "NSE reported a 23% year-on-year rise in Q2 FY27 consolidated net profit to Rs 2,578 crore, driven by higher trading volumes and transaction revenue. The exchange also approved divesting up to 40% stake in its coal exchange subsidiary. Jefferies and Emkay maintained Buy ratings, projecting further upside in NSE shares.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-in-focus-after-q2-net-profit-rises-23-yoy-why-jefferies-other-brokerages-remain-bullish/articleshow/135521698.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:19:43 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors News",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-updates-04-nov-2026/liveblog/135521745.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:19:21 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Two SME IPOs list today: Carver Roboweld, Ajwa Projects shares make BSE SME debut",
-      "desc": "Ajwa Projects and Carver Roboweld are set to list on the BSE SME platform on November 4, 2026, after collectively raising Rs 66.34 crore. While Ajwa Projects’ IPO received modest subscription of 1.12 times, Carver Roboweld attracted strong investor demand, achieving an overall subscription of 25.80 times.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/two-sme-ipos-list-today-carver-roboweld-ajwa-projects-shares-make-bse-sme-debut/articleshow/135521212.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:12:38 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "TCS Share Price Live Updates: TCS Stock Sees a Significant Drop Today",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-today-live-04-nov-2026/liveblog/135521276.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:11:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nikkei slides to 3-month low as AI stocks tumble on US election jitters",
-      "desc": "Japan's Nikkei index took a hit as AI-driven stocks plummeted following the aftermath of the US elections, raising alarms over potential Democratic control tightening data-centre regulations. Major players in the tech industry, such as Advantest and SoftBank Group, experienced significant drops in their stock values. Nonetheless, Fast Retailing managed to post slight gains, offering a degree of stability to the overall Nikkei performance amidst a gloomy market outlook.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-slides-to-3-month-low-as-ai-stocks-tumble-on-us-election-jitters/articleshow/135521125.cms",
-      "pubDate": "Wed, 04 Nov 2026 09:07:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Human control must set limits on superintelligence, says OpenAI's Sam Altman",
@@ -802,26 +1032,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-      "desc": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 01:36:06 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
-      "desc": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [&#8230;]",
-      "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "pubDate": "2026-11-03T20:15:34-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
       "desc": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair.",
       "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&amp;at_campaign=rss",
@@ -830,16 +1040,6 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "desc": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "pubDate": "2026-11-03T19:42:10-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Canva announces major job cuts after 'our hardest year yet'",
@@ -862,36 +1062,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "desc": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "pubDate": "2026-11-03T18:37:45-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-      "desc": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you [&#8230;]",
-      "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-      "pubDate": "2026-11-03T17:20:50-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "desc": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [&#8230;]",
-      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "pubDate": "2026-11-03T17:04:02-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
       "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
       "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss",
@@ -900,16 +1070,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-      "desc": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
-      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 20:05:21 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Festive demand lifts dry fruit, chocolate imports this season",
@@ -940,249 +1100,69 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Keeping mortgage interest relief approved",
-      "desc": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 16:44:20 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "desc": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 16:19:29 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Rising crude prices could push India's inflation by upto 1 percentage point, diversified imports helping secure oil supplies: EY's Gaurav Moda",
-      "desc": "Gaurav Moda, Partner and Energy Industry Leader at EY India said the increase in crude oil prices from an average of $60-65 per barrel to $90-95 has significantly raised India's energy import costs, even as the country continues to prioritise securing supplies amid geopolitical uncertainties.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rising-crude-prices-could-push-indias-inflation-by-upto-1-percentage-point-diversified-imports-helping-secure-oil-supplies-eys-gaurav-moda/articleshow/135504783.cms",
-      "pubDate": "Tue, 03 Nov 2026 21:22:19 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-      "desc": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 15:51:23 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-      "desc": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 15:12:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "RBI launches 3 surveys to capture inflation expectations, consumer confidence ahead of December policy meeting",
-      "desc": "Reserve Bank of India has announced the November 2026 round of the Inflation Expectations Survey of Households. This survey aims to capture households' perceptions regarding price movements and inflation based on their consumption patterns. Additionally, the Urban Consumer Confidence Survey seeks to understand household sentiments on the economic situation and employment. The Rural Consumer Confidence Survey collects perceptions from rural areas on economic conditions, income, and spending.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-launches-3-surveys-to-capture-inflation-expectations-consumer-confidence-ahead-of-december-policy-meeting/articleshow/135504173.cms",
-      "pubDate": "Tue, 03 Nov 2026 20:40:10 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "desc": "Rio Tinto is jointly funding a A$28m \"toad containment zone\" to protect the Pilbara region.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 15:05:01 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "What in the World",
-      "desc": "Some employers create job ads with no intent to hire",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 14:30:00 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Apple’s robust India quarter; Giva’s $100 million funding",
-      "desc": "Apple posted record sales in India in the September quarter. This and more in today’s ETtech Top 5.",
-      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms",
-      "pubDate": "Tue, 03 Nov 2026 18:56:19 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Car finance compensation payments explained",
-      "desc": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 12:30:04 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "desc": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 11:56:31 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Samsung to make AMD, Nvidia chip parts at second Texas plant: Report",
-      "desc": "Construction is due to start formally this month, with the plant having secured orders for its entire output, and most of the secured volume is for AMD, according to Maeil.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-to-make-amd-nvidia-chip-parts-at-second-texas-plant-report/articleshow/135495228.cms",
-      "pubDate": "Tue, 03 Nov 2026 17:22:21 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-      "desc": "The launch is the first time AI token packages have been offered as a significant consumer product category during Singles' Day, the world's largest shopping festival originally held on November 11 each year.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-lipstick-king-touts-ai-tokens-in-first-for-singles-day-festival/articleshow/135495048.cms",
-      "pubDate": "Tue, 03 Nov 2026 17:15:15 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "'Quiet quitting' could be hitting the economy - here's why",
-      "desc": "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-      "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 11:15:51 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "desc": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 11:10:37 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India may reimpose broken rice export restrictions as prices cross $360 per tonne: IREF",
-      "desc": "India may reimpose restrictions on exports of 100% broken rice as international prices cross $360 per tonne and domestic demand from ethanol manufacturers and poultry-feed producers increases, the Indian Rice Exporters' Federation (IREF) has warned. No fresh curbs have been announced so far.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/india-may-reimpose-broken-rice-export-restrictions-as-prices-cross-360-per-tonne-iref/articleshow/135493265.cms",
-      "pubDate": "Tue, 03 Nov 2026 16:17:44 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India eases forex reporting rules for small value service exports, imports",
-      "desc": "The Reserve Bank of India has eased foreign exchange reporting rules for services exports and imports, reducing compliance requirements for resident individuals and setting a ₹1 million threshold for certain transactions. Resident individuals exporting services will be deemed to have filed export declarations after submitting payment details to banks, while reporting obligations for larger transactions and non-individual entities will continue.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-eases-forex-reporting-rules-for-small-value-service-exports-imports/articleshow/135492748.cms",
-      "pubDate": "Tue, 03 Nov 2026 16:09:33 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Oracle plans to raise $20 billion through bonds and stock sales",
-      "desc": "The company said last week that it expects capital spending to peak this fiscal year and the next as it builds more cloud-computing capacity, but pledged to raise no more than $20 billion in additional financing for AI through fiscal 2030.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales/articleshow/135490162.cms",
-      "pubDate": "Tue, 03 Nov 2026 14:32:12 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-04T08:59:57.153Z",
+    "generatedAt": "2026-11-04T17:06:37.792Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
       {
         "symbol": "NIFTY 50",
-        "price": 23904.85,
-        "change": 94,
-        "changePct": 0.4,
-        "timestamp": "2026-11-04T08:59:56.902Z",
+        "price": 23960.6,
+        "change": 149.75,
+        "changePct": 0.63,
+        "timestamp": "2026-11-04T17:06:37.466Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
-        "price": 77093.41,
-        "change": 175.56,
-        "changePct": 0.23,
-        "timestamp": "2026-11-04T08:59:56.958Z",
+        "price": 77301.4,
+        "change": 383.55,
+        "changePct": 0.5,
+        "timestamp": "2026-11-04T17:06:37.495Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
-        "price": 55919.45,
-        "change": 379.4,
-        "changePct": 0.68,
-        "timestamp": "2026-11-04T08:59:57.006Z",
+        "price": 55913.6,
+        "change": 373.55,
+        "changePct": 0.67,
+        "timestamp": "2026-11-04T17:06:37.558Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 94.75,
-        "change": 0.02,
-        "changePct": 0.02,
-        "timestamp": "2026-11-04T08:59:57.053Z",
+        "price": 94.63,
+        "change": -0.1,
+        "changePct": -0.11,
+        "timestamp": "2026-11-04T17:06:37.616Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123277,
-        "change": 3241,
-        "changePct": 2.7,
-        "timestamp": "2026-11-04T08:59:57.102Z",
+        "price": 123915,
+        "change": 4031,
+        "changePct": 3.36,
+        "timestamp": "2026-11-04T17:06:37.684Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 158254,
-        "change": 6693,
-        "changePct": 4.42,
-        "timestamp": "2026-11-04T08:59:57.106Z",
+        "price": 158906,
+        "change": 7536,
+        "changePct": 4.98,
+        "timestamp": "2026-11-04T17:06:37.735Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 9143,
-        "change": 39,
-        "changePct": 0.43,
-        "timestamp": "2026-11-04T08:59:57.153Z",
+        "price": 8379,
+        "change": -714,
+        "changePct": -7.86,
+        "timestamp": "2026-11-04T17:06:37.792Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
