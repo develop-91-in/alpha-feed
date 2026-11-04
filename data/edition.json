@@ -1,63 +1,73 @@
 {
-  "generatedAt": "2026-11-04T17:06:37.792Z",
+  "generatedAt": "2026-11-04T23:24:06.390Z",
   "articles": [
     {
-      "title": "Nintendo is losing a Switch cartridge supplier",
-      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared to last [&#8230;]",
-      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
-      "pubDate": "2026-11-04T12:03:32-05:00",
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "desc": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 22:45:24 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "desc": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "pubDate": "2026-11-04T17:42:15-05:00",
       "image": "",
       "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "desc": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 22:31:09 +0000",
       "image": "",
-      "source": "BBC World",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
-      "desc": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid concerns over changing government spending and immigration policies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
-      "pubDate": "Wed, 04 Nov 2026 22:01:06 +0530",
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "desc": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Alcohol stocks jump as blue wave boosts industry prospects",
+      "desc": "As the midterm elections unfold, investors are directing their focus to the alcohol sector, anticipating positive impacts on companies such as Constellation Brands due to shifting immigration policies. Optimism surrounding decreasing trade tensions with Canada also seems to uplift brands like Brown-Forman. However, the looming tariffs have caused a sharp decline in US spirits exports, and overall alcohol consumption in the country is still at historical lows, despite minor upticks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:34:38 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Data centers lost the midterms",
-      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "pubDate": "2026-11-04T11:05:39-05:00",
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "desc": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 19:59:14 +0000",
       "image": "",
-      "source": "The Verge",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "pubDate": "2026-11-04T10:58:45-05:00",
+      "title": "Musk stocks lose $120 billion as Democrats’ Texas win rattles investors",
+      "desc": "Tesla and SpaceX lost more than $120 billion in combined market value after Democrats scored major election victories in Texas and across the US. Investors are concerned that a Democrat-controlled Congress could increase scrutiny of Elon Musk’s businesses, complicate a potential Tesla-SpaceX merger and create fresh regulatory hurdles.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/musk-stocks-lose-120-billion-as-democrats-texas-win-rattles-investors/articleshow/135550872.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:25:59 +0530",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "My favorite 25W wireless power bank is down to $35",
-      "desc": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery, which happens to be steeply discounted right now at Amazon. Originally [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
-      "pubDate": "2026-11-04T10:57:55-05:00",
-      "image": "",
-      "source": "The Verge",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -65,31 +75,231 @@
       "title": "Poundland owner in crunch talks as retailer's collapse looms",
       "desc": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
       "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:45:11 GMT",
+      "pubDate": "Wed, 04 Nov 2026 19:44:46 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US markets rise as Democrats sweep midterm elections",
-      "desc": "Nasdaq, Dow, and S&amp;P 500 open higher after Democrats take control and Trump accepts results.",
-      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:39:38 +0000",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "desc": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 23:02:24 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "Nintendo is losing a Switch cartridge supplier",
-      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared to last [&#8230;]",
-      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
-      "pubDate": "2026-11-04T12:03:32-05:00",
+      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "desc": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 22:45:24 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "desc": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "pubDate": "2026-11-04T17:42:15-05:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "desc": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 22:31:09 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "desc": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "desc": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "desc": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide [&#8230;]",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "pubDate": "2026-11-04T15:23:24-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Alcohol stocks jump as blue wave boosts industry prospects",
+      "desc": "As the midterm elections unfold, investors are directing their focus to the alcohol sector, anticipating positive impacts on companies such as Constellation Brands due to shifting immigration policies. Optimism surrounding decreasing trade tensions with Canada also seems to uplift brands like Brown-Forman. However, the looming tariffs have caused a sharp decline in US spirits exports, and overall alcohol consumption in the country is still at historical lows, despite minor upticks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:34:38 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Iranians celebrate Democrat victory in US midterms",
+      "desc": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 19:59:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Musk stocks lose $120 billion as Democrats’ Texas win rattles investors",
+      "desc": "Tesla and SpaceX lost more than $120 billion in combined market value after Democrats scored major election victories in Texas and across the US. Investors are concerned that a Democrat-controlled Congress could increase scrutiny of Elon Musk’s businesses, complicate a potential Tesla-SpaceX merger and create fresh regulatory hurdles.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/musk-stocks-lose-120-billion-as-democrats-texas-win-rattles-investors/articleshow/135550872.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:25:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "desc": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 19:44:46 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "desc": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 19:38:53 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
+      "desc": "Bitcoin rebounds more than 4% to above $81,000, tracking a broader recovery in financial markets after the US midterm elections. However, Democratic control of Congress threatens to stall crypto-friendly legislation and increase regulatory scrutiny. Investors are also weighing the impact of political uncertainty, Treasury yields and institutional adoption.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoin-rebounds-with-stocks-despite-threat-to-crypto-agenda/articleshow/135550638.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:02:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Big factories dominate India's manufacturing output, Annual Survey of Industries shows",
+      "desc": "India's manufacturing sector is characterized by a significant concentration in large factories generating substantial output. Factories producing over ₹500 crore contribute to more than three-fifths of total value added. Smaller factories represent a large number but have minimal output and value contribution. The overall manufacturing corporate sector experienced a notable growth in gross value added year-on-year. However, per-worker value creation did not witness similar growth despite increased employment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/big-factories-dominate-indias-manufacturing-output/articleshow/135549706.cms",
+      "pubDate": "Thu, 05 Nov 2026 00:47:52 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Google’s Pixel 11 phones are up to 27 percent off",
+      "desc": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pixel 11 [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+      "pubDate": "2026-11-04T14:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "New orders &amp; robust demand lift India's October services growth to 4-month high",
+      "desc": "Growth in India's services sector increased to a four-month high in October due to strong domestic demand and business orders. The HSBC Services Business Activity Index rose to 55.8, reflecting improved business conditions. Conversely, manufacturing activity showed a slight decline, easing to a PMI of 54.7. While input prices continued to rise, the rate of increase was the slowest in over six years.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/new-orders-robust-demand-lift-indias-october-services-growth-to-4-month-high/articleshow/135549909.cms",
+      "pubDate": "Thu, 05 Nov 2026 00:18:40 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "desc": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "pubDate": "2026-11-04T13:26:07-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+      "desc": "The sanctions are part of the Trump administration's \"Operation Economic Outcast,\" which aims to cut off Iran's ability to sell oil to fund the war with the US and Israel. Treasury unveiled the new sanctions a day after Democrats made huge gains in midterm elections, winning control of both houses of Congress as voters expressed anger about the Iran war and its impact in fueling US inflation.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/articleshow/135548791.cms",
+      "pubDate": "Wed, 04 Nov 2026 23:54:05 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "desc": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 18:01:31 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "desc": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [&#8230;]",
+      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "pubDate": "2026-11-04T13:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Over half of street vendors may cut UPI acceptance if 0.4% MDR is introduced: ISB study",
+      "desc": "More than 67% of street vendors in India currently accept UPI payments for transactions. A proposed 0.4% merchant discount rate could lead to reduced acceptance among vendors. Concerns arise particularly for vendor-supplier transactions, as many vendors make payments above ₹2,000. A significant portion of vendors faced additional charges from suppliers and might pass costs onto customers.",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/over-half-of-street-vendors-may-cut-upi-acceptance-if-0-4-mdr-is-introduced-isb-study/articleshow/135546615.cms",
+      "pubDate": "Wed, 04 Nov 2026 23:12:57 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "desc": "US VP Vance cites trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
+      "pubDate": "Wed, 04 Nov 2026 17:18:50 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Iran's chief negotiator says Americans voted 'no to war'",
@@ -112,6 +322,16 @@
       "sectionLabel": "Indian Markets"
     },
     {
+      "title": "UK government to outlaw new North Sea drilling",
+      "desc": "Labour ministers have published legislation that would end the granting of new oil and gas licences.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn734d24l0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 16:28:03 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "Government prepares draft sustainable aviation fuels policy; moots mandatory blending in ATF from 2027",
       "desc": "The civil aviation ministry has circulated the draft National Policy on Sustainable Aviation Fuels which mandates use of only indigenously manufactured SAF to be blended with Aviation Turbine Fuel (ATF).",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/government-prepares-draft-sustainable-aviation-fuels-policy-moots-mandatory-blending-in-atf-from-2027/articleshow/135545649.cms",
@@ -120,76 +340,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Data centers lost the midterms",
-      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "pubDate": "2026-11-04T11:05:39-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "pubDate": "2026-11-04T10:58:45-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "My favorite 25W wireless power bank is down to $35",
-      "desc": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery, which happens to be steeply discounted right now at Amazon. Originally [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
-      "pubDate": "2026-11-04T10:57:55-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "desc": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:51:37 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "desc": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:45:11 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US markets rise as Democrats sweep midterm elections",
-      "desc": "Nasdaq, Dow, and S&amp;P 500 open higher after Democrats take control and Trump accepts results.",
-      "link": "https://www.aljazeera.com/economy/2026/11/4/us-markets-rise-as-democrats-sweep-midterm-elections?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:39:38 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-      "desc": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:28:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "US Treasury shifts language, opening door to auction size changes",
@@ -252,26 +402,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "desc": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:13:14 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-      "desc": "Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:13:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Keystone Realtors Q2 profit jumps 10-fold to Rs 101 cr",
       "desc": "Keystone Realtors has announced a ten-fold increase in consolidated net profit for the quarter ended September. The net profit rose to Rs 100.75 crore, attributed to significant profit share from joint ventures. Total income for the quarter, however, saw a decline from the previous year. The company's pre-sales reached record levels, reflecting strong demand for luxury housing projects.",
       "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q2-profit-jumps-10-fold-to-rs-101-cr/articleshow/135543604.cms",
@@ -300,36 +430,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The fight for tech accountability starts now",
-      "desc": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulation. Meta overhauled its content policy to allow calling gay people mentally ill and women property. Elon [&#8230;]",
-      "link": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
-      "pubDate": "2026-11-04T10:02:25-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "desc": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:01:10 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-      "desc": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "pubDate": "2026-11-04T09:46:01-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "US stocks today: US stocks rally after Democrats' midterm sweep as AI infrastructure stocks slide",
@@ -382,7 +482,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: US stocks rally after Democrats win Congress; data center stocks slide",
+      "title": "US Stock Market Highlights: Dow rallies 1,500 pts, S&amp;P, Nasdaq over 1% as Democrats win midterm elections",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
       "pubDate": "Wed, 04 Nov 2026 18:42:18 +0530",
@@ -392,27 +492,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
-      "desc": "Democrats can block Trump&#039;s legislative agenda, launch investigations but don&#039;t have the numbers to override his veto.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 12:48:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
-      "desc": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 12:44:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries",
+      "title": "Democratic victory in midterm elections adds a new twist to stock markets' Iran war, AI, and debt worries",
       "desc": "Investors are watching the implications of the recent Democratic win in the US midterm elections. Geopolitical tensions, particularly the Iran war, continue to elevate oil prices and market risks. Regulatory scrutiny on the rapidly growing AI sector is expected following the election outcomes. Market volatility is anticipated to persist due to fiscal policy debates and increasing debt concerns. The market response so far has shown modest gains despite heightened uncertainties.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/democratic-sweep-adds-new-twist-to-markets-iran-ai-and-debt-worries/articleshow/135539439.cms",
       "pubDate": "Wed, 04 Nov 2026 17:59:31 +0530",
@@ -814,7 +894,7 @@
     {
       "title": "Democrats’ win rattles Trump trades from AI stocks to crypto",
       "desc": "The recent Democratic majority in Congress triggered a downturn in global markets, most notably impacting technology stocks. Investors are now wary about President Trump’s policies and their implications for AI investments. Conversely, solar stocks saw an uptick, signaling potential changes to clean energy regulations. Additionally, Treasury yields dropped as heightened oversight dampens fiscal stimulus hopes, while cryptocurrencies also fell amid uncertainty surrounding upcoming industry regulations.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto/articleshow/135527407.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto/articleshow/135527407.cms",
       "pubDate": "Wed, 04 Nov 2026 12:04:15 +0530",
       "image": "",
       "source": "Economic Times Markets",
@@ -892,16 +972,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "China stocks struggle near one-year lows despite fresh government support measures",
-      "desc": "Chinese stocks struggled near one-year lows despite fresh government measures to support the market, as investors remained cautious ahead of the US midterm elections. Concerns over China's economic outlook and technology stocks continued to weigh on sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-stocks-struggle-near-one-year-lows-despite-fresh-government-support-measures/articleshow/135526707.cms",
-      "pubDate": "Wed, 04 Nov 2026 11:39:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India's services growth accelerates to 55.8 in October, cost pressures ease to six-year low",
       "desc": "India's services sector activity expanded at its fastest pace in four months in October, with the HSBC India Services Purchasing Managers' Index (PMI) rising to 55.8 from 55.2 in September, while input cost inflation eased to its lowest level in more than six years, according to data released by S&amp;P Global on Wednesday.",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-services-growth-accelerates-to-55-8-in-october-cost-pressures-ease-to-six-year-low/articleshow/135526472.cms",
@@ -910,26 +980,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "ITC shares jump 6% in two days after Q2 results. More upside ahead?",
-      "desc": "ITC shares rose to Rs 283.5 apiece on NSE on Wednesday morning, the highest level seen by the stock in nearly three months. The stock has now recovered more than 12% in five sessions after hitting a 52-week low of Rs 253 apiece in late October.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-jump-6-in-two-days-after-q2-results-more-upside-ahead/articleshow/135526058.cms",
-      "pubDate": "Wed, 04 Nov 2026 11:35:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "South Korean shares reverse gains, KOSPI falls over 1% as US midterm results loom",
-      "desc": "South Korean shares reversed early gains as caution ahead of the US midterm election results triggered broad selling. Technology stocks led the decline, while foreign investors offloaded equities worth 1 trillion won amid concerns over global market volatility.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-reverse-gains-kospi-falls-over-1-as-us-midterm-results-loom/articleshow/135525437.cms",
-      "pubDate": "Wed, 04 Nov 2026 11:07:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
@@ -1060,50 +1110,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "desc": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 20:53:03 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Festive demand lifts dry fruit, chocolate imports this season",
-      "desc": "During the festive season, India's import of tree nuts and chocolates rose significantly, reflecting a 10-12% annual demand increase. The reduction in goods and services tax has made these gourmet products more accessible to consumers. In 2025, dry fruit imports during this period accounted for a substantial share of annual purchases.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/festive-demand-lifts-dry-fruit-chocolate-imports-this-season/articleshow/135512188.cms",
-      "pubDate": "Wed, 04 Nov 2026 01:05:04 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Festive season: Pistachio prices nearly double, almonds up 20% on West Asia crisis and US crop shortfall",
-      "desc": "\"Pistachio have been the game spoiler this year. The prices of pistachio from all origins including Iran, Afghanistan and California have increased,\" said Ravindra Mehta, member of central governing council at Nuts and Dry Fruits Council of India (NDFC-I). \"The current pistachio crop in California is expected to be only about 40% of last year, which has led to an increase of 50% in pista prices in the wholesale markets and even more in retail,\" he added.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/festive-season-pistachio-prices-nearly-double-almonds-up-20-on-west-asia-crisis-and-us-crop-shortfall/articleshow/135510824.cms",
-      "pubDate": "Wed, 04 Nov 2026 00:16:08 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Rs 9,000 crore land assets monetised so far in FY27",
-      "desc": "The NLMC, which is working under the aegis of the Department of Public Enterprises under the finance ministry, also has land assets worth another Rs 4,000-5,000 crore belonging to public sector undertakings (PSUs) in the pipeline. These are at various stages of processing, providing an additional pipeline of potential transactions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/9000-crore-land-assets-monetised-so-far-in-fy27/articleshow/135510610.cms",
-      "pubDate": "Wed, 04 Nov 2026 00:07:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-04T17:06:37.792Z",
+    "generatedAt": "2026-11-04T23:24:06.390Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1112,7 +1122,7 @@
         "price": 23960.6,
         "change": 149.75,
         "changePct": 0.63,
-        "timestamp": "2026-11-04T17:06:37.466Z",
+        "timestamp": "2026-11-04T23:24:05.853Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1120,7 +1130,7 @@
         "price": 77301.4,
         "change": 383.55,
         "changePct": 0.5,
-        "timestamp": "2026-11-04T17:06:37.495Z",
+        "timestamp": "2026-11-04T23:24:05.986Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1128,7 +1138,7 @@
         "price": 55913.6,
         "change": 373.55,
         "changePct": 0.67,
-        "timestamp": "2026-11-04T17:06:37.558Z",
+        "timestamp": "2026-11-04T23:24:06.065Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1136,33 +1146,33 @@
         "price": 94.63,
         "change": -0.1,
         "changePct": -0.11,
-        "timestamp": "2026-11-04T17:06:37.616Z",
+        "timestamp": "2026-11-04T23:24:06.143Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123915,
-        "change": 4031,
-        "changePct": 3.36,
-        "timestamp": "2026-11-04T17:06:37.684Z",
+        "price": 123805,
+        "change": -113,
+        "changePct": -0.09,
+        "timestamp": "2026-11-04T23:24:06.239Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 158906,
-        "change": 7536,
-        "changePct": 4.98,
-        "timestamp": "2026-11-04T17:06:37.735Z",
+        "price": 159225,
+        "change": 161,
+        "changePct": 0.1,
+        "timestamp": "2026-11-04T23:24:06.313Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8379,
-        "change": -714,
-        "changePct": -7.86,
-        "timestamp": "2026-11-04T17:06:37.792Z",
+        "price": 8353,
+        "change": 14,
+        "changePct": 0.17,
+        "timestamp": "2026-11-04T23:24:06.390Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
