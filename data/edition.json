@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-11-06T17:51:12.075Z",
+  "generatedAt": "2026-11-06T22:51:35.457Z",
   "articles": [
+    {
+      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "desc": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
+      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "pubDate": "2026-11-06T17:45:43-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "desc": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 21:37:30 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "desc": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "pubDate": "2026-11-06T15:02:22-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:32:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "desc": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:09:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US city votes to divest from Israel",
       "desc": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
@@ -12,74 +62,114 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "desc": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:40:39 +0000",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "desc": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 17:19:38 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "desc": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:10:51 +0000",
+      "title": "Food bank to close amid rising costs",
+      "desc": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "desc": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:04:19 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
-      "desc": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera is reminiscent of the Godox C100 but the HOA A1 positions its lens and sensor close to the center [&#8230;]",
-      "link": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
-      "pubDate": "2026-11-06T10:33:03-05:00",
+      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "desc": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
+      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+      "pubDate": "2026-11-06T17:45:43-05:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Sugar output jumps to nearly 13 lakh tonnes so far in 2026-27 market year: ISMA",
-      "desc": "Indian Sugar &amp; Bio-Energy Manufacturers Association (ISMA), in a statement on Friday, said the 184 sugar mills have commenced crushing operations across the country as of November 5, 2026, compared to 154 mills during the corresponding period of the preceding year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-output-jumps-to-nearly-13-lakh-tonnes-so-far-in-2026-27-market-year-isma/articleshow/135611877.cms",
-      "pubDate": "Fri, 06 Nov 2026 20:20:14 +0530",
+      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+      "desc": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+      "pubDate": "2026-11-06T16:50:32-05:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
-      "desc": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data revive concerns over a December Fed rate hike. Airbnb rallies after raising its full-year revenue growth forecast, while Atlassian shares decline.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
-      "pubDate": "Fri, 06 Nov 2026 20:10:26 +0530",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "desc": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 13:49:07 +0000",
+      "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "desc": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 21:37:30 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "desc": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "pubDate": "2026-11-06T15:02:22-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:32:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "desc": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "pubDate": "2026-11-06T13:10:10-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "desc": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:09:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "US city votes to divest from Israel",
@@ -102,64 +192,24 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "desc": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 17:03:02 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "AI is the new dating dealbreaker",
-      "desc": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "pubDate": "2026-11-06T12:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Foodbank to close after 16 years amid rising costs",
-      "desc": "A foodbank in Goole annouces it will close in January as costs rise and donations drop.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "desc": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 17:19:38 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
-      "desc": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:40:39 +0000",
+      "title": "Food bank to close amid rising costs",
+      "desc": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Big Tech lost big in the 2026 election",
-      "desc": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "pubDate": "2026-11-06T11:38:02-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "desc": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can [&#8230;]",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "pubDate": "2026-11-06T11:34:39-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Winter support for residents facing cost pressures",
@@ -180,46 +230,6 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Could the US midterms burst the AI bubble?",
-      "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:14:23 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
-      "desc": "Fewer than 1 million of the 15.4 million people in need emergency shelter in Sudan have received assistance.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:10:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "desc": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:04:19 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "This see-through camera lets photographers maintain eye contact with their subjects",
-      "desc": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera is reminiscent of the Godox C100 but the HOA A1 positions its lens and sensor close to the center [&#8230;]",
-      "link": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
-      "pubDate": "2026-11-06T10:33:03-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
@@ -272,16 +282,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "desc": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 13:49:07 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Vaishnaw puts onus on social media platforms to curb online harm, stops short of safe-harbour clarity",
       "desc": "Vaishnaw said social media companies could no longer remain passive intermediaries as the digital ecosystem evolved and must take responsibility for the harmful consequences of content circulated through their platforms, including cyber fraud and so-called digital arrest scams.",
       "link": "https://economictimes.indiatimes.com/tech/technology/vaishnaw-puts-onus-on-social-media-platforms-to-curb-online-harm-stops-short-of-safe-harbour-clarity/articleshow/135609932.cms",
@@ -322,7 +322,7 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Stock Market Live Updates: US stocks rebound as chip stocks recover, Nasdaq gains over 1%",
+      "title": "Stock Market Highlights: US stocks rebound, but Nasdaq posts fourth straight weekly decline",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
       "pubDate": "Fri, 06 Nov 2026 18:39:13 +0530",
@@ -340,16 +340,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "desc": "Iran launches diplomatic offensive as US mulls resumption of war.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 12:57:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Meta pauses planned terms updates, keeps existing rules in place",
@@ -500,16 +490,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 09:57:04 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "How does it affect me if share prices fall?",
@@ -1043,7 +1023,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-06T17:51:12.075Z",
+    "generatedAt": "2026-11-06T22:51:35.457Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1052,7 +1032,7 @@
         "price": 25030.35,
         "change": 493.75,
         "changePct": 2.01,
-        "timestamp": "2026-11-06T17:51:11.709Z",
+        "timestamp": "2026-11-06T22:51:35.143Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1060,7 +1040,7 @@
         "price": 81028.02,
         "change": 1718.02,
         "changePct": 2.17,
-        "timestamp": "2026-11-06T17:51:11.763Z",
+        "timestamp": "2026-11-06T22:51:35.200Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1068,7 +1048,7 @@
         "price": 59086,
         "change": 1312.35,
         "changePct": 2.27,
-        "timestamp": "2026-11-06T17:51:11.811Z",
+        "timestamp": "2026-11-06T22:51:35.273Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1076,33 +1056,33 @@
         "price": 93.89,
         "change": -0.57,
         "changePct": -0.6,
-        "timestamp": "2026-11-06T17:51:11.884Z",
+        "timestamp": "2026-11-06T22:51:35.321Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 122719,
-        "change": -1452,
-        "changePct": -1.17,
-        "timestamp": "2026-11-06T17:51:11.982Z",
+        "price": 123145,
+        "change": -1026,
+        "changePct": -0.83,
+        "timestamp": "2026-11-06T22:51:35.367Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 156320,
-        "change": -1784,
-        "changePct": -1.13,
-        "timestamp": "2026-11-06T17:51:12.030Z",
+        "price": 156863,
+        "change": -1241,
+        "changePct": -0.79,
+        "timestamp": "2026-11-06T22:51:35.413Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8447,
-        "change": -52,
-        "changePct": -0.61,
-        "timestamp": "2026-11-06T17:51:12.075Z",
+        "price": 8482,
+        "change": -17,
+        "changePct": -0.2,
+        "timestamp": "2026-11-06T22:51:35.457Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
