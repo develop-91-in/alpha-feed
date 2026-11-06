@@ -1,83 +1,213 @@
 {
-  "generatedAt": "2026-11-05T21:23:17.389Z",
+  "generatedAt": "2026-11-06T02:04:23.318Z",
   "articles": [
     {
-      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
-      "desc": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "pubDate": "Thu, 05 Nov 2026 20:43:46 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "JP Morgan to add Philippines and Saudi Arabia to key EM bond index over 10 months",
-      "desc": "JP Morgan has announced plans to include Saudi Arabia and the Philippines in its emerging market debt index starting in 2027. The Saudi riyal-denominated sukuk and Philippine peso-denominated government bonds will be integrated over a ten-month period. The index is expected to adjust the maximum country weight limit from 10% to 9%. Saudi Arabia's weight will reach 2.71%, while the Philippines will have a weight of 1.64%.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-to-add-philippines-and-saudi-arabia-to-key-em-bond-index-over-10-months/articleshow/135585489.cms",
-      "pubDate": "Fri, 06 Nov 2026 00:56:01 +0530",
+      "title": "Global Market Today: Asian stocks join US selloff as AI slump deepens",
+      "desc": "South Korea’s tech-heavy Kospi Index slid 8.8% in early trading, triggering a circuit breaker, with chipmakers Samsung Electronics Co. and SK Hynix Inc. both plunging more than 9%. Japan’s benchmark Nikkei 225 Stock Average lost 6.2%, while the MSCI Asia Pacific Index declined 2.9%. Futures pointed to losses in Taiwan, Hong Kong and China.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-join-us-selloff-as-ai-slump-deepens/articleshow/135589759.cms",
+      "pubDate": "Fri, 06 Nov 2026 06:24:01 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US yields fall in choppy session as oil rises and equities sink",
-      "desc": "As geopolitical tensions change the landscape, US Treasuries are witnessing a spike in demand while equity markets take a hit and oil prices show volatility. Investors are reassessing their outlook on the US-Iran relations following new election results. The labor market remains resilient with dropping unemployment claims and heightened productivity levels, pointing towards ongoing inflation risk.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms",
-      "pubDate": "Fri, 06 Nov 2026 00:49:17 +0530",
+      "title": "AI backlash could threaten Anthropic IPO timing, potential investors say",
+      "desc": "Investors are pushing for a more attractive valuation to commit to the offering, with some viewing the recently discussed $1.5 trillion valuation as being at the high end of expectations, the people told Reuters.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
+      "pubDate": "Fri, 06 Nov 2026 06:02:25 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "desc": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 19:08:08 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "desc": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "pubDate": "Thu, 05 Nov 2026 18:47:10 +0000",
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "desc": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:15:22 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Claude AI can plug directly into your bank account",
-      "desc": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "pubDate": "2026-11-05T13:00:00-05:00",
+      "title": "Airbnb is working on an AI travel agent",
+      "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "pubDate": "2026-11-05T19:06:12-05:00",
       "image": "",
       "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "AI stocks plunge after US election, driving down markets",
-      "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:56:17 +0000",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "desc": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:06:06 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "desc": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nintendo says it’s not planning another Switch 2 price hike",
-      "desc": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 [&#8230;]",
-      "link": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "pubDate": "2026-11-05T12:24:39-05:00",
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "desc": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "pubDate": "2026-11-05T18:17:10-05:00",
       "image": "",
       "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "pubDate": "2026-11-05T17:26:50-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "desc": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 01:44:03 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Global Market Today: Asian stocks join US selloff as AI slump deepens",
+      "desc": "South Korea’s tech-heavy Kospi Index slid 8.8% in early trading, triggering a circuit breaker, with chipmakers Samsung Electronics Co. and SK Hynix Inc. both plunging more than 9%. Japan’s benchmark Nikkei 225 Stock Average lost 6.2%, while the MSCI Asia Pacific Index declined 2.9%. Futures pointed to losses in Taiwan, Hong Kong and China.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-join-us-selloff-as-ai-slump-deepens/articleshow/135589759.cms",
+      "pubDate": "Fri, 06 Nov 2026 06:24:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "desc": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "pubDate": "2026-11-05T19:37:56-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "AI backlash could threaten Anthropic IPO timing, potential investors say",
+      "desc": "Investors are pushing for a more attractive valuation to commit to the offering, with some viewing the recently discussed $1.5 trillion valuation as being at the high end of expectations, the people told Reuters.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
+      "pubDate": "Fri, 06 Nov 2026 06:02:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "desc": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:15:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "desc": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "pubDate": "2026-11-05T19:06:12-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "desc": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:06:06 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "desc": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:02:52 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "desc": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "desc": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "pubDate": "2026-11-05T18:17:10-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 22:32:02 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "pubDate": "2026-11-05T17:26:50-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "desc": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "link": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 22:04:44 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -152,26 +282,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Claude AI can plug directly into your bank account",
-      "desc": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "pubDate": "2026-11-05T13:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "AI stocks plunge after US election, driving down markets",
       "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
       "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
@@ -182,34 +292,14 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "desc": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "pubDate": "2026-11-05T12:51:52-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Nintendo says it’s not planning another Switch 2 price hike",
-      "desc": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 [&#8230;]",
-      "link": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-      "pubDate": "2026-11-05T12:24:39-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Interest rates hiked to 4% in first increase in over three years",
       "desc": "Most analysts expected the increase from 3.75% to 4%.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 17:09:55 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
@@ -220,16 +310,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Photos: Thousands rally in France over rising costs and economic struggles",
-      "desc": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
-      "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
-      "pubDate": "Thu, 05 Nov 2026 16:07:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr",
@@ -427,9 +507,9 @@
       "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 13:17:10 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "GCCs ramp up hiring for AI, data, cybersecurity professionals; face talent shortage: Report",
@@ -442,7 +522,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Stock Market Live Updates: Dow plunges 1,800 pts, Nasdaq 5.5% on fears of AI regulations; S&amp;P 500 wipes out $3 trillion",
+      "title": "Stock Market Highlights: Dow plunges 1,800 pts, Nasdaq 5.5% on fears of AI regulations; S&amp;P 500 wipes out $3 trillion",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/liveblog/135575228.cms",
       "pubDate": "Thu, 05 Nov 2026 18:40:30 +0530",
@@ -1032,26 +1112,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Coal India Share Price Highlights: Coal India Ltd Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-05-nov-2026/liveblog/135557039.cms",
-      "pubDate": "Thu, 05 Nov 2026 08:41:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-05-nov-2026/liveblog/135557017.cms",
-      "pubDate": "Thu, 05 Nov 2026 08:40:33 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
       "desc": "Demand for lucrative high-bandwidth storage for AI servers has pushed up memory chip prices, raising the cost of consumer electronics and squeezing smartphone processor designers such as Qualcomm.",
       "link": "https://economictimes.indiatimes.com/tech/technology/qualcomms-smartphone-chip-sales-miss-estimates-shares-fall/articleshow/135556562.cms",
@@ -1100,50 +1160,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "EAM Jaishankar discusses economic partnership, CETA with UK’s Burnham on CHOGM sidelines",
-      "desc": "S Jaishankar met UK Prime Minister Andy Burnham in Antigua and Barbuda for CHOGM 2026 discussions. They focused on strengthening economic partnerships under the Comprehensive Economic and Trade Agreement. Jaishankar emphasized the importance of digital solutions and climate initiatives during a Commonwealth meeting. He highlighted local distribution networks and the role of the Indian business community in fostering connections.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-discusses-economic-partnership-ceta-with-uks-burnham-on-chogm-sidelines/articleshow/135555734.cms",
-      "pubDate": "Thu, 05 Nov 2026 07:22:53 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "US sanctions India-based couple, companies over alleged support for Iran's Shadow oil fleet",
-      "desc": "The United States imposed sanctions on Suniel Kumar Sharma and Jaspreet Preeti Shahid for aiding Iran's shadow fleet. Their network allegedly provided fraudulent maritime registrations to help sanctioned vessels transport Iranian petroleum. Several companies linked to the couple also received sanctions under Executive Order 13902. Additionally, a Turkiye-based company was sanctioned for providing services to US-designated Iranian airlines.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-sanctions-india-based-couple-companies-over-alleged-support-for-irans-shadow-oil-fleet/articleshow/135555569.cms",
-      "pubDate": "Thu, 05 Nov 2026 07:11:13 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "desc": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
-      "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 00:59:22 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "desc": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 21:41:15 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T21:23:17.389Z",
+    "generatedAt": "2026-11-06T02:04:23.318Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1152,7 +1172,7 @@
         "price": 24536.6,
         "change": 576,
         "changePct": 2.4,
-        "timestamp": "2026-11-05T21:23:17.064Z",
+        "timestamp": "2026-11-06T02:04:22.987Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1160,7 +1180,7 @@
         "price": 79310.01,
         "change": 2008.61,
         "changePct": 2.6,
-        "timestamp": "2026-11-05T21:23:17.163Z",
+        "timestamp": "2026-11-06T02:04:23.046Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1168,41 +1188,41 @@
         "price": 57773.65,
         "change": 1860.05,
         "changePct": 3.33,
-        "timestamp": "2026-11-05T21:23:17.218Z",
+        "timestamp": "2026-11-06T02:04:23.102Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.47,
-        "change": -0.17,
-        "changePct": -0.17,
-        "timestamp": "2026-11-05T21:23:17.271Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-11-06T02:04:23.153Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124446,
-        "change": 738,
-        "changePct": 0.6,
-        "timestamp": "2026-11-05T21:23:17.276Z",
+        "price": 123784,
+        "change": -1154,
+        "changePct": -0.92,
+        "timestamp": "2026-11-06T02:04:23.206Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 157453,
-        "change": -1342,
-        "changePct": -0.84,
-        "timestamp": "2026-11-05T21:23:17.340Z",
+        "price": 157498,
+        "change": -1582,
+        "changePct": -0.99,
+        "timestamp": "2026-11-06T02:04:23.262Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8553,
-        "change": 229,
-        "changePct": 2.75,
-        "timestamp": "2026-11-05T21:23:17.389Z",
+        "price": 8611,
+        "change": 60,
+        "changePct": 0.7,
+        "timestamp": "2026-11-06T02:04:23.318Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
