@@ -1,51 +1,61 @@
 {
-  "generatedAt": "2026-11-07T16:10:46.635Z",
+  "generatedAt": "2026-11-07T20:43:20.412Z",
   "articles": [
+    {
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 20:23:17 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "desc": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 20:10:38 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "desc": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 19:10:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Israel builds 90km network of military roads across southern Lebanon",
+      "desc": "Israel is building roads and military outposts across southern Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 16:30:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Five killed and at least 10 injured in Krakow shooting",
+      "desc": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 16:06:58 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Iran’s IRGC says building underground sites for weapons production, storage",
       "desc": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
       "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
       "pubDate": "Sat, 07 Nov 2026 15:34:58 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-      "desc": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 13:07:23 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "desc": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "desc": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 11:59:26 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -62,24 +72,64 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "desc": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 10:36:32 +0000",
+      "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
+      "desc": "Amid the Sensex’s 8.82% five-session rally, several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns of 14–19%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
+      "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "China’s e-bikes boom as fuel prices rise",
-      "desc": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 09:30:07 +0000",
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 20:23:17 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "desc": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 20:10:38 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "desc": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 19:10:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Israel builds 90km network of military roads across southern Lebanon",
+      "desc": "Israel is building roads and military outposts across southern Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 16:30:33 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Five killed and at least 10 injured in Krakow shooting",
+      "desc": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 16:06:58 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -132,26 +182,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Baxters fish soup cans recalled over fears they could 'swell and potentially rupture'",
-      "desc": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 14:28:40 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-      "desc": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 13:07:23 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
       "desc": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
@@ -160,36 +190,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "desc": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "desc": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 11:59:26 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
@@ -202,16 +202,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "desc": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 10:36:32 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Stubble burning cases cross 3,000 mark in Punjab; Tarn Taran tops list",
       "desc": "Punjab has recorded 3,144 incidents of stubble burning between September 15 and November 6, with Tarn Taran as the highest contributor. Fines totaling Rs 54.55 lakh have been imposed in over a thousand cases related to these incidents. Authorities have registered 795 FIRs under the Bharatiya Nyaya Sanhita during this period as well. The practice of stubble burning is often linked to increased air pollution in Delhi-NCR.",
       "link": "https://economictimes.indiatimes.com/news/economy/agriculture/stubble-burning-cases-cross-3000-mark-in-punjab-tarn-taran-tops-list/articleshow/135633399.cms",
@@ -220,16 +210,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "China’s e-bikes boom as fuel prices rise",
-      "desc": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 09:30:07 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
@@ -387,25 +367,15 @@
       "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 01:41:36 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
       "desc": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
       "pubDate": "2026-11-06T18:46:18-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "desc": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "pubDate": "2026-11-06T18:00:44-05:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
@@ -430,50 +400,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 18:32:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "desc": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 17:19:38 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Food bank to close amid rising costs",
-      "desc": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Winter support for residents facing cost pressures",
-      "desc": "The plans aim to help more people access food, financial advice and help with heating costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:22:18 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T16:10:46.635Z",
+    "generatedAt": "2026-11-07T20:43:20.412Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -482,7 +412,7 @@
         "price": 25030.35,
         "change": 493.75,
         "changePct": 2.01,
-        "timestamp": "2026-11-07T16:10:45.775Z",
+        "timestamp": "2026-11-07T20:43:20.081Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -490,7 +420,7 @@
         "price": 81028.02,
         "change": 1718.02,
         "changePct": 2.17,
-        "timestamp": "2026-11-07T16:10:45.976Z",
+        "timestamp": "2026-11-07T20:43:20.137Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -498,7 +428,7 @@
         "price": 59086,
         "change": 1312.35,
         "changePct": 2.27,
-        "timestamp": "2026-11-07T16:10:46.093Z",
+        "timestamp": "2026-11-07T20:43:20.188Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -506,7 +436,7 @@
         "price": 93.91,
         "change": -0.56,
         "changePct": -0.59,
-        "timestamp": "2026-11-07T16:10:46.205Z",
+        "timestamp": "2026-11-07T20:43:20.242Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -514,7 +444,7 @@
         "price": 123032,
         "change": -1165,
         "changePct": -0.94,
-        "timestamp": "2026-11-07T16:10:46.325Z",
+        "timestamp": "2026-11-07T20:43:20.318Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -523,7 +453,7 @@
         "price": 156827,
         "change": -1310,
         "changePct": -0.83,
-        "timestamp": "2026-11-07T16:10:46.521Z",
+        "timestamp": "2026-11-07T20:43:20.365Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -532,7 +462,7 @@
         "price": 8530,
         "change": 29,
         "changePct": 0.34,
-        "timestamp": "2026-11-07T16:10:46.635Z",
+        "timestamp": "2026-11-07T20:43:20.412Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
