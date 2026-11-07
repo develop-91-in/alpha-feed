@@ -1,135 +1,245 @@
 {
-  "generatedAt": "2026-11-07T09:45:07.173Z",
+  "generatedAt": "2026-11-07T16:10:46.635Z",
   "articles": [
     {
-      "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
-      "desc": "Amid the Sensex’s 8.82% five-session rally, several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns of 14–19%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
-      "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530",
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "desc": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:34:58 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "desc": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 13:07:23 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "desc": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "desc": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 11:59:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "desc": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "pubDate": "Sat, 07 Nov 2026 16:37:31 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "desc": "Qatari PM says US willing to seek solution to war with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:10:37 +0000",
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "desc": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 10:36:32 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "desc": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:05:01 +0000",
+      "title": "China’s e-bikes boom as fuel prices rise",
+      "desc": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 09:30:07 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "How the Iran war helped Democrats win the midterms",
-      "desc": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 06:26:58 +0000",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "desc": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "pubDate": "2026-11-07T10:50:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "desc": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "pubDate": "2026-11-07T10:43:45-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "desc": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:34:58 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
-      "desc": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-      "pubDate": "Sat, 07 Nov 2026 11:31:15 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "desc": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 05:51:23 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
-      "desc": "In this environment, sustainable wealth creation is likely to depend less on broad-based market movements and more on identifying businesses capable of delivering consistent earnings growth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
-      "pubDate": "Sat, 07 Nov 2026 11:13:51 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-      "desc": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 04:50:46 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
-      "desc": "Amid the Sensex’s 8.82% five-session rally, several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns of 14–19%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
-      "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Paraguay's president impeached after collapse of bank",
-      "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Qatari PM says US willing to seek solution to war with Iran",
-      "desc": "Qatari PM says US willing to seek solution to war with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:10:37 +0000",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "desc": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "pubDate": "2026-11-07T10:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Baxters fish soup cans recalled over fears they could 'swell and potentially rupture'",
+      "desc": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 14:28:40 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "desc": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 13:07:23 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "desc": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:05:01 +0000",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "desc": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "pubDate": "2026-11-07T07:30:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "How the Iran war helped Democrats win the midterms",
-      "desc": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 06:26:58 +0000",
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "desc": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "desc": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 11:59:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "desc": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "pubDate": "Sat, 07 Nov 2026 16:37:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "desc": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 10:36:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Stubble burning cases cross 3,000 mark in Punjab; Tarn Taran tops list",
+      "desc": "Punjab has recorded 3,144 incidents of stubble burning between September 15 and November 6, with Tarn Taran as the highest contributor. Fines totaling Rs 54.55 lakh have been imposed in over a thousand cases related to these incidents. Authorities have registered 795 FIRs under the Bharatiya Nyaya Sanhita during this period as well. The practice of stubble burning is often linked to increased air pollution in Delhi-NCR.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/stubble-burning-cases-cross-3000-mark-in-punjab-tarn-taran-tops-list/articleshow/135633399.cms",
+      "pubDate": "Sat, 07 Nov 2026 15:40:46 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "China’s e-bikes boom as fuel prices rise",
+      "desc": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 09:30:07 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
+      "desc": "Amid the Sensex’s 8.82% five-session rally, several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns of 14–19%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
+      "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
@@ -140,16 +250,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "desc": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 05:51:23 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
@@ -160,16 +260,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-      "desc": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 04:50:46 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
@@ -292,7 +382,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
       "desc": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
       "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 01:41:36 GMT",
@@ -322,26 +412,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "desc": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
-      "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "pubDate": "2026-11-06T17:45:43-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "desc": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "pubDate": "2026-11-06T16:50:32-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "desc": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
@@ -362,16 +432,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "All the latest updates on AI data centers",
-      "desc": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "pubDate": "2026-11-06T15:02:22-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Why the US midterms sparked an AI stock selloff",
       "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
       "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
@@ -380,16 +440,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "desc": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by [&#8230;]",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "pubDate": "2026-11-06T13:10:10-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
@@ -420,270 +470,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "desc": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 15:25:43 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Workers' rights 'second place' to economic growth",
-      "desc": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
-      "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 14:52:49 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Sugar output jumps to nearly 13 lakh tonnes so far in 2026-27 market year: ISMA",
-      "desc": "Indian Sugar &amp; Bio-Energy Manufacturers Association (ISMA), in a statement on Friday, said the 184 sugar mills have commenced crushing operations across the country as of November 5, 2026, compared to 154 mills during the corresponding period of the preceding year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-output-jumps-to-nearly-13-lakh-tonnes-so-far-in-2026-27-market-year-isma/articleshow/135611877.cms",
-      "pubDate": "Fri, 06 Nov 2026 20:20:14 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
-      "desc": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data revive concerns over a December Fed rate hike. Airbnb rallies after raising its full-year revenue growth forecast, while Atlassian shares decline.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
-      "pubDate": "Fri, 06 Nov 2026 20:10:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "NHAI issues guidelines to standardise design and infrastructure for multi-lane free flow tolling",
-      "desc": "NHAI, in a statement, said the guidelines will ensure that upcoming and ongoing national highway projects are equipped to support MLFF-based barrier-free toll collection without requiring vehicles to stop at toll booths.",
-      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/nhai-issues-guidelines-to-standardise-design-and-infrastructure-for-multi-lane-free-flow-tolling/articleshow/135610828.cms",
-      "pubDate": "Fri, 06 Nov 2026 19:40:58 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Vaishnaw puts onus on social media platforms to curb online harm, stops short of safe-harbour clarity",
-      "desc": "Vaishnaw said social media companies could no longer remain passive intermediaries as the digital ecosystem evolved and must take responsibility for the harmful consequences of content circulated through their platforms, including cyber fraud and so-called digital arrest scams.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/vaishnaw-puts-onus-on-social-media-platforms-to-curb-online-harm-stops-short-of-safe-harbour-clarity/articleshow/135609932.cms",
-      "pubDate": "Fri, 06 Nov 2026 19:11:27 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Want only serious players, no place for frivolous applicants in Semicon 2.0: Vaishnaw to industry",
-      "desc": "On Friday, the government launched the web application portal for Semicon 2.0, which will initially receive applications related to three of the programme's six pillars: machines and materials, fabs, and packaging. Guidelines have so far been issued only for these three pillars, and the portal is now inviting applications for them. Other three areas pertain to design, R&amp;D and talent.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/want-only-serious-players-no-place-for-frivolous-applicants-in-semicon-2-0-vaishnaw-to-industry/articleshow/135609881.cms",
-      "pubDate": "Fri, 06 Nov 2026 19:10:05 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "desc": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 13:25:50 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-      "desc": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 13:12:20 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Stock Market Highlights: US stocks rebound, but Nasdaq posts fourth straight weekly decline",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
-      "pubDate": "Fri, 06 Nov 2026 18:39:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Activists breach Microsoft data centre construction site as protests spread in Europe",
-      "desc": "Activist groups have announced actions in 16 countries on Friday and Saturday, according to the \"Stop Dirty Data Centres\" coalition, which is rallying environmental groups and digital rights campaigns behind calls to pause large-scale construction.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/activists-breach-microsoft-data-centre-construction-site-as-protests-spread-in-europe/articleshow/135608593.cms",
-      "pubDate": "Fri, 06 Nov 2026 18:29:21 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Meta pauses planned terms updates, keeps existing rules in place",
-      "desc": "Meta has paused planned updates to its Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms and Ad Creative Generative AI Terms, meaning the changes will not take",
-      "link": "https://economictimes.indiatimes.com/tech/technology/meta-pauses-planned-terms-updates-keeps-existing-rules-in-place/articleshow/135608532.cms",
-      "pubDate": "Fri, 06 Nov 2026 18:27:16 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Alphabet discloses $548 million worth of Qualcomm stake",
-      "desc": "Qualcomm earlier this week irked investors when it missed Wall Street expectations for quarterly smartphone chip sales due to weak demand, even though it forecast better-than-expected revenue for its nascent data-center segment.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/alphabet-discloses-548-million-worth-of-qualcomm-stake/articleshow/135608439.cms",
-      "pubDate": "Fri, 06 Nov 2026 18:24:09 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Apple's predictive text restrictions include 'Dictator Trump' and 'Sleepy Joe,' researcher finds",
-      "desc": "Hundreds of millions of people worldwide use iPhones, so Apple's choices about which words its keyboard suggests could quietly shape how they communicate. Apple has not publicly disclosed the list, the researcher said.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/apples-predictive-text-restrictions-include-dictator-trump-and-sleepy-joe-researcher-finds/articleshow/135608356.cms",
-      "pubDate": "Fri, 06 Nov 2026 18:21:58 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "States' capital outlay to accelerate to 10-12% on Centre support in FY27, urban infra to lead: Crisil",
-      "desc": "States' capital expenditure is projected to rise 10-12% to around Rs 8.5 lakh crore in FY27, driven by higher central assistance and greater fiscal flexibility, according to a Crisil Ratings report. Increased allocation under the SASCI scheme is expected to support infrastructure spending, particularly urban development, roads and bridges.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/states-capital-outlay-to-accelerate-to-10-12-pc-on-centre-support-in-fy27-urban-infra-to-lead-crisil/articleshow/135607241.cms",
-      "pubDate": "Fri, 06 Nov 2026 17:48:08 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
-      "desc": "This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices fell sharply, enticing foreign investors back to purchase a significant volume of Indian bonds. This shift alleviates pressure on the Reserve Bank of India to maintain elevated yields, contributing to a positive outlook for Indian debt moving forward.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
-      "pubDate": "Fri, 06 Nov 2026 17:32:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Sugar production rises to 12.85 lakh tonnes, 184 mills begin operations: ISMA",
-      "desc": "Sugar production during the current season has reached 12.85 lakh tonnes, against 3.20 lakh tonnes produced by the corresponding date last year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-production-rises-to-12-85-lakh-tonnes-184-mills-begin-operations-isma/articleshow/135605865.cms",
-      "pubDate": "Fri, 06 Nov 2026 17:10:42 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "'I've taken an extra job to pay for heating oil'",
-      "desc": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 11:40:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "British Airways parent profit drops on higher fuel costs",
-      "desc": "IAG, the owner of British Airways and Iberia, said Friday that its net profit dropped more than 12 percent in the third quarter on soaring fuel costs and flight disruptions caused by the Middle East conflict. The group said its overall flight capacity had been hit \"by cancellations due to the conflict in the Middle East, together with aircraft availability linked to engine issues and disruption related to air traffic control disruption\".",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
-      "pubDate": "Fri, 06 Nov 2026 17:00:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
-      "desc": "Ske Jarzenske and other Trump Media investors are facing severe losses as the company's stock value has plummeted. Many investors had high hopes for the social media platform, believing in its potential profitability under Trump's leadership. Instead, Trump Media's shares have lost significant value, and discontent among shareholders has grown. The company's revenue remains stagnant, leading investors to question management practices and investor trust.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:58:37 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
-      "desc": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. While tight supply, particularly outside the US, has cushioned further losses, a significant drop in copper stocks within Chinese warehouses is intensifying supply anxieties.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:54:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
-      "desc": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operations grew significantly to Rs 5,734 crore, up from Rs 4,900 crore a year prior. Additionally, new orders reached Rs 6,228 crore, a notable 38% increase year-over-year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:52:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
-      "desc": "The Indian rupee strengthened past 94 per dollar after regaining appeal among emerging-market currencies recently. Significant foreign inflows into Indian equities and a sharp fall in oil prices are key factors. Analysts suggest India's equity markets may attract global investments as concerns about AI infrastructure spending grow. The Reserve Bank of India announced measures to support the rupee against maintaining fluctuations.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:05:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Diwali 2026: Is Samvat 2083 the start of Dalal Street’s next big rally?",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
-      "pubDate": "Fri, 06 Nov 2026 15:45:01 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "12 midcap stocks deliver returns of up to 136% in FY27 so far",
-      "desc": "Midcap stocks have outperformed the broader market in FY27, with 42 stocks gaining over 25%. We highlight 12 midcap stocks that have delivered exceptional returns, surging between 51% and 136% so far this financial year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-deliver-returns-of-up-to-136-in-fy27-so-far/slideshow/135603584.cms",
-      "pubDate": "Fri, 06 Nov 2026 15:33:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "DGTR recommends imposition of quantitative restrictions on soda ash imports for 2 years",
-      "desc": "The Directorate General of Trade Remedies has signaled its intention to introduce protective measures to curb the influx of soda ash imports. This action responds to an appeal from the Alkali Manufacturers Association of India due to a troubling spike in imports. The proposed two-year quantitative restrictions will allocate specific quotas per country, distributing these annual restrictions in quarterly segments to ensure domestic manufacturers are protected.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/dgtr-recommends-imposition-of-quantitative-restrictions-on-soda-ash-imports-for-2-years/articleshow/135602720.cms",
-      "pubDate": "Fri, 06 Nov 2026 15:32:29 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T09:45:07.173Z",
+    "generatedAt": "2026-11-07T16:10:46.635Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -692,7 +482,7 @@
         "price": 25030.35,
         "change": 493.75,
         "changePct": 2.01,
-        "timestamp": "2026-11-07T09:45:06.562Z",
+        "timestamp": "2026-11-07T16:10:45.775Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -700,7 +490,7 @@
         "price": 81028.02,
         "change": 1718.02,
         "changePct": 2.17,
-        "timestamp": "2026-11-07T09:45:06.737Z",
+        "timestamp": "2026-11-07T16:10:45.976Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -708,7 +498,7 @@
         "price": 59086,
         "change": 1312.35,
         "changePct": 2.27,
-        "timestamp": "2026-11-07T09:45:06.874Z",
+        "timestamp": "2026-11-07T16:10:46.093Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -716,7 +506,7 @@
         "price": 93.91,
         "change": -0.56,
         "changePct": -0.59,
-        "timestamp": "2026-11-07T09:45:06.953Z",
+        "timestamp": "2026-11-07T16:10:46.205Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -724,7 +514,7 @@
         "price": 123032,
         "change": -1165,
         "changePct": -0.94,
-        "timestamp": "2026-11-07T09:45:07.024Z",
+        "timestamp": "2026-11-07T16:10:46.325Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -733,7 +523,7 @@
         "price": 156827,
         "change": -1310,
         "changePct": -0.83,
-        "timestamp": "2026-11-07T09:45:07.099Z",
+        "timestamp": "2026-11-07T16:10:46.521Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -742,7 +532,7 @@
         "price": 8530,
         "change": 29,
         "changePct": 0.34,
-        "timestamp": "2026-11-07T09:45:07.173Z",
+        "timestamp": "2026-11-07T16:10:46.635Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
