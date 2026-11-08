@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-11-08T14:14:52.144Z",
+  "generatedAt": "2026-11-08T19:24:55.419Z",
   "articles": [
     {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "desc": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 13:27:57 +0000",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 17:44:51 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "desc": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine&#039;s Dnipropetrovsk and Kharkiv.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 12:20:17 +0000",
+      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "desc": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 13:27:57 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -52,16 +52,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "desc": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 09:30:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "How the deadly shooting in Krakow unfolded",
       "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss",
@@ -72,26 +62,76 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US military attacks cargo ship in the Gulf of Oman",
-      "desc": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 08:24:37 +0000",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "desc": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 07:11:02 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+      "desc": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspun Corp leading the rally with returns of up to 191% over the past year.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+      "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 17:44:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "desc": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "pubDate": "2026-11-08T12:23:19-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
       "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
       "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 13:57:43 GMT",
+      "pubDate": "Sun, 08 Nov 2026 15:37:57 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 15:37:25 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "desc": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "pubDate": "2026-11-08T10:00:30-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
       "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
       "desc": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
       "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
@@ -100,26 +140,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "desc": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine&#039;s Dnipropetrovsk and Kharkiv.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 12:20:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 11:25:32 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
@@ -152,16 +172,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "desc": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 09:30:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "How the deadly shooting in Krakow unfolded",
       "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss",
@@ -172,24 +182,14 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "US military attacks cargo ship in the Gulf of Oman",
-      "desc": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 08:24:37 +0000",
+      "title": "We face paying £9,000 tax even though our second home is in a war zone",
+      "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 08:04:59 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
-      "desc": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
-      "link": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 08:17:12 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
     },
     {
       "title": "Traders 'priced out' of £12,000 Christmas market pitches",
@@ -682,7 +682,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is fading",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
       "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 23:02:35 GMT",
@@ -690,16 +690,6 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-      "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 23:02:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Ipswich Town's new club shop 'here to stay'",
@@ -720,50 +710,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "desc": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "pubDate": "2026-11-07T10:50:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "desc": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "pubDate": "2026-11-07T10:43:45-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "desc": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "pubDate": "2026-11-07T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-08T14:14:52.144Z",
+    "generatedAt": "2026-11-08T19:24:55.419Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -772,57 +722,57 @@
         "price": 24986.4,
         "change": 449.8,
         "changePct": 1.83,
-        "timestamp": "2026-11-08T14:14:51.830Z",
+        "timestamp": "2026-11-08T19:24:54.804Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
         "price": 80999.4,
-        "change": 1689.39,
+        "change": 1689.4,
         "changePct": 2.13,
-        "timestamp": "2026-11-08T14:14:51.889Z",
+        "timestamp": "2026-11-08T19:24:54.945Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
         "price": 58850.65,
-        "change": 1077,
+        "change": 1077.05,
         "changePct": 1.86,
-        "timestamp": "2026-11-08T14:14:51.944Z",
+        "timestamp": "2026-11-08T19:24:55.039Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 93.91,
-        "change": -0.56,
-        "changePct": -0.59,
-        "timestamp": "2026-11-08T14:14:51.995Z",
+        "price": 93.89,
+        "change": -0.57,
+        "changePct": -0.6,
+        "timestamp": "2026-11-08T19:24:55.134Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123032,
+        "price": 123006,
         "change": -1165,
         "changePct": -0.94,
-        "timestamp": "2026-11-08T14:14:52.047Z",
+        "timestamp": "2026-11-08T19:24:55.230Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 156827,
+        "price": 156794,
         "change": -1310,
         "changePct": -0.83,
-        "timestamp": "2026-11-08T14:14:52.098Z",
+        "timestamp": "2026-11-08T19:24:55.321Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8530,
+        "price": 8528,
         "change": 29,
         "changePct": 0.34,
-        "timestamp": "2026-11-08T14:14:52.144Z",
+        "timestamp": "2026-11-08T19:24:55.419Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
