@@ -1,21 +1,31 @@
 {
-  "generatedAt": "2026-11-08T19:24:55.419Z",
+  "generatedAt": "2026-11-08T23:29:17.533Z",
   "articles": [
     {
-      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 17:44:51 +0000",
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "desc": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "desc": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 20:13:39 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "desc": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 13:27:57 +0000",
+      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "desc": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 17:44:51 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -72,14 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
-      "desc": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspun Corp leading the rally with returns of up to 191% over the past year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
-      "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "desc": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "pubDate": "2026-11-08T17:54:50-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "desc": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "desc": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "pubDate": "2026-11-08T15:22:39-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "desc": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "pubDate": "Sun, 08 Nov 2026 20:13:39 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "desc": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "pubDate": "2026-11-08T14:18:19-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
@@ -130,16 +180,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "desc": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 13:27:57 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
@@ -680,40 +720,10 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "desc": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 23:02:35 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "desc": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 21:40:32 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "desc": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-08T19:24:55.419Z",
+    "generatedAt": "2026-11-08T23:29:17.532Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -722,7 +732,7 @@
         "price": 24986.4,
         "change": 449.8,
         "changePct": 1.83,
-        "timestamp": "2026-11-08T19:24:54.804Z",
+        "timestamp": "2026-11-08T23:29:17.197Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -730,7 +740,7 @@
         "price": 80999.4,
         "change": 1689.4,
         "changePct": 2.13,
-        "timestamp": "2026-11-08T19:24:54.945Z",
+        "timestamp": "2026-11-08T23:29:17.265Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -738,7 +748,7 @@
         "price": 58850.65,
         "change": 1077.05,
         "changePct": 1.86,
-        "timestamp": "2026-11-08T19:24:55.039Z",
+        "timestamp": "2026-11-08T23:29:17.319Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -746,33 +756,33 @@
         "price": 93.89,
         "change": -0.57,
         "changePct": -0.6,
-        "timestamp": "2026-11-08T19:24:55.134Z",
+        "timestamp": "2026-11-08T23:29:17.373Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 123006,
-        "change": -1165,
-        "changePct": -0.94,
-        "timestamp": "2026-11-08T19:24:55.230Z",
+        "price": 123115,
+        "change": 109,
+        "changePct": 0.09,
+        "timestamp": "2026-11-08T23:29:17.428Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 156794,
-        "change": -1310,
-        "changePct": -0.83,
-        "timestamp": "2026-11-08T19:24:55.321Z",
+        "price": 156758,
+        "change": -36,
+        "changePct": -0.02,
+        "timestamp": "2026-11-08T23:29:17.481Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8528,
-        "change": 29,
-        "changePct": 0.34,
-        "timestamp": "2026-11-08T19:24:55.419Z",
+        "price": 8487,
+        "change": -41,
+        "changePct": -0.48,
+        "timestamp": "2026-11-08T23:29:17.532Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
