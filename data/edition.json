@@ -1,95 +1,515 @@
 {
-  "generatedAt": "2026-11-09T05:23:10.043Z",
+  "generatedAt": "2026-11-09T15:37:49.144Z",
   "articles": [
     {
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "desc": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 05:02:19 +0000",
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
-      "desc": "Nvidia's shares saw a decline in after-hours trading following an announcement regarding CEO Jensen Huang. The company indicated that it is investigating potential foreign intelligence efforts aimed at Huang. Perpetual futures on the Hyperliquid exchange and shares trading on the Blue Ocean system reflected this drop in value. The share price fell approximately 3.4% compared to Friday's Nasdaq closing price.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
-      "pubDate": "Mon, 09 Nov 2026 10:20:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
-      "desc": "Citi Research projects that India's benchmark Nifty 50 index could hit 28,000 points by the end of 2027. This forecast is based on strong earnings prospects and falling oil prices. Recent foreign portfolio investor activity has contributed significantly to the positive sentiment in the equity market. Additionally, lower oil prices could improve macroeconomic conditions and reduce inflation rates in India.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-      "pubDate": "Mon, 09 Nov 2026 10:15:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Asian stock markets climb after earlier tech rout",
-      "desc": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
-      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 04:03:02 +0000",
+      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-      "desc": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 04:02:18 +0000",
+      "title": "US stocks: US market opens higher after last week's AI rout",
+      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
+      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How to shop like a pro during Black Friday and Cyber Monday",
+      "desc": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more time to take advantage of the deals. We’re already hard at work [&#8230;]",
+      "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "pubDate": "2026-11-09T10:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
+      "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "desc": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 14:39:32 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India short bonds may underperform on rate hikes, cash squeeze",
-      "desc": "India's bond market is experiencing changes due to recent interest rate hikes and tightening liquidity conditions. The Reserve Bank of India is anticipated to raise interest rates significantly in the coming months. Short-term bonds are expected to be more sensitive to these monetary conditions, leading to their underperformance. There are expectations for the yield curve to flatten further as short-term yields rise.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
-      "pubDate": "Mon, 09 Nov 2026 09:23:12 +0530",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
+      "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "MTAR Technologies among 3 stocks showing White Marubozu pattern",
-      "desc": "Three Nifty50 stocks that gained over 3% on November 8 featured in StockEdge’s White Marubozu bullish scanner. The candlestick pattern indicates strong buying momentum, with prices closing near the session high.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135670237.cms",
-      "pubDate": "Mon, 09 Nov 2026 09:22:08 +0530",
+      "title": "Google to introduce two variants of in-house chips: Bloomberg News",
+      "desc": "The search giant's shares were up more than 2% in premarket trading. Through last close, the stock has fallen 9% so far this year. Alphabet did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
+      "pubDate": "Mon, 09 Nov 2026 18:26:44 +0530",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Vedanta Aluminium Metal among 5 stocks showing bullish RSI upswing",
-      "desc": "Five Nifty200 stocks featured in StockEdge’s RSI Trending Up scan on November 8, with their Relative Strength Index (RSI) crossing above 50 from below, signalling strengthening price momentum.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-metal-among-5-stocks-showing-bullish-rsi-upswing/slideshow/135670091.cms",
-      "pubDate": "Mon, 09 Nov 2026 09:13:33 +0530",
+      "title": "Civil servant who juggled five jobs found guilty of fraud",
+      "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:33:35 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "desc": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 05:02:19 +0000",
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US stocks: US market opens higher after last week's AI rout",
+      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
+      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "How to shop like a pro during Black Friday and Cyber Monday",
+      "desc": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more time to take advantage of the deals. We’re already hard at work [&#8230;]",
+      "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "pubDate": "2026-11-09T10:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+      "desc": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
+      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 14:50:35 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
+      "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "desc": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 14:39:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Jonathan Kanter is using AI to take on Big Tech",
+      "desc": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a [&#8230;]",
+      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "pubDate": "2026-11-09T09:30:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Rising cost of living tests UK's net zero ambitions",
+      "desc": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s commitment to tackling climate change?",
+      "link": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 13:42:03 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
+      "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 13:10:32 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Google to introduce two variants of in-house chips: Bloomberg News",
+      "desc": "The search giant's shares were up more than 2% in premarket trading. Through last close, the stock has fallen 9% so far this year. Alphabet did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
+      "pubDate": "Mon, 09 Nov 2026 18:26:44 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
+      "desc": "The cyberspace regulator in China's Shanghai said on Monday that Apple's generative AI service, Apple Intelligence, has been registered for use on tablets and laptops in China.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops/articleshow/135682143.cms",
+      "pubDate": "Mon, 09 Nov 2026 17:53:04 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "India bonds continue rally ahead of inflation data",
+      "desc": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
+      "pubDate": "Mon, 09 Nov 2026 17:41:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Government's EV targets expected to be reduced this week",
+      "desc": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 12:06:22 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
+      "pubDate": "Mon, 09 Nov 2026 17:19:40 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Enterprise data intelligence platform SplashBI opens GCC in Hyderabad, to invest over $100 million",
+      "desc": "The company plans to invest over $100 million over the next five to seven years in infrastructure, technology and talent to scale the Hyderabad centre and strengthen its global product engineering and delivery capabilities, a release said.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/enterprise-data-intelligence-platform-splashbi-opens-gcc-in-hyderabad-to-invest-over-100-million/articleshow/135680936.cms",
+      "pubDate": "Mon, 09 Nov 2026 17:16:35 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Govt may extend support measures in FY28 Budget to boost manufacturing of 100 products: Official",
+      "desc": "The government may announce Budget 2027-28 support measures to boost domestic manufacturing of 100 products, including auto components, chemicals and machinery, to reduce import dependence. DPIIT has identified the products after consultations with ministries and industry.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-may-extend-support-measures-in-fy28-budget-to-boost-manufacturing-of-100-products-official/articleshow/135680256.cms",
+      "pubDate": "Mon, 09 Nov 2026 16:51:52 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks",
+      "desc": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
+      "pubDate": "Mon, 09 Nov 2026 16:46:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India's investment outlook strengthens as credit, exports rebound; inflation relief likely: HSBC",
+      "desc": "India's investment outlook is improving as credit growth and corporate revenue increase, pointing towards stronger private capital spending. The report from HSBC highlights that funds to the commercial sector have risen significantly compared to previous years. Additionally, rising services exports have helped maintain a steady current account deficit in the economy. However, challenges such as weak rural demand and inflation continue to impact households and corporate margins.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-investment-outlook-strengthens-as-credit-exports-rebound-inflation-relief-likely-hsbc/articleshow/135680029.cms",
+      "pubDate": "Mon, 09 Nov 2026 16:44:30 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26",
+      "desc": "FIIs reduced stakes in 235 BSE smallcap companies for three consecutive quarters. Nine stocks suffered 50–70% declines in CY26, highlighting sustained foreign investor selling and significant market corrections.​",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-10-smallcap-stocks-for-3-consecutive-quarters-shares-fall-up-to-70-in-cy26/slideshow/135680171.cms",
+      "pubDate": "Mon, 09 Nov 2026 16:40:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
+      "desc": "Some banks, which just a few weeks ago were lining up to fund AI deals, are now telling market participants they would be reluctant to finance additional deals even when they involve guarantees from the sector's marquee technology companies, according to several banking and credit sources.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/banks-investors-grow-wary-of-ai-debt-spooked-by-market-selloff/articleshow/135679930.cms",
+      "pubDate": "Mon, 09 Nov 2026 16:38:27 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+      "desc": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker&#039;s shares falling more than 4 percent.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 10:49:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
+      "desc": "The Indian rupee snapped its six-session winning streak on Monday, November 9, as dollar purchases by state-run banks outweighed positive momentum. The currency touched a six-month high of 93.69 per dollar before closing slightly lower at 93.9275. Lower crude oil prices and foreign equity inflows provided some support.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
+      "pubDate": "Mon, 09 Nov 2026 15:54:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president &amp; chief business officer",
+      "desc": "Sashikumar will additionally join Sarvam's board of directors. He will lead the company's business across enterprises and government, while expanding its engagement with digital-native companies, developers and partners.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer/articleshow/135678677.cms",
+      "pubDate": "Mon, 09 Nov 2026 15:51:51 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
+      "desc": "Russia&#039;s second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 10:08:45 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
+      "desc": "The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee against the US dollar.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
+      "pubDate": "Mon, 09 Nov 2026 15:34:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "China dismisses spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+      "desc": "Huang has acknowledged to the Nvidia board that he had been intimate with a business executive who US intelligence determined was gathering information for Beijing, according to The New York Times.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/china-dismisses-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/articleshow/135676572.cms",
+      "pubDate": "Mon, 09 Nov 2026 14:19:52 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nvidia's Jensen Huang, the scandal-hit AI visionary in a leather jacket",
+      "desc": "Chips made by US chip titan Nvidia push the boundaries of artificial intelligence, but its leader Jensen Huang is in the spotlight over an affair with an alleged Chinese spy. That is an area of concern to US officials who believe he has been involved with the alleged spy, Alice Huang, who is linked to a Singapore-based data center company, according to the New York Times.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-jensen-huang-the-scandal-hit-ai-visionary-in-a-leather-jacket/articleshow/135676475.cms",
+      "pubDate": "Mon, 09 Nov 2026 14:15:50 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+      "desc": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity shares by MakeMyTrip and its subsidiary, ibibo Group Holdings. Proceeds from the sale are expected to enhance the cash position of the parent company.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
+      "pubDate": "Mon, 09 Nov 2026 13:42:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Is it the end of free school milk?",
+      "desc": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
+      "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 08:12:30 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 08:10:25 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Indian bonds drift with oil; inflation data in focus",
+      "desc": "Indian government bonds exhibited limited movement today as oil prices showed signs of stabilization. Investors are remaining cautious, especially with inflation data from both the United States and India on the horizon. Scheduled for later today is a bond auction totaling 290.5 billion rupees. Analysts predict yields on the 10-year bond could oscillate between 7.30% and 7.10%, with particular attention on India's October inflation report due for release this Thursday.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
+      "pubDate": "Mon, 09 Nov 2026 13:03:21 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Explained: Why Nvidia shares dropped 4% in overnight trade and what analysts warn can trigger a bloodbath?",
+      "desc": "Nvidia shares dropped over 4% after CEO Jensen Huang acknowledged an affair with Alice Huang. Jensen Huang's relationship with Alice, a Chinese national, raised security concerns following intelligence reports. Nvidia has initiated an investigation into these allegations, although the board believes no secrets were compromised. Analysts suggest the company's upcoming earnings report will be crucial for market sentiment. Concerns linger over Huang's position if further evidence of wrongdoing emerges.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
+      "pubDate": "Mon, 09 Nov 2026 13:00:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "desc": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 07:10:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "What we know so far about the next James Bond film",
+      "desc": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 06:47:09 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
+      "desc": "Nvidia CEO Jensen Huang faces scrutiny after the company launched an independent probe into allegations that he was targeted by a foreign intelligence operation. The controversy has raised concerns over leadership, corporate governance, China-related business and investor confidence.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
+      "pubDate": "Mon, 09 Nov 2026 12:13:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+      "desc": "Nuvama Wealth Management Ltd achieved a consolidated net profit of Rs 303.5 crore for Q2 FY27. The company saw a revenue increase of 20.35% to Rs 1,366 crore for the same quarter. Client assets reached Rs 5.5 lakh crore, reflecting a 25% year-on-year growth. Wealth management, asset services, and capital markets drove this substantial growth. The company demonstrated strong operating profits with a return on equity remaining robust at 29%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
+      "pubDate": "Mon, 09 Nov 2026 12:09:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Global Markets: 5 key themes to watch this week",
+      "desc": "Global markets face a volatile week as investors assess the AI-led technology selloff, US inflation data, oil prices and geopolitical risks. China’s economic releases, European growth indicators and the COP31 climate summit will also shape sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
+      "pubDate": "Mon, 09 Nov 2026 11:44:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hut owner wins battle to keep living in off-grid home he built",
+      "desc": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
+      "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 06:13:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "How you can get council's £250 cost of living help",
+      "desc": "Applications for household grants of up to £250 are opening to some Surrey residents.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 06:11:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Hot summers and soaring bills putting soft play centres at risk",
+      "desc": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 06:10:03 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
@@ -112,24 +532,54 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Asian stock markets climb after earlier tech rout",
-      "desc": "Markets rebound after tech rout triggered by Democrats&#039; sweeping victory in US midterm elections.",
-      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 04:03:02 +0000",
+      "title": "Coal India Share Price Highlights: Coal India Ltd Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-today-live-09-nov-2026/liveblog/135671037.cms",
+      "pubDate": "Mon, 09 Nov 2026 10:06:43 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-      "desc": "US secretary of state says Iran&#039;s negotiation demands are &#039;outrageous and ridiculous, and really not realistic&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 04:02:18 +0000",
+      "title": "BPCL Share Price Highlights: BPCL Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-live-09-nov-2026/liveblog/135670950.cms",
+      "pubDate": "Mon, 09 Nov 2026 10:03:09 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-share-price-live-updates-09-nov-2026/liveblog/135670809.cms",
+      "pubDate": "Mon, 09 Nov 2026 09:52:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-09-nov-2026/liveblog/135670421.cms",
+      "pubDate": "Mon, 09 Nov 2026 09:33:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670255.cms",
+      "pubDate": "Mon, 09 Nov 2026 09:25:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "India short bonds may underperform on rate hikes, cash squeeze",
@@ -146,6 +596,16 @@
       "desc": "Three Nifty50 stocks that gained over 3% on November 8 featured in StockEdge’s White Marubozu bullish scanner. The candlestick pattern indicates strong buying momentum, with prices closing near the session high.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135670237.cms",
       "pubDate": "Mon, 09 Nov 2026 09:22:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HUL Share Price Highlights: HUL Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135670110.cms",
+      "pubDate": "Mon, 09 Nov 2026 09:18:39 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -182,10 +642,20 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs Stock Details",
+      "title": "Divis Labs Share Price Highlights: Divis Labs Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669678.cms",
       "pubDate": "Mon, 09 Nov 2026 08:55:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "NTPC Share Price Highlights: NTPC Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-09-nov-2026/liveblog/135669668.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:55:10 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -202,7 +672,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "LTIMindtree Share Price Live Updates: LTIMindtree Stock Details",
+      "title": "LTIMindtree Share Price Highlights: LTIMindtree Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-09-nov-2026/liveblog/135669509.cms",
       "pubDate": "Mon, 09 Nov 2026 08:45:30 +0530",
@@ -212,7 +682,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ONGC Share Price Live Updates: ONGC's Recent Trading Activity",
+      "title": "ONGC Share Price Highlights: ONGC Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-live-09-nov-2026/liveblog/135669503.cms",
       "pubDate": "Mon, 09 Nov 2026 08:45:08 +0530",
@@ -222,7 +692,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Stock Details",
+      "title": "Bajaj Auto Share Price Highlights: Bajaj Auto Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-09-nov-2026/liveblog/135669461.cms",
       "pubDate": "Mon, 09 Nov 2026 08:41:32 +0530",
@@ -232,7 +702,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Infosys Share Price Live Updates: Infosys Stock Details",
+      "title": "Infosys Share Price Highlights: Infosys Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669455.cms",
       "pubDate": "Mon, 09 Nov 2026 08:41:24 +0530",
@@ -242,7 +712,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Power Grid Share Price Live Updates: Power Grid Stock Details",
+      "title": "Power Grid Share Price Highlights: Power Grid Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-live-updates-09-nov-2026/liveblog/135669433.cms",
       "pubDate": "Mon, 09 Nov 2026 08:40:34 +0530",
@@ -252,7 +722,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ITC Share Price Live Updates: ITC  Market Performance",
+      "title": "ITC Share Price Highlights: ITC Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-today-live-updates-09-nov-2026/liveblog/135669422.cms",
       "pubDate": "Mon, 09 Nov 2026 08:40:07 +0530",
@@ -262,7 +732,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+      "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-live-updates-09-nov-2026/liveblog/135669242.cms",
       "pubDate": "Mon, 09 Nov 2026 08:31:20 +0530",
@@ -272,7 +742,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Cipla Share Price Live Updates: Cipla's Price Movement Signals Caution",
+      "title": "Cipla Share Price Highlights: Cipla Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-09-nov-2026/liveblog/135669234.cms",
       "pubDate": "Mon, 09 Nov 2026 08:30:58 +0530",
@@ -282,7 +752,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Current Price Update",
+      "title": "Adani Ports SEZ Share Price Highlights: Adani Ports SEZ Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669229.cms",
       "pubDate": "Mon, 09 Nov 2026 08:30:47 +0530",
@@ -292,7 +762,27 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Asian Paints Share Price Live Updates: Asian Paints Trading Update",
+      "title": "JSW Steel Share Price Highlights: JSW Steel Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-updates-09-nov-2026/liveblog/135669220.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:30:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "L&amp;T Share Price Highlights: L&amp;T Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-09-nov-2026/liveblog/135669218.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:30:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Asian Paints Share Price Highlights: Asian Paints Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-09-nov-2026/liveblog/135669217.cms",
       "pubDate": "Mon, 09 Nov 2026 08:30:23 +0530",
@@ -302,7 +792,17 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Britannia Share Price Live Updates: Britannia's Stock Update",
+      "title": "SBI Share Price Highlights: SBI Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669206.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:30:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Britannia Share Price Highlights: Britannia Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-09-nov-2026/liveblog/135669205.cms",
       "pubDate": "Mon, 09 Nov 2026 08:30:06 +0530",
@@ -312,7 +812,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Axis Bank Share Price Live Updates: Axis Bank's Price Movement Indicates Bearish Trend",
+      "title": "Axis Bank Share Price Highlights: Axis Bank Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-09-nov-2026/liveblog/135669204.cms",
       "pubDate": "Mon, 09 Nov 2026 08:30:01 +0530",
@@ -322,7 +822,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Price Movement Analysis",
+      "title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-live-updates-09-nov-2026/liveblog/135669193.cms",
       "pubDate": "Mon, 09 Nov 2026 08:29:36 +0530",
@@ -332,7 +832,17 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Current Market Price",
+      "title": "Tata Consumer Share Price Highlights: Tata Consumer Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-stock-price-today-live-09-nov-2026/liveblog/135669184.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:29:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sun Pharma Share Price Highlights: Sun Pharma Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-09-nov-2026/liveblog/135669141.cms",
       "pubDate": "Mon, 09 Nov 2026 08:28:01 +0530",
@@ -342,7 +852,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Stock Price Analysis",
+      "title": "Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-09-nov-2026/liveblog/135669136.cms",
       "pubDate": "Mon, 09 Nov 2026 08:27:30 +0530",
@@ -352,40 +862,20 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Adani Ent Share Price Live Updates: Adani Ent. Stock Details",
+      "title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-09-nov-2026/liveblog/135669128.cms",
+      "pubDate": "Mon, 09 Nov 2026 08:27:03 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-09-nov-2026/liveblog/135669118.cms",
       "pubDate": "Mon, 09 Nov 2026 08:26:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Stock Details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-today-live-updates-09-nov-2026/liveblog/135669108.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:26:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "SBI Life Share Price Live Updates: SBI Life Faces Downward Price Breakout",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-today-live-updates-09-nov-2026/liveblog/135669098.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:26:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Performance Overview",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135669095.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:26:11 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -402,176 +892,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "RIL Share Price Live Updates: RIL's Current Market Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-09-nov-2026/liveblog/135669082.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:25:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp Stock Details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-09-nov-2026/liveblog/135669078.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:25:39 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "UPL Share Price Live Updates: UPL's Price Movement Today",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-09-nov-2026/liveblog/135669064.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:25:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "TCS Share Price Live Updates: TCS stock price update",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-09-nov-2026/liveblog/135669063.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:25:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "ICICI Bank Share Price Live Updates: ICICI Bank Sees Positive Movement Today",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-updates-09-nov-2026/liveblog/135668930.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:19:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Wipro Share Price Live Updates: Wipro's Stock Update",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135668906.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:18:44 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Price Movement Signals Weakness",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-09-nov-2026/liveblog/135668895.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Price Drops Below 20-Day EMA",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-updates-09-nov-2026/liveblog/135668886.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra Stock Details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-09-nov-2026/liveblog/135668883.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-09-nov-2026/liveblog/135668882.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:21 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Steel Share Price Live Updates: Tata Steel's Daily Change and Returns",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-09-nov-2026/liveblog/135668879.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nestle India Share Price Live Updates: Nestle India Market Movement",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-09-nov-2026/liveblog/135668877.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Stock Details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-09-nov-2026/liveblog/135668875.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HDFC Life Share Price Live Updates: HDFC Life Price Movement Today",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-09-nov-2026/liveblog/135668872.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:17:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Market Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-updates-09-nov-2026/liveblog/135668868.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:16:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HCL Tech Share Price Live Updates: HCL Tech Trading Below Key Support Level",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-live-updates-09-nov-2026/liveblog/135668862.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:16:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
-      "desc": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 02:34:09 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
       "desc": "Vice Minister of Science and ICT Ryu Jemyung told a parliamentary budget committee that 10,000 GPUs funded under a 2025 supplementary budget had already arrived and were in use.",
       "link": "https://economictimes.indiatimes.com/tech/technology/south-korea-says-nvidia-issues-wont-affect-contracted-gpu-supplies/articleshow/135668578.cms",
@@ -580,106 +900,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
-      "desc": "A drone attack has halted production at the Khor Mor gas field in northern Iraq, causing widespread power outages.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 02:23:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Positive Breakout: These 6 stocks cross above their 200 DMAs",
-      "desc": "In the Nifty 500 pack, six stocks gained over 4% and their closing prices crossed above their respective 200-day moving averages (DMA) on November 8, 2026, according to StockEdge's technical scan data.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/135668381.cms",
-      "pubDate": "Mon, 09 Nov 2026 07:39:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Stock Market Live Updates: Sensex falls over 200 pts, Nifty below 24,950; IT stocks underperform",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mm-bhel-share-price-09-november-2026/liveblog/135667960.cms",
-      "pubDate": "Mon, 09 Nov 2026 07:15:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Gold, silver prices may sway with US-Iran tensions",
-      "desc": "As the US-Iran conflict and crude oil pricing remain in focus, bullion prices are set to encounter downward pressure. Key economic data releases from China, the US, Germany, Japan, and India will significantly impact inflation and interest rate expectations. Market watchers will be attentive to Federal Reserve remarks and US job market indicators for cues on trends.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-may-sway-with-us-iran-tensions/articleshow/135668216.cms",
-      "pubDate": "Mon, 09 Nov 2026 07:09:23 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-      "desc": "New Zealand's currency bounced from a seven-month trough after too-close-to-call weekend elections weakened the government, although the country will need to wait until late this month to find out who will govern as vote counting continues.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election/articleshow/135667774.cms",
-      "pubDate": "Mon, 09 Nov 2026 06:57:32 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-      "desc": "Oil prices fell at Monday's open after US President Donald Trump said he was highly unlikely to order fresh attacks on Iran as long as talks to end the conflict progress, even as both countries reported that shipping had been hit in or near the Strait of",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms",
-      "pubDate": "Mon, 09 Nov 2026 06:38:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
-      "desc": "Bank of England chief economist Huw Pill indicated that interest rates could remain steady or decline if economic growth stalls. Recent financial market predictions suggest potential for at least two interest rate increases within the next year. Economic growth has shown surprising strength, yet households are beginning to tighten their spending due to rising energy costs. While GDP growth is projected at 1.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms",
-      "pubDate": "Mon, 09 Nov 2026 06:36:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Gold edges up as softer crude tempers inflation concerns",
-      "desc": "Gold prices edged higher on Monday as softer oil prices eased inflation concerns, though gains were capped by expectations that the Federal Reserve will keep US interest rates higher",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
-      "pubDate": "Mon, 09 Nov 2026 06:31:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
-      "desc": "Benchmark stock indexes rose in Japan and Australia after a gauge of US semiconductor shares jumped 4.2% on Friday as speculation about possible tighter Democratic party regulation of the artificial intelligence industry eased. The MSCI Asia Pacific Index of equities gained 0.5%.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms",
-      "pubDate": "Mon, 09 Nov 2026 06:26:21 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 00:50:06 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Doing these things now will help you save money at Christmas",
@@ -692,177 +912,77 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-      "desc": "Trump says Iran land blockade is now in effect, as Tehran threatens to &#039;rain down hell&#039; if US resumes attacks.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 00:00:34 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "desc": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "pubDate": "2026-11-08T17:54:50-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
       "desc": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
       "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "desc": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "pubDate": "2026-11-08T15:22:39-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "desc": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "pubDate": "2026-11-08T14:18:19-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "desc": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "pubDate": "2026-11-08T12:23:19-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "desc": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 15:37:25 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "desc": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
-      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "pubDate": "2026-11-08T10:00:30-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How the deadly shooting in Krakow unfolded",
-      "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 09:29:24 GMT",
-      "image": "",
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "We face paying £9,000 tax even though our second home is in a war zone",
-      "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
-      "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 08:04:59 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
-      "desc": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
-      "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 07:11:02 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-09T05:23:10.042Z",
+    "generatedAt": "2026-11-09T15:37:49.144Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
       {
         "symbol": "NIFTY 50",
-        "price": 24893.6,
-        "change": -92.8,
-        "changePct": -0.37,
-        "timestamp": "2026-11-09T05:23:09.801Z",
+        "price": 25044.65,
+        "change": 58.25,
+        "changePct": 0.23,
+        "timestamp": "2026-11-09T15:37:48.778Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
-        "price": 80685.67,
-        "change": -313.73,
-        "changePct": -0.39,
-        "timestamp": "2026-11-09T05:23:09.852Z",
+        "price": 81106.65,
+        "change": 107.25,
+        "changePct": 0.13,
+        "timestamp": "2026-11-09T15:37:48.837Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
-        "price": 59072.55,
-        "change": 221.9,
-        "changePct": 0.38,
-        "timestamp": "2026-11-09T05:23:09.885Z",
+        "price": 59741.25,
+        "change": 890.65,
+        "changePct": 1.51,
+        "timestamp": "2026-11-09T15:37:48.922Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 93.83,
-        "change": -0.07,
-        "changePct": -0.07,
-        "timestamp": "2026-11-09T05:23:09.933Z",
+        "price": 93.92,
+        "change": 0.02,
+        "changePct": 0.02,
+        "timestamp": "2026-11-09T15:37:48.970Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124611,
-        "change": 1683,
-        "changePct": 1.37,
-        "timestamp": "2026-11-09T05:23:09.973Z",
+        "price": 124579,
+        "change": 1534,
+        "changePct": 1.25,
+        "timestamp": "2026-11-09T15:37:49.043Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 159825,
-        "change": 3131,
-        "changePct": 2,
-        "timestamp": "2026-11-09T05:23:10.005Z",
+        "price": 159012,
+        "change": 2168,
+        "changePct": 1.38,
+        "timestamp": "2026-11-09T15:37:49.093Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8520,
-        "change": -3,
-        "changePct": -0.03,
-        "timestamp": "2026-11-09T05:23:10.042Z",
+        "price": 8235,
+        "change": -296,
+        "changePct": -3.47,
+        "timestamp": "2026-11-09T15:37:49.144Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
