@@ -1,135 +1,345 @@
 {
-  "generatedAt": "2026-11-09T15:37:49.144Z",
+  "generatedAt": "2026-11-10T00:00:42.820Z",
   "articles": [
     {
-      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
+      "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+      "desc": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 22:31:19 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "desc": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 22:10:52 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US stocks: US market opens higher after last week's AI rout",
-      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How to shop like a pro during Black Friday and Cyber Monday",
-      "desc": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more time to take advantage of the deals. We’re already hard at work [&#8230;]",
-      "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "pubDate": "2026-11-09T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
-      "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "desc": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 14:39:32 +0000",
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
+      "desc": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 21:18:25 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
-      "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:58:01 GMT",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google to introduce two variants of in-house chips: Bloomberg News",
-      "desc": "The search giant's shares were up more than 2% in premarket trading. Through last close, the stock has fallen 9% so far this year. Alphabet did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
-      "pubDate": "Mon, 09 Nov 2026 18:26:44 +0530",
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "desc": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:56:45 +0000",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Civil servant who juggled five jobs found guilty of fraud",
-      "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 15:33:35 GMT",
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "desc": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:07:56 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The facial recognition technology stopping shoplifters",
+      "desc": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:00:43 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "desc": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 18:48:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Headteachers say families will struggle after another rise in school dinner prices",
+      "desc": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 00:00:22 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 23:59:50 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "desc": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "pubDate": "2026-11-09T18:51:58-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 23:51:22 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "desc": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "pubDate": "2026-11-09T18:47:46-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "desc": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "pubDate": "2026-11-09T18:07:59-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+      "desc": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 22:31:19 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "desc": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 22:10:52 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "US stocks: US market opens higher after last week's AI rout",
-      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "desc": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 21:52:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "COP31 opens amid energy crisis as activists demand climate action",
+      "desc": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 21:18:25 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "desc": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "pubDate": "2026-11-09T16:13:16-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:58:01 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "South Africa detains foreigners suspected of heading to join Russian forces",
+      "desc": "Africans and others continue to be recruited to fight for Russia in its war on Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:56:45 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "pubDate": "2026-11-09T14:09:58-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "desc": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:07:56 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The facial recognition technology stopping shoplifters",
+      "desc": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:00:43 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Qatar PM meets with Trump for talks on ending war on Iran",
+      "desc": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani has met with US President Donald Trump.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/qatar-pm-meets-with-trump-for-talks-on-ending-war-on-iran?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 18:48:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "desc": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 18:40:31 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+      "desc": "The paper was one of the few remaining outlets in Russia that criticised Moscow&#039;s war on Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 18:21:38 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "desc": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "pubDate": "2026-11-09T13:07:23-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 17:17:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+      "desc": "The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices. They claim that perpetual futures ought to be categorized as swaps due to their unique trading characteristics. Moreover, ongoing trading raises alarm about liquidity and counterparty risk, especially in turbulent market conditions.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
+      "pubDate": "Mon, 09 Nov 2026 22:28:59 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "How to shop like a pro during Black Friday and Cyber Monday",
-      "desc": "Despite Amazon and other retailers filling the summer and fall months with more sales than ever before, Black Friday and Cyber Monday remain the biggest shopping days of the year. And, in recent years, the sale periods have started earlier, giving you more time to take advantage of the deals. We’re already hard at work [&#8230;]",
-      "link": "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "pubDate": "2026-11-09T10:00:00-05:00",
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 16:46:40 GMT",
       "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US dollar dips as easing AI and Mideast worries limit its appeal",
+      "desc": "After a six-month high, the US dollar is now on a downward trend, largely spurred by impressive job growth figures. Investors are eagerly awaiting the upcoming consumer price index data, a key factor for Federal Reserve rate considerations. Meanwhile, the euro and other currencies are rebounding against the dollar, backed by solid economic indicators.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms",
+      "pubDate": "Mon, 09 Nov 2026 21:46:36 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "desc": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 16:01:19 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
+      "desc": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
+      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
@@ -142,34 +352,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
+      "title": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
       "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
       "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "desc": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 14:39:32 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "desc": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a [&#8230;]",
-      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "pubDate": "2026-11-09T09:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Rising cost of living tests UK's net zero ambitions",
@@ -182,7 +372,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Highlights: Dow rockets 1,200 pts after last week's tech-led rout; oil prices swing",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
       "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
@@ -190,16 +380,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 13:10:32 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Google to introduce two variants of in-house chips: Bloomberg News",
@@ -272,9 +452,9 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks",
+      "title": "US market remains tied to tech stocks despite sharp AI sell-off",
       "desc": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
       "pubDate": "Mon, 09 Nov 2026 16:46:25 +0530",
       "image": "",
       "source": "Economic Times Markets",
@@ -312,16 +492,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-      "desc": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker&#039;s shares falling more than 4 percent.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 10:49:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
       "desc": "The Indian rupee snapped its six-session winning streak on Monday, November 9, as dollar purchases by state-run banks outweighed positive momentum. The currency touched a six-month high of 93.69 per dollar before closing slightly lower at 93.9275. Lower crude oil prices and foreign equity inflows provided some support.",
       "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
@@ -340,16 +510,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
-      "desc": "Russia&#039;s second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-      "pubDate": "Mon, 09 Nov 2026 10:08:45 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
@@ -396,16 +556,6 @@
       "desc": "Free school milk has been provided to children in Wales since the 1970s, but that could now change.",
       "link": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 09 Nov 2026 08:12:30 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "desc": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 08:10:25 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
@@ -486,26 +636,6 @@
       "desc": "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission.",
       "link": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 09 Nov 2026 06:13:11 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "How you can get council's £250 cost of living help",
-      "desc": "Applications for household grants of up to £250 are opening to some Surrey residents.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 06:11:28 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Hot summers and soaring bills putting soft play centres at risk",
-      "desc": "Jessica Harvey from Whitchurch said there were some days in the summer that no-one visited her centre.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g11exqqwvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 06:10:03 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
@@ -862,26 +992,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-09-nov-2026/liveblog/135669128.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:27:03 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-09-nov-2026/liveblog/135669118.cms",
-      "pubDate": "Mon, 09 Nov 2026 08:26:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "“No excuse for what I did”: Read Jensen Huang’s full letter to Nvidia staff on his affair with alleged Chinese spy",
       "desc": "In a message to company employees released Sunday, Huang acknowledged having an affair and apologized to both his family and company staff. \"I was unfaithful to my wife,\" he said. \"My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/no-excuse-for-what-i-did-read-jensen-huangs-full-letter-to-nvidia-staff-on-his-affair-with-alleged-chinese-spy/articleshow/135668537.cms",
@@ -910,20 +1020,10 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "desc": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 22:05:12 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-09T15:37:49.144Z",
+    "generatedAt": "2026-11-10T00:00:42.820Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -932,7 +1032,7 @@
         "price": 25044.65,
         "change": 58.25,
         "changePct": 0.23,
-        "timestamp": "2026-11-09T15:37:48.778Z",
+        "timestamp": "2026-11-10T00:00:42.094Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -940,7 +1040,7 @@
         "price": 81106.65,
         "change": 107.25,
         "changePct": 0.13,
-        "timestamp": "2026-11-09T15:37:48.837Z",
+        "timestamp": "2026-11-10T00:00:42.273Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -948,41 +1048,41 @@
         "price": 59741.25,
         "change": 890.65,
         "changePct": 1.51,
-        "timestamp": "2026-11-09T15:37:48.922Z",
+        "timestamp": "2026-11-10T00:00:42.373Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 93.92,
-        "change": 0.02,
-        "changePct": 0.02,
-        "timestamp": "2026-11-09T15:37:48.970Z",
+        "change": 0.03,
+        "changePct": 0.03,
+        "timestamp": "2026-11-10T00:00:42.472Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124579,
-        "change": 1534,
-        "changePct": 1.25,
-        "timestamp": "2026-11-09T15:37:49.043Z",
+        "price": 125265,
+        "change": 1024,
+        "changePct": 0.82,
+        "timestamp": "2026-11-10T00:00:42.570Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 159012,
-        "change": 2168,
-        "changePct": 1.38,
-        "timestamp": "2026-11-09T15:37:49.093Z",
+        "price": 161397,
+        "change": 2286,
+        "changePct": 1.44,
+        "timestamp": "2026-11-10T00:00:42.727Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8235,
-        "change": -296,
-        "changePct": -3.47,
-        "timestamp": "2026-11-09T15:37:49.144Z",
+        "price": 8122,
+        "change": -35,
+        "changePct": -0.43,
+        "timestamp": "2026-11-10T00:00:42.820Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
