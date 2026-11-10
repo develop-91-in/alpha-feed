@@ -1,111 +1,561 @@
 {
-  "generatedAt": "2026-11-10T08:05:37.371Z",
+  "generatedAt": "2026-11-10T16:52:20.448Z",
   "articles": [
     {
-      "title": "Independent bookshop closing after rise in bills",
-      "desc": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:22:52 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-      "desc": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:22:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Why Rocket Lab shares fell despite record revenue and booming Neutron demand",
-      "desc": "Rocket Lab shares fell over 6% in after-hours trading after the company reported a wider-than-expected Q3 loss despite record revenue and a growing order backlog. Investors also weighed Neutron's delayed maiden launch, higher development costs and upbeat fourth-quarter revenue guidance.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-rocket-lab-shares-fell-despite-record-revenue-and-booming-neutron-demand/slideshow/135702575.cms",
-      "pubDate": "Tue, 10 Nov 2026 11:47:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
-      "desc": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:39:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
-      "desc": "The CSTO&#039;s influence is declining as Armenia turns away, while former allies pursue independent partnerships.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:38:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Delhi set to get Namo Yamuna River Safari; Kapil Mishra shares launch details",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/delhi-set-to-get-namo-yamuna-river-safari-kapil-mishra-shares-launch-details/videoshow/135700733.cms",
-      "pubDate": "Tue, 10 Nov 2026 11:05:46 +0530",
+      "title": "India-US hold bilateral talks in New Delhi on Customs and trade facilitation: Govt sources",
+      "desc": "A US delegation engaged with Indian Commerce Ministry officials to enhance bilateral trade and customs procedures. The discussions took place on November 2-3 and focused on trade facilitation frameworks. Ongoing negotiations are related to the proposed Bilateral Trade Agreement aimed at improving market access. Both nations are close to finalizing an interim trade agreement, with few issues left to resolve.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-hold-bilateral-talks-in-new-delhi-on-customs-and-trade-facilitation-govt-sources/articleshow/135716101.cms",
+      "pubDate": "Tue, 10 Nov 2026 21:54:40 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Why The Trade Desk stock surged 15% despite revenue decline",
-      "desc": "The Trade Desk shares surged 15.5% following stronger-than-expected Q3 earnings and revenue, as AI innovations, Netflix integration, strong customer retention and optimistic Q4 guidance boosted investor confidence despite declining profitability.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
-      "pubDate": "Tue, 10 Nov 2026 11:01:01 +0530",
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "desc": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 16:03:46 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+      "desc": "Mercor said on Tuesday it had raised $750 million in a funding round that valued the AI training startup at $20 billion. The Series D round drew participation from Benchmark, Felicis, Fundomo, Nvidia and funds managed by affiliates of Apollo, among others.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/ai-training-startup-mercor-valued-at-20-billion-in-latest-funding-round/articleshow/135715625.cms",
+      "pubDate": "Tue, 10 Nov 2026 21:30:33 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "desc": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:49:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "desc": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:18:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
+      "desc": "New data has revealed that US consumer prices rose faster than anticipated, prompting speculation about interest rate changes. Fed Governor Christopher Waller suggested a half percentage point hike may be necessary if core prices continue rising. The Consumer Price Index showed a month-over-month increase of 0.4% in October, with core inflation remaining persistent. The bond market reacted strongly to these developments, significantly affecting Treasury yields.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:45:45 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-      "desc": "Israel&#039;s military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:23:57 +0000",
+      "title": "US stocks: Dow Jones falls 200 points as hot inflation revives rate-hike fears; Nvidia sinks",
+      "desc": "On Tuesday, Wall Street faced a downturn as inflation figures surpassed projections, raising worries about potential interest rate hikes. The declines were evident across the Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite indices. While financial stocks showed minor gains, technology shares, especially Nvidia, experienced fluctuations due to uncertainty in leadership. Anthropic's looming IPO threatens to heat up competition in the AI field.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:40:03 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Independent bookshop closing after rise in bills",
-      "desc": "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:22:52 GMT",
+      "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+      "desc": "Economists predict the Indian rupee will strengthen against the US dollar in the coming months. Factors contributing to this appreciation include lower crude oil prices and improving foreign capital inflows. Additionally, a weaker US dollar and the easing of geopolitical tensions are supporting this trend. The Reserve Bank of India has implemented measures to stabilize the currency and enhance dollar availability.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/easing-global-headwinds-lower-crude-oil-prices-may-further-lift-rupee-in-coming-months-economists/articleshow/135714320.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:34:42 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Some pupils 'struggling just to get a hot meal'",
+      "desc": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 16:46:21 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-      "desc": "Drone strike disrupts electricity supply in Iraq&#039;s semi-autonomous Kurdish region, renewing concerns about armed groups.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:22:00 +0000",
+      "title": "India-US hold bilateral talks in New Delhi on Customs and trade facilitation: Govt sources",
+      "desc": "A US delegation engaged with Indian Commerce Ministry officials to enhance bilateral trade and customs procedures. The discussions took place on November 2-3 and focused on trade facilitation frameworks. Ongoing negotiations are related to the proposed Bilateral Trade Agreement aimed at improving market access. Both nations are close to finalizing an interim trade agreement, with few issues left to resolve.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-hold-bilateral-talks-in-new-delhi-on-customs-and-trade-facilitation-govt-sources/articleshow/135716101.cms",
+      "pubDate": "Tue, 10 Nov 2026 21:54:40 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "desc": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "pubDate": "2026-11-10T11:20:30-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "desc": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 16:03:46 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+      "desc": "Mercor said on Tuesday it had raised $750 million in a funding round that valued the AI training startup at $20 billion. The Series D round drew participation from Benchmark, Felicis, Fundomo, Nvidia and funds managed by affiliates of Apollo, among others.",
+      "link": "https://economictimes.indiatimes.com/tech/funding/ai-training-startup-mercor-valued-at-20-billion-in-latest-funding-round/articleshow/135715625.cms",
+      "pubDate": "Tue, 10 Nov 2026 21:30:33 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "desc": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "pubDate": "2026-11-10T11:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+      "desc": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:49:36 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
+      "title": "Still possible chipmaker Nexperia could reunite with Chinese operations, CEO says",
+      "desc": "If the split becomes permanent, however, Nexperia's Chinese parent Wingtech Technology should be compensated, interim CEO Stefan Tilger said in an interview on the sidelines of the electronica 2026 conference in Munich.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/still-possible-chipmaker-nexperia-could-reunite-with-chinese-operations-ceo-says/articleshow/135714799.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:54:41 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "‘Positive momentum’: Is the US war on Iran about to end?",
+      "desc": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:18:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
+      "desc": "New data has revealed that US consumer prices rose faster than anticipated, prompting speculation about interest rate changes. Fed Governor Christopher Waller suggested a half percentage point hike may be necessary if core prices continue rising. The Consumer Price Index showed a month-over-month increase of 0.4% in October, with core inflation remaining persistent. The bond market reacted strongly to these developments, significantly affecting Treasury yields.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:45:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "desc": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:10:20 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US stocks: Dow Jones falls 200 points as hot inflation revives rate-hike fears; Nvidia sinks",
+      "desc": "On Tuesday, Wall Street faced a downturn as inflation figures surpassed projections, raising worries about potential interest rate hikes. The declines were evident across the Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite indices. While financial stocks showed minor gains, technology shares, especially Nvidia, experienced fluctuations due to uncertainty in leadership. Anthropic's looming IPO threatens to heat up competition in the AI field.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:40:03 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+      "desc": "Economists predict the Indian rupee will strengthen against the US dollar in the coming months. Factors contributing to this appreciation include lower crude oil prices and improving foreign capital inflows. Additionally, a weaker US dollar and the easing of geopolitical tensions are supporting this trend. The Reserve Bank of India has implemented measures to stabilize the currency and enhance dollar availability.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/easing-global-headwinds-lower-crude-oil-prices-may-further-lift-rupee-in-coming-months-economists/articleshow/135714320.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:34:42 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Anthropic's potential mega IPO joins ranks of world's biggest stock market listings",
+      "desc": "Anthropic has kicked off its U.S. IPO roadshow, seeking to raise up to $64.4 billion by offering 825 million shares. This latest valuation stands at roughly $1.4 trillion, representing a drop from earlier estimations of $2 trillion. Notably, tech giants like Alphabet and Microsoft are set to invest $26 billion in a private placement.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
+      "pubDate": "Tue, 10 Nov 2026 20:25:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 14:46:50 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "desc": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 14:45:46 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Amazon's Ring launches flying camera, autonomous security robot",
+      "desc": "Amazon's Ring on Tuesday launched a new robotics business with two autonomous security products, a flying indoor camera for homes and a roving security robot designed for businesses, as the company expands beyond its established lineup of home-security devices.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/amazons-ring-launches-flying-camera-autonomous-security-robot/articleshow/135713226.cms",
+      "pubDate": "Tue, 10 Nov 2026 19:52:39 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
+      "desc": "TSMC is set to invest up to $1 billion in the AI landscape, directing $500 million each to Anthropic and OpenAI. As Anthropic prepares for its IPO, this financial move by TSMC underscores its belief in a booming AI industry. With surging demand for AI chips, TSMC also aims to enhance its production capabilities, reinforcing its role in evolving AI infrastructure.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713301.cms",
+      "pubDate": "Tue, 10 Nov 2026 19:52:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "desc": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "pubDate": "2026-11-10T09:06:54-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US consumer prices rise above expectations in October",
+      "desc": "Consumer prices in the US experienced a larger-than-expected increase in October, affecting future Federal Reserve interest rates. The Consumer Price Index rose by 0.4%, following a 0.6% increase in September. Core CPI also increased, leading many to predict a rate hike in December. Despite missing year-over-year data, inflation remains significantly above the Fed's 2% target.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
+      "pubDate": "Tue, 10 Nov 2026 19:31:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "desc": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "pubDate": "2026-11-10T09:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "New regulation for heating oil market, but no price controls",
+      "desc": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:42:29 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:39:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks",
+      "desc": "\"The remaining 2.84% cannot be recovered due to critical damage to equipment and the absence of backups on the platform by customers,\" the company said in its statement.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/russias-yandex-says-nearly-3-of-cloud-customer-data-lost-after-attacks/articleshow/135712117.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:52:57 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nvidia, Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+      "desc": "The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologised for. Trump said Monday that Huang told him he had no idea the person could be involved in espionage.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/articleshow/135712053.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:49:10 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Israeli AI security startup Bay raises $50 million",
+      "desc": "Bay says it addresses a primary barrier to AI adoption by \"allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale\".",
+      "link": "https://economictimes.indiatimes.com/tech/funding/israeli-ai-security-startup-bay-raises-50-million/articleshow/135711991.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:45:45 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "US stocks edge lower after October's hot inflation print: Stock Market Live Updates",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:33:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Alibaba chip unit T-Head files confidential Hong Kong IPO application",
+      "desc": "China's Alibaba Group said on Tuesday that its chip unit, T-Head, has confidentially filed a listing application with the Hong Kong Stock Exchange after receiving approval to proceed with a spin-off.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/alibaba-chip-unit-t-head-files-confidential-hong-kong-ipo-application/articleshow/135711567.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:27:13 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Cognizant commits over 25,000 professionals to Anthropic's Claude delivery",
+      "desc": "The group is focused on execution excellence, transformation and client success, with the scale to take AI from pilot to production across enterprises' core operations, the Nasdaq-listed IT company said.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-commits-over-25000-professionals-to-anthropics-claude-delivery/articleshow/135711507.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:24:38 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus",
+      "desc": "Nvidia's CEO Jensen Huang is facing scrutiny, impacting investor sentiment in the tech sector. Anthropic is preparing for a huge initial public offering, potentially raising $64.4 billion. The market is anxious about upcoming inflation data that could influence stock performance. Cooling oil prices have provided some optimism among investors and pushed Dow futures higher. Concerns over the sustainability of the AI boom continue to linger in the background.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-slip-with-nvidia-woes-anthropic-ipo-in-focus/articleshow/135711347.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:19:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India may get a better trade deal: Samir Saran on renegotiating with the US",
+      "desc": "Following the US midterm elections, Samir Saran emphasized India's need to navigate trade negotiations with patience. He believes aggressive US tariff threats are often part of larger negotiations rather than immediate policy changes. Saran indicated that both domestic political shifts and bipartisan support in Congress ensure continuity of US trade goals. India can leverage its vast market to secure advantageous terms during negotiations.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-may-get-a-better-trade-deal-samir-saran-on-renegotiating-with-the-us/articleshow/135711398.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:19:29 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Anthropic's IPO: A close look at AI frontrunner's rapid growth, spiraling costs",
+      "desc": "Anthropic aims to raise up to $64.4 billion in an upcoming IPO, representing a significant market debut. The company plans a valuation of up to $1.02 trillion, showcasing its ambitions in AI. Founded by former OpenAI researchers, Anthropic's revenue has rapidly surged with enterprise adoption of its AI models. While facing substantial operating losses, the company remains committed to its substantial infrastructure investments.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-a-close-look-at-ai-frontrunners-rapid-growth-spiraling-costs/articleshow/135711237.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:15:55 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic targets valuation of about $1 trillion in IPO",
+      "desc": "Anthropic has entered into agreements with partners AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC, who will purchase $26.0 billion of its Class N common stock in a private placement.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-valuation-of-about-1-trillion-in-ipo/articleshow/135710518.cms",
+      "pubDate": "Tue, 10 Nov 2026 17:40:17 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India's unemployment rate falls to 5.1% in July-September as rural joblessness declines",
+      "desc": "India's unemployment rate saw a decline to 5.1% from 5.4% in the prior quarter. The decrease in unemployment primarily occurred in rural areas, where it fell to 4.3%. The survey indicated that more individuals were either working or seeking jobs during this period. Women's employment participation also improved, rising to 34.7% from 33.2%. The overall employment figure reached approximately 57.9 crore individuals in India.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-falls-to-5-1-in-july-september-as-rural-joblessness-declines/articleshow/135709920.cms",
+      "pubDate": "Tue, 10 Nov 2026 17:33:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Budget 2027-28: PHDCCI urges govt to scrap LTCG tax on equities, cut STCG tax to 10%",
+      "desc": "PHD Chamber of Commerce and Industry has made recommendations for the Union Budget 2027-28. They have proposed abolishing long-term capital gains tax and reducing short-term capital gains tax rates. The chamber has also called for relaxed loan repayment norms and higher loan limits for MSMEs. They highlighted the economic significance of MSMEs in India's GDP and employment. Improved access to credit and equity support could enhance India's global manufacturing position.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-28-phdcci-urges-govt-to-scrap-ltcg-tax-on-equities-cut-stcg-tax-to-10/articleshow/135709965.cms",
+      "pubDate": "Tue, 10 Nov 2026 17:33:14 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Microsoft presses President Trump to scuttle expected ban on Chinese data centre technology",
+      "desc": "Reuters reported in August that the Trump administration wants to ban US imports of new models of Chinese optical transceivers, which allow data to travel over fiber-optic cables at the speed of light within data centers. The concern is that they could be used by Beijing to steal data, install malware or disrupt service at US data centers.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-presses-president-trump-to-scuttle-expected-ban-on-chinese-data-centre-technology/articleshow/135709777.cms",
+      "pubDate": "Tue, 10 Nov 2026 17:13:04 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's affair with alleged spy aided $7.5 billion in China chip shipments: The Information",
+      "desc": "Alice Huang, along with her husband and sister, built a network of companies across China and Singapore to acquire Nvidia chips, according to the report.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-ceo-jensen-huangs-affair-with-alleged-spy-aided-7-5-billion-in-china-chip-shipments-the-information/articleshow/135709621.cms",
+      "pubDate": "Tue, 10 Nov 2026 17:09:22 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
+      "desc": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 11:23:18 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US Treasury yields rise as Fed's Waller presses rate hike case",
+      "desc": "Following remarks from Federal Reserve Governor Christopher Waller, short-dated Treasury yields saw an uptick, as he proposed the necessity of action despite seemingly moderated inflation data. Waller highlighted a possible half-point rate increase if inflation intensifies, signaling potential shifts in monetary policy. Economists expect a modest rise in core inflation, guiding market anticipations as money markets now fully reflect a 25 basis point increase in December.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
+      "pubDate": "Tue, 10 Nov 2026 16:25:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore",
+      "desc": "Bajaj Finance has allotted 5.74 crore warrants to its promoter, Bajaj Finserv, for Rs 5,799 crore. The special committee of the board approved the issue at an issue price of Rs 1,010 per warrant. Each warrant is convertible into an equivalent number of equity shares of the company. A minimum of 25 percent of the consideration is payable at allotment, while the remaining 75 percent will be payable later.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms",
+      "pubDate": "Tue, 10 Nov 2026 16:22:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India's wheat plantings seen at record high but final output to depend on weather, FAO says",
+      "desc": "India is poised for record wheat planting this season, supported by government incentives and soil moisture. The final wheat output will depend significantly on weather patterns influenced by El Nino in April and May. El Nino typically brings above-average rainfall to key wheat-growing areas but may also increase flooding risks. Adequate snow cover from expected precipitation could benefit both overwintering crops and reservoir replenishment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/record-wheat-plantings-in-india-amidst-el-nino-fao-forecasts-dependency-on-weather-conditions-for-2027-output/articleshow/135708195.cms",
+      "pubDate": "Tue, 10 Nov 2026 16:21:48 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "FPIs turn net buyers; pour Rs 53,739 crore in D-Street in Nov so far",
+      "desc": "In November, foreign investors reversed a trend of selling by making substantial purchases of Indian equities. This shift followed a global sell-off triggered by AI developments affecting markets worldwide, including the US and Asia. The allure of strong domestic earnings growth alongside attractive valuations in large-cap stocks reignited investor interest in India, particularly in the financial services and technology sectors, with noteworthy activity also seen in the debt market.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-pour-rs-53739-crore-in-d-street-in-nov-so-far/articleshow/135708381.cms",
+      "pubDate": "Tue, 10 Nov 2026 16:19:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "India in a 'sweet spot' amid oil volatility and currency dynamics: Kotak Neo's Anindya Banerjee",
+      "desc": "India is in a favourable economic position due to declining crude oil prices and increasing foreign investment inflows. The Indian rupee is currently undervalued, and there is potential for appreciation if geopolitical tensions ease. Expectations suggest one more interest rate hike from both the Federal Reserve and the Reserve Bank of India. Additionally, shifting global investment sentiment is favoring markets such as India beyond artificial intelligence stocks.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-in-a-sweet-spot-amid-oil-volatility-and-currency-dynamics-kotak-neos-anindya-banerjee/articleshow/135705977.cms",
+      "pubDate": "Tue, 10 Nov 2026 16:06:37 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Eurozone bond yields fall as lower energy prices ease inflation concerns",
+      "desc": "On Tuesday, government bond yields in the Eurozone experienced a notable drop, particularly for French and Italian bonds. The easing of inflation worries, attributed to falling oil and natural gas prices, enhanced demand for bonds. Germany's 10-year bond yield fell to 3.25%, while France's decreased to 4.69%. Boosted by the US President's calming remarks, market sentiment improved, especially for nations that had faced challenges in their bond markets.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms",
+      "pubDate": "Tue, 10 Nov 2026 15:46:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "desc": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 09:57:49 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
       "title": "Holiday hunger bill to face final Stormont hurdle",
       "desc": "The new law would would help poorer families with food costs during school holidays.",
       "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:21:02 GMT",
+      "pubDate": "Tue, 10 Nov 2026 09:35:03 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "desc": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 09:23:55 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
@@ -120,46 +570,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "New chief outlines main issues facing Isle of Man",
-      "desc": "The chief minister says connectivity and food storage were among his top government priorities.",
-      "link": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:09:01 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-      "desc": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:01:44 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
-      "desc": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:39:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Moscow summit tests Russia’s waning grip on former Soviet allies",
-      "desc": "The CSTO&#039;s influence is declining as Armenia turns away, while former allies pursue independent partnerships.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/moscow-summit-tests-russias-waning-grip-on-former-soviet-allies?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:38:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Delhi set to get Namo Yamuna River Safari; Kapil Mishra shares launch details",
@@ -182,16 +592,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
-      "desc": "Israel&#039;s military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:23:57 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "desc": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
@@ -210,16 +610,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-      "desc": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:02:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Anthropic plans IPO live stream with Dario Amodei, JPMorgan CEO Jamie Dimon",
@@ -262,16 +652,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "desc": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 03:58:13 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Californians reject wealth tax for billionaires",
       "desc": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
       "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&amp;at_campaign=rss",
@@ -280,16 +660,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-      "desc": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 03:17:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "AI demand unlikely to be derailed by Nvidia CEO controversy: Taiwan supply chain executives",
@@ -332,16 +702,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
-      "desc": "Zelenskyy claims Russia &#039;suffering record losses&#039; as Trump says US seeing &#039;strong inclination&#039; to end war in Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 02:45:14 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
       "desc": "Anthropic initially shared its IPO filing details but later retracted the information due to inaccuracies. The company aimed to sell approximately 867 million shares priced between $70 and $80 each. A follow-up email clarified that these pricing details were incorrect. Anthropic indicated that an updated filing would be provided later. The company has chosen not to provide further comments regarding the situation.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
@@ -362,16 +722,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "desc": "Americans say the US should prioritise avoiding higher prices over achieving Trump&#039;s military goals in Iran.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:56:47 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
       "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
       "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -390,16 +740,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-      "desc": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:00:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Gold dips ahead of US inflation data",
@@ -452,26 +792,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Headteachers say families will struggle after another rise in school dinner prices",
-      "desc": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 00:00:22 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "desc": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "pubDate": "2026-11-09T18:51:58-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "desc": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss",
@@ -480,26 +800,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "desc": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "pubDate": "2026-11-09T18:47:46-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "desc": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "pubDate": "2026-11-09T18:07:59-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
@@ -512,16 +812,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "desc": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
-      "link": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "pubDate": "2026-11-09T16:13:16-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
       "desc": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
@@ -530,16 +820,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "pubDate": "2026-11-09T14:09:58-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "The facial recognition technology stopping shoplifters",
@@ -562,26 +842,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "desc": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "pubDate": "2026-11-09T13:07:23-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "desc": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 17:17:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
       "desc": "The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices. They claim that perpetual futures ought to be categorized as swaps due to their unique trading characteristics. Moreover, ongoing trading raises alarm about liquidity and counterparty risk, especially in turbulent market conditions.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
@@ -590,250 +850,10 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "desc": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 16:46:40 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US dollar dips as easing AI and Mideast worries limit its appeal",
-      "desc": "After a six-month high, the US dollar is now on a downward trend, largely spurred by impressive job growth figures. Investors are eagerly awaiting the upcoming consumer price index data, a key factor for Federal Reserve rate considerations. Meanwhile, the euro and other currencies are rebounding against the dollar, backed by solid economic indicators.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms",
-      "pubDate": "Mon, 09 Nov 2026 21:46:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-      "desc": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 16:01:19 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
-      "desc": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "desc": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 14:50:35 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
-      "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Highlights: Dow rockets 1,200 pts after last week's tech-led rout; oil prices swing",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
-      "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Google to introduce two variants of in-house chips: Bloomberg News",
-      "desc": "The search giant's shares were up more than 2% in premarket trading. Through last close, the stock has fallen 9% so far this year. Alphabet did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
-      "pubDate": "Mon, 09 Nov 2026 18:26:44 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops",
-      "desc": "The cyberspace regulator in China's Shanghai said on Monday that Apple's generative AI service, Apple Intelligence, has been registered for use on tablets and laptops in China.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops/articleshow/135682143.cms",
-      "pubDate": "Mon, 09 Nov 2026 17:53:04 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "India bonds continue rally ahead of inflation data",
-      "desc": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
-      "pubDate": "Mon, 09 Nov 2026 17:41:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Government's EV targets expected to be reduced this week",
-      "desc": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 12:06:22 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/uno-minda-among-7-stocks-hitting-52-week-highs-rally-up-to-26-in-a-month/slideshow/135681703.cms",
-      "pubDate": "Mon, 09 Nov 2026 17:19:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Enterprise data intelligence platform SplashBI opens GCC in Hyderabad, to invest over $100 million",
-      "desc": "The company plans to invest over $100 million over the next five to seven years in infrastructure, technology and talent to scale the Hyderabad centre and strengthen its global product engineering and delivery capabilities, a release said.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/enterprise-data-intelligence-platform-splashbi-opens-gcc-in-hyderabad-to-invest-over-100-million/articleshow/135680936.cms",
-      "pubDate": "Mon, 09 Nov 2026 17:16:35 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Govt may extend support measures in FY28 Budget to boost manufacturing of 100 products: Official",
-      "desc": "The government may announce Budget 2027-28 support measures to boost domestic manufacturing of 100 products, including auto components, chemicals and machinery, to reduce import dependence. DPIIT has identified the products after consultations with ministries and industry.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/govt-may-extend-support-measures-in-fy28-budget-to-boost-manufacturing-of-100-products-official/articleshow/135680256.cms",
-      "pubDate": "Mon, 09 Nov 2026 16:51:52 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "US market remains tied to tech stocks despite sharp AI sell-off",
-      "desc": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
-      "pubDate": "Mon, 09 Nov 2026 16:46:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "India's investment outlook strengthens as credit, exports rebound; inflation relief likely: HSBC",
-      "desc": "India's investment outlook is improving as credit growth and corporate revenue increase, pointing towards stronger private capital spending. The report from HSBC highlights that funds to the commercial sector have risen significantly compared to previous years. Additionally, rising services exports have helped maintain a steady current account deficit in the economy. However, challenges such as weak rural demand and inflation continue to impact households and corporate margins.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-investment-outlook-strengthens-as-credit-exports-rebound-inflation-relief-likely-hsbc/articleshow/135680029.cms",
-      "pubDate": "Mon, 09 Nov 2026 16:44:30 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26",
-      "desc": "FIIs reduced stakes in 235 BSE smallcap companies for three consecutive quarters. Nine stocks suffered 50–70% declines in CY26, highlighting sustained foreign investor selling and significant market corrections.​",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stake-in-10-smallcap-stocks-for-3-consecutive-quarters-shares-fall-up-to-70-in-cy26/slideshow/135680171.cms",
-      "pubDate": "Mon, 09 Nov 2026 16:40:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Banks, investors grow wary of AI debt, spooked by market selloff",
-      "desc": "Some banks, which just a few weeks ago were lining up to fund AI deals, are now telling market participants they would be reluctant to finance additional deals even when they involve guarantees from the sector's marquee technology companies, according to several banking and credit sources.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/banks-investors-grow-wary-of-ai-debt-spooked-by-market-selloff/articleshow/135679930.cms",
-      "pubDate": "Mon, 09 Nov 2026 16:38:27 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
-      "desc": "The Indian rupee snapped its six-session winning streak on Monday, November 9, as dollar purchases by state-run banks outweighed positive momentum. The currency touched a six-month high of 93.69 per dollar before closing slightly lower at 93.9275. Lower crude oil prices and foreign equity inflows provided some support.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids/articleshow/135678769.cms",
-      "pubDate": "Mon, 09 Nov 2026 15:54:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Sarvam names Google Cloud India head Sashikumar Sreedharan as president &amp; chief business officer",
-      "desc": "Sashikumar will additionally join Sarvam's board of directors. He will lead the company's business across enterprises and government, while expanding its engagement with digital-native companies, developers and partners.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer/articleshow/135678677.cms",
-      "pubDate": "Mon, 09 Nov 2026 15:51:51 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report",
-      "desc": "The Reserve Bank of India currently has a net short position of USD 239 billion in the forward market, which may hinder the rupee's ability to strengthen, even as foreign portfolio investor inflows improve. This influx could potentially be managed by the Reserve Bank, capping any gains for the rupee against the US dollar.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rbis-usd-239-bn-forward-dollar-position-to-limit-rupee-gains-despite-fpi-inflows-report/articleshow/135678171.cms",
-      "pubDate": "Mon, 09 Nov 2026 15:34:34 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "China dismisses spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
-      "desc": "Huang has acknowledged to the Nvidia board that he had been intimate with a business executive who US intelligence determined was gathering information for Beijing, according to The New York Times.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/china-dismisses-spy-plot-claim-involving-nvidia-ceo-jensen-huang-as-smear-campaign/articleshow/135676572.cms",
-      "pubDate": "Mon, 09 Nov 2026 14:19:52 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia's Jensen Huang, the scandal-hit AI visionary in a leather jacket",
-      "desc": "Chips made by US chip titan Nvidia push the boundaries of artificial intelligence, but its leader Jensen Huang is in the spotlight over an affair with an alleged Chinese spy. That is an area of concern to US officials who believe he has been involved with the alleged spy, Alice Huang, who is linked to a Singapore-based data center company, according to the New York Times.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-jensen-huang-the-scandal-hit-ai-visionary-in-a-leather-jacket/articleshow/135676475.cms",
-      "pubDate": "Mon, 09 Nov 2026 14:15:50 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-      "desc": "MakeMyTrip's India subsidiary, MMT India, has received approval from Sebi for an initial public offering. This approval follows a confidential filing of draft papers made in July. The IPO will involve the sale of equity shares by MakeMyTrip and its subsidiary, ibibo Group Holdings. Proceeds from the sale are expected to enhance the cash position of the parent company.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
-      "pubDate": "Mon, 09 Nov 2026 13:42:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-10T08:05:37.371Z",
+    "generatedAt": "2026-11-10T16:52:20.447Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -842,7 +862,7 @@
         "price": 25044.65,
         "change": 58.25,
         "changePct": 0.23,
-        "timestamp": "2026-11-10T08:05:36.695Z",
+        "timestamp": "2026-11-10T16:52:20.252Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -850,7 +870,7 @@
         "price": 81106.65,
         "change": 107.25,
         "changePct": 0.13,
-        "timestamp": "2026-11-10T08:05:36.870Z",
+        "timestamp": "2026-11-10T16:52:20.306Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -858,7 +878,7 @@
         "price": 59741.25,
         "change": 890.65,
         "changePct": 1.51,
-        "timestamp": "2026-11-10T08:05:36.974Z",
+        "timestamp": "2026-11-10T16:52:20.337Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -866,33 +886,33 @@
         "price": 93.92,
         "change": 0,
         "changePct": 0,
-        "timestamp": "2026-11-10T08:05:37.076Z",
+        "timestamp": "2026-11-10T16:52:20.372Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 124471,
-        "change": 229,
-        "changePct": 0.18,
-        "timestamp": "2026-11-10T08:05:37.176Z",
+        "price": 121617,
+        "change": -2624,
+        "changePct": -2.11,
+        "timestamp": "2026-11-10T16:52:20.380Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 159465,
-        "change": 353,
-        "changePct": 0.22,
-        "timestamp": "2026-11-10T08:05:37.274Z",
+        "price": 154966,
+        "change": -4146,
+        "changePct": -2.61,
+        "timestamp": "2026-11-10T16:52:20.415Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8029,
-        "change": -128,
-        "changePct": -1.57,
-        "timestamp": "2026-11-10T08:05:37.371Z",
+        "price": 8136,
+        "change": -21,
+        "changePct": -0.25,
+        "timestamp": "2026-11-10T16:52:20.447Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
