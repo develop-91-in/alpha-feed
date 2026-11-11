@@ -1,105 +1,285 @@
 {
-  "generatedAt": "2026-11-10T22:12:24.598Z",
+  "generatedAt": "2026-11-11T02:37:25.410Z",
   "articles": [
     {
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "desc": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-      "pubDate": "2026-11-10T16:40:31-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US stocks: US market falls as hot inflation, hawkish Fed fuel rate-hike fears",
-      "desc": "US stocks closed lower after hotter-than-expected inflation data strengthened expectations of a December Federal Reserve rate hike and raised the possibility of more aggressive tightening. Rising Treasury yields and weakness in technology stocks, particularly Nvidia, weighed on the market, while investors also assessed hawkish Fed comments and Anthropic’s upcoming IPO.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms",
-      "pubDate": "Wed, 11 Nov 2026 02:45:32 +0530",
+      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+      "desc": "Oil prices rose after a two-month decline due to ongoing tensions in the Iran war and attacks on shipping. Brent futures climbed following reports of multiple attacks on vessels in the Strait of Hormuz. Data indicated a significant rise in shipping incidents in October, with continued threats observed into November. Concerns remain about insurance costs and risks associated with shipping in these waters.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:39:13 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "desc": "London Metropolitan Police says its &#039;counterterror&#039; forces worked closely with the FBI and US military to make arrest.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 20:41:53 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
-      "desc": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 20:07:01 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Senate advances major bill boosting energy infrastructure",
-      "desc": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 19:09:12 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US ecommerce firms",
-      "desc": "OpenAI said on Tuesday it was launching \"Businesses\" in beta within ChatGPT, giving companies a way to claim and manage their profiles, update information and track how users engage",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms/articleshow/135719046.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:38:14 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nvidia scandal rocks tech world Web Summit",
-      "desc": "Allegations of Chinese spying on Nvidia dominated a top world tech conference on Tuesday, with some executives seeing potential opportunities in the turmoil at the US artificial intelligence chip giant. Chinese technology executives attending the summit highlighted emerging alternatives to Nvidia.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scandal-rocks-tech-world-web-summit/articleshow/135718799.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:23:48 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US stocks: Five things to know about Anthropic",
-      "desc": "Founded by former OpenAI researchers, Anthropic has grown into a major AI company backed by Amazon, Alphabet, Microsoft and Nvidia. As the Claude developer prepares for a landmark IPO, its safety-focused philosophy, unconventional roots and clash with the Pentagon are drawing renewed scrutiny.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-five-things-to-know-about-anthropic/articleshow/135718802.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:23:44 +0530",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade higher",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mrf-coal-india-share-price-11-november-2026/liveblog/135722695.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:16:12 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "desc": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:44:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Republicans block Hegseth impeachment motion",
+      "desc": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:43:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "desc": "Gold prices rose 0.2% to $4,039.07 per ounce in early Asian trade on Wednesday. This increase followed a nearly 3% decline in the previous session due to US inflation data. The data indicated stronger inflation, leading to heightened expectations of a Federal Reserve interest rate hike next month. Traders now believe there is a 100% chance of an interest rate increase in December.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:01:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
+      "desc": "The US dollar is holding onto gains following a stronger-than-expected inflation report. Federal Reserve comments indicate potential rate hikes to address ongoing inflation concerns. Market expectations are shifting, with traders anticipating a rate hike at the upcoming policy meeting. The yield on the US 10-year Treasury bond has also increased, reflecting market sentiments. Cryptocurrencies like bitcoin and ether are trading near three-month lows amidst these developments.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:55:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "desc": "OpenAI reported a quarterly revenue rise of approximately 50% to reach $10 billion in the third quarter. Despite this revenue growth, the company faced significant operating losses, which expanded to $10.9 billion. Investors are closely examining the finances of AI companies, including rivals like Anthropic, which is preparing for its IPO. The strong investor interest in AI persists despite ongoing profitability concerns in the sector.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports/articleshow/135722331.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:52:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "desc": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:11:04 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+      "desc": "Oil prices rose after a two-month decline due to ongoing tensions in the Iran war and attacks on shipping. Brent futures climbed following reports of multiple attacks on vessels in the Strait of Hormuz. Data indicated a significant rise in shipping incidents in October, with continued threats observed into November. Concerns remain about insurance costs and risks associated with shipping in these waters.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:39:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade higher",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mrf-coal-india-share-price-11-november-2026/liveblog/135722695.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:16:12 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base",
+      "desc": "The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:44:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Republicans block Hegseth impeachment motion",
+      "desc": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:43:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "desc": "Gold prices rose 0.2% to $4,039.07 per ounce in early Asian trade on Wednesday. This increase followed a nearly 3% decline in the previous session due to US inflation data. The data indicated stronger inflation, leading to heightened expectations of a Federal Reserve interest rate hike next month. Traders now believe there is a 100% chance of an interest rate increase in December.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+      "pubDate": "Wed, 11 Nov 2026 07:01:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
+      "desc": "The US dollar is holding onto gains following a stronger-than-expected inflation report. Federal Reserve comments indicate potential rate hikes to address ongoing inflation concerns. Market expectations are shifting, with traders anticipating a rate hike at the upcoming policy meeting. The yield on the US 10-year Treasury bond has also increased, reflecting market sentiments. Cryptocurrencies like bitcoin and ether are trading near three-month lows amidst these developments.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:55:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "desc": "OpenAI reported a quarterly revenue rise of approximately 50% to reach $10 billion in the third quarter. Despite this revenue growth, the company faced significant operating losses, which expanded to $10.9 billion. Investors are closely examining the finances of AI companies, including rivals like Anthropic, which is preparing for its IPO. The strong investor interest in AI persists despite ongoing profitability concerns in the sector.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports/articleshow/135722331.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:52:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "desc": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 01:11:04 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Higher input costs drag MRF Q2 net profit down 23%",
+      "desc": "Tyre maker MRF Ltd reported a 22.8% decline in net profit for the July-September quarter. Revenue from operations saw a growth of 17.4%, reaching Rs 8,660.19 crore compared to the previous year. However, total expenses also rose significantly, driven by sharp increases in raw material costs. The company announced an interim dividend of Rs 3 per share to its shareholders.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/higher-input-costs-drag-mrf-q2-net-profit-down-23/articleshow/135722166.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:30:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise on CoreWeave results, bonds drop",
+      "desc": "Japan’s Nikkei 225 rose as much 0.3%, while South Korea’s Kospi swung between gains and losses. A broader gauge of Asian shares advanced 0.2%. Contracts for tech-heavy Nasdaq 100 rose 0.4% in early Asian after the underlying index dropped 0.6% in regular trading.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms",
+      "pubDate": "Wed, 11 Nov 2026 06:23:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+      "desc": "Anthropic PBC is preparing for an initial public offering aiming for a fully diluted valuation of $1.4 trillion. The company plans to raise up to $90.4 billion, including a private placement with major investors. It has reported a revenue run rate of $81 billion, showcasing significant growth in recent months. The IPO is scheduled to price on November 18 and begin trading the next day.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+      "pubDate": "Wed, 11 Nov 2026 05:57:03 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "desc": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 00:19:42 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "desc": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 00:19:13 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "desc": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 00:16:44 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 00:02:07 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Hegseth survives impeachment bid; Iran denies US talks",
+      "desc": "Despite bipartisan opposition to the war, a bid to impeach Hegseth fails as Iran denies talks with US.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 00:01:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "desc": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 23:38:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "desc": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 22:52:15 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US House Republicans block Pete Hegseth impeachment effort",
+      "desc": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "pubDate": "Tue, 10 Nov 2026 22:36:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-      "desc": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther. But the updated Quest app [&#8230;]",
+      "desc": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated [&#8230;]",
       "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
       "pubDate": "2026-11-10T17:00:00-05:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "desc": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 21:59:54 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
@@ -180,16 +360,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "US Senate advances major bill boosting energy infrastructure",
-      "desc": "Rare bipartisan bill requires data centres to pay for infrastructure, but environmental groups say it falls short.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-senate-advances-major-bill-boosting-energy-infrastructure?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 19:09:12 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US ecommerce firms",
@@ -302,54 +472,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "desc": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "pubDate": "2026-11-10T13:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 10 Nov 2026 17:56:12 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US petrol prices are down, but elevated inflation continues",
-      "desc": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 17:40:35 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
-      "desc": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 17:35:07 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-      "desc": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-      "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 17:21:58 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "India well on track to achieve $1 trillion exports target for FY27: Piyush Goyal",
@@ -380,16 +510,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-      "desc": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 16:39:25 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "India-US hold bilateral talks in New Delhi on Customs and trade facilitation: Govt sources",
@@ -520,16 +640,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "New regulation for heating oil market, but no price controls",
-      "desc": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 13:42:29 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Civil servant who secretly held five jobs found guilty of fraud",
@@ -910,100 +1020,10 @@
       "source": "Economic Times Industry",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Anthropic retracts details of $69 billion IPO filing sent to bankers. Why analysts are raising worries over valuations",
-      "desc": "Anthropic initially shared its IPO filing details but later retracted the information due to inaccuracies. The company aimed to sell approximately 867 million shares priced between $70 and $80 each. A follow-up email clarified that these pricing details were incorrect. Anthropic indicated that an updated filing would be provided later. The company has chosen not to provide further comments regarding the situation.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
-      "pubDate": "Tue, 10 Nov 2026 07:48:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "RBI said to query bank valuations of some bond derivative trades",
-      "desc": "India's central bank has informed some lenders about the need to adjust bond forward accounting practices. This change could impact billions of dollars in assets across the banking sector. The Reserve Bank of India suggested using Level 3 inputs for valuing bond-forward trades during recent audits. Banks have been in discussions with industry associations and clearinghouses for potential solutions and better pricing information.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
-      "pubDate": "Tue, 10 Nov 2026 07:32:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "desc": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
-      "desc": "Oil prices fell due to President Trump's announcement regarding US military action against Iran, easing supply concerns. Brent crude futures dropped to $92.33 per barrel while WTI futures reached $86.50. Trump stated he would maintain a naval blockade in the Strait of Hormuz temporarily. OPEC's oil output increased in October, supported by higher production from Saudi Arabia and Kuwait.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms",
-      "pubDate": "Tue, 10 Nov 2026 07:15:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Gold dips ahead of US inflation data",
-      "desc": "Gold prices edged lower in early Asian trade on Tuesday as investors awaited US inflation data later in the day for clues on the Federal Reserve's next policy move.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
-      "pubDate": "Tue, 10 Nov 2026 06:26:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Dollar sellers hit pause for US inflation data",
-      "desc": "The trade and sentiment-sensitive Australian dollar rose by nearly 1% through Monday to sit at $0.6921 early on Tuesday and the New Zealand dollar rose even further to trade at $0.5624, with both steady in morning Asia trade.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
-      "pubDate": "Tue, 10 Nov 2026 06:21:32 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market Today: Asian stocks rally after US tech surge, oil slump",
-      "desc": "South Korea’s Kospi Index jumped more than 5% in early trading while Japan’s Nikkei 225 rose nearly 3%. A broader gauge of Asian shares advanced 1.5% while futures for US benchmarks edged higher.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms",
-      "pubDate": "Tue, 10 Nov 2026 06:15:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "I took Vinted to court to get my money back",
-      "desc": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
-      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 00:27:37 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "desc": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 00:08:28 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-10T22:12:24.598Z",
+    "generatedAt": "2026-11-11T02:37:25.410Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1012,7 +1032,7 @@
         "price": 25044.65,
         "change": 58.25,
         "changePct": 0.23,
-        "timestamp": "2026-11-10T22:12:23.967Z",
+        "timestamp": "2026-11-11T02:37:25.046Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1020,7 +1040,7 @@
         "price": 81106.65,
         "change": 107.25,
         "changePct": 0.13,
-        "timestamp": "2026-11-10T22:12:24.104Z",
+        "timestamp": "2026-11-11T02:37:25.141Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1028,7 +1048,7 @@
         "price": 59741.25,
         "change": 890.65,
         "changePct": 1.51,
-        "timestamp": "2026-11-10T22:12:24.184Z",
+        "timestamp": "2026-11-11T02:37:25.209Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1036,33 +1056,33 @@
         "price": 93.92,
         "change": 0,
         "changePct": 0,
-        "timestamp": "2026-11-10T22:12:24.305Z",
+        "timestamp": "2026-11-11T02:37:25.258Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 122007,
-        "change": -2235,
-        "changePct": -1.8,
-        "timestamp": "2026-11-10T22:12:24.421Z",
+        "price": 122269,
+        "change": 574,
+        "changePct": 0.47,
+        "timestamp": "2026-11-11T02:37:25.301Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 155600,
-        "change": -3512,
-        "changePct": -2.21,
-        "timestamp": "2026-11-10T22:12:24.527Z",
+        "price": 157457,
+        "change": 2778,
+        "changePct": 1.8,
+        "timestamp": "2026-11-11T02:37:25.363Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8118,
-        "change": -39,
-        "changePct": -0.47,
-        "timestamp": "2026-11-10T22:12:24.598Z",
+        "price": 8129,
+        "change": 48,
+        "changePct": 0.59,
+        "timestamp": "2026-11-11T02:37:25.410Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
