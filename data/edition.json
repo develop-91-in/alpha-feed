@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-11-11T18:27:43.742Z",
+  "generatedAt": "2026-11-12T01:22:56.903Z",
   "articles": [
+    {
+      "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
+      "desc": "Gold prices edged lower on Thursday as hotter-than-expected US inflation data and hawkish Federal Reserve commentary lifted the dollar to near a one-month high and reinforced",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms",
+      "pubDate": "Thu, 12 Nov 2026 06:26:46 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dollar near one-month high as yen edges toward 160",
+      "desc": "The dollar index, which measures the greenback against a basket of currencies including the yen and the euro, rose 0.63% to 102.85, its highest level since October 14.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms",
+      "pubDate": "Thu, 12 Nov 2026 06:19:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+      "desc": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "pubDate": "Thu, 12 Nov 2026 00:00:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "pubDate": "2026-11-11T16:54:21-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "desc": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:03:40 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "desc": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 20:45:30 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
       "desc": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
@@ -12,80 +72,140 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
-      "desc": "Yes Bank bondholders filed a contempt petition in the Supreme Court regarding the restoration of AT-1 bonds. The Supreme Court upheld a ruling that set aside the lender's write-off of 84 billion rupees in bonds. Axis Trustee Services, representing the bondholders, asked for directions to enforce the court's ruling. Yes Bank had not complied with the restoration order, prompting the trustee's legal action.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms",
-      "pubDate": "Wed, 11 Nov 2026 22:25:06 +0530",
+      "title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
+      "desc": "Nvidia CEO Jensen Huang is under scrutiny due to rumored connections with a suspected Chinese intelligence asset. An independent committee of directors is investigating potential implications for Nvidia and its stakeholders. Various legal actions, including a proposed class action lawsuit, are being explored by investors. Federal securities regulators may also investigate for possible violations of disclosure laws. The outcome of these investigations could impact the company's future and stock value.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/could-huang-nvidia-and-companys-board-be-held-liable-over-affair-scandal/articleshow/135746855.cms",
+      "pubDate": "Wed, 11 Nov 2026 22:44:01 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
+      "desc": "Gold prices edged lower on Thursday as hotter-than-expected US inflation data and hawkish Federal Reserve commentary lifted the dollar to near a one-month high and reinforced",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms",
+      "pubDate": "Thu, 12 Nov 2026 06:26:46 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "desc": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Anthropic’s IPO is said to be multiple times oversubscribed",
-      "desc": "Anthropic PBC is witnessing an overwhelming response for its initial public offering, potentially accumulating up to $90.4 billion. This bullish sentiment reflects a staggering anticipated market valuation of around $1.4 trillion. With a significant revenue run rate of $81 billion as of October 31, investor enthusiasm remains high. The IPO is managed by Goldman Sachs Group Inc.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
-      "pubDate": "Wed, 11 Nov 2026 21:55:21 +0530",
+      "title": "Dollar near one-month high as yen edges toward 160",
+      "desc": "The dollar index, which measures the greenback against a basket of currencies including the yen and the euro, rose 0.63% to 102.85, its highest level since October 14.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms",
+      "pubDate": "Thu, 12 Nov 2026 06:19:16 +0530",
       "image": "",
       "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 00:49:05 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "desc": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "pubDate": "2026-11-11T11:00:00-05:00",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "desc": "Office buildings with low occupancy rates are being transformed into flats.",
+      "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 00:05:40 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+      "desc": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "pubDate": "Thu, 12 Nov 2026 00:00:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 23:22:04 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "desc": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "pubDate": "2026-11-11T17:44:36-05:00",
       "image": "",
       "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "desc": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 22:07:37 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "pubDate": "2026-11-11T16:54:21-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "desc": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:42:20 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-      "desc": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:48:39 +0000",
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "desc": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:03:40 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-      "desc": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
-      "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:40:17 +0000",
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "desc": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+      "pubDate": "Wed, 11 Nov 2026 20:45:30 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-      "desc": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:33:38 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
       "desc": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
       "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:24:08 GMT",
+      "pubDate": "Wed, 11 Nov 2026 20:40:47 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
@@ -122,14 +242,14 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "desc": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 17:44:32 GMT",
+      "title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
+      "desc": "Nvidia CEO Jensen Huang is under scrutiny due to rumored connections with a suspected Chinese intelligence asset. An independent committee of directors is investigating potential implications for Nvidia and its stakeholders. Various legal actions, including a proposed class action lawsuit, are being explored by investors. Federal securities regulators may also investigate for possible violations of disclosure laws. The outcome of these investigations could impact the company's future and stock value.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/could-huang-nvidia-and-companys-board-be-held-liable-over-affair-scandal/articleshow/135746855.cms",
+      "pubDate": "Wed, 11 Nov 2026 22:44:01 +0530",
       "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Workers across Spain stage first general strike in 14 years",
@@ -190,36 +310,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-      "desc": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:48:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Can Tehran survive a ‘zero oil’ budget, if US blockade on Iran persists?",
-      "desc": "The government is defiant and planning for the worst, but a US siege is expected to make most Iranians poorer.",
-      "link": "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:40:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
-      "desc": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 15:33:38 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
@@ -302,26 +392,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-      "desc": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-      "pubDate": "Wed, 11 Nov 2026 14:10:47 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "desc": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "pubDate": "2026-11-11T09:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets",
       "desc": "The US dollar has gained against multiple currencies due to expectations of Federal Reserve interest rate hikes. Inflation data revealed an increase in consumer prices, prompting trader speculation about further monetary tightening. The Japanese yen has weakened to its lowest level in over two months, approaching significant mark. Many developed-market currencies are performing poorly against the dollar this year, attributed to widening interest-rate gaps.",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets/articleshow/135739033.cms",
@@ -342,7 +412,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Nasdaq surges 2% as rebounding AI stocks lift Wall Street: Stock Market Live Updates",
+      "title": "US stocks end higher as CoreWeave results ease AI spending worries: Stock Market Highlights",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms",
       "pubDate": "Wed, 11 Nov 2026 18:42:11 +0530",
@@ -460,16 +530,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 10:03:34 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "The Global Story",
@@ -912,26 +972,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Asian Paints Share Price Highlights: Asian Paints Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-11-nov-2026/liveblog/135723493.cms",
-      "pubDate": "Wed, 11 Nov 2026 08:16:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-11-nov-2026/liveblog/135723489.cms",
-      "pubDate": "Wed, 11 Nov 2026 08:16:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "EU to make addictive app features easier to switch off",
       "desc": "The European Union will on Wednesday unveil new rules to crack down on influencer marketing, ban online features that trick Europeans and force platforms to give users the right to turn off \"addictive\" features.",
       "link": "https://economictimes.indiatimes.com/tech/technology/eu-to-make-addictive-app-features-easier-to-switch-off/articleshow/135723311.cms",
@@ -940,90 +980,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "desc": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:19:13 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "desc": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 22:52:15 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why does Australia want Brits to swap Sydney for the outback?",
-      "desc": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 21:17:00 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "OpenAI lets businesses claim ChatGPT profiles, adds AI agents for US ecommerce firms",
-      "desc": "OpenAI said on Tuesday it was launching \"Businesses\" in beta within ChatGPT, giving companies a way to claim and manage their profiles, update information and track how users engage",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms/articleshow/135719046.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:38:14 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Anthropic brings Claude to Google Meet to tackle tasks live",
-      "desc": "Anthropic said on Tuesday it was bringing its Claude assistant to video conference platform Google Meet, as the company pushes to integrate AI deeper into everyday office work.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-brings-claude-to-google-meet-to-tackle-tasks-live/articleshow/135718926.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:31:16 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia scandal rocks tech world Web Summit",
-      "desc": "Allegations of Chinese spying on Nvidia dominated a top world tech conference on Tuesday, with some executives seeing potential opportunities in the turmoil at the US artificial intelligence chip giant. Chinese technology executives attending the summit highlighted emerging alternatives to Nvidia.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scandal-rocks-tech-world-web-summit/articleshow/135718799.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:23:48 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Google agrees to addition privacy protections in Spirit Airlines data sale",
-      "desc": "The agreement clears the way next week for approval of Google's $10 million deal to acquire Spirit data to train AI models. The union said it had won a more rigorous de-identification process than previously planned and added significant employee data will be excluded from the sale, including health and medical information.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-agrees-to-addition-privacy-protections-in-spirit-airlines-data-sale/articleshow/135718690.cms",
-      "pubDate": "Wed, 11 Nov 2026 00:18:44 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
-      "desc": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-11T18:27:43.742Z",
+    "generatedAt": "2026-11-12T01:22:56.903Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1032,7 +992,7 @@
         "price": 25255.05,
         "change": 210.4,
         "changePct": 0.84,
-        "timestamp": "2026-11-11T18:27:43.331Z",
+        "timestamp": "2026-11-12T01:22:56.319Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1040,7 +1000,7 @@
         "price": 81879.4,
         "change": 772.75,
         "changePct": 0.95,
-        "timestamp": "2026-11-11T18:27:43.417Z",
+        "timestamp": "2026-11-12T01:22:56.431Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1048,41 +1008,41 @@
         "price": 60792.4,
         "change": 1051.15,
         "changePct": 1.76,
-        "timestamp": "2026-11-11T18:27:43.470Z",
+        "timestamp": "2026-11-12T01:22:56.509Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 93.68,
-        "change": -0.24,
-        "changePct": -0.25,
-        "timestamp": "2026-11-11T18:27:43.575Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-11-12T01:22:56.599Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 120445,
-        "change": -940,
-        "changePct": -0.77,
-        "timestamp": "2026-11-11T18:27:43.629Z",
+        "price": 120532,
+        "change": 42,
+        "changePct": 0.04,
+        "timestamp": "2026-11-12T01:22:56.748Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 156708,
-        "change": 2425,
-        "changePct": 1.57,
-        "timestamp": "2026-11-11T18:27:43.679Z",
+        "price": 155624,
+        "change": -1000,
+        "changePct": -0.64,
+        "timestamp": "2026-11-12T01:22:56.824Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8159,
-        "change": 98,
-        "changePct": 1.22,
-        "timestamp": "2026-11-11T18:27:43.742Z",
+        "price": 8037,
+        "change": -69,
+        "changePct": -0.85,
+        "timestamp": "2026-11-12T01:22:56.903Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
