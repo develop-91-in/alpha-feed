@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-13T21:16:02.598Z",
+  "generatedAt": "2026-11-14T02:02:17.492Z",
   "articles": [
+    {
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "desc": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:06:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "desc": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "desc": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:00:25 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
       "desc": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
@@ -32,42 +62,12 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "The fight over Canadian steelworker jobs",
-      "desc": "Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 17:10:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-      "desc": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:44:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Anthropic IPO share orders from China are said to be rebuffed",
       "desc": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements. Some investors are exploring alternative methods to participate in the public offering through offshore structures. Anthropic intends to complete its IPO on November 18, pricing the shares ahead of trading the next day.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
       "pubDate": "Fri, 13 Nov 2026 21:58:14 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-      "desc": "Despite Treasury&#039;s Scott Bessent&#039;s remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:22:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -80,6 +80,96 @@
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "desc": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
+      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "pubDate": "2026-11-13T20:53:04-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Tech Now",
+      "desc": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 01:00:00 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+      "desc": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:29:38 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "desc": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:06:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "desc": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "desc": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:00:25 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "pubDate": "2026-11-13T18:49:11-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "desc": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 23:00:31 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "desc": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 21:15:41 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -172,16 +262,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "desc": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 17:38:19 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
       "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
       "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&amp;at_campaign=rss",
@@ -190,26 +270,6 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "The fight over Canadian steelworker jobs",
-      "desc": "Stelco&#039;s US owner blames Trump&#039;s tariffs for layoffs, but its support for those same tariffs has raised questions.",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 17:10:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-      "desc": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:44:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "What are people emergency stockpiling?",
@@ -230,16 +290,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
-      "desc": "Despite Treasury&#039;s Scott Bessent&#039;s remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:22:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Microsoft&#8217;s massive Outlook outage might be over",
@@ -270,26 +320,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
-      "desc": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 15:43:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
-      "desc": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 15:02:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector",
@@ -362,7 +392,7 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Nasdaq, S&amp;P 500 dip as Nvidia overhang weighs on tech stocks: Stock Market Live Updates",
+      "title": "S&amp;P 500, Nasdaq close lower as rate-hike bets pressure US stocks: Stock Market Highlights",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
       "pubDate": "Fri, 13 Nov 2026 18:41:45 +0530",
@@ -490,16 +520,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
-      "desc": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
-      "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 10:16:29 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
@@ -1052,16 +1072,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Global Microsoft outage affecting tens of thousands of users",
-      "desc": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:38:02 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "‘I’m a piece of sh--’: Jensen Huang’s last hours as Nvidia CEO",
       "desc": "For the decades he spent building Nvidia into a multitrillion-dollar AI chip behemoth, Huang was famous for his attention to the tiniest of details, from chip architecture to the compensation packages of even the most junior employees at the company. Now, in the eyes of the people in the room, he had given up.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/im-a-piece-of-sh-jensen-huangs-last-hours-as-nvidia-ceo/articleshow/135786445.cms",
@@ -1080,70 +1090,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "'My window faces a brick wall': What's your rent in NYC?",
-      "desc": "We ask people in New York City how much they pay for their homes.",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 01:30:31 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-      "desc": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 01:17:58 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "desc": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 00:20:24 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "desc": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 00:13:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "desc": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 23:42:52 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "desc": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 22:51:18 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-13T21:16:02.598Z",
+    "generatedAt": "2026-11-14T02:02:17.492Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1152,7 +1102,7 @@
         "price": 25144.3,
         "change": -155.05,
         "changePct": -0.61,
-        "timestamp": "2026-11-13T21:16:02.059Z",
+        "timestamp": "2026-11-14T02:02:16.795Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1160,7 +1110,7 @@
         "price": 81592.45,
         "change": -318.56,
         "changePct": -0.39,
-        "timestamp": "2026-11-13T21:16:02.207Z",
+        "timestamp": "2026-11-14T02:02:16.984Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1168,7 +1118,7 @@
         "price": 61034.1,
         "change": -484.4,
         "changePct": -0.79,
-        "timestamp": "2026-11-13T21:16:02.288Z",
+        "timestamp": "2026-11-14T02:02:17.089Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1176,33 +1126,33 @@
         "price": 94.23,
         "change": 0.19,
         "changePct": 0.2,
-        "timestamp": "2026-11-13T21:16:02.366Z",
+        "timestamp": "2026-11-14T02:02:17.186Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 117529,
-        "change": -179,
-        "changePct": -0.15,
-        "timestamp": "2026-11-13T21:16:02.443Z",
+        "price": 117777,
+        "change": 70,
+        "changePct": 0.06,
+        "timestamp": "2026-11-14T02:02:17.288Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 147570,
-        "change": -4105,
-        "changePct": -2.71,
-        "timestamp": "2026-11-13T21:16:02.520Z",
+        "price": 147388,
+        "change": -4287,
+        "changePct": -2.83,
+        "timestamp": "2026-11-14T02:02:17.393Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8400,
-        "change": 38,
-        "changePct": 0.45,
-        "timestamp": "2026-11-13T21:16:02.598Z",
+        "price": 8379,
+        "change": 17,
+        "changePct": 0.2,
+        "timestamp": "2026-11-14T02:02:17.492Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
