@@ -1,13 +1,33 @@
 {
-  "generatedAt": "2026-11-14T16:27:18.324Z",
+  "generatedAt": "2026-11-14T21:11:19.552Z",
   "articles": [
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "desc": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 15:15:57 GMT",
+      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT",
       "image": "",
       "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -42,26 +62,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "desc": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 12:14:14 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "desc": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 11:43:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
       "desc": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8,415 crore, were questioned during Yes Bank's financial difficulties. The high court ruled that the bank's administrator lacked authority for such a write-off.",
       "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
@@ -83,11 +83,51 @@
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "desc": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 15:15:57 GMT",
+      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT",
       "image": "",
       "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 19:12:25 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "desc": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -132,16 +172,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "desc": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 12:14:14 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
       "desc": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
       "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
@@ -150,16 +180,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "desc": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 11:43:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
@@ -180,16 +200,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "desc": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 11:00:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
@@ -230,16 +240,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-      "desc": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 09:19:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Concurrent Gainers: 8 stocks gain for 5 days in a row",
@@ -610,90 +610,10 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "desc": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "pubDate": "2026-11-13T15:45:10-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "desc": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "pubDate": "2026-11-13T15:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "desc": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "desc": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 18:36:57 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Are board games making a comeback this Christmas?",
-      "desc": "Are board games making a comeback this Christmas?",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 18:00:40 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 17:34:58 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "What are people emergency stockpiling?",
-      "desc": "From cider to candy canes: What people are emergency stockpiling",
-      "link": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:31:22 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Anthropic IPO share orders from China are said to be rebuffed",
-      "desc": "Investors based in mainland China and Hong Kong are excluded from placing orders in Anthropic's IPO. This decision reflects the strategic sensitivities between Washington and Beijing regarding technology advancements. Some investors are exploring alternative methods to participate in the public offering through offshore structures. Anthropic intends to complete its IPO on November 18, pricing the shares ahead of trading the next day.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
-      "pubDate": "Fri, 13 Nov 2026 21:58:14 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-14T16:27:18.324Z",
+    "generatedAt": "2026-11-14T21:11:19.552Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -702,7 +622,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-14T16:27:17.883Z",
+        "timestamp": "2026-11-14T21:11:18.960Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -710,7 +630,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-14T16:27:18.012Z",
+        "timestamp": "2026-11-14T21:11:19.093Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -718,7 +638,7 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-14T16:27:18.069Z",
+        "timestamp": "2026-11-14T21:11:19.183Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -726,7 +646,7 @@
         "price": 94.24,
         "change": 0.2,
         "changePct": 0.21,
-        "timestamp": "2026-11-14T16:27:18.137Z",
+        "timestamp": "2026-11-14T21:11:19.270Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -734,7 +654,7 @@
         "price": 117750,
         "change": 30,
         "changePct": 0.03,
-        "timestamp": "2026-11-14T16:27:18.193Z",
+        "timestamp": "2026-11-14T21:11:19.366Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -743,7 +663,7 @@
         "price": 148831,
         "change": -2860,
         "changePct": -1.89,
-        "timestamp": "2026-11-14T16:27:18.269Z",
+        "timestamp": "2026-11-14T21:11:19.425Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -752,7 +672,7 @@
         "price": 8346,
         "change": -17,
         "changePct": -0.2,
-        "timestamp": "2026-11-14T16:27:18.324Z",
+        "timestamp": "2026-11-14T21:11:19.552Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
