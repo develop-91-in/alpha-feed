@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-15T16:13:58.975Z",
+  "generatedAt": "2026-11-15T21:30:49.473Z",
   "articles": [
+    {
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 20:37:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "pubDate": "2026-11-15T14:15:43-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
       "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
@@ -22,54 +42,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "desc": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:37:08 +0000",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "desc": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [&#8230;]",
+      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "pubDate": "2026-11-15T16:05:02-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "desc": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "pubDate": "2026-11-15T15:43:49-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 20:37:43 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-      "desc": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 12:15:51 +0000",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "pubDate": "2026-11-15T14:15:43-05:00",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-      "desc": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 12:02:45 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
@@ -112,26 +122,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "desc": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:37:08 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "One of the most commonly injured body parts that many of us never train",
-      "desc": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:28:10 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Minister backs legal right to job support for young people",
       "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
       "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
@@ -152,36 +142,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-      "desc": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 12:15:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-      "desc": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-      "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 12:02:45 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "desc": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&amp;at_campaign=rss",
@@ -190,30 +150,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "desc": "The social media giant is accused of not informing 20 million users it had access to their photos.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T16:13:58.975Z",
+    "generatedAt": "2026-11-15T21:30:49.473Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -222,7 +162,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-15T16:13:58.364Z",
+        "timestamp": "2026-11-15T21:30:49.149Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -230,7 +170,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-15T16:13:58.542Z",
+        "timestamp": "2026-11-15T21:30:49.202Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -238,41 +178,41 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-15T16:13:58.615Z",
+        "timestamp": "2026-11-15T21:30:49.258Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 94.24,
-        "change": 0.2,
-        "changePct": 0.21,
-        "timestamp": "2026-11-15T16:13:58.689Z",
+        "price": 94.23,
+        "change": 0.19,
+        "changePct": 0.2,
+        "timestamp": "2026-11-15T21:30:49.309Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 117750,
+        "price": 117738,
         "change": 30,
         "changePct": 0.03,
-        "timestamp": "2026-11-15T16:13:58.764Z",
+        "timestamp": "2026-11-15T21:30:49.381Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 148831,
+        "price": 148815,
         "change": -2860,
         "changePct": -1.89,
-        "timestamp": "2026-11-15T16:13:58.902Z",
+        "timestamp": "2026-11-15T21:30:49.428Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8346,
+        "price": 8345,
         "change": -17,
         "changePct": -0.2,
-        "timestamp": "2026-11-15T16:13:58.975Z",
+        "timestamp": "2026-11-15T21:30:49.473Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
