@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-14T21:11:19.552Z",
+  "generatedAt": "2026-11-15T01:34:20.236Z",
   "articles": [
     {
+      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "desc": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "desc": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 23:34:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT",
+      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
       "image": "",
       "source": "BBC World",
       "section": "top-stories",
@@ -16,46 +36,6 @@
       "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
       "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
       "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Canada’s Stelco to recall 175 workers after government pressure",
-      "desc": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-      "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 15:06:52 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "desc": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-      "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 13:24:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-      "desc": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 12:57:36 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -82,10 +62,60 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
+      "desc": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+      "pubDate": "Sat, 14 Nov 2026 15:42:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
+      "desc": "The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near-term technical setup, the Index is near its overhead resistance area.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+      "pubDate": "Sat, 14 Nov 2026 15:38:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "desc": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 00:01:07 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "desc": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "desc": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "pubDate": "Sat, 14 Nov 2026 23:34:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "desc": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "desc": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 20:41:45 GMT",
+      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
@@ -122,26 +152,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Canada’s Stelco to recall 175 workers after government pressure",
-      "desc": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
-      "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 15:06:52 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
       "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
       "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
@@ -150,26 +160,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "desc": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-      "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 13:24:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
-      "desc": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 12:57:36 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -550,70 +540,10 @@
       "source": "Economic Times Industry",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Tech Now",
-      "desc": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 01:00:00 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
-      "desc": "Noor Nanji, culture correspondent, explores how these stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 00:29:38 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "desc": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "desc": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "pubDate": "2026-11-13T18:49:11-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "desc": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 23:00:31 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "desc": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
-      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 21:15:41 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-14T21:11:19.552Z",
+    "generatedAt": "2026-11-15T01:34:20.236Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -622,7 +552,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-14T21:11:18.960Z",
+        "timestamp": "2026-11-15T01:34:19.902Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -630,7 +560,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-14T21:11:19.093Z",
+        "timestamp": "2026-11-15T01:34:19.961Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -638,7 +568,7 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-14T21:11:19.183Z",
+        "timestamp": "2026-11-15T01:34:20.028Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -646,7 +576,7 @@
         "price": 94.24,
         "change": 0.2,
         "changePct": 0.21,
-        "timestamp": "2026-11-14T21:11:19.270Z",
+        "timestamp": "2026-11-15T01:34:20.083Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -654,7 +584,7 @@
         "price": 117750,
         "change": 30,
         "changePct": 0.03,
-        "timestamp": "2026-11-14T21:11:19.366Z",
+        "timestamp": "2026-11-15T01:34:20.133Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -663,7 +593,7 @@
         "price": 148831,
         "change": -2860,
         "changePct": -1.89,
-        "timestamp": "2026-11-14T21:11:19.425Z",
+        "timestamp": "2026-11-15T01:34:20.184Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -672,7 +602,7 @@
         "price": 8346,
         "change": -17,
         "changePct": -0.2,
-        "timestamp": "2026-11-14T21:11:19.552Z",
+        "timestamp": "2026-11-15T01:34:20.235Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
