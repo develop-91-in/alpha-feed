@@ -1,53 +1,63 @@
 {
-  "generatedAt": "2026-11-15T08:56:55.122Z",
+  "generatedAt": "2026-11-15T16:13:58.975Z",
   "articles": [
     {
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
-      "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 07:11:24 +0000",
+      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "desc": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 05:05:02 +0000",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "desc": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:37:08 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
+      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+      "desc": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 12:15:51 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
+      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+      "desc": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 12:02:45 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "desc": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 23:34:37 +0000",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,57 +72,117 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
-      "desc": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8,415 crore, were questioned during Yes Bank's financial difficulties. The high court ruled that the bank's administrator lacked authority for such a write-off.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
-      "pubDate": "Sat, 14 Nov 2026 16:40:38 +0530",
+      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
+      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "desc": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr",
-      "desc": "RHI Magnesita has reported a remarkable surge in net profit, soaring to Rs 62.09 crore for the September quarter. The consolidated revenues experienced a modest increase, hitting Rs 1,038.26 crore this period. Additionally, overall expenses decreased to Rs 953.06 crore compared to the last year. EBITDA saw a 30 percent growth, reflecting operational enhancements despite challenging economic conditions.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms",
-      "pubDate": "Sat, 14 Nov 2026 16:39:54 +0530",
+      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+      "desc": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:37:08 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "One of the most commonly injured body parts that many of us never train",
+      "desc": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:28:10 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "ASEAN summit: Who’s attending and what’s at stake?",
-      "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 07:11:24 +0000",
+      "title": "Minister backs legal right to job support for young people",
+      "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:06:15 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "pubDate": "2026-11-15T08:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+      "desc": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 12:15:51 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "desc": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 05:05:02 +0000",
+      "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+      "desc": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 12:02:45 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "desc": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
       "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 15 Nov 2026 00:01:07 GMT",
@@ -120,26 +190,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "desc": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 23:34:37 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -160,110 +210,10 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "desc": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "pubDate": "2026-11-14T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "desc": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "pubDate": "2026-11-14T07:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
-      "desc": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8,415 crore, were questioned during Yes Bank's financial difficulties. The high court ruled that the bank's administrator lacked authority for such a write-off.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
-      "pubDate": "Sat, 14 Nov 2026 16:40:38 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr",
-      "desc": "RHI Magnesita has reported a remarkable surge in net profit, soaring to Rs 62.09 crore for the September quarter. The consolidated revenues experienced a modest increase, hitting Rs 1,038.26 crore this period. Additionally, overall expenses decreased to Rs 953.06 crore compared to the last year. EBITDA saw a 30 percent growth, reflecting operational enhancements despite challenging economic conditions.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms",
-      "pubDate": "Sat, 14 Nov 2026 16:39:54 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
-      "desc": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:42:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
-      "desc": "The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near-term technical setup, the Index is near its overhead resistance area.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:38:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "India, US have resolved bulk of trade deal issues, pact could be sealed soon: Jaishankar",
-      "desc": "India and the US have nearly resolved issues regarding the proposed trade deal. External Affairs Minister S Jaishankar expressed hope that the agreement could soon be finalized. Negotiations have focused primarily on changes needed from the American side. The upcoming meeting between Prime Minister Narendra Modi and President Trump may further progress the deal. Securing this trade pact would significantly benefit India’s economy in the large context.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-have-resolved-bulk-of-trade-deal-issues-pact-could-be-sealed-soon-jaishankar/articleshow/135829335.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:29:26 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India's consumption story remains strong, but rural demand faces inflation risks: Report",
-      "desc": "India's consumption growth is projected to be robust, driven by a young population and digital adoption. Despite this, rural income pressures and food inflation could pose challenges for near-term demand. Premium products are expected to outperform mass-market categories as consumer preferences evolve. The impact of Super El Nino may exacerbate rural demand issues due to agricultural pressures. Companies must adapt to changing consumer dynamics and enhance operational efficiencies for success.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-consumption-story-remains-strong-but-rural-demand-faces-inflation-risks-report/articleshow/135829300.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:25:00 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Concurrent Gainers: 8 stocks gain for 5 days in a row",
-      "desc": "Of these, we shortlisted 8 stocks that consistently gained throughout the period, delivering cumulative returns ranging from 7% to 11%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-gain-for-5-days-in-a-row/slideshow/135828499.cms",
-      "pubDate": "Sat, 14 Nov 2026 14:45:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Binance targets full reopening of withdrawals by next week",
-      "desc": "Binance is set to restore withdrawals across all networks and assets by the end of next week. This decision comes after recovering 95% of the $6.3 billion lost in the October hack, which the FBI attributes to North Korean actors, though the nation denies any involvement. Binance pledges to fully reimburse affected clients as operations return to normal.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms",
-      "pubDate": "Sat, 14 Nov 2026 14:35:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T08:56:55.121Z",
+    "generatedAt": "2026-11-15T16:13:58.975Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -272,7 +222,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-15T08:56:54.883Z",
+        "timestamp": "2026-11-15T16:13:58.364Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -280,7 +230,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-15T08:56:54.932Z",
+        "timestamp": "2026-11-15T16:13:58.542Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -288,7 +238,7 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-15T08:56:54.977Z",
+        "timestamp": "2026-11-15T16:13:58.615Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -296,7 +246,7 @@
         "price": 94.24,
         "change": 0.2,
         "changePct": 0.21,
-        "timestamp": "2026-11-15T08:56:55.019Z",
+        "timestamp": "2026-11-15T16:13:58.689Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -304,7 +254,7 @@
         "price": 117750,
         "change": 30,
         "changePct": 0.03,
-        "timestamp": "2026-11-15T08:56:55.055Z",
+        "timestamp": "2026-11-15T16:13:58.764Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -313,7 +263,7 @@
         "price": 148831,
         "change": -2860,
         "changePct": -1.89,
-        "timestamp": "2026-11-15T08:56:55.089Z",
+        "timestamp": "2026-11-15T16:13:58.902Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -322,7 +272,7 @@
         "price": 8346,
         "change": -17,
         "changePct": -0.2,
-        "timestamp": "2026-11-15T08:56:55.121Z",
+        "timestamp": "2026-11-15T16:13:58.975Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
