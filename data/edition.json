@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-15T01:34:20.236Z",
+  "generatedAt": "2026-11-15T08:56:55.122Z",
   "articles": [
     {
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "desc": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 07:11:24 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "desc": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 05:05:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
+      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
       "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
       "image": "",
@@ -28,16 +58,6 @@
       "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,24 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
-      "desc": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:42:53 +0530",
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 07:11:24 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
-      "desc": "The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near-term technical setup, the Index is near its overhead resistance area.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
-      "pubDate": "Sat, 14 Nov 2026 15:38:04 +0530",
+      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+      "desc": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 05:05:02 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
@@ -92,8 +122,8 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "desc": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
+      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
+      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
       "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
       "image": "",
@@ -122,16 +152,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-      "desc": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 19:12:25 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Italy fines Meta €805m over accessing users' photos",
       "desc": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
@@ -140,16 +160,6 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
@@ -250,300 +260,10 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Base metals lose momentum amid strong dollar and demand concerns",
-      "desc": "One of the key reasons behind the weakness in base metals is the strength of the US dollar. The Dollar Index (DXY) has climbed to the 103-104 range, supported by resilient US economic data, elevated Treasury yields, and expectations that the Federal Reserve may keep interest rates relatively restrictive for longer.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/base-metals-lose-momentum-amid-strong-dollar-and-demand-concerns/articleshow/135827655.cms",
-      "pubDate": "Sat, 14 Nov 2026 14:20:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Altimeter, Atreides urge Nvidia board to keep doors open for Jensen Huang's return as CEO",
-      "desc": "In a letter addressed to the company's board, Altimeter CEO Brad Gerstner and Atreides Managing Partner and Chief Investment Officer Gavin Baker said the board should not rush to appoint a permanent successor before all the facts surrounding Huang's departure are known.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/altimeter-atreides-urge-nvidia-board-to-keep-door-open-for-jensen-huangs-return-as-ceo/articleshow/135827369.cms",
-      "pubDate": "Sat, 14 Nov 2026 13:58:11 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "The rise of 'housefishing' by estate agents",
-      "desc": "The rise of 'housefishing' by estate agents.",
-      "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 07:45:50 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "What do Christmas market traders say about rising prices?",
-      "desc": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 07:11:26 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "desc": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Food bank sees donations drop by 10% each year",
-      "desc": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
-      "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 06:33:06 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
-      "desc": "Here are the 10 largecap stocks that recorded the biggest jump in November so far, including six who have delivered multibagger returns in the longer run.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
-      "pubDate": "Sat, 14 Nov 2026 11:31:43 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "FICCI calls for comprehensive India-Africa trade framework",
-      "desc": "India and Africa are encouraged to develop a comprehensive trade arrangement to enhance economic cooperation. Ficci emphasizes the importance of a predictable framework to address trade barriers and promote investment. With the upcoming visit of Commerce Minister Piyush Goyal to Egypt, both regions aim to strengthen ties. Egypt's strategic location provides opportunities for Indian companies in various sectors.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ficci-calls-for-comprehensive-india-africa-trade-framework/articleshow/135823937.cms",
-      "pubDate": "Sat, 14 Nov 2026 10:58:35 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Anthropic IPO buyers have more influence on price than SpaceX",
-      "desc": "Anthropic PBC is gearing up for its initial public offering, setting ambitious price targets to capture investor interest. The firm aspires to achieve record fundraising that could eclipse SpaceX's previous achievements. High-profile tech investors back Anthropic's private financing, indicating strong market confidence. Its traditional IPO pricing strategy, distinct from SpaceX's, positions Anthropic to navigate through the challenges of market fluctuations smoothly.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
-      "pubDate": "Sat, 14 Nov 2026 10:33:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Wall Street’s wild ride delivers big paydays and bigger bruises",
-      "desc": "Market volatility continues as investors navigate significant fluctuations in stock and bond prices this month. Despite challenging conditions, billions are flowing into both index funds and speculative assets. Retail investors are capitalizing on short-term opportunities while the overall market remains fragile. Many professional investors are taking a defensive stance, opting for high-quality assets amid economic uncertainty. This environment highlights the persistent appeal of diversified investing strategies among market participants.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-wild-ride-delivers-big-paydays-and-bigger-bruises/articleshow/135822826.cms",
-      "pubDate": "Sat, 14 Nov 2026 10:24:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nvidia has worst week since Trump tariff selloff as Huang exits",
-      "desc": "Nvidia Corp. has witnessed a drastic stock plunge after the ousting of CEO Jensen Huang amid scandals. A staggering 13% decrease in stock value within a week represents its most significant drop since April 2025. With analysts downgrading their ratings, concerns regarding Nvidia's future performance and corporate culture have emerged.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:58:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
-      "desc": "Bitcoin liquidation events exceeding $500 million have become common, reflecting significant market volatility. Recent trading sessions have seen large losses, including a $1.3 billion liquidation. Factors affecting the market include high oil prices and potential Federal Reserve rate hikes. Additionally, investors seem to be favoring artificial intelligence stocks over cryptocurrencies amid a tech selloff. These trends indicate an evolving landscape in the crypto trading environment.",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:46:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Five sectors account for 83% of India's record October merchandise export surge: Report",
-      "desc": "Exports from the five sectors - engineering goods, petroleum products, electronic goods, gems and jewellery, and organic and inorganic chemicals - increased 59.4 per cent to USD 34.37 billion in October, compared with USD 21.56 billion in the corresponding month last year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/five-sectors-account-for-83-of-indias-record-october-merchandise-export-surge-report/articleshow/135822055.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:32:20 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "5 world market themes for the week ahead",
-      "desc": "Nvidia's recent leadership change and the upcoming IPO of Anthropic could significantly influence the AI market dynamics. US-China relations are set for discussions as Trump and Xi meet amid various geopolitical concerns. Oil prices remain volatile due to Middle East tensions and supply changes, affecting potential inflation relief. A UK and EU summit aims to advance post-Brexit cooperation on trade and regulations.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:32:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "AI rockets to top of worries about financial system in latest Fed survey",
-      "desc": "Artificial intelligence has emerged as a top concern for financial stability, according to a recent report from the Federal Reserve. A staggering 87% of respondents cited AI as a key risk, bringing attention to potential cyber threats and declining corporate earnings. There’s been a dramatic increase in debt tied to AI infrastructure investments.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:25:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
-      "desc": "Federal Reserve Vice Chair Philip Jefferson emphasized inflation as the main factor in determining monetary policy. He highlighted that economic growth and a stable labor market have been observed. Jefferson indicated that upcoming adjustments to policy should rely on data trends and the evolving economic outlook. Concerns about artificial intelligence displacing workers were also mentioned in his remarks.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation/articleshow/135821792.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:20:59 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tamil Nadu govt imposes stock limits on paddy, rice and pulses amid price rise",
-      "desc": "The Tamil Nadu government has set stock limits on essential commodities like rice and pulses to combat price inflation. Wholesalers can stock a maximum of 2,000 metric tonnes of rice, while retailers are restricted to eight tonnes. Miller stock is limited to one month's production capacity, ensuring regular supply. Importers are prohibited from holding stock longer than 45 days post customs clearance, promoting quick turnover.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/tamil-nadu-govt-imposes-stock-limits-on-paddy-rice-and-pulses-amid-price-rise/articleshow/135821826.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:20:44 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Wall Street Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
-      "desc": "Nvidia is poised for a critical quarterly earnings report amidst controversies and leadership changes. Investors are wary as Anthropic prepares for a significant initial public offering, valued at up to $1.4 trillion. The overall market sentiment towards AI stocks could shift based on these developments next week. Retail sales data will also provide insight into consumer health and inflation pressures.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/articleshow/135821735.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:16:38 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
-      "desc": "Robinhood Markets has filed an appeal with the US Supreme Court concerning a class action lawsuit brought forth by investors. The lawsuit claims the company misled investors ahead of its IPO in July 2021 by not revealing how reduced trading volumes would affect their investments. After initially dismissing the case, the 9th Circuit Court of Appeals has reopened it, with Supreme Court deliberations expected by late June.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:14:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Goldman Sachs sees S&amp;P 500 rising to 8,700 next year despite slower earnings growth",
-      "desc": "According to Goldman Sachs, the S&amp;P 500 index may reach 8,700 points within the next year, despite a decline in tech shares after the midterm elections in the US. They foresee a notable deceleration in global earnings growth by 2027, mainly in the US. Nevertheless, Goldman remains optimistic about equity valuations, indicating good returns are possible, and they have revised ratings for different regions while bracing for increased volatility.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-sp-500-rising-to-8700-next-year-despite-slower-earnings-growth/articleshow/135821647.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:11:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
-      "desc": "Microsoft 365 services, including Outlook, Teams and AI assistant Copilot, were interrupted. As the outage entered its second day Friday, Microsoft said it saw \"encouraging recovery progress.\" But the company also warned that \"intermittent access issues or delayed email delivery\" may persist for some users.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-outage-shows-the-risks-of-relying-on-a-single-technology-provider-for-essential-services/articleshow/135821607.cms",
-      "pubDate": "Sat, 14 Nov 2026 09:10:51 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia scandal looms over US-China AI talks",
-      "desc": "AI bots going rogue and humans using the technology for harm will likely be on the agenda when Donald Trump and Xi Jinping meet next week, with the Nvidia scandal hanging over the talks on AI safety. But the scandal is unlikely to \"dominate the agenda\" or affect Trump and Xi's personal relationship, predicted Dylan Loh of Singapore's Nanyang Technological University.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scandal-looms-over-us-china-ai-talks/articleshow/135821307.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:44:18 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 crore",
-      "desc": "In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE). The share sale was executed on Friday at an average price of Rs 246.75 apiece, taking the total deal value to Rs 1,885.17 crore.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-crore/articleshow/135821247.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:40:17 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia approaches Arm Holdings CEO Haas to take over Jensen Huang's job, Elon Musk backs Huang's reinstatement",
-      "desc": "According to Financial Times, citing people familiar with the matter, Haas, who has headed the SoftBank-backed British chipmaker since 2022, is among the names being considered by Nvidia's board as it explores leadership options following Huang's departure.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-approaches-arm-holdings-ceo-haas-to-take-over-jensen-huangs-job-elon-musk-backs-huangs-reinstatement/articleshow/135821129.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:34:32 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "India achieves historic $90 billion export milestone in October: Piyush Goyal at IITF inauguration",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-achieves-historic-90-billion-export-milestone-in-october-piyush-goyal-at-iitf-inauguration/videoshow/135821105.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:31:16 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Jensen Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-      "desc": "The projects, stretching from China's wealthy coastal technology hubs to remote western provinces, reveal the scale of continuing demand for Nvidia hardware even as Washington seeks to curb Beijing's access to the technology powering the global artificial-intelligence boom.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/jensen-huang-exit-and-us-scrutiny-imperil-3-billion-in-chinese-ai-projects-reliant-on-nvidia/articleshow/135820982.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:25:18 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 cr",
-      "desc": "In the latest transaction, SVF II Meerkat (DE) LLC, an affiliate of SoftBank, offloaded 7.64 crore shares in Bengaluru-based Meesho, according to the block deal data on the National Stock Exchange (NSE).",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-cr/articleshow/135820907.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:15:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "OpenAI, Google, Anthropic hit with lawsuit to halt AI development",
-      "desc": "A group of nonprofits has filed a lawsuit against OpenAI, Anthropic, and other tech companies. They seek to prevent further development of advanced AI models citing potential harm to humanity. Company leaders have raised concerns about the dangers associated with artificial intelligence technologies. The lawsuit relies on California's laws regarding unfair business practices for its basis. If successful, this could significantly impact the future of AI development in these companies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/articleshow/135820787.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:14:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Investors flock to Anthropic IPO but question durability of AI lead",
-      "desc": "The Anthropic roadshow is scheduled to run through next Wednesday, when the AI company is expected to price the $64 billion deal. Anthropic and its investment banks are meeting prospective investors in New York, Boston and San Francisco to gauge demand for the offering, one of the people and a third person familiar with the matter said.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead/articleshow/135820893.cms",
-      "pubDate": "Sat, 14 Nov 2026 08:13:41 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T01:34:20.236Z",
+    "generatedAt": "2026-11-15T08:56:55.121Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -552,7 +272,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-15T01:34:19.902Z",
+        "timestamp": "2026-11-15T08:56:54.883Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -560,7 +280,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-15T01:34:19.961Z",
+        "timestamp": "2026-11-15T08:56:54.932Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -568,7 +288,7 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-15T01:34:20.028Z",
+        "timestamp": "2026-11-15T08:56:54.977Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -576,7 +296,7 @@
         "price": 94.24,
         "change": 0.2,
         "changePct": 0.21,
-        "timestamp": "2026-11-15T01:34:20.083Z",
+        "timestamp": "2026-11-15T08:56:55.019Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -584,7 +304,7 @@
         "price": 117750,
         "change": 30,
         "changePct": 0.03,
-        "timestamp": "2026-11-15T01:34:20.133Z",
+        "timestamp": "2026-11-15T08:56:55.055Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -593,7 +313,7 @@
         "price": 148831,
         "change": -2860,
         "changePct": -1.89,
-        "timestamp": "2026-11-15T01:34:20.184Z",
+        "timestamp": "2026-11-15T08:56:55.089Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -602,7 +322,7 @@
         "price": 8346,
         "change": -17,
         "changePct": -0.2,
-        "timestamp": "2026-11-15T01:34:20.235Z",
+        "timestamp": "2026-11-15T08:56:55.121Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
