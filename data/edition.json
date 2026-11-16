@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-15T21:30:49.473Z",
+  "generatedAt": "2026-11-16T01:38:31.022Z",
   "articles": [
+    {
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "desc": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:04:28 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "desc": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "desc": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 21:19:08 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Who can force Israel to implement Gaza ceasefire deal?",
       "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
@@ -22,16 +52,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-      "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
-      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Iran targets US military base in Bahrain with drone attack",
       "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
@@ -40,6 +60,116 @@
       "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "desc": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Minister backs legal right to job support for young people",
+      "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:06:15 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "desc": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "pubDate": "2026-11-15T20:26:56-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Black Friday and tax return scams  - don't fall for these",
+      "desc": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:50:39 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "desc": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:13:14 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "desc": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:04:28 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "desc": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "desc": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:30:03 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:24:20 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:00:24 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "desc": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "pubDate": "Sun, 15 Nov 2026 21:19:08 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
@@ -82,26 +212,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-      "desc": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
-      "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 15:21:21 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Iran targets US military base in Bahrain with drone attack",
       "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
@@ -117,9 +227,9 @@
       "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Minister backs legal right to job support for young people",
@@ -127,33 +237,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 15 Nov 2026 13:06:15 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "pubDate": "2026-11-15T08:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "desc": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 00:01:07 GMT",
-      "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T21:30:49.473Z",
+    "generatedAt": "2026-11-16T01:38:31.022Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -162,7 +252,7 @@
         "price": 25144.3,
         "change": -110.8,
         "changePct": -0.44,
-        "timestamp": "2026-11-15T21:30:49.149Z",
+        "timestamp": "2026-11-16T01:38:30.636Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -170,7 +260,7 @@
         "price": 81592.45,
         "change": -286.94,
         "changePct": -0.35,
-        "timestamp": "2026-11-15T21:30:49.202Z",
+        "timestamp": "2026-11-16T01:38:30.720Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -178,41 +268,41 @@
         "price": 61034.1,
         "change": 241.7,
         "changePct": 0.4,
-        "timestamp": "2026-11-15T21:30:49.258Z",
+        "timestamp": "2026-11-16T01:38:30.792Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 94.23,
-        "change": 0.19,
-        "changePct": 0.2,
-        "timestamp": "2026-11-15T21:30:49.309Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-11-16T01:38:30.851Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 117738,
-        "change": 30,
-        "changePct": 0.03,
-        "timestamp": "2026-11-15T21:30:49.381Z",
+        "price": 117489,
+        "change": -248,
+        "changePct": -0.21,
+        "timestamp": "2026-11-16T01:38:30.912Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 148815,
-        "change": -2860,
-        "changePct": -1.89,
-        "timestamp": "2026-11-15T21:30:49.428Z",
+        "price": 144904,
+        "change": -3911,
+        "changePct": -2.63,
+        "timestamp": "2026-11-16T01:38:30.969Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8345,
-        "change": -17,
-        "changePct": -0.2,
-        "timestamp": "2026-11-15T21:30:49.473Z",
+        "price": 8309,
+        "change": -36,
+        "changePct": -0.43,
+        "timestamp": "2026-11-16T01:38:31.022Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
