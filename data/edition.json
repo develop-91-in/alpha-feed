@@ -1,85 +1,745 @@
 {
-  "generatedAt": "2026-11-16T01:38:31.022Z",
+  "generatedAt": "2026-11-16T09:11:21.080Z",
   "articles": [
     {
-      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
-      "desc": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 00:04:28 +0000",
+      "title": "Ecuador’s president denies existence of US military base",
+      "desc": "Daniel Noboa says US personnel in the country for &#039;temporary activities&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 08:14:48 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran war live: Tehran warns it may strike first before another US attack",
-      "desc": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
+      "title": "Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+      "desc": "Banks and insurers are leading the increase in cybersecurity spending, aided by larger technology budgets and regulatory requirements, while retailers and consumer firms are also stepping up investments to protect customer data, Rakesh said last week, without providing figures.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-says-clients-boost-cybersecurity-spending-as-ai-driven-threats-rise/articleshow/135878211.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:43:37 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-      "desc": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 21:19:08 +0000",
+      "title": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+      "desc": "South Korea's SK Hynix said on Monday it plans to spend 1.4 trillion won ($1.05 billion) over the next five years to support domestic suppliers of semiconductor materials, parts and equipment, aiming to strengthen its supply chain as competition intensifies",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/articleshow/135878099.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:40:49 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 20:37:43 +0000",
+      "title": "Intel sued by shareholders following 29% stock plunge",
+      "desc": "Intel has been sued by shareholders who accused the US chipmaker of defrauding them by concealing the impact of a prolonged slowdown in personal computer sales that caused its stock price to plunge nearly 29% in a single day.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/intel-sued-by-shareholders-following-29-stock-plunge/articleshow/135877856.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:30:48 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "pubDate": "2026-11-15T14:15:43-05:00",
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "desc": "Last week, Germany's Helsing unveiled military intelligence software called Clarity. It is part of a broader market for AI-powered systems designed to accelerate military decision-making by helping sift through vast quantities of data to help identify threats and recommend action, including targeting and attacks.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/articleshow/135877776.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:28:49 +0530",
       "image": "",
-      "source": "The Verge",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 07:23:23 GMT",
       "image": "",
       "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "desc": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Minister backs legal right to job support for young people",
-      "desc": "The work and pensions secretary said the level of support currently on offer was too vague.",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:06:15 GMT",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "desc": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 06:24:08 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "'Break-in and rising costs could kill my business'",
+      "desc": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
+      "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 05:57:19 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ecuador’s president denies existence of US military base",
+      "desc": "Daniel Noboa says US personnel in the country for &#039;temporary activities&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 08:14:48 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Mphasis says clients boost cybersecurity spending as AI-driven threats rise",
+      "desc": "Banks and insurers are leading the increase in cybersecurity spending, aided by larger technology budgets and regulatory requirements, while retailers and consumer firms are also stepping up investments to protect customer data, Rakesh said last week, without providing figures.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/mphasis-says-clients-boost-cybersecurity-spending-as-ai-driven-threats-rise/articleshow/135878211.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:43:37 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+      "desc": "South Korea's SK Hynix said on Monday it plans to spend 1.4 trillion won ($1.05 billion) over the next five years to support domestic suppliers of semiconductor materials, parts and equipment, aiming to strengthen its supply chain as competition intensifies",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynix-to-spend-1-billion-over-five-years-to-support-chip-suppliers/articleshow/135878099.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:40:49 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Jordan blocks Telegram app over national security concerns",
+      "desc": "Jordanian authorities said on Monday that they will block the Telegram social media app in the kingdom over national security concerns.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/jordan-blocks-telegram-app-over-national-security-concerns/articleshow/135878049.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:37:41 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Intel sued by shareholders following 29% stock plunge",
+      "desc": "Intel has been sued by shareholders who accused the US chipmaker of defrauding them by concealing the impact of a prolonged slowdown in personal computer sales that caused its stock price to plunge nearly 29% in a single day.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/intel-sued-by-shareholders-following-29-stock-plunge/articleshow/135877856.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:30:48 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "desc": "Last week, Germany's Helsing unveiled military intelligence software called Clarity. It is part of a broader market for AI-powered systems designed to accelerate military decision-making by helping sift through vast quantities of data to help identify threats and recommend action, including targeting and attacks.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/articleshow/135877776.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:28:49 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request: report",
+      "desc": "Megaspeed has been under scrutiny over suspicions it helped Chinese companies obtain advanced Nvidia chips subject to Washington's export restrictions, but there has been no public finding that it has violated the rules.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/indonesian-police-raided-nvidia-partner-megaspeeds-local-unit-in-early-2026-on-us-request-report/articleshow/135877651.cms",
+      "pubDate": "Mon, 16 Nov 2026 13:26:26 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+      "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 07:23:23 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "desc": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 06:24:08 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "DPDP rules may boost demand for cybersecurity professionals and security services: Report",
+      "desc": "The implementation of the Digital Personal Data Protection (DPDP) Rules is expected to create fresh demand for cybersecurity professionals and managed security services in India, as companies strengthen their systems to protect personal data, monitor security risks and respond to potential data breaches.",
+      "link": "https://economictimes.indiatimes.com/tech/internet/dpdp-rules-may-boost-demand-for-cybersecurity-professionals-and-security-services-report/articleshow/135874969.cms",
+      "pubDate": "Mon, 16 Nov 2026 11:42:51 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Thrift shop asks shoppers to nominate a charity",
+      "desc": "The owners want customers and donors to decide what charities benefit each month.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 06:03:39 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "'Break-in and rising costs could kill my business'",
+      "desc": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
+      "link": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 05:57:19 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Alibaba unveils new flagship AI model with safety upgrades",
+      "desc": "China's Alibaba unveiled its new flagship artificial intelligence model Qwen4-Max on Sunday, saying it enhanced the system's ability to handle complex professional and scientific work while improving protections against safety risks.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
+      "pubDate": "Mon, 16 Nov 2026 11:19:15 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "desc": "Iran-aligned Kataib Hezbollah says the group is subjected to &#039;blackmail&#039; to force disarmament amid US pressure on Iraq.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 04:53:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "UPL Share Price Live Updates: UPL Surges Above 100-Day Exponential Moving Average",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-16-nov-2026/liveblog/135872604.cms",
+      "pubDate": "Mon, 16 Nov 2026 09:47:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Technical picks:  ABB India among 5 stocks to buy this week for healthy returns",
+      "desc": "The recent market activity indicates a bullish trend, albeit with minor profit booking influencing trading patterns. Investors are keenly observing macroeconomic factors and international cues. Selected stocks like GVT&amp;D, ABB, Bank of Baroda, NCC, and Mankind Pharma have emerged as likely candidates for profitable investments, as technical analysts highlight their positive trends and robust bullish signals for future growth.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/slideshow/135872688.cms",
+      "pubDate": "Mon, 16 Nov 2026 09:43:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sun Pharma Share Price Live Updates: Current Market Performance of Sun Pharma",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-16-nov-2026/liveblog/135871948.cms",
+      "pubDate": "Mon, 16 Nov 2026 09:20:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Price Analysis",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-16-nov-2026/liveblog/135871604.cms",
+      "pubDate": "Mon, 16 Nov 2026 09:05:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL Price Movement Analysis",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-16-nov-2026/liveblog/135871462.cms",
+      "pubDate": "Mon, 16 Nov 2026 09:01:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Coal India Share Price Live Updates: Coal India  Price Update: Slight Decline Observed",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135871357.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:55:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Stock Price and Volume Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-live-16-nov-2026/liveblog/135871297.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:51:15 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Nestle India Share Price Live Updates: Nestle India Trading Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-16-nov-2026/liveblog/135871285.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:50:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-16-nov-2026/liveblog/135871088.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:40:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HCL Tech Share Price Live Updates: HCL Tech Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-16-nov-2026/liveblog/135870988.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:36:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "SBI Life Share Price Live Updates: SBI Life Sees Positive Movement Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-16-nov-2026/liveblog/135870981.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:35:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-16-nov-2026/liveblog/135870965.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:35:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Shows Positive Momentum",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-16-nov-2026/liveblog/135870964.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:35:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "desc": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 03:04:01 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "ONGC Share Price Live Updates: ONGC Trading Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-today-live-16-nov-2026/liveblog/135870936.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:32:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-16-nov-2026/liveblog/135870893.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:30:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870849.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:27:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Power Grid Share Price Live Updates: Power Grid's Market Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-stock-price-live-updates-16-nov-2026/liveblog/135870833.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:26:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "SBI Share Price Live Updates: SBI Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-today-live-16-nov-2026/liveblog/135870828.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:26:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870814.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Stock Performance Highlights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-updates-16-nov-2026/liveblog/135870808.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:32 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "NTPC Share Price Live Updates: NTPC's Current Trading Price",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-today-live-updates-16-nov-2026/liveblog/135870806.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "L&amp;T Share Price Live Updates: L&amp;T Stock Analysis",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-16-nov-2026/liveblog/135870796.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "TCS Share Price Live Updates: TCS Trading Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-16-nov-2026/liveblog/135870795.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Market Position Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-live-updates-16-nov-2026/liveblog/135870794.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:25:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "JSW Steel Share Price Live Updates: JSW Steel  Current Market Overview",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870720.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:21:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia's Market Performance Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-today-live-16-nov-2026/liveblog/135870717.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:21:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Decline in Market Performance",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-16-nov-2026/liveblog/135870709.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:21:02 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "ITC Share Price Live Updates: ITC  Gains Momentum",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-share-price-live-16-nov-2026/liveblog/135870705.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:20:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Cipla Share Price Live Updates: Cipla Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-16-nov-2026/liveblog/135870697.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:20:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "RIL Share Price Live Updates: RIL Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-live-16-nov-2026/liveblog/135870692.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:20:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto Falls Below Key Moving Average",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-16-nov-2026/liveblog/135870691.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:20:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Current Price and Market Performance",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-today-live-16-nov-2026/liveblog/135870641.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:17:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Market Activity Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-16-nov-2026/liveblog/135870632.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:16:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HUL Share Price Live Updates: HUL's Price Movement Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-updates-16-nov-2026/liveblog/135870631.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:16:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hindalco Share Price Live Updates: Hindalco's Price Movement Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-16-nov-2026/liveblog/135870625.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:16:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Titan Company Share Price Live Updates: Titan Company experiences a positive shift in stock price",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-16-nov-2026/liveblog/135870624.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:16:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Asian Paints Share Price Live Updates: Asian Paints Daily Trading Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-today-live-16-nov-2026/liveblog/135870623.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:16:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "HDFC Life Share Price Live Updates: HDFC Life's Positive Stock Trend",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870489.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:10:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Current Market Status",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-16-nov-2026/liveblog/135870485.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:10:14 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Axis Bank Share Price Live Updates: Axis Bank Sees Positive Movement",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-16-nov-2026/liveblog/135870481.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:10:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Wipro Share Price Live Updates: Wipro's Stock Price Falls Below Critical Support",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-16-nov-2026/liveblog/135870480.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:10:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises Reports Negative Change",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-16-nov-2026/liveblog/135870281.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:01:55 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Infosys Share Price Live Updates: Infosys stock price update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-updates-16-nov-2026/liveblog/135870277.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:01:36 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-live-16-nov-2026/liveblog/135870270.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:01:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Market Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870264.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:01:02 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "LTIMindtree Share Price Live Updates: LTIMindtree  Sees Trading Volume Shift",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-stock-price-live-updates-16-nov-2026/liveblog/135870261.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:00:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Current Trading Price",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-16-nov-2026/liveblog/135870257.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:00:42 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Steel Share Price Live Updates: Tata Steel's Price Movement Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-16-nov-2026/liveblog/135870253.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:00:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Price Movement",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-16-nov-2026/liveblog/135870251.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:00:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's stock price climbs higher",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135870244.cms",
+      "pubDate": "Mon, 16 Nov 2026 08:00:13 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 01:47:57 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
@@ -92,7 +752,7 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Black Friday and tax return scams  - don't fall for these",
+      "title": "Don't fall for this Black Friday scam - how to check it's a real deal",
       "desc": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
       "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 16 Nov 2026 00:50:39 GMT",
@@ -112,27 +772,7 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
-      "desc": "Workers&#039; rights, environmental concerns and local businesses remain at the centre of the debate.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 00:04:28 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran war live: Tehran warns it may strike first before another US attack",
-      "desc": "Yemeni army says it is &#039;repositioning&#039; troops away from the Bab al-Mandeb strait and other key coastal areas.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
       "desc": "The report being launched this week will suggest gradually reducing employment costs over five years.",
       "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 15 Nov 2026 22:30:03 GMT",
@@ -142,32 +782,22 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 22:24:20 GMT",
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:00:24 GMT",
       "image": "",
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 22:00:24 GMT",
+      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
+      "desc": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:00:13 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-      "desc": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 21:19:08 +0000",
-      "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -192,16 +822,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Who can force Israel to implement Gaza ceasefire deal?",
-      "desc": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 20:37:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "desc": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
@@ -210,16 +830,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "desc": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -243,66 +853,66 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-16T01:38:31.022Z",
+    "generatedAt": "2026-11-16T09:11:21.080Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
       {
         "symbol": "NIFTY 50",
-        "price": 25144.3,
-        "change": -110.8,
-        "changePct": -0.44,
-        "timestamp": "2026-11-16T01:38:30.636Z",
+        "price": 25207.75,
+        "change": 63.45,
+        "changePct": 0.25,
+        "timestamp": "2026-11-16T09:11:20.677Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "SENSEX",
-        "price": 81592.45,
-        "change": -286.94,
-        "changePct": -0.35,
-        "timestamp": "2026-11-16T01:38:30.720Z",
+        "price": 81894.59,
+        "change": 302.14,
+        "changePct": 0.37,
+        "timestamp": "2026-11-16T09:11:20.774Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "NIFTY BANK",
-        "price": 61034.1,
-        "change": 241.7,
-        "changePct": 0.4,
-        "timestamp": "2026-11-16T01:38:30.792Z",
+        "price": 61359.9,
+        "change": 325.8,
+        "changePct": 0.53,
+        "timestamp": "2026-11-16T09:11:20.836Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 94.23,
-        "change": 0,
-        "changePct": 0,
-        "timestamp": "2026-11-16T01:38:30.851Z",
+        "price": 93.92,
+        "change": -0.31,
+        "changePct": -0.33,
+        "timestamp": "2026-11-16T09:11:20.897Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 117489,
-        "change": -248,
-        "changePct": -0.21,
-        "timestamp": "2026-11-16T01:38:30.912Z",
+        "price": 116647,
+        "change": -704,
+        "changePct": -0.6,
+        "timestamp": "2026-11-16T09:11:20.957Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 144904,
-        "change": -3911,
-        "changePct": -2.63,
-        "timestamp": "2026-11-16T01:38:30.969Z",
+        "price": 143084,
+        "change": -5242,
+        "changePct": -3.53,
+        "timestamp": "2026-11-16T09:11:21.020Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8309,
-        "change": -36,
-        "changePct": -0.43,
-        "timestamp": "2026-11-16T01:38:31.022Z",
+        "price": 8328,
+        "change": 10,
+        "changePct": 0.12,
+        "timestamp": "2026-11-16T09:11:21.080Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
