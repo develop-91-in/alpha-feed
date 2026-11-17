@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:05:23.572Z",
+  "generatedAt": "2026-11-17T03:30:07.196Z",
   "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
   "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
   "items": [
@@ -8,7 +8,7 @@
       "price": 25291.1,
       "change": 146.8,
       "changePct": 0.58,
-      "timestamp": "2026-11-16T20:05:22.985Z",
+      "timestamp": "2026-11-17T03:30:06.908Z",
       "source": "Yahoo Finance (unofficial, delayed)"
     },
     {
@@ -16,7 +16,7 @@
       "price": 82104.79,
       "change": 512.34,
       "changePct": 0.63,
-      "timestamp": "2026-11-16T20:05:23.108Z",
+      "timestamp": "2026-11-17T03:30:06.978Z",
       "source": "Yahoo Finance (unofficial, delayed)"
     },
     {
@@ -24,41 +24,41 @@
       "price": 61575.9,
       "change": 541.8,
       "changePct": 0.89,
-      "timestamp": "2026-11-16T20:05:23.185Z",
+      "timestamp": "2026-11-17T03:30:07.029Z",
       "source": "Yahoo Finance (unofficial, delayed)"
     },
     {
       "symbol": "USD/INR",
-      "price": 93.92,
-      "change": -0.31,
-      "changePct": -0.33,
-      "timestamp": "2026-11-16T20:05:23.260Z",
+      "price": 93.91,
+      "change": 0,
+      "changePct": 0,
+      "timestamp": "2026-11-17T03:30:07.081Z",
       "source": "Yahoo Finance (unofficial, delayed)"
     },
     {
       "symbol": "MCX GOLD",
-      "price": 116801,
-      "change": -550,
-      "changePct": -0.47,
-      "timestamp": "2026-11-16T20:05:23.398Z",
+      "price": 117066,
+      "change": 734,
+      "changePct": 0.63,
+      "timestamp": "2026-11-17T03:30:07.130Z",
       "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
       "unit": "₹/10g"
     },
     {
       "symbol": "MCX SILVER",
-      "price": 142132,
-      "change": -6193,
-      "changePct": -4.17,
-      "timestamp": "2026-11-16T20:05:23.502Z",
+      "price": 143446,
+      "change": 1966,
+      "changePct": 1.39,
+      "timestamp": "2026-11-17T03:30:07.135Z",
       "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
       "unit": "₹/kg"
     },
     {
       "symbol": "MCX CRUDE",
-      "price": 8045,
-      "change": -272,
-      "changePct": -3.27,
-      "timestamp": "2026-11-16T20:05:23.572Z",
+      "price": 7989,
+      "change": -61,
+      "changePct": -0.76,
+      "timestamp": "2026-11-17T03:30:07.196Z",
       "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
       "unit": "₹/bbl"
     }
