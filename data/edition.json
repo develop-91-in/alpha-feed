@@ -1,98 +1,458 @@
 {
-  "generatedAt": "2026-11-17T21:34:22.650Z",
+  "generatedAt": "2026-11-18T03:24:29.113Z",
   "articles": [
     {
-      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-      "desc": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 21:14:31 +0000",
+      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
+      "desc": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:20:41 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Russian military plane crashes killing all 19 on board",
-      "desc": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT",
+      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
+      "desc": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:10:15 +0530",
       "image": "",
-      "source": "BBC World",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "desc": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:57:56 +0000",
+      "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand",
+      "desc": "Nvidia said on Tuesday it was expanding manufacturing capacity with supply chain partners to support long-term growth in demand for its AI computing platforms.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-expands-manufacturing-capacity-with-suppliers-to-meet-ai-demand/articleshow/135945935.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:01:22 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "desc": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:44:54 GMT",
+      "title": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley",
+      "desc": "The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief Financial Officer Colette Kress, who is running the company as a permanent replacement is sought.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:57:25 +0530",
       "image": "",
-      "source": "BBC World",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "desc": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT",
+      "title": "Nvidia earnings beat estimates; firm won't take questions on resignation",
+      "desc": "Nvidia later began a conference call with analysts and investors by saying it wouldn't take questions on longtime CEO Jensen Huang's resignation and doesn't plan to reinstate him. Colette Kress, interim CEO, told investors the company expects revenue to rise 75% in fiscal 2028.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-beat-estimates-firm-wont-take-questions-on-resignation/articleshow/135945772.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:54:42 +0530",
       "image": "",
-      "source": "BBC World",
+      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Kalshi halts Trump speech bets after CFTC order",
-      "desc": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:20:18 +0000",
+      "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
+      "desc": "The dollar remains firm near its highest level in 19 months, buoyed by encouraging economic indicators from the US and statements from Federal Reserve officials. Japan's trade data showed record exports in October, fueled by high semiconductor demand, despite a slight dip in the yen. The Australian dollar continues to struggle, while both Bitcoin and Ether have experienced minor upward movement.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes/articleshow/135945560.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:40:25 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-      "desc": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:11:41 +0000",
+      "title": "Gold hits over one-year low ahead of Fed minutes",
+      "desc": "Gold prices have plummeted to their lowest since October 2025, driven by a robust US dollar and rising interest rate expectations. The Federal Reserve's officials emphasized the necessity for additional hikes to tackle inflation effectively. Investors are keenly awaiting the forthcoming minutes from the Federal Open Market Committee for clearer direction. Meanwhile, other precious metals, including silver, platinum, and palladium, have also seen significant price drops.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:38:58 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "desc": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 19:31:30 +0000",
+      "title": "Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-airtel-share-price-18-november-2026/liveblog/135945558.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:30:21 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-      "desc": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 21:14:31 +0000",
+      "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
+      "desc": "The company had allowed riders to hail its robotaxis for freeway rides in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin. The California-based company offers rides on city streets in many other areas including Las Vegas, Dallas and Denver.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/waymo-suspends-all-driverless-taxi-rides-on-freeways-after-ban-in-california/articleshow/135946981.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:40:32 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
+      "desc": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:20:41 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "desc": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 02:40:45 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
+      "desc": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:10:15 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand",
+      "desc": "Nvidia said on Tuesday it was expanding manufacturing capacity with supply chain partners to support long-term growth in demand for its AI computing platforms.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-expands-manufacturing-capacity-with-suppliers-to-meet-ai-demand/articleshow/135945935.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:01:22 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley",
+      "desc": "The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief Financial Officer Colette Kress, who is running the company as a permanent replacement is sought.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:57:25 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Nvidia earnings beat estimates; firm won't take questions on resignation",
+      "desc": "Nvidia later began a conference call with analysts and investors by saying it wouldn't take questions on longtime CEO Jensen Huang's resignation and doesn't plan to reinstate him. Colette Kress, interim CEO, told investors the company expects revenue to rise 75% in fiscal 2028.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-beat-estimates-firm-wont-take-questions-on-resignation/articleshow/135945772.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:54:42 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "desc": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent outages affecting Microsoft, banks and flights are connected.",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 02:15:19 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
+      "desc": "The dollar remains firm near its highest level in 19 months, buoyed by encouraging economic indicators from the US and statements from Federal Reserve officials. Japan's trade data showed record exports in October, fueled by high semiconductor demand, despite a slight dip in the yen. The Australian dollar continues to struggle, while both Bitcoin and Ether have experienced minor upward movement.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes/articleshow/135945560.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:40:25 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Gold hits over one-year low ahead of Fed minutes",
+      "desc": "Gold prices have plummeted to their lowest since October 2025, driven by a robust US dollar and rising interest rate expectations. The Federal Reserve's officials emphasized the necessity for additional hikes to tackle inflation effectively. Investors are keenly awaiting the forthcoming minutes from the Federal Open Market Committee for clearer direction. Meanwhile, other precious metals, including silver, platinum, and palladium, have also seen significant price drops.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-one-year-low-ahead-of-fed-minutes/articleshow/135945512.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:38:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-airtel-share-price-18-november-2026/liveblog/135945558.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:30:21 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Amazon, Google each to own over 14% of Anthropic stock after IPO",
+      "desc": "Anthropic PBC is gearing up for a historic IPO, aiming to raise around $64.4 billion. Amazon and Google are set to acquire significant shares, holding approximately 15% and 14% of Anthropic's stock respectively. The bond between these tech giants enhances their competitive edge and investment strategy, contributing to Anthropic's revenue, which mainly stems from cloud services, accounting for 44%. This IPO could mark the largest debut offering ever.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-google-each-to-own-over-14-of-anthropic-stock-after-ipo/articleshow/135945131.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:10:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic said to guide IPO price to top of range or above",
+      "desc": "Anthropic is gearing up for a major IPO, aiming to set share prices between $70 and $78. With the potential to amass around $90.4 billion and an additional $26 billion in private placements, demand has already outstripped supply nearly sevenfold. Current investors are likely to have prioritization in share allocations. Noteworthy investor meetings have been planned, including dialogues between Anthropic's CEO and the CEO of JPMorgan Chase.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-said-to-guide-ipo-price-to-top-of-range-or-above/articleshow/135945095.cms",
+      "pubDate": "Wed, 18 Nov 2026 07:09:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "What is Trump hoping to achieve at APEC meeting in China?",
+      "desc": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 01:33:05 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Russian military plane crashes killing all 19 on board",
+      "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+      "desc": "Daithi O&#039;Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 01:32:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "desc": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Global Market Today: Asian shares rebound as Nvidia forecast eases AI trade concerns",
+      "desc": "Contracts for the Nasdaq 100 Index jumped 1.3% and those for the S&amp;P 500 Index rose 0.7% following the chipmaker’s results. Nvidia shares gained more than 4% in extended trading after its earnings — the first since the departure of Chief Executive Officer Jensen Huang — signaled resilient demand.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-rebound-as-nvidia-forecast-eases-ai-trade-concerns/articleshow/135944698.cms",
+      "pubDate": "Wed, 18 Nov 2026 06:38:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+      "desc": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 01:07:01 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+      "desc": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 00:57:56 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+      "desc": "Head of Iran&#039;s IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 00:33:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Why China’s Shenzhen was chosen for APEC summit",
+      "desc": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 00:16:26 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nvidia earnings beat estimates; attention turns to call",
+      "desc": "Nvidia shares rose after the company unveiled solid quarterly results and projections for next quarter on Tuesday, in its first major event since the resignation of Jensen Huang as CEO.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-beat-estimates-attention-turns-to-call/articleshow/135944112.cms",
+      "pubDate": "Wed, 18 Nov 2026 05:45:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "desc": "Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain accuses Iran of &#039;criminal attacks&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 00:00:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "desc": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 00:00:24 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "desc": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "pubDate": "2026-11-17T18:41:18-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "desc": "Kuwait&#039;s military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 23:38:38 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "desc": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "desc": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 22:46:30 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "desc": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "pubDate": "2026-11-17T17:32:50-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "desc": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "pubDate": "2026-11-17T17:25:41-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Russian military plane crash in Siberia kills 19",
+      "desc": "Russia&#039;s Defence Ministry says preliminary findings for the crash point to equipment failure.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 22:21:16 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "desc": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation [&#8230;]",
+      "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "pubDate": "2026-11-17T17:05:05-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "desc": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-17T16:46:20-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "desc": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "pubDate": "2026-11-17T16:40:59-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "desc": "UK authorities have passed the investigation to the US &#039;in line with existing international protocols&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 21:35:24 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "desc": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 21:28:31 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "desc": "Democrats say they plan to investigate Trump&#039;s dealings with Venezuela after winning control of Congress.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 21:26:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Russian military plane crashes, killing all 19 on board",
       "desc": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT",
@@ -112,52 +472,12 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "desc": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:57:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "desc": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:44:54 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "desc": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Kalshi halts Trump speech bets after CFTC order",
-      "desc": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:20:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-      "desc": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:11:41 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -172,26 +492,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "desc": "Companies get billions in tariff refunds. Consumers are left with the bill.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 19:31:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "More than 100,000 take part in France pay protests",
-      "desc": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 19:09:49 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
       "desc": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
       "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&amp;at_campaign=rss",
@@ -202,24 +502,14 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "desc": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "pubDate": "2026-11-17T13:58:01-05:00",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "desc": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 18:43:05 GMT",
       "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Meta is testing a new standalone messaging app called Direct",
-      "desc": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the same account. You can also sign up with an [&#8230;]",
-      "link": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
-      "pubDate": "2026-11-17T13:33:02-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "UK sanctions firms over Israeli West Bank settlements",
@@ -227,9 +517,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 18:27:27 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
@@ -240,16 +530,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-      "desc": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 17:34:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
@@ -840,320 +1120,10 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Study estimates magnitude of US data center pollution as climate talks unveil clean AI pledge",
-      "desc": "The pledge also calls for focusing the power of artificial intelligence on solving the so-far intractable problem of climate change and reflects burgeoning concerns about AI's ever-expanding environmental footprint. The political backlash has played out in U.S. elections and major local objections for new sites.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/study-estimates-magnitude-of-us-data-center-pollution-as-climate-talks-unveil-clean-ai-pledge/articleshow/135908878.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:54:19 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Hindalco Share Price Highlights: Hindalco Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-17-nov-2026/liveblog/135908861.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:52:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-stock-price-live-updates-17-nov-2026/liveblog/135908843.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:52:11 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-17-nov-2026/liveblog/135908831.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:51:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "98 percent of scientists expect AI to accelerate scientific discoveries, OpenAI study finds",
-      "desc": "Artificial intelligence could significantly shorten the time needed for scientific breakthroughs, with 98 per cent of surveyed scientists expecting AI to accelerate discoveries in their fields, according to a new study by OpenAI, highlighting the growing role of tools such as ChatGPT in research.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/98-percent-of-scientists-expect-ai-to-accelerate-scientific-discoveries-openai-study-finds/articleshow/135908805.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:50:01 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Sun Pharma Share Price Highlights: Sun Pharma Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-17-nov-2026/liveblog/135908759.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:45:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "RIL Share Price Highlights: RIL Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908669.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:40:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nvidia earnings to test AI boom after Huang's exit",
-      "desc": "Nvidia reports quarterly earnings on Tuesday, its first since Jensen Huang's departure as CEO, with investors watching for signs of whether the AI boom can withstand the widening scandal that toppled him. Analysts will be watching for signs of whether Kress will slow Huang's aggressive investment strategy, which saw him commit tens of billions of dollars to AI companies.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-to-test-ai-boom-after-huangs-exit/articleshow/135908581.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:36:30 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Coal India Share Price Highlights: Coal India Ltd Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908472.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:31:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-live-updates-17-nov-2026/liveblog/135908470.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:31:33 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "LTIMindtree Share Price Highlights: LTIMindtree Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-17-nov-2026/liveblog/135908442.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:30:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "UPL Share Price Highlights: UPL Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908419.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:30:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Singapore seeks 'trusted access' to AI chips after new US curbs",
-      "desc": "Singapore said Tuesday it was seeking \"trusted access\" to advanced AI chips after the United States imposed new curbs aimed at stopping Chinese firms from accessing the technology through overseas data centres. The curbs came days after a spy scandal forced Jensen Huang to quit as Nvidia chief, as questions emerged over whether Singapore-based Megaspeed aided Chinese firms in accessing advanced artificial intelligence chips in violation of US rules.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/articleshow/135908229.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:29:06 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "L&amp;T Share Price Highlights: L&amp;T Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-17-nov-2026/liveblog/135908376.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:27:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-updates-17-nov-2026/liveblog/135908364.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:27:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HCL Tech Share Price Highlights: HCL Tech Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-live-updates-17-nov-2026/liveblog/135908351.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:26:34 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Power Grid Share Price Highlights: Power Grid Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-17-nov-2026/liveblog/135908349.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:26:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "SBI Life Share Price Highlights: SBI Life Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-share-price-live-updates-17-nov-2026/liveblog/135908344.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:26:10 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "M&amp;M Share Price Highlights: M&amp;M Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-17-nov-2026/liveblog/135908337.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:25:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Apollo Hospital Share Price Highlights: Apollo Hospital Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-today-live-17-nov-2026/liveblog/135908331.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:25:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "SBI Share Price Highlights: SBI Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-today-live-updates-17-nov-2026/liveblog/135908328.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:25:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Asian Paints Share Price Highlights: Asian Paints Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908320.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:25:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "desc": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "California sues OpenAI, seeking court-ordered changes after the Hugging Face hack",
-      "desc": "OpenAI announced an \"unprecedented cyber incident\" on July 21, when its AI agent hacked into another AI company, Hugging Face, after escaping from what was supposed to be an isolated testing environment known as a sandbox. OpenAI said its AI used stolen credentials and discovered a previously unknown vulnerability to access Hugging Face's servers.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/articleshow/135907868.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:04:26 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Visa, Mastercard urge approval of $38 billion swipe fee settlement",
-      "desc": "* Judge declines to rule immediately, sees 'protracted process' if he rejects settlement * Accord would end 'Honor All Cards' rule, cap fees on standard consumer cards * Opponents say fees remain too",
-      "link": "https://economictimes.indiatimes.com/tech/technology/visa-mastercard-urge-approval-of-38-billion-swipe-fee-settlement/articleshow/135907825.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:02:03 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "OpenAI's Sam Altman acknowledges public anger over data centers",
-      "desc": "Silicon Valley's pitch to the world about artificial intelligence has missed the mark, OpenAI CEO Sam Altman said on Monday, nearly two weeks after the US midterms dealt a blow to the industry's data center ambitions. In the midterm elections, voters across the United States approved around 40 new measures restricting or banning new data center development.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openais-altman-acknowledges-public-anger-over-data-centers/articleshow/135907767.cms",
-      "pubDate": "Tue, 17 Nov 2026 07:59:58 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Anthropic's IPO: How do you price the future of AI?",
-      "desc": "Speculation over Anthropic' trying to put a price on the future of artificial intelligence. That figure would put the young company among the largest stock market debuts on record, though it falls short of the $2 trillion some estimates had floated until a few weeks ago.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/anthropics-ipo-how-do-you-price-the-future-of-ai/articleshow/135907629.cms",
-      "pubDate": "Tue, 17 Nov 2026 07:48:59 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Egypt, India aim to hit $12 bn bilateral trade target within five years, says Foreign Minister Badr Abdelatty",
-      "desc": "Egypt and India are aiming to increase bilateral trade to $12 billion over the next five years and expand Indian investment in the North African country, Egyptian Foreign Minister Badr Abdelatty said. The target was discussed during Commerce Minister Piyush Goyal's visit to Egypt with an Indian business delegation.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/egypt-india-aim-to-hit-12-bn-bilateral-trade-target-within-five-years-says-foreign-minister-badr-abdelatty/articleshow/135907406.cms",
-      "pubDate": "Tue, 17 Nov 2026 07:37:40 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "desc": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-      "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 00:00:02 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "desc": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 23:25:53 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "desc": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 23:12:24 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-17T21:34:22.650Z",
+    "generatedAt": "2026-11-18T03:24:29.113Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1162,7 +1132,7 @@
         "price": 25387.4,
         "change": 96.3,
         "changePct": 0.38,
-        "timestamp": "2026-11-17T21:34:22.337Z",
+        "timestamp": "2026-11-18T03:24:28.777Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1170,7 +1140,7 @@
         "price": 82532.19,
         "change": 427.4,
         "changePct": 0.52,
-        "timestamp": "2026-11-17T21:34:22.401Z",
+        "timestamp": "2026-11-18T03:24:28.847Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1178,41 +1148,41 @@
         "price": 62273.25,
         "change": 697.35,
         "changePct": 1.13,
-        "timestamp": "2026-11-17T21:34:22.442Z",
+        "timestamp": "2026-11-18T03:24:28.900Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 93.47,
-        "change": -0.44,
-        "changePct": -0.47,
-        "timestamp": "2026-11-17T21:34:22.489Z",
+        "price": 93.46,
+        "change": -0.01,
+        "changePct": -0.01,
+        "timestamp": "2026-11-18T03:24:28.955Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 115860,
-        "change": 72,
-        "changePct": 0.06,
-        "timestamp": "2026-11-17T21:34:22.529Z",
+        "price": 114210,
+        "change": -1902,
+        "changePct": -1.64,
+        "timestamp": "2026-11-18T03:24:28.970Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 142082,
-        "change": 1265,
-        "changePct": 0.9,
-        "timestamp": "2026-11-17T21:34:22.597Z",
+        "price": 138041,
+        "change": -4258,
+        "changePct": -2.99,
+        "timestamp": "2026-11-18T03:24:29.044Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 8013,
-        "change": 1,
-        "changePct": 0.01,
-        "timestamp": "2026-11-17T21:34:22.650Z",
+        "price": 7971,
+        "change": -67,
+        "changePct": -0.84,
+        "timestamp": "2026-11-18T03:24:29.113Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
