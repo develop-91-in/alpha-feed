@@ -1,81 +1,61 @@
 {
-  "generatedAt": "2026-11-19T11:27:40.072Z",
+  "generatedAt": "2026-11-19T20:12:46.694Z",
   "articles": [
     {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "desc": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 11:07:37 GMT",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
       "image": "",
       "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Piyush Goyal, Italy's Tajani seek stronger ties in autos, pharma and technology",
-      "desc": "India and Italy are fostering stronger economic ties through joint ventures and technology partnerships. They seek collaboration in sectors such as automotive, aerospace, and agriculture. The discussions took place during the recent India-Italy Joint Commission for Economic Cooperation meeting in Rome. Participants highlighted the importance of investment partnerships and technology sharing for successful outcomes. Both countries aim to integrate into global value chains effectively.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-italys-tajani-seek-stronger-ties-in-autos-pharma-and-technology/articleshow/135986992.cms",
-      "pubDate": "Thu, 19 Nov 2026 16:10:45 +0530",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 19:16:21 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC World",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Stock rally keeps rupee upbeat, traders eye exporters for fresh fuel",
-      "desc": "The Indian rupee has surged to its highest value in seven months, driven by a notable uptick in equity markets. A 1% rise in the Nifty 50 index has fostered optimism among traders and analysts alike. As the foreign exchange market's corporate activities demonstrate mixed reactions from exporters and importers, improved participation from exporters may further enhance the rupee's strength.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/india-rupee-stock-rally-keeps-rupee-upbeat-traders-eye-exporters-for-fresh-fuel/articleshow/135986825.cms",
-      "pubDate": "Thu, 19 Nov 2026 15:59:20 +0530",
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "desc": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "pubDate": "2026-11-19T14:12:30-05:00",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India-US FTA could strengthen aerospace partnerships, boost business opportunities: Gautam Singhania",
-      "desc": "Gautam Singhania emphasized the potential benefits of the proposed India-US Free Trade Agreement for aerospace partnerships. He noted that his company, Raymond Aerospace, has long-standing relationships with American firms. The 23rd Indo-US Economic Summit facilitated networking opportunities to strengthen commercial ties between both nations. Various industry representatives explored collaboration possibilities that could benefit both sides. Increased cooperation in aerospace could lead to growth in business opportunities through this trade agreement.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-fta-could-strengthen-aerospace-partnerships-boost-business-opportunities-gautam-singhania/articleshow/135985945.cms",
-      "pubDate": "Thu, 19 Nov 2026 15:53:30 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Intuit deepens its investment in India with the opening of its new Bengaluru campus",
-      "desc": "The new two-tower Bengaluru campus is now home to Intuit’s second-largest engineering center, reflecting its continued investment in India as a top innovation hub. It brings together teams across core product, platform, and AI capabilities that serve tens of millions of customers worldwide.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/intuit-deepens-its-investment-in-india-with-the-opening-of-its-new-bengaluru-campus/articleshow/135985794.cms",
-      "pubDate": "Thu, 19 Nov 2026 15:40:05 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trump calls for nuclear arms reduction at APEC summit",
-      "desc": "Trump calls for nuclear arms reduction at APEC summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 10:03:27 +0000",
+      "title": "Trump-Xi-Putin summit: Five things you need to know",
+      "desc": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 18:13:52 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
-      "desc": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
-      "pubDate": "Thu, 19 Nov 2026 14:15:45 +0530",
+      "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
+      "desc": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the presence of licensing revenue from two restricted Chinese entities adds another layer of difficulty for AMD as it strives to maintain competitiveness against Nvidia.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+      "pubDate": "Thu, 19 Nov 2026 23:43:12 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "FCNR-related costs and benefits yet to fully play out for banks: Report",
-      "desc": "Foreign Currency Non-Resident deposits are expected to significantly influence the performance of Indian banks. The benefits and costs associated with these deposits have not fully materialized for financial institutions. Banks exhibiting a strong position in fixed-rate FCNR deposits may manage rising funding costs more effectively. Variations in loan growth and deposit composition among banks could lead to different performance outcomes.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/fcnr-related-costs-and-benefits-yet-to-fully-play-out-for-banks-report/articleshow/135981194.cms",
-      "pubDate": "Thu, 19 Nov 2026 13:26:15 +0530",
+      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI",
+      "desc": "Customs authorities are facing a tariff dispute regarding bulk Scotch whisky imports following the India-UK trade agreement. The classification issue revolves around whether Scotch falls under specific tariff codes for spirits or food preparations. Importers currently classify bulk Scotch under a code that entitles them to reduced duties. Recent changes have led to customs reclassifying these imports, which doubles the duty rate significantly.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/customs-should-review-classification-of-bulk-scotch-whisky-imports-gtri/articleshow/136000695.cms",
+      "pubDate": "Thu, 19 Nov 2026 23:08:58 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
@@ -85,21 +65,401 @@
       "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
       "desc": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 11:07:37 GMT",
+      "pubDate": "Thu, 19 Nov 2026 17:03:23 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump and Putin ‘hijacked’ China summit",
+      "desc": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 17:02:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "desc": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 10:48:04 GMT",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 19:16:21 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "desc": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "pubDate": "2026-11-19T14:12:30-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "EU-UK talks going down to the wire, says No 10",
+      "desc": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 18:55:52 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "pubDate": "2026-11-19T13:21:13-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Trump-Xi-Putin summit: Five things you need to know",
+      "desc": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 18:13:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
+      "desc": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the presence of licensing revenue from two restricted Chinese entities adds another layer of difficulty for AMD as it strives to maintain competitiveness against Nvidia.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
+      "pubDate": "Thu, 19 Nov 2026 23:43:12 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+      "desc": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to [&#8230;]",
+      "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "pubDate": "2026-11-19T12:58:01-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI",
+      "desc": "Customs authorities are facing a tariff dispute regarding bulk Scotch whisky imports following the India-UK trade agreement. The classification issue revolves around whether Scotch falls under specific tariff codes for spirits or food preparations. Importers currently classify bulk Scotch under a code that entitles them to reduced duties. Recent changes have led to customs reclassifying these imports, which doubles the duty rate significantly.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/customs-should-review-classification-of-bulk-scotch-whisky-imports-gtri/articleshow/136000695.cms",
+      "pubDate": "Thu, 19 Nov 2026 23:08:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "desc": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 17:03:23 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Trump and Putin ‘hijacked’ China summit",
+      "desc": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 17:02:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "desc": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 16:33:17 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Piyush Goyal calls for trusted India-US supply chains, deeper economic cooperation",
+      "desc": "Commerce and Industry Minister Piyush Goyal urged India and the US to build trusted supply chains for better collaboration. He highlighted that India's strengths in talent and manufacturing complement America's capital and technology. The minister also encouraged increased partnerships between educational institutions in both nations. Goyal expressed optimism for achieving USD one trillion in exports during the current fiscal year.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-calls-for-trusted-india-us-supply-chains-deeper-economic-cooperation/articleshow/135998771.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:52:59 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
+      "desc": "Amundi has chosen a reserved approach towards French government bonds, amidst climbing yields and worries regarding fiscal management. Chief Investment Officer Vincent Mortier expressed a preference for bonds from nations with lower debt-to-GDP ratios and shorter maturities. He also highlighted a potential future interest in Japanese government bonds, as local investors may re-enter the market.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:31:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
+      "desc": "Sebi is focusing on streamlining IPO and rights issue timelines to improve market efficiency. The regulator aims to reduce friction across the capital-raising lifecycle for economic expansion. Additionally, Sebi is working on enhancing corporate bond markets and expanding financing sources. It is also reforming municipal bond issuances to encourage urban infrastructure financing. With these changes, Sebi anticipates significantly mobilizing both domestic and global savings for inclusive wealth creation.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:29:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "desc": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 15:58:58 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders",
+      "desc": "India's six listed Real Estate Investment Trusts distributed Rs 3,234 crore to over 5.25 lakh unitholders. Since their inception, these REITs have distributed over Rs 38,000 crore collectively to investors. The total gross Assets Under Management for the sector exceeded Rs 3.30 lakh crore recently. The strong demand for office space contributed to healthy occupancy and rental collections.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/six-listed-reit-firms-distribute-rs-3234-cr-in-q2-to-over-5-25-lakh-unitholders/articleshow/135998101.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:27:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Keystone Realtors to launch Rs 5,000 cr worth housing properties in MMR by Mar: CMD",
+      "desc": "Keystone Realtors is set to unveil residential developments valued at Rs 5,000 crore across the Mumbai Metropolitan Region by next March. With sales bookings hitting Rs 2,000 crore in the first half of the fiscal year, the company is optimistic about achieving targets, particularly with anticipated festive demand boosting sales. Their robust project pipeline includes plans worth Rs 8,000 crore, having already developed over 30 million square feet.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-to-launch-rs-5000-cr-worth-housing-properties-in-mmr-by-mar-cmd/articleshow/135997982.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:26:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Signature Global acquires 10-acre land parcels in Gurugram to build realty projects",
+      "desc": "Signature Global has successfully acquired two land parcels in Sohna, Gurugram, covering around 10 acres as part of its initiative to bolster its project portfolio. This strategic move complements the company’s focus on expanding its footprint in lucrative regions. Recently, Signature Global also secured a substantial land bid in Raigad, Maharashtra, signaling its ambitions beyond the Delhi-NCR area.",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-acquires-10-acre-land-parcels-in-gurugram-to-build-realty-projects/articleshow/135997924.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:23:49 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+      "desc": "Walmart reported robust third-quarter sales figures, reflecting ongoing consumer demand for affordable shopping solutions. The retailer saw a significant surge in e-commerce sales, rising by 23%. With an emphasis on digital services and advertising, Walmart has effectively preserved its competitive advantage amid growing inflation concerns. Nonetheless, analysts express a cautious perspective regarding future sales forecasts, projecting a total sales growth of 4.9% to 5.2% for the fiscal year.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/walmart-raises-its-outlook-for-the-year-for-the-3rd-time-after-a-solid-quarter/articleshow/135997871.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:22:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Palo Alto's raised sales forecast powers rally in cybersecurity stocks",
+      "desc": "Palo Alto Networks recently announced its acquisition of AI startup Applied Compute for $4.5 billion. The company raised its annual forecast, which positively influenced various cybersecurity stocks. Investors are increasingly focused on cybersecurity due to the rise of AI-enabled cyberattacks and recent technology outages. Shares of other cybersecurity firms have surged in response to Palo Alto's optimistic outlook. The Nasdaq composite also enjoyed gains ahead of Anthropic's market debut.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks/articleshow/135997775.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:20:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "India needs $430 billion in exports in five months to meet FY27 target: Piyush Goyal",
+      "desc": "India requires approximately USD 430 billion in exports from November to March to meet its ambitious target. By the end of October, the country had achieved 57 percent of its export goal for 2026-27. October exports reached an all-time high of nearly USD 90 billion, which reflects substantial growth. Union Commerce Minister Piyush Goyal proposed a target of USD 1 trillion for this fiscal year.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-needs-430-billion-in-exports-in-five-months-to-meet-fy27-target-piyush-goyal/articleshow/135997642.cms",
+      "pubDate": "Thu, 19 Nov 2026 21:14:07 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "More support for households reliant on heating oil",
+      "desc": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 15:22:31 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
+      "desc": "The Nasdaq surged following Anthropic's IPO, which sparked a revival in artificial intelligence investments. Pricing higher than expected, the IPO raked in impressive funds and valuations, positively impacting tech peers like Amazon and Alphabet. Despite some investor caution, notable gains were seen in firms like Palo Alto Networks. Overall, the market displayed a varied performance, reflecting ongoing uncertainties over the Federal Reserve's future rate strategies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
+      "pubDate": "Thu, 19 Nov 2026 20:47:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+      "desc": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 15:16:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Fund managers turn overweight on India, first such classification since Jan",
+      "desc": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global economy.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
+      "pubDate": "Thu, 19 Nov 2026 20:32:14 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+      "desc": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
+      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 13:54:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+      "desc": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel&#039;s military.",
+      "link": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 13:49:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "desc": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 13:35:52 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Investors vs Economists: Should Govt Cut LTCG Tax?",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms",
+      "pubDate": "Thu, 19 Nov 2026 19:01:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "desc": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 13:31:23 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "DIPAM Secretary calls for mobilising domestic savings, deepening capital markets for financing Viksit Bharat",
+      "desc": "Arunish Chawla emphasized the need for improved domestic savings deployment and a diversified financial system. He highlighted the importance of supporting micro, small and medium enterprises through effective policy frameworks. Economic Advisory Council Chairman S Mahendra Dev stated that achieving sustained economic growth requires efficient investment strategies. R Mukundan stressed the necessity of reforming financial access for smaller enterprises alongside larger businesses.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/dipam-secretary-calls-for-mobilising-domestic-savings-deepening-capital-markets-for-financing-viksit-bharat/articleshow/135983279.cms",
+      "pubDate": "Thu, 19 Nov 2026 19:00:07 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Anthropic IPO Live Updates: US stocks fall sharply as Anthropic debut fails to reignite AI trade",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
+      "pubDate": "Thu, 19 Nov 2026 18:41:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "India bonds end choppy session little changed as fresh cues on interest rates eyed",
+      "desc": "Indian government bonds exhibited volatility and ended little changed as market participants awaited interest rate cues. The benchmark bond yield dropped from the previous day's closing level, reflecting market uncertainties. Expectations of rate hikes from the Reserve Bank of India and the Federal Reserve contributed to investor caution. The steadying of US Treasury yields suggests increased investor absorption of tighter financial conditions.",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-choppy-session-little-changed-as-fresh-cues-on-interest-rates-eyed/articleshow/135991621.cms",
+      "pubDate": "Thu, 19 Nov 2026 18:00:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "NSE among 5 stocks hitting 52-week highs; stock rallies up to 27% in a month",
+      "desc": "Five BSE 200 stocks, including NSE, GAIL and PNB, hit fresh 52-week highs on Thursday as Sensex rallied 990 points. Here's how these stocks have performed recently.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-27-in-a-month/slideshow/135991598.cms",
+      "pubDate": "Thu, 19 Nov 2026 17:56:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Indian driver wins $1.3m in life-changing lottery prize",
+      "desc": "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab.",
+      "link": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 11:38:09 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "FM Sitharaman chairs seventh pre-Budget consultation with infrastructure, energy and sustainability experts",
+      "desc": "The government holds these consultations annually to gather input from experts and industry representatives before finalising Budget priorities and proposals.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/fm-sitharaman-chairs-seventh-pre-budget-consultation-with-infrastructure-energy-and-sustainability-experts/articleshow/135989444.cms",
+      "pubDate": "Thu, 19 Nov 2026 17:05:53 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Adhiraj Chauhan wins ‘Young AI Entrepreneur’ at the ET AI Awards 2026 for breakthroughs spanning mental healthcare to marine robotics",
+      "desc": "Young entrepreneur earns recognition, standing out among startups, MSMEs and established enterprises for AI innovations advancing mental healthcare, digital twins and environmental conservation.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/adhiraj-chauhan-wins-young-ai-entrepreneur-at-the-et-ai-awards-2026-for-breakthroughs-spanning-mental-healthcare-to-marine-robotics/articleshow/135987369.cms",
+      "pubDate": "Thu, 19 Nov 2026 16:52:31 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Piyush Goyal, Italy's Tajani seek stronger ties in autos, pharma and technology",
@@ -142,16 +502,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Trump calls for nuclear arms reduction at APEC summit",
-      "desc": "Trump calls for nuclear arms reduction at APEC summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 10:03:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Tiger-backed Razorpay set to file for India IPO as early as next week",
       "desc": "Tiger Global-backed Razorpay is preparing to file its IPO papers in India as early as next week, with investor roadshows expected to follow immediately. The Bengaluru-based fintech firm could launch its public offering as early as February, aiming to raise up to $600 million through a mix of fresh and secondary share sales.",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-backed-razorpay-set-to-file-for-india-ipo-as-early-as-next-week/articleshow/135983381.cms",
@@ -172,26 +522,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-      "desc": "Hegseth&#039;s new military deal with Venezuela raises questions about US influence, regional security and Maduro&#039;s removal.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 07:52:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-      "desc": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
-      "link": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 07:08:57 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
       "desc": "Goldman Sachs has identified 22 Indian companies exposed to structural growth themes and initiated Buy ratings on 21. Bharti Airtel, Eternal, HDFC Bank and InterGlobe Aviation feature prominently.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
@@ -200,16 +530,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-      "desc": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 06:44:59 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Meta looks to hire new India policy chief to repair frayed ties",
@@ -243,7 +563,7 @@
     },
     {
       "title": "Increase in direct cremations since pandemic",
-      "desc": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
+      "desc": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 19 Nov 2026 06:23:22 GMT",
       "image": "",
@@ -260,16 +580,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-      "desc": "The three leaders have divergent geopolitical goals and visions for the world order.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 06:07:05 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Leftover pumpkins help deliver 1,000th free meal",
@@ -352,7 +662,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Stock Price Analysis",
+      "title": "Hindalco Share Price Highlights: Hindalco Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-19-nov-2026/liveblog/135977262.cms",
       "pubDate": "Thu, 19 Nov 2026 09:40:28 +0530",
@@ -412,7 +722,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "BPCL Share Price Live Updates: BPCL Stock Update",
+      "title": "BPCL Share Price Highlights: BPCL Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-today-live-19-nov-2026/liveblog/135976658.cms",
       "pubDate": "Thu, 19 Nov 2026 09:15:31 +0530",
@@ -432,7 +742,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance Market Performance",
+      "title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-live-updates-19-nov-2026/liveblog/135976359.cms",
       "pubDate": "Thu, 19 Nov 2026 08:56:15 +0530",
@@ -442,7 +752,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Grasim Inds Share Price Live Updates: Grasim Industries shows strength with today's stock performance",
+      "title": "Grasim Inds Share Price Highlights: Grasim Inds. Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-19-nov-2026/liveblog/135976348.cms",
       "pubDate": "Thu, 19 Nov 2026 08:55:05 +0530",
@@ -452,7 +762,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "HUL Share Price Live Updates: HUL Stock Analysis",
+      "title": "HUL Share Price Highlights: HUL Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-today-live-19-nov-2026/liveblog/135976243.cms",
       "pubDate": "Thu, 19 Nov 2026 08:46:16 +0530",
@@ -462,7 +772,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Daily Performance Update",
+      "title": "Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-live-updates-19-nov-2026/liveblog/135976178.cms",
       "pubDate": "Thu, 19 Nov 2026 08:42:31 +0530",
@@ -472,7 +782,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ITC Share Price Live Updates: ITC stock sees a daily change of 1.13%",
+      "title": "ITC Share Price Highlights: ITC Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-live-updates-19-nov-2026/liveblog/135976148.cms",
       "pubDate": "Thu, 19 Nov 2026 08:41:18 +0530",
@@ -482,7 +792,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Infosys Share Price Live Updates: Infosys's closing price today stands at Rs 1090.6",
+      "title": "Infosys Share Price Highlights: Infosys Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-19-nov-2026/liveblog/135976140.cms",
       "pubDate": "Thu, 19 Nov 2026 08:40:45 +0530",
@@ -492,7 +802,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's Current Price and Market Performance",
+      "title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-updates-19-nov-2026/liveblog/135976131.cms",
       "pubDate": "Thu, 19 Nov 2026 08:40:27 +0530",
@@ -502,7 +812,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "SBI Share Price Live Updates: SBI Stock Movement",
+      "title": "SBI Share Price Highlights: SBI Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-live-updates-19-nov-2026/liveblog/135976123.cms",
       "pubDate": "Thu, 19 Nov 2026 08:40:06 +0530",
@@ -512,7 +822,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Update",
+      "title": "Eicher Motors Share Price Highlights: Eicher Motors Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-19-nov-2026/liveblog/135976122.cms",
       "pubDate": "Thu, 19 Nov 2026 08:40:05 +0530",
@@ -522,7 +832,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "RIL Share Price Live Updates: RIL's Market Position Today",
+      "title": "RIL Share Price Highlights: RIL Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135976081.cms",
       "pubDate": "Thu, 19 Nov 2026 08:35:05 +0530",
@@ -532,7 +842,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Cipla Share Price Live Updates: Cipla's Market Activity Today",
+      "title": "Cipla Share Price Highlights: Cipla Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-19-nov-2026/liveblog/135976080.cms",
       "pubDate": "Thu, 19 Nov 2026 08:35:05 +0530",
@@ -552,7 +862,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Britannia Share Price Live Updates: Britannia Stock Price Jumps Over 5%",
+      "title": "Britannia Share Price Highlights: Britannia Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-live-updates-19-nov-2026/liveblog/135976004.cms",
       "pubDate": "Thu, 19 Nov 2026 08:27:03 +0530",
@@ -562,7 +872,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "TCS Share Price Live Updates: TCS Trading Insights",
+      "title": "TCS Share Price Highlights: TCS Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975985.cms",
       "pubDate": "Thu, 19 Nov 2026 08:26:12 +0530",
@@ -572,7 +882,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "JSW Steel Share Price Live Updates: JSW Steel  Sees Modest Gain",
+      "title": "JSW Steel Share Price Highlights: JSW Steel Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-today-live-updates-19-nov-2026/liveblog/135975977.cms",
       "pubDate": "Thu, 19 Nov 2026 08:25:38 +0530",
@@ -582,7 +892,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Price and Returns Overview",
+      "title": "Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-live-updates-19-nov-2026/liveblog/135975972.cms",
       "pubDate": "Thu, 19 Nov 2026 08:25:22 +0530",
@@ -592,7 +902,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Divis Labs Share Price Live Updates: Divis Labs ends the trading session at Rs 11135.5",
+      "title": "Divis Labs Share Price Highlights: Divis Labs Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-share-price-today-live-updates-19-nov-2026/liveblog/135975929.cms",
       "pubDate": "Thu, 19 Nov 2026 08:21:17 +0530",
@@ -602,7 +912,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Price and Trends",
+      "title": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-19-nov-2026/liveblog/135975925.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:59 +0530",
@@ -612,7 +922,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ONGC Share Price Live Updates: ONGC's Stock Performance Today",
+      "title": "ONGC Share Price Highlights: ONGC Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975922.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:41 +0530",
@@ -622,7 +932,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV enjoys a solid price surge",
+      "title": "Tata Motors PV Share Price Highlights: Tata Motors PV Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-19-nov-2026/liveblog/135975918.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:23 +0530",
@@ -632,7 +942,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Power Grid Share Price Live Updates: Power Grid's Stock Performance Update",
+      "title": "Power Grid Share Price Highlights: Power Grid Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-19-nov-2026/liveblog/135975917.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:22 +0530",
@@ -652,7 +962,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Performance Today",
+      "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975911.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:05 +0530",
@@ -662,150 +972,10 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "L&amp;T Share Price Live Updates: L&amp;T Stock Analysis",
+      "title": "L&amp;T Share Price Highlights: L&amp;T Stock Price History",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975909.cms",
       "pubDate": "Thu, 19 Nov 2026 08:20:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Price Movement",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975900.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:18:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Current Price and Market Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-19-nov-2026/liveblog/135975896.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:18:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HDFC Life Share Price Live Updates: HDFC Life's Current Trading Price",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-today-live-19-nov-2026/liveblog/135975893.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:54 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Wipro Share Price Live Updates: Wipro's Current Market Status",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-19-nov-2026/liveblog/135975888.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:37 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Coal India Share Price Live Updates: Coal India  Current Price Update",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-19-nov-2026/liveblog/135975884.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank's Current Price and Market Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-live-updates-19-nov-2026/liveblog/135975883.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp's Stock Update",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-live-updates-19-nov-2026/liveblog/135975880.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Titan Company Share Price Live Updates: Titan Company achieves a slight uptick in stock price",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-19-nov-2026/liveblog/135975877.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:17:01 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "LTIMindtree Share Price Live Updates: LTIMindtree's stock price rises to Rs 4109.0",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-updates-19-nov-2026/liveblog/135975828.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:11:54 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ closes with a gain",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ports-sez-share-price-today-live-updates-19-nov-2026/liveblog/135975822.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:11:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "M&amp;M Share Price Live Updates: M&amp;M Experiences a Surge in Stock Value",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-19-nov-2026/liveblog/135975819.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:11:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Asian Paints Share Price Live Updates: Asian Paints Stock Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975816.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:11:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's Current Price and Market Performance",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-19-nov-2026/liveblog/135975810.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:10:42 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Steel Share Price Live Updates: Tata Steel's Current Market Position",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-19-nov-2026/liveblog/135975806.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:10:23 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -840,16 +1010,6 @@
       "source": "Economic Times Industry",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-      "desc": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between [&#8230;]",
-      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-      "pubDate": "2026-11-18T20:39:45-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Who are the investors ready to jump on Anthropic?",
@@ -902,16 +1062,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "desc": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "pubDate": "2026-11-18T18:18:35-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Business Daily",
       "desc": "We examine the business of the Claude chatbot maker as it starts selling shares",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&amp;at_campaign=rss",
@@ -927,123 +1077,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT",
       "image": "",
-      "source": "BBC News",
+      "source": "BBC Business",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "desc": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "pubDate": "2026-11-18T14:40:36-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How high is UK inflation and how will you be affected?",
-      "desc": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-      "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 19:37:27 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "pubDate": "2026-11-18T14:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Cathedral's staff review 'difficult but necessary'",
-      "desc": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 15:14:34 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India on track to hit $1 trillion exports target in FY27: Commerce Secretary",
-      "desc": "India's exports increased by 16.6% in the first half of this fiscal year. The country aims to reach $1 trillion in exports by 2026-27. Commerce Secretary Rajesh Agrawal stated that India is on track to meet this goal. Despite global trade uncertainties, India continues to be viewed positively as a trusted trading partner. India achieved record exports of $863 billion in the previous fiscal year.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-on-track-to-hit-1-trillion-exports-target-in-fy27-commerce-secretary/articleshow/135966484.cms",
-      "pubDate": "Wed, 18 Nov 2026 20:37:27 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Trump administration weighs forcing US firms to disclose Chinese AI use",
-      "desc": "The Treasury Department and the White House Office of Science and Technology Policy (OSTP) have discussed the plan, which would apply to companies such as Airbnb, the people said. The company uses Qwen, an AI model made by China's Alibaba , to power its AI customer service agent.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/trump-administration-weighs-forcing-us-firms-to-disclose-chinese-ai-use/articleshow/135966297.cms",
-      "pubDate": "Wed, 18 Nov 2026 20:27:27 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "desc": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:17:06 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "desc": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:16:53 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-      "desc": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:10:01 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India, US close to finalising trade deal talks, signing may take time",
-      "desc": "The trade deal negotiations between India and the US are nearing completion, according to Commerce Secretary Rajesh Agrawal. He stated that the legal texts are almost finalized. However, the signing hinges on the establishment of new US tariff rules and the resolution of ongoing Section 301 investigations.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-close-to-finalising-trade-deal-talks-signing-may-take-time/articleshow/135962149.cms",
-      "pubDate": "Wed, 18 Nov 2026 17:50:32 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-19T11:27:40.072Z",
+    "generatedAt": "2026-11-19T20:12:46.694Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1052,7 +1092,7 @@
         "price": 25514.3,
         "change": 286.35,
         "changePct": 1.14,
-        "timestamp": "2026-11-19T11:27:39.623Z",
+        "timestamp": "2026-11-19T20:12:46.043Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1060,7 +1100,7 @@
         "price": 83021.75,
         "change": 989.94,
         "changePct": 1.21,
-        "timestamp": "2026-11-19T11:27:39.742Z",
+        "timestamp": "2026-11-19T20:12:46.195Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1068,41 +1108,41 @@
         "price": 63063,
         "change": 1024.35,
         "changePct": 1.65,
-        "timestamp": "2026-11-19T11:27:39.816Z",
+        "timestamp": "2026-11-19T20:12:46.290Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 93.29,
-        "change": -0.17,
-        "changePct": -0.18,
-        "timestamp": "2026-11-19T11:27:39.881Z",
+        "price": 93.28,
+        "change": -0.18,
+        "changePct": -0.19,
+        "timestamp": "2026-11-19T20:12:46.363Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 111839,
-        "change": -393,
-        "changePct": -0.35,
-        "timestamp": "2026-11-19T11:27:39.945Z",
+        "price": 109959,
+        "change": -2261,
+        "changePct": -2.02,
+        "timestamp": "2026-11-19T20:12:46.439Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 135165,
-        "change": 18,
-        "changePct": 0.01,
-        "timestamp": "2026-11-19T11:27:40.008Z",
+        "price": 131837,
+        "change": -3296,
+        "changePct": -2.44,
+        "timestamp": "2026-11-19T20:12:46.606Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7679,
-        "change": 0,
-        "changePct": 0,
-        "timestamp": "2026-11-19T11:27:40.072Z",
+        "price": 7728,
+        "change": 50,
+        "changePct": 0.66,
+        "timestamp": "2026-11-19T20:12:46.694Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
