@@ -1,91 +1,331 @@
 {
-  "generatedAt": "2026-11-18T21:10:20.446Z",
+  "generatedAt": "2026-11-19T02:58:52.270Z",
   "articles": [
     {
-      "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "desc": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:24:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "desc": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:14:57 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-      "desc": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:14:04 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "desc": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:12:20 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How high is UK inflation and how will you be affected?",
-      "desc": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-      "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 19:37:27 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-      "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "pubDate": "2026-11-18T14:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-      "desc": "Federal Reserve officials noted a greater risk of inflation requiring more action during their October meeting. Although they decided to keep interest rates steady, discussions indicated a potential need for a half-percentage-point increase. Policymakers expressed concerns over persistent inflation that might not ease quickly enough. The forthcoming December meeting could see intense debates on potential rate hikes and policy adjustments.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms",
-      "pubDate": "Thu, 19 Nov 2026 00:55:40 +0530",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the artificial intelligence giant at 1.5 trillion",
+      "desc": "Anthropic has made a remarkable debut with its initial public offering priced at $83 per share, successfully exceeding early projections. This valuation of around $1.5 trillion marks a major milestone in the tech industry. With $81 billion expected from the offering, this would break SpaceX's record. Amid growing market uncertainties and regulatory scrutiny in the AI sector, employees stand to profit, potentially creating numerous millionaires.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-prices-its-ipo-at-83-per-share-valuing-the-artificial-intelligence-giant-at-1-5-trillion/articleshow/135975698.cms",
+      "pubDate": "Thu, 19 Nov 2026 08:02:49 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "desc": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 18:12:42 +0000",
+      "title": "Lagarde: Might consider role at WEF after ECB exit",
+      "desc": "Christine Lagarde hinted at the possibility of embracing a leadership role at the World Economic Forum in the future, but clarified that her current dedication remains with the European Central Bank presidency until February 7. She also dismissed any rumors concerning her future plans, having recently announced her early departure from the ECB, which was initially set to last eight years.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lagarde-might-consider-role-at-wef-after-ecb-exit/articleshow/135975538.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:55:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
+      "desc": "The US dollar is near a 19-month high due to hawkish comments from Federal Reserve officials. The Australian dollar fell to a ten-month low after disappointing employment figures were reported. The euro and sterling are under pressure while the yen hovers around the key 160 level. Bond yields dropped following a successful 20-year auction and declining oil prices eased inflation concerns.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data/articleshow/135975502.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:46:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
+      "desc": "The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents,\" Arizona Attorney General Kris Mayes said Wednesday. A criminal investigation does not necessarily mean charges will be brought. Mayes said her office was investigating whether Arizona state law was being violated on an ongoing basis.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:43:49 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "desc": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:10:43 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "desc": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:24:50 +0000",
+      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+      "desc": "Anthropic decided to barrel ahead with the IPO despite jitters among some investors over market volatility, a potential regulatory crackdown by a Democratic-led Congress next year and growing anti-AI sentiment among the public. Then there's the spectacular downfall of one of the industry's biggest cheerleaders, former Nvidia CEO Jensen Huang, over extramarital affairs, including one with an alleged Chinese spy.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:25:05 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-19-november-2026/liveblog/135975324.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:23:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "desc": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 01:48:46 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "desc": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:47:34 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Anthropic prices its IPO at $83 per share, valuing the artificial intelligence giant at 1.5 trillion",
+      "desc": "Anthropic has made a remarkable debut with its initial public offering priced at $83 per share, successfully exceeding early projections. This valuation of around $1.5 trillion marks a major milestone in the tech industry. With $81 billion expected from the offering, this would break SpaceX's record. Amid growing market uncertainties and regulatory scrutiny in the AI sector, employees stand to profit, potentially creating numerous millionaires.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-prices-its-ipo-at-83-per-share-valuing-the-artificial-intelligence-giant-at-1-5-trillion/articleshow/135975698.cms",
+      "pubDate": "Thu, 19 Nov 2026 08:02:49 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Lagarde: Might consider role at WEF after ECB exit",
+      "desc": "Christine Lagarde hinted at the possibility of embracing a leadership role at the World Economic Forum in the future, but clarified that her current dedication remains with the European Central Bank presidency until February 7. She also dismissed any rumors concerning her future plans, having recently announced her early departure from the ECB, which was initially set to last eight years.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lagarde-might-consider-role-at-wef-after-ecb-exit/articleshow/135975538.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:55:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+      "desc": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
+      "desc": "The US dollar is near a 19-month high due to hawkish comments from Federal Reserve officials. The Australian dollar fell to a ten-month low after disappointing employment figures were reported. The euro and sterling are under pressure while the yen hovers around the key 160 level. Bond yields dropped following a successful 20-year auction and declining oil prices eased inflation concerns.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data/articleshow/135975502.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:46:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Surge in software patches likely behind recent tech outages, experts say",
+      "desc": "Director of National Intelligence Jay Clayton told a House of Representatives Homeland Security Committee hearing on worldwide threats Wednesday that there is so far no indication that the tech outages are related. But Clayton said the speed and level of capability of computer systems are \"increasing substantially,\" so legacy computer systems and equipment that already were old are aging much more quickly.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/surge-in-software-patches-likely-behind-recent-tech-outages-experts-say/articleshow/135975500.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:46:41 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents",
+      "desc": "The state of Arizona has opened a criminal investigation into OpenAI and other AI companies relating to the \"apparent infiltration of banks by rogue AI agents,\" Arizona Attorney General Kris Mayes said Wednesday. A criminal investigation does not necessarily mean charges will be brought. Mayes said her office was investigating whether Arizona state law was being violated on an ongoing basis.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents/articleshow/135975459.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:43:49 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "desc": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:10:43 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
+      "desc": "Anthropic decided to barrel ahead with the IPO despite jitters among some investors over market volatility, a potential regulatory crackdown by a Democratic-led Congress next year and growing anti-AI sentiment among the public. Then there's the spectacular downfall of one of the industry's biggest cheerleaders, former Nvidia CEO Jensen Huang, over extramarital affairs, including one with an alleged Chinese spy.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:25:05 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade mixed",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-19-november-2026/liveblog/135975324.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:23:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hegseth unveils new US-Venezuela military deal",
+      "desc": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 01:48:46 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Gold recovers from one-year low as markets assess Fed rate outlook",
+      "desc": "Gold prices climbed 0.6%, rebounding from a recent slide to a 14-month low, amidst persistent investor anxiety. With the US Federal Reserve's scrutiny over interest rates intensified to curb inflation, experts foresee a 90% probability of a 25-basis-point increase in December. Concurrently, the Bank of Japan is gearing up for its third rate hike this year, which has catalyzed positive movement in precious metals like silver and platinum.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-one-year-low-as-markets-assess-fed-rate-outlook/articleshow/135975129.cms",
+      "pubDate": "Thu, 19 Nov 2026 07:17:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+      "desc": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between [&#8230;]",
+      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "pubDate": "2026-11-18T20:39:45-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Who are the investors ready to jump on Anthropic?",
+      "desc": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+      "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 01:22:38 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Global Market Today: Asian shares mixed as commodity prices tumble",
+      "desc": "Contracts for the Nasdaq 100 Index rose 0.9% and those for the S&amp;P 500 Index climbed 0.5%. That came after Anthropic priced its IPO at $83 per share, making it the biggest first-time share sale on record.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-commodity-prices-tumble/articleshow/135974671.cms",
+      "pubDate": "Thu, 19 Nov 2026 06:21:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+      "desc": "AI giant prices shares at $83 in blockbuster market debut.",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 00:20:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+      "desc": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+      "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 00:11:40 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "desc": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 00:01:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "desc": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 00:00:59 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "desc": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 23:47:46 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Seven Anthropic founders who are about to become multi-billionaires",
+      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "desc": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "pubDate": "2026-11-18T18:18:35-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "desc": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 23:01:09 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "desc": "The US Treasury has accused Hezbollah of using charitable organisations as &#039;fronts&#039; for fundraising.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 22:56:19 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -95,27 +335,57 @@
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "desc": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:14:57 GMT",
+      "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-      "desc": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:14:04 +0000",
+      "title": "Business Daily",
+      "desc": "We examine the business of the Claude chatbot maker as it starts selling shares",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 21:30:00 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "desc": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Dow slumps over 500 pts as Fed minutes revive rate-hike fears",
+      "desc": "Investors reacted to mixed performance in US stock markets, particularly after Nvidia's quarterly results. The Nasdaq closed higher while the Dow declined significantly, reflecting market volatility. Fed minutes indicated a hawkish stance toward inflation and potential interest rate hikes. Meanwhile, companies like TJX and Target reported positive forecasts ahead of the holiday season. Overall market sentiment remains cautious as future economic indicators emerge.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+      "pubDate": "Thu, 19 Nov 2026 02:42:38 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+      "desc": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 21:01:05 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Trump and Putin to meet one-on-one in China Thursday",
-      "desc": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 20:12:20 +0000",
+      "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+      "desc": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 20:24:50 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -142,7 +412,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "title": "Nvidia’s rise, visualized",
       "desc": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
       "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
       "pubDate": "2026-11-18T14:30:00-05:00",
@@ -162,92 +432,12 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "desc": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, while Microsoft's Surface RTX Spark Dev Box is slated to start shipping this month. The new mini [&#8230;]",
-      "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "pubDate": "2026-11-18T13:34:55-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "What is Nvidia without AI’s sugar daddy in charge?",
-      "desc": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "pubDate": "2026-11-18T13:34:15-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "desc": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 18:12:42 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "desc": "Billions have been pledged for Gaza since a 2025 &#039;ceasefire&#039;, but rebuilding hasn’t begun and Israeli attacks continue.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 17:45:09 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
       "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-      "desc": "Crowds gathered in Shenzhen, China,  to welcome US President Donald Trump as he arrived for the APEC summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 16:40:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-      "desc": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 16:16:48 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 16:10:44 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Pax Silica is the new face of US imperialism in the Philippines",
-      "desc": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 15:57:20 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -352,26 +542,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Seven Anthropic founders who are about to become multi-billionaires",
-      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Gateway Distriparks to operate, manage common rail yard terminal at JNPA",
       "desc": "Gateway Distriparks Limited has gained a mandate for operating the common rail yard terminal at Jawaharlal Nehru Port Authority. This terminal will enhance the handling of container trains and improve the efficiency of cargo movement. The contract spans eight years, focusing on train handling, container stacking, and inter-terminal transfers. Gateway aims to work closely with JNPA to improve rail connectivity for trade.",
       "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gateway-distriparks-to-operate-manage-common-rail-yard-terminal-at-jnpa/articleshow/135964806.cms",
@@ -412,14 +582,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Nasdaq bucks broader US market decline as Nvidia lifts AI sentiment; S&amp;P 500, Dow fall: Stock Market Live Updates",
+      "title": "Dow slumps over 1% at close as hawkish Fed minutes outweigh Nvidia optimism; Anthropic reveals IPO price: Stock Market Highlights",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-nasdaq-sp-500-nvidia-forecast-anthropic-ipo-coreweave-nebius-fed-rate-fed-rate-hike-treasury-yield-news-18th-november-2026/liveblog/135964782.cms",
       "pubDate": "Wed, 18 Nov 2026 18:47:07 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -427,9 +597,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 13:17:06 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
@@ -447,9 +617,9 @@
       "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 13:10:01 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "India, US close to finalising trade deal talks, signing may take time",
@@ -902,26 +1072,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-18-nov-2026/liveblog/135947001.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:40:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "M&amp;M Share Price Highlights: M&amp;M Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-stock-price-today-live-18-nov-2026/liveblog/135946993.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:40:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Waymo pulls driverless taxis from all US freeways",
       "desc": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
       "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss",
@@ -930,160 +1080,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-live-updates-18-nov-2026/liveblog/135946890.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:35:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-18-nov-2026/liveblog/135946814.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:31:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Cipla Share Price Highlights: Cipla Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-18-nov-2026/liveblog/135946796.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:30:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "HDFC Life Share Price Highlights: HDFC Life Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-life-share-price-live-updates-18-nov-2026/liveblog/135946792.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:30:26 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "ICICI Bank Share Price Highlights: ICICI Bank Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-18-nov-2026/liveblog/135946776.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:30:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
-      "desc": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:20:41 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "\"Parlay tech advances into real outcomes\": Microsoft CEO Satya Nadella unveils new models for coding, cybersecurity",
-      "desc": "Nadella highlighted how the company plans to provide nearly every layer of the technology businesses will need to build, deploy and manage increasingly autonomous AI systems.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/parlay-tech-advances-into-real-outcomes-microsoft-ceo-satya-nadella-unveils-new-models-for-coding-cybersecurity/articleshow/135946214.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:10:15 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand",
-      "desc": "Nvidia said on Tuesday it was expanding manufacturing capacity with supply chain partners to support long-term growth in demand for its AI computing platforms.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-expands-manufacturing-capacity-with-suppliers-to-meet-ai-demand/articleshow/135945935.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:01:22 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia rejects Jensen Huang's offer to return as CEO despite pressure from Silicon Valley",
-      "desc": "The embattled company's board of directors \"unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" Nvidia Chairman Harvey Jones said at the start of Nvidia's quarterly earnings call before yielding to Chief Financial Officer Colette Kress, who is running the company as a permanent replacement is sought.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
-      "pubDate": "Wed, 18 Nov 2026 07:57:25 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Nvidia earnings beat estimates; firm won't take questions on resignation",
-      "desc": "Nvidia later began a conference call with analysts and investors by saying it wouldn't take questions on longtime CEO Jensen Huang's resignation and doesn't plan to reinstate him. Colette Kress, interim CEO, told investors the company expects revenue to rise 75% in fiscal 2028.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-earnings-beat-estimates-firm-wont-take-questions-on-resignation/articleshow/135945772.cms",
-      "pubDate": "Wed, 18 Nov 2026 07:54:42 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Irishman charged with destroying US military aircraft with axe",
-      "desc": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
-      "link": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 02:00:37 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "desc": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Europe plans to catch the next computer chip wave",
-      "desc": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 00:00:24 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "desc": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "desc": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 22:46:30 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-18T21:10:20.446Z",
+    "generatedAt": "2026-11-19T02:58:52.270Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1092,7 +1092,7 @@
         "price": 25227.95,
         "change": -159.45,
         "changePct": -0.63,
-        "timestamp": "2026-11-18T21:10:20.051Z",
+        "timestamp": "2026-11-19T02:58:51.773Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1100,7 +1100,7 @@
         "price": 82031.81,
         "change": -500.38,
         "changePct": -0.61,
-        "timestamp": "2026-11-18T21:10:20.113Z",
+        "timestamp": "2026-11-19T02:58:51.889Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1108,41 +1108,41 @@
         "price": 62038.65,
         "change": -234.6,
         "changePct": -0.38,
-        "timestamp": "2026-11-18T21:10:20.201Z",
+        "timestamp": "2026-11-19T02:58:51.963Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 93.46,
-        "change": -0.01,
-        "changePct": -0.01,
-        "timestamp": "2026-11-18T21:10:20.262Z",
+        "price": 93.44,
+        "change": -0.02,
+        "changePct": -0.02,
+        "timestamp": "2026-11-19T02:58:52.036Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 112025,
-        "change": -4087,
-        "changePct": -3.52,
-        "timestamp": "2026-11-18T21:10:20.330Z",
+        "price": 112043,
+        "change": -370,
+        "changePct": -0.33,
+        "timestamp": "2026-11-19T02:58:52.112Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 135006,
-        "change": -7293,
-        "changePct": -5.13,
-        "timestamp": "2026-11-18T21:10:20.442Z",
+        "price": 135097,
+        "change": -267,
+        "changePct": -0.2,
+        "timestamp": "2026-11-19T02:58:52.191Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7651,
-        "change": -261,
-        "changePct": -3.3,
-        "timestamp": "2026-11-18T21:10:20.446Z",
+        "price": 7680,
+        "change": -11,
+        "changePct": -0.15,
+        "timestamp": "2026-11-19T02:58:52.270Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
