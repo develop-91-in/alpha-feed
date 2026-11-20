@@ -1,91 +1,151 @@
 {
-  "generatedAt": "2026-11-19T20:12:46.694Z",
+  "generatedAt": "2026-11-20T02:06:11.153Z",
   "articles": [
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 19:16:21 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "desc": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
-      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "pubDate": "2026-11-19T14:12:30-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trump-Xi-Putin summit: Five things you need to know",
-      "desc": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 18:13:52 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
-      "desc": "Shares of AMD plunged by 8% after a report surfaced linking the company to certain Chinese firms, including those on the US government's blacklist. The report indicates that AMD's firmware is being used by a Chinese server manufacturer, which poses potential regulatory issues. Furthermore, the presence of licensing revenue from two restricted Chinese entities adds another layer of difficulty for AMD as it strives to maintain competitiveness against Nvidia.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-shares-slide-8-as-report-says-china-links-could-invite-us-scrutiny/articleshow/136002141.cms",
-      "pubDate": "Thu, 19 Nov 2026 23:43:12 +0530",
+      "title": "Positive Breakout: These 5 stocks cross above their 200 DMAs",
+      "desc": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-cross-above-their-200-dmas/slideshow/136009858.cms",
+      "pubDate": "Fri, 20 Nov 2026 07:16:28 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Customs should review classification of bulk Scotch whisky imports: GTRI",
-      "desc": "Customs authorities are facing a tariff dispute regarding bulk Scotch whisky imports following the India-UK trade agreement. The classification issue revolves around whether Scotch falls under specific tariff codes for spirits or food preparations. Importers currently classify bulk Scotch under a code that entitles them to reduced duties. Recent changes have led to customs reclassifying these imports, which doubles the duty rate significantly.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/customs-should-review-classification-of-bulk-scotch-whisky-imports-gtri/articleshow/136000695.cms",
-      "pubDate": "Thu, 19 Nov 2026 23:08:58 +0530",
+      "title": "Gold set for worst week since March as rate-hike expectations grow",
+      "desc": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate increase by the Federal Reserve in December. The President of the Chicago Fed underscored inflation concerns tied to artificial intelligence and energy supply disruptions.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
+      "pubDate": "Fri, 20 Nov 2026 07:15:04 +0530",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "desc": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 17:03:23 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Trump and Putin ‘hijacked’ China summit",
-      "desc": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 17:02:22 +0000",
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "desc": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "pubDate": "Fri, 20 Nov 2026 01:29:28 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
+      "title": "Global Market Today: Asian stocks slide as AI fears trigger selloff",
+      "desc": "MSCI Inc.’s Asia Pacific equities index fell 1%, extending its decline to a seventh straight session. That pushed the MSCI All Country World Index — a key barometer of global stocks — on course for its longest losing streak since September 2023.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-as-ai-fears-trigger-selloff/articleshow/136009259.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:32:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic shares surge 34% in Nasdaq debut, valuation hits $2 trillion",
+      "desc": "Anthropic made a significant market debut on Nasdaq, with shares opening at $111.50, up from $83. The company raised a remarkable $81.3 billion through the sale of 980 million shares to investors. This listing positions Anthropic as a leader in the AI sector, following its establishment by OpenAI defectors. CEO Dario Amodei emphasized the company's commitment to promoting safe AI practices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:27:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "desc": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:54:50 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:50:24 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
+      "desc": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:18:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Positive Breakout: These 5 stocks cross above their 200 DMAs",
+      "desc": "As long as a stock's price remains above its 200-day moving average on the daily timeframe, it is generally interpreted as being in an overall uptrend.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-cross-above-their-200-dmas/slideshow/136009858.cms",
+      "pubDate": "Fri, 20 Nov 2026 07:16:28 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Gold set for worst week since March as rate-hike expectations grow",
+      "desc": "Gold prices plummeted on Friday, recording their most significant weekly dip since March, driven by a strengthening US dollar. This shift caused investors to adjust their forecasts about a possible interest rate increase by the Federal Reserve in December. The President of the Chicago Fed underscored inflation concerns tied to artificial intelligence and energy supply disruptions.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-worst-week-since-march-as-rate-hike-expectations-grow/articleshow/136009768.cms",
+      "pubDate": "Fri, 20 Nov 2026 07:15:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Does our ethnicity change how we experience dying?",
+      "desc": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+      "link": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 01:29:43 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+      "desc": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+      "pubDate": "Fri, 20 Nov 2026 01:29:28 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Global Market Today: Asian stocks slide as AI fears trigger selloff",
+      "desc": "MSCI Inc.’s Asia Pacific equities index fell 1%, extending its decline to a seventh straight session. That pushed the MSCI All Country World Index — a key barometer of global stocks — on course for its longest losing streak since September 2023.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-as-ai-fears-trigger-selloff/articleshow/136009259.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:32:17 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic shares surge 34% in Nasdaq debut, valuation hits $2 trillion",
+      "desc": "Anthropic made a significant market debut on Nasdaq, with shares opening at $111.50, up from $83. The company raised a remarkable $81.3 billion through the sale of 980 million shares to investors. This listing positions Anthropic as a leader in the AI sector, following its establishment by OpenAI defectors. CEO Dario Amodei emphasized the company's commitment to promoting safe AI practices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/2-trillion-anthropic-soars-34-on-wall-street-debut/articleshow/136009222.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:27:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "desc": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:54:50 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
@@ -95,17 +155,117 @@
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
       "desc": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 19:16:21 GMT",
+      "pubDate": "Fri, 20 Nov 2026 00:50:24 GMT",
       "image": "",
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Some creators are skeptical of Instagram’s new affiliate program",
-      "desc": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
-      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-      "pubDate": "2026-11-19T14:12:30-05:00",
+      "title": "Anthropic's historic debut to put AI's promise and peril on Wall Street trial",
+      "desc": "The strong demand for Anthropic shares amid a broader tech selloff offers hope to a sectorwhere euphoria has somewhat cooled in recent weeks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-historic-debut-to-put-ais-promise-and-peril-on-wall-street-trial/articleshow/136009180.cms",
+      "pubDate": "Fri, 20 Nov 2026 06:18:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Airbnb's divisive new house rules come into force",
+      "desc": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:12:28 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "desc": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:08:37 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "desc": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:02:07 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "desc": "Houthi missile fire has rocked Riyadh&#039;s financial centre as the Iran war leaves &#039;lasting marks&#039; on global energy.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:58:40 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "How did Anthropic's stock market debut unfold?",
+      "desc": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:52:25 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "desc": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:33:51 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "desc": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:29:00 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "desc": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:09:48 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "desc": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 23:04:30 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "desc": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "pubDate": "2026-11-19T17:31:41-05:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
@@ -115,31 +275,121 @@
       "title": "EU-UK talks going down to the wire, says No 10",
       "desc": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
       "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 18:55:52 GMT",
+      "pubDate": "Thu, 19 Nov 2026 22:26:04 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Gemini on Mac can now use your computer",
-      "desc": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "pubDate": "2026-11-19T13:21:13-05:00",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "desc": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "pubDate": "2026-11-19T16:59:35-05:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
     },
     {
-      "title": "Trump-Xi-Putin summit: Five things you need to know",
-      "desc": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 18:13:52 +0000",
+      "title": "Meta now sells 3D movies on Quest VR headsets",
+      "desc": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
+      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "pubDate": "2026-11-19T16:12:06-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Ten killed in Pakistan as bus crashes into gas tanker",
+      "desc": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 21:09:24 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+      "desc": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:59:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Will the Shenzhen summit safeguard world peace?",
+      "desc": "Xi, Putin and Trump issue &#039;Peace Declaration&#039; after historic summit.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:43:51 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+      "desc": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:30:54 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Meta’s Muse Charm might cost $300",
+      "desc": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "pubDate": "2026-11-19T15:22:17-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "desc": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "desc": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "pubDate": "2026-11-19T15:05:06-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
+      "desc": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+      "pubDate": "Thu, 19 Nov 2026 19:40:23 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "desc": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
+      "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "pubDate": "2026-11-19T14:12:30-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "AMD shares slide 8% as report says China links could invite US scrutiny",
@@ -150,16 +400,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
-      "desc": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamdani and a number of labor groups, including the Teamsters, would require Amazon to [&#8230;]",
-      "link": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
-      "pubDate": "2026-11-19T12:58:01-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Customs should review classification of bulk Scotch whisky imports: GTRI",
@@ -178,16 +418,6 @@
       "pubDate": "Thu, 19 Nov 2026 17:03:23 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Trump and Putin ‘hijacked’ China summit",
-      "desc": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 17:02:22 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -322,16 +552,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
-      "desc": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 15:16:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Fund managers turn overweight on India, first such classification since Jan",
       "desc": "Fund managers have recently indicated an increased interest in investing in India after several months of cautious sentiment. A significant number of investors are concerned about the absence of artificial intelligence-related investment options available. Increased interest in healthcare and shifts toward defensive sectors have been noted, reflecting changing priorities among investors. Despite concerns over potential risks, half of the fund managers predict a soft landing for the global economy.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
@@ -340,26 +560,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-      "desc": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 13:54:10 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-      "desc": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel&#039;s military.",
-      "link": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-      "pubDate": "Thu, 19 Nov 2026 13:49:49 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
@@ -402,7 +602,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Anthropic IPO Live Updates: US stocks fall sharply as Anthropic debut fails to reignite AI trade",
+      "title": "Anthropic IPO Highlights: US stocks tumble 2%, head for longest losing streak since 2024 despite strong Anthropic debut",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-stock-price-live-us-market-dow-jones-nasdaq-ai-chip-nvidia-palo-alto-amazon-alphabet-coreweave-microsoft-fed-rate-hike-treasury-yield-news-19th-novmeber-2026/liveblog/135993460.cms",
       "pubDate": "Thu, 19 Nov 2026 18:41:26 +0530",
@@ -922,36 +1122,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ONGC Share Price Highlights: ONGC Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975922.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:20:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Motors PV Share Price Highlights: Tata Motors PV Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-live-updates-19-nov-2026/liveblog/135975918.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:20:23 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Power Grid Share Price Highlights: Power Grid Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-19-nov-2026/liveblog/135975917.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:20:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "'No one can replace Jensen': Elon Musk says Nvidia decision to sack Jensen Huang was not smart",
       "desc": "Musk speaking on the New York Times 'Deal book summit' equated Huang being forced out of Nvidia to the Chicago Bulls dropping basketball great Michael Jordan in the middle of a winning streak. \"You got to think long and hard before you take someone, let's say you're Chicago Bulls, middle of your second season, and you got a winning streak that's just going to happen, and then you kick Michael Jordan off your team. Doesn't seem like a smart decision to me,\" he said.",
       "link": "https://economictimes.indiatimes.com/tech/technology/no-one-can-replace-jensen-elon-musk-says-nvidia-decision-to-sack-jensen-huang-was-not-smart/articleshow/135975859.cms",
@@ -960,26 +1130,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975911.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:20:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "L&amp;T Share Price Highlights: L&amp;T Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-stock-price-livestock-price-today-live-updates-19-nov-2026/liveblog/135975909.cms",
-      "pubDate": "Thu, 19 Nov 2026 08:20:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Surge in software patches likely behind recent tech outages, experts say",
@@ -1000,90 +1150,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Anthropic prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion",
-      "desc": "Anthropic decided to barrel ahead with the IPO despite jitters among some investors over market volatility, a potential regulatory crackdown by a Democratic-led Congress next year and growing anti-AI sentiment among the public. Then there's the spectacular downfall of one of the industry's biggest cheerleaders, former Nvidia CEO Jensen Huang, over extramarital affairs, including one with an alleged Chinese spy.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
-      "pubDate": "Thu, 19 Nov 2026 07:25:05 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Who are the investors ready to jump on Anthropic?",
-      "desc": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
-      "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 01:22:38 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-      "desc": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-      "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 00:05:31 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "desc": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 00:00:59 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "desc": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 23:47:46 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 23:42:07 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Business Daily",
-      "desc": "We examine the business of the Claude chatbot maker as it starts selling shares",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 21:30:00 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "desc": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 21:28:08 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-19T20:12:46.694Z",
+    "generatedAt": "2026-11-20T02:06:11.153Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1092,7 +1162,7 @@
         "price": 25514.3,
         "change": 286.35,
         "changePct": 1.14,
-        "timestamp": "2026-11-19T20:12:46.043Z",
+        "timestamp": "2026-11-20T02:06:10.856Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1100,7 +1170,7 @@
         "price": 83021.75,
         "change": 989.94,
         "changePct": 1.21,
-        "timestamp": "2026-11-19T20:12:46.195Z",
+        "timestamp": "2026-11-20T02:06:10.907Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -1108,41 +1178,41 @@
         "price": 63063,
         "change": 1024.35,
         "changePct": 1.65,
-        "timestamp": "2026-11-19T20:12:46.290Z",
+        "timestamp": "2026-11-20T02:06:10.954Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
         "price": 93.28,
-        "change": -0.18,
-        "changePct": -0.19,
-        "timestamp": "2026-11-19T20:12:46.363Z",
+        "change": 0,
+        "changePct": 0,
+        "timestamp": "2026-11-20T02:06:11.005Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 109959,
-        "change": -2261,
-        "changePct": -2.02,
-        "timestamp": "2026-11-19T20:12:46.439Z",
+        "price": 106858,
+        "change": -3671,
+        "changePct": -3.32,
+        "timestamp": "2026-11-20T02:06:11.050Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 131837,
-        "change": -3296,
-        "changePct": -2.44,
-        "timestamp": "2026-11-19T20:12:46.606Z",
+        "price": 125134,
+        "change": -7899,
+        "changePct": -5.94,
+        "timestamp": "2026-11-20T02:06:11.101Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7728,
-        "change": 50,
-        "changePct": 0.66,
-        "timestamp": "2026-11-19T20:12:46.694Z",
+        "price": 7723,
+        "change": 33,
+        "changePct": 0.42,
+        "timestamp": "2026-11-20T02:06:11.153Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
