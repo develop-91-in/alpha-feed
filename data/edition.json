@@ -1,13 +1,73 @@
 {
-  "generatedAt": "2026-11-21T09:23:12.320Z",
+  "generatedAt": "2026-11-21T17:11:41.560Z",
   "articles": [
     {
-      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-      "desc": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 08:39:35 +0000",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "desc": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "pubDate": "2026-11-21T10:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sessions offer advice on rising energy costs",
+      "desc": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 12:09:49 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "desc": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "pubDate": "2026-11-21T07:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Mexico captures FBI-wanted cartel boss in military raid",
+      "desc": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 11:53:56 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "desc": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 11:02:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
+      "desc": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
+      "pubDate": "Sat, 21 Nov 2026 15:09:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -22,74 +82,124 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Can mediation succeed in a war-torn world? | Episode 1",
-      "desc": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
-      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 07:38:38 +0000",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "desc": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "desc": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
-      "desc": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability highlighted a broadening earnings recovery across market capitalisations and sectors.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
-      "pubDate": "Sat, 21 Nov 2026 12:51:34 +0530",
+      "title": "Can Anthropic afford to put safety first?",
+      "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "pubDate": "2026-11-21T10:00:00-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27%",
-      "desc": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative returns ranging from 27.51% to 31.02%, led by Sera Investments &amp; Finance India.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms",
-      "pubDate": "Sat, 21 Nov 2026 12:27:10 +0530",
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "desc": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of [&#8230;]",
+      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "pubDate": "2026-11-21T09:55:28-05:00",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Scouts say they face £1m tourist tax cost for overnight trips",
+      "desc": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 13:29:55 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Sudan’s war will end, but will it be too late?",
-      "desc": "Pressure from within Sudan may achieve what international diplomacy has not.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 06:32:04 +0000",
+      "title": "Sessions offer advice on rising energy costs",
+      "desc": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 12:09:49 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "desc": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+      "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "pubDate": "2026-11-21T07:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Mexico captures FBI-wanted cartel boss in military raid",
+      "desc": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 11:53:56 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
-      "desc": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investors should approach government bonds with caution due to elevated yields and inflation worries.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:39:54 +0530",
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "desc": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 11:02:49 +0000",
       "image": "",
-      "source": "Economic Times Markets",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy",
-      "desc": "India and Finland are working to strengthen their economic relationship by focusing on startup collaboration. Finnish Ambassador Mikko Kivikoski stated the importance of engaging with Indian startups for promoting investment. The Polar Bear Pitching event showcased startups, with Yash Goliya winning to compete globally in 2027. Bilateral trade between the nations is growing, with significant increases in recent years.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy/articleshow/136046302.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:28:30 +0530",
+      "title": "GST Network adds metro rail as fifth mode of transport in e-way bill system",
+      "desc": "GSTN has introduced metro rail as a new mode of transport in the e-way bill system. This addition follows a government notification released on October 26, enhancing transport options for users. The e-way bill system now includes five modes: Road, Rail, Air, Ship, and Metro Rail. Users must select metro rail and enter transport document numbers for transactions.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-network-adds-metro-rail-as-fifth-mode-of-transport-in-e-way-bill-system/articleshow/136050476.cms",
+      "pubDate": "Sat, 21 Nov 2026 15:10:22 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-      "desc": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 08:39:35 +0000",
+      "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
+      "desc": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
+      "pubDate": "Sat, 21 Nov 2026 15:09:05 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Trafalgar Square Christmas tree felled in Norway",
@@ -98,16 +208,6 @@
       "pubDate": "Sat, 21 Nov 2026 08:10:03 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Can mediation succeed in a war-torn world? | Episode 1",
-      "desc": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
-      "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 07:38:38 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -132,16 +232,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Sudan’s war will end, but will it be too late?",
-      "desc": "Pressure from within Sudan may achieve what international diplomacy has not.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 06:32:04 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
       "desc": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investors should approach government bonds with caution due to elevated yields and inflation worries.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
@@ -150,16 +240,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "desc": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 06:00:09 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy",
@@ -312,16 +392,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-      "desc": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 02:49:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information",
       "desc": "SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal.",
       "link": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
@@ -350,26 +420,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
-      "desc": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 01:07:01 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "desc": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 01:02:39 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
@@ -402,16 +452,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran war live: 2 tankers reported hit by unknown projectiles off Oman coast",
-      "desc": "UKMTO says no injuries reported in incidents north and east of Oman&#039;s Khasab, but environmental impact remains unclear.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 00:00:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
       "desc": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
       "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&amp;at_campaign=rss",
@@ -422,7 +462,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "desc": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 20 Nov 2026 23:08:57 GMT",
@@ -437,19 +477,9 @@
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "What new UK-EU deal could mean for future post-Brexit relations",
-      "desc": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-      "link": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 21:43:22 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -472,36 +502,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "desc": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
-      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "pubDate": "2026-11-20T13:50:19-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "desc": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-20T13:15:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
-      "desc": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices. The Nest app shutdown takes place on January 25th, 2027, meaning you'll have to manage your Nest [&#8230;]",
-      "link": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
-      "pubDate": "2026-11-20T13:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "desc": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&amp;at_campaign=rss",
@@ -510,180 +510,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "desc": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 16:41:52 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "desc": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "pubDate": "2026-11-20T11:34:13-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Nirmala Sitharaman chairs ninth pre-Budget consultation with housing, urbanisation and culture stakeholders",
-      "desc": "The consultation was held \"with the experts and stakeholders from the housing, urbanisation, and culture sectors in connection with the Union Budget 2027-28\", the Finance Ministry said in a post on X. The secretaries of the Department of Economic Affairs and the Department of Urban Development attended the meeting. The ministry's post gave no details of the proposals made by participants.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-chairs-ninth-pre-budget-consultation-with-housing-urbanisation-and-culture-stakeholders/articleshow/136033324.cms",
-      "pubDate": "Fri, 20 Nov 2026 21:55:30 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Airbnb's divisive new house rules come into force",
-      "desc": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-      "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 15:48:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Could you spot a fake banknote?",
-      "desc": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
-      "link": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 15:40:40 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Sebi proposes limiting tenure of chief executives, independent directors of stock exchanges, market infrastruction institutions",
-      "desc": "India's Securities and Exchange Board is proposing crucial adjustments to governance norms affecting market institutions. Key suggestions include lowering the age threshold for public interest directors from 75 to 70 years, instituting a maximum of two three-year terms for directors, and restricting managing directors to an eight-year tenure. Current executives can finish their ongoing terms despite these proposed changes. SEBI is seeking public feedback on these recommendations by December 11.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-limiting-tenure-of-chief-executives-independent-directors-at-exchanges/articleshow/136031465.cms",
-      "pubDate": "Fri, 20 Nov 2026 20:39:36 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The secret cyber scramble to protect UK fridge freezers",
-      "desc": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
-      "link": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 15:08:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Nasdaq tumbles 2% as Anthropic retreat deepens AI trade concerns",
-      "desc": "Following a rocky market debut, Anthropic’s stock price plunge led to a notable drop in the Nasdaq Composite index. The AI sector faces growing skepticism amidst high valuations and investment risks, putting pressure on major U.S. stock indexes. Despite some companies reporting strong earnings, investor anxiety persists over potential interest rate hikes by the Federal Reserve.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-anthropic-fails-to-steady-ai-trade/articleshow/136030779.cms",
-      "pubDate": "Fri, 20 Nov 2026 20:29:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Thousands join cost of living protests across Europe",
-      "desc": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
-      "link": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 14:43:39 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "No FAST-DS declaration needed for foreign bank a/c up to Rs 20 lakh with disclosed funds: I-T dept",
-      "desc": "The Income Tax Department has announced exemptions for individuals with foreign bank accounts under FAST-DS. Individuals with balances up to Rs 20 lakh from disclosed sources do not need to file declarations. This exemption applies as long as the accounts contain no undisclosed income or unaccounted deposits. The scheme provides a one-time opportunity to disclose foreign assets and income by December 31.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/income-tax-department-no-fast-ds-declaration-required-for-foreign-bank-accounts-under-rs-20-lakh-with-disclosed-funds/articleshow/136028599.cms",
-      "pubDate": "Fri, 20 Nov 2026 20:04:17 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Nasdaq crashes 5% at close, erasing 2026 gains; S&amp;P 500, Dow in correction: Stock Market Highlights",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-anthropic-claude-nvidia-micron-meta-ai-stocks-fed-rate-hike-inflation-treasury-yield-news-20th-november-2026/liveblog/136028991.cms",
-      "pubDate": "Fri, 20 Nov 2026 18:39:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
-      "desc": "The Indian rupee has strengthened past the 93-per-dollar mark for the first time since April. This recovery is attributed to over $12 billion of foreign investments in Indian equities in November. Hedge funds have unwound bearish positions on the rupee, contributing to its recent gains. The Reserve Bank of India has taken measures to support the local currency amidst stabilization efforts.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
-      "pubDate": "Fri, 20 Nov 2026 16:15:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "RBI expected to raise rates in December, deliver final hike in February: Report",
-      "desc": "The Reserve Bank of India is expected to raise its repo rate by 25 basis points to 5.75% in December and take it to 6% in February as inflation breaches its 6% tolerance limit, a Reuters poll showed. Rising energy costs and uneven monsoon rainfall have intensified inflationary pressures.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-expected-to-raise-rates-in-december-deliver-final-hike-in-february-report/articleshow/136021515.cms",
-      "pubDate": "Fri, 20 Nov 2026 15:18:50 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "desc": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 09:44:56 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India's capital goods market could reach $1.2 trillion by 2047, driven by data centres, chips: Report",
-      "desc": "India's capital goods market could expand to USD 1-1.2 trillion by 2047, driven by rising investments in data centres, semiconductors, defence and clean energy, a CII-BCG report said. Annual capital expenditure across major industries is projected to rise 30% to Rs 32 lakh crore by FY27-29.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-capital-goods-market-could-reach-1-2-trillion-by-2047-driven-by-data-centres-chips-report/articleshow/136021509.cms",
-      "pubDate": "Fri, 20 Nov 2026 15:13:53 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
-      "desc": "Anthropic shares fell as much as 7.4% in premarket trading on their second day, as a global market selloff and concerns over the AI trade overshadowed the optimism surrounding its record-setting IPO debut. After surging 39% from the IPO price on Thursday, the stock ended 17% higher. A steep valuation and competitive threats added to investor caution.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
-      "pubDate": "Fri, 20 Nov 2026 15:06:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
-      "desc": "According to a new report, the appreciation of the Indian rupee could lead Indian IT companies to experience reduced earnings. The stronger rupee against foreign currencies may significantly impact profitability, especially for firms with substantial European exposure. As traditional cost-saving strategies grow scarce, maintaining margins will be a challenge, compounded by the current economic environment affecting pricing strategies in the industry.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
-      "pubDate": "Fri, 20 Nov 2026 15:06:14 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-21T09:23:12.320Z",
+    "generatedAt": "2026-11-21T17:11:41.560Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -692,7 +522,7 @@
         "price": 25800.6,
         "change": 572.7,
         "changePct": 2.27,
-        "timestamp": "2026-11-21T09:23:11.830Z",
+        "timestamp": "2026-11-21T17:11:41.328Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -700,7 +530,7 @@
         "price": 83919.71,
         "change": 1887.91,
         "changePct": 2.3,
-        "timestamp": "2026-11-21T09:23:11.942Z",
+        "timestamp": "2026-11-21T17:11:41.378Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -708,7 +538,7 @@
         "price": 64635.2,
         "change": 2596.6,
         "changePct": 4.18,
-        "timestamp": "2026-11-21T09:23:12.014Z",
+        "timestamp": "2026-11-21T17:11:41.414Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -716,7 +546,7 @@
         "price": 92.67,
         "change": -0.61,
         "changePct": -0.65,
-        "timestamp": "2026-11-21T09:23:12.091Z",
+        "timestamp": "2026-11-21T17:11:41.450Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -724,7 +554,7 @@
         "price": 104738,
         "change": -5068,
         "changePct": -4.62,
-        "timestamp": "2026-11-21T09:23:12.165Z",
+        "timestamp": "2026-11-21T17:11:41.484Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -733,7 +563,7 @@
         "price": 122364,
         "change": -9799,
         "changePct": -7.42,
-        "timestamp": "2026-11-21T09:23:12.246Z",
+        "timestamp": "2026-11-21T17:11:41.527Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -742,7 +572,7 @@
         "price": 7730,
         "change": 90,
         "changePct": 1.18,
-        "timestamp": "2026-11-21T09:23:12.320Z",
+        "timestamp": "2026-11-21T17:11:41.560Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
