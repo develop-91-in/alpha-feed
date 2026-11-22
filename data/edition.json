@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-21T22:54:20.664Z",
+  "generatedAt": "2026-11-22T02:53:36.067Z",
   "articles": [
+    {
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "desc": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 02:05:50 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "desc": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "desc": "Iran faces a ‘silent economic war’, says Iranian president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Bahrain says Iranian attack causes fire at industrial facility",
       "desc": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
@@ -16,26 +46,6 @@
       "desc": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
       "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
       "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "desc": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 17:20:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "desc": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -72,14 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "desc": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 08:10:03 GMT",
+      "title": "Bessent confirms he’s living on US military base over Iran fears",
+      "desc": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 02:05:50 +0000",
       "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "desc": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "desc": "Iran faces a ‘silent economic war’, says Iranian president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -112,26 +142,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "desc": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 17:20:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "desc": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Can Anthropic afford to put safety first?",
       "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
       "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
@@ -150,16 +160,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Scouts say they face £1m tourist tax cost for overnight trips",
-      "desc": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 13:29:55 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Sessions offer advice on rising energy costs",
@@ -380,90 +380,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "SoftBank's Son explored $1 trillion buyout of SK Hynix: The Information",
-      "desc": "SoftBank and SK Hynix did not immediately respond to Reuters requests for comment on the report, which cited people familiar with the matter. The Information Son quoted a SoftBank spokesperson as saying the company was no longer considering such a deal.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information/articleshow/136043315.cms",
-      "pubDate": "Sat, 21 Nov 2026 08:16:30 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "CrowdStrike in talks to acquire Zscaler",
-      "desc": "A combination would create one of the world's largest pure-play cybersecurity providers as enterprise customers seek to reduce the number of security vendors they use, favoring providers that can deliver multiple products through a single relationship.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-in-talks-to-acquire-zscaler/articleshow/136043272.cms",
-      "pubDate": "Sat, 21 Nov 2026 08:13:03 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "'Grand Theft Auto VI' sets record with $3.79 billion in first-day retail sales, Rockstar Games reports",
-      "desc": "The worldwide figure was based on company estimates through the end of the day Thursday, the day the game launched. Rockstar also said in a release that it sold 32.5 million units prerelease, setting a record across platforms.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/grand-theft-auto-vi-sets-record-with-3-79b-in-first-day-retail-sales-rockstar-games-reports/articleshow/136043226.cms",
-      "pubDate": "Sat, 21 Nov 2026 08:07:15 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Nvidia's accounting is a focus of US SEC investigation, sources say",
-      "desc": "The US Securities and Exchange Commission is reportedly investigating Nvidia's accounting practices for potential issues. This revelation adds to Nvidia's existing legal troubles, including scrutiny over CEO Jensen Huang's personal conduct. The SEC's focus stems from Nvidia's controversial revenue reporting changes and sales related to a suspected Chinese spy. Additionally, the company is facing a broader antitrust investigation involving its acquisition practices.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
-      "pubDate": "Sat, 21 Nov 2026 06:09:43 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "desc": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 00:06:11 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-      "desc": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 00:03:16 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-      "desc": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 23:28:17 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "desc": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 23:08:57 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-21T22:54:20.664Z",
+    "generatedAt": "2026-11-22T02:53:36.067Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -472,7 +392,7 @@
         "price": 25800.6,
         "change": 572.7,
         "changePct": 2.27,
-        "timestamp": "2026-11-21T22:54:20.348Z",
+        "timestamp": "2026-11-22T02:53:35.801Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -480,7 +400,7 @@
         "price": 83919.71,
         "change": 1887.91,
         "changePct": 2.3,
-        "timestamp": "2026-11-21T22:54:20.406Z",
+        "timestamp": "2026-11-22T02:53:35.872Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -488,7 +408,7 @@
         "price": 64635.2,
         "change": 2596.6,
         "changePct": 4.18,
-        "timestamp": "2026-11-21T22:54:20.455Z",
+        "timestamp": "2026-11-22T02:53:35.908Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -496,7 +416,7 @@
         "price": 92.67,
         "change": -0.61,
         "changePct": -0.65,
-        "timestamp": "2026-11-21T22:54:20.503Z",
+        "timestamp": "2026-11-22T02:53:35.945Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -504,7 +424,7 @@
         "price": 104738,
         "change": -5068,
         "changePct": -4.62,
-        "timestamp": "2026-11-21T22:54:20.559Z",
+        "timestamp": "2026-11-22T02:53:35.993Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -513,7 +433,7 @@
         "price": 122364,
         "change": -9799,
         "changePct": -7.42,
-        "timestamp": "2026-11-21T22:54:20.610Z",
+        "timestamp": "2026-11-22T02:53:36.029Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -522,7 +442,7 @@
         "price": 7730,
         "change": 90,
         "changePct": 1.18,
-        "timestamp": "2026-11-21T22:54:20.664Z",
+        "timestamp": "2026-11-22T02:53:36.067Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
