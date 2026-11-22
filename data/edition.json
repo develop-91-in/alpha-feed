@@ -1,105 +1,225 @@
 {
-  "generatedAt": "2026-11-22T10:53:05.148Z",
+  "generatedAt": "2026-11-22T18:19:39.160Z",
   "articles": [
     {
-      "title": "Restored wells bring life back to Hebron’s occupied Old City",
-      "desc": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
-      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 09:33:16 +0000",
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "desc": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 16:33:26 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "desc": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 09:06:27 +0000",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "desc": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 14:20:41 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
-      "desc": "Government borrowing and debt-servicing costs are likely to escalate challenges for major economies by 2027. UBS reports that pressure stems from refinanced debt from low interest rates previously. Factors contributing to public finance pressure include ageing populations and entitlement spending. Measures like bond buybacks and changes in debt issuance strategies can help manage financing pressures. Nonetheless, UBS warns about potential difficulties that could lead to a debt crisis.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs/articleshow/136070395.cms",
-      "pubDate": "Sun, 22 Nov 2026 14:01:15 +0530",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:50:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:50:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "desc": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:16:45 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "desc": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:15:40 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "desc": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 12:31:30 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions",
+      "desc": "India's merchandise exports have shown strong growth, particularly in Africa and Asia, according to recent government data. Exports to Africa increased by 44 percent, while shipments to Asia surpassed USD 100 billion. Engineering goods, electronic goods, and petroleum products have driven this expansion significantly. Notable growth was observed in markets such as Tanzania and Kenya in Africa.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/asia-africa-to-drive-expansion-of-indias-export-markets-as-shipments-grow-across-regions/articleshow/136070074.cms",
+      "pubDate": "Sun, 22 Nov 2026 17:26:14 +0530",
       "image": "",
       "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
-      "desc": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
-      "pubDate": "Sun, 22 Nov 2026 13:51:09 +0530",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "desc": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to [&#8230;]",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "pubDate": "2026-11-22T12:25:20-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
-      "desc": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
-      "pubDate": "Sun, 22 Nov 2026 12:15:10 +0530",
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "desc": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 16:33:26 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
-      "desc": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
-      "pubDate": "Sun, 22 Nov 2026 12:03:45 +0530",
+      "title": "Protesters storm Meta offices in India",
+      "desc": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta [&#8230;]",
+      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "pubDate": "2026-11-22T10:15:07-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Government, corporate spending to sustain global growth in 2027 as inflation eases: JPMorgan",
-      "desc": "Global economic growth is projected to be resilient in 2027 due to continued government investment and corporate spending. Investment in technology and recovery in consumer demand are expected to drive this growth forward. Corporate investment, especially in artificial intelligence, is noteworthy, with major firms planning significant expenditure. Inflation pressures are anticipated to ease, strengthening household spending. However, rising government borrowing and competition for capital may pose challenges for financial markets.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/government-corporate-spending-to-sustain-global-growth-in-2027-as-inflation-eases-jpmorgan/articleshow/136068673.cms",
-      "pubDate": "Sun, 22 Nov 2026 11:41:31 +0530",
+      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+      "desc": "Military officials tour underground facility in show of military capabilities despite US attacks.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 14:20:41 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:50:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+      "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:50:21 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "desc": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:16:45 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "desc": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 13:15:40 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "pubDate": "2026-11-22T08:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+      "desc": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 12:31:30 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions",
+      "desc": "India's merchandise exports have shown strong growth, particularly in Africa and Asia, according to recent government data. Exports to Africa increased by 44 percent, while shipments to Asia surpassed USD 100 billion. Engineering goods, electronic goods, and petroleum products have driven this expansion significantly. Notable growth was observed in markets such as Tanzania and Kenya in Africa.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/asia-africa-to-drive-expansion-of-indias-export-markets-as-shipments-grow-across-regions/articleshow/136070074.cms",
+      "pubDate": "Sun, 22 Nov 2026 17:26:14 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
-      "desc": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
-      "pubDate": "Sun, 22 Nov 2026 11:14:52 +0530",
+      "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
+      "desc": "In response to falling stock indices, South Korea's finance ministry is poised to activate market stabilisation funds. The KOSPI index has plummeted, marking its lowest point in the last ten months. An emergency meeting was convened by the finance minister to explore strategies for restoring investor confidence. Among the discussed actions are temporary regulations on stock buyback limits for publicly listed companies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
+      "pubDate": "Sun, 22 Nov 2026 17:15:31 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Restored wells bring life back to Hebron’s occupied Old City",
-      "desc": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
-      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 09:33:16 +0000",
+      "title": "Chinese national Li Ming charged in fraud case in Singapore linked to Megaspeed and Alice Huang: Report",
+      "desc": "Li Ming, a Chinese national, is facing fraud charges in Singapore regarding alleged transshipment of Nvidia chips. He was involved with Megaspeed, a company linked to Alice Huang, the former romantic partner of Nvidia's CEO Jensen Huang. Li is accused of misleading an American supplier by misrepresenting the intended destination of purchased servers. Following an investigation, Megaspeed was placed on a no sell list by Nvidia.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/chinese-national-li-ming-charged-in-fraud-case-in-singapore-linked-to-megaspeed-and-alice-huang-report/articleshow/136073178.cms",
+      "pubDate": "Sun, 22 Nov 2026 16:45:13 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "desc": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 09:06:27 +0000",
+      "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
+      "desc": "Next week promises to be a rollercoaster for crude oil futures as the OPEC+ meeting approaches. Traders are keeping a close eye on supply insights from the American Petroleum Institute and Energy Information Administration. Trading will be quiet on Tuesday due to Guru Nanak Jayanti. While concerns about a global supply surplus loom large, they overshadow geopolitical tensions in West Asia.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
+      "pubDate": "Sun, 22 Nov 2026 16:30:27 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
@@ -137,9 +257,9 @@
       "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
@@ -192,16 +312,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "desc": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 02:05:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Employers are being asked to give interview feedback - here's what applicants want",
       "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
       "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&amp;at_campaign=rss",
@@ -210,50 +320,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "desc": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
-      "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "pubDate": "2026-11-21T16:59:31-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Can Anthropic afford to put safety first?",
-      "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "pubDate": "2026-11-21T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-      "desc": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-      "pubDate": "2026-11-21T09:55:28-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Sessions offer advice on rising energy costs",
-      "desc": "A council is urging people to seek support with rising energy costs on heating this winter.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 12:09:49 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-22T10:53:05.148Z",
+    "generatedAt": "2026-11-22T18:19:39.160Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -262,7 +332,7 @@
         "price": 25800.6,
         "change": 572.7,
         "changePct": 2.27,
-        "timestamp": "2026-11-22T10:53:04.844Z",
+        "timestamp": "2026-11-22T18:19:38.692Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -270,7 +340,7 @@
         "price": 83919.71,
         "change": 1887.91,
         "changePct": 2.3,
-        "timestamp": "2026-11-22T10:53:04.901Z",
+        "timestamp": "2026-11-22T18:19:38.795Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -278,41 +348,41 @@
         "price": 64635.2,
         "change": 2596.6,
         "changePct": 4.18,
-        "timestamp": "2026-11-22T10:53:04.964Z",
+        "timestamp": "2026-11-22T18:19:38.860Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "USD/INR",
-        "price": 92.67,
-        "change": -0.61,
-        "changePct": -0.65,
-        "timestamp": "2026-11-22T10:53:05.011Z",
+        "price": 92.66,
+        "change": -0.62,
+        "changePct": -0.66,
+        "timestamp": "2026-11-22T18:19:38.929Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 104738,
-        "change": -5068,
+        "price": 104727,
+        "change": -5067,
         "changePct": -4.62,
-        "timestamp": "2026-11-22T10:53:05.056Z",
+        "timestamp": "2026-11-22T18:19:39.038Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 122364,
-        "change": -9799,
+        "price": 122351,
+        "change": -9798,
         "changePct": -7.42,
-        "timestamp": "2026-11-22T10:53:05.102Z",
+        "timestamp": "2026-11-22T18:19:39.090Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7730,
+        "price": 7729,
         "change": 90,
         "changePct": 1.18,
-        "timestamp": "2026-11-22T10:53:05.148Z",
+        "timestamp": "2026-11-22T18:19:39.160Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
