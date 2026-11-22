@@ -1,87 +1,197 @@
 {
-  "generatedAt": "2026-11-22T02:53:36.067Z",
+  "generatedAt": "2026-11-22T10:53:05.148Z",
   "articles": [
     {
-      "title": "Bessent confirms he’s living on US military base over Iran fears",
-      "desc": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 02:05:50 +0000",
+      "title": "Restored wells bring life back to Hebron’s occupied Old City",
+      "desc": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
+      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 09:33:16 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "desc": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000",
+      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "desc": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 09:06:27 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "desc": "Iran faces a ‘silent economic war’, says Iranian president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000",
+      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
+      "desc": "Government borrowing and debt-servicing costs are likely to escalate challenges for major economies by 2027. UBS reports that pressure stems from refinanced debt from low interest rates previously. Factors contributing to public finance pressure include ageing populations and entitlement spending. Measures like bond buybacks and changes in debt issuance strategies can help manage financing pressures. Nonetheless, UBS warns about potential difficulties that could lead to a debt crisis.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs/articleshow/136070395.cms",
+      "pubDate": "Sun, 22 Nov 2026 14:01:15 +0530",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "Economic Times Economy",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "desc": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 21:31:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "desc": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Can Anthropic afford to put safety first?",
-      "desc": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "pubDate": "2026-11-21T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Sessions offer advice on rising energy costs",
-      "desc": "A council is urging people to seek support with rising energy costs on heating this winter.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 12:09:49 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
-      "desc": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
-      "pubDate": "Sat, 21 Nov 2026 15:09:05 +0530",
+      "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+      "desc": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+      "pubDate": "Sun, 22 Nov 2026 13:51:09 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+      "desc": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+      "pubDate": "Sun, 22 Nov 2026 12:15:10 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+      "desc": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+      "pubDate": "Sun, 22 Nov 2026 12:03:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Government, corporate spending to sustain global growth in 2027 as inflation eases: JPMorgan",
+      "desc": "Global economic growth is projected to be resilient in 2027 due to continued government investment and corporate spending. Investment in technology and recovery in consumer demand are expected to drive this growth forward. Corporate investment, especially in artificial intelligence, is noteworthy, with major firms planning significant expenditure. Inflation pressures are anticipated to ease, strengthening household spending. However, rising government borrowing and competition for capital may pose challenges for financial markets.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/government-corporate-spending-to-sustain-global-growth-in-2027-as-inflation-eases-jpmorgan/articleshow/136068673.cms",
+      "pubDate": "Sun, 22 Nov 2026 11:41:31 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+      "desc": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+      "pubDate": "Sun, 22 Nov 2026 11:14:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Restored wells bring life back to Hebron’s occupied Old City",
+      "desc": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
+      "link": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 09:33:16 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+      "desc": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 09:06:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027: UBS",
+      "desc": "Government borrowing and debt-servicing costs are likely to escalate challenges for major economies by 2027. UBS reports that pressure stems from refinanced debt from low interest rates previously. Factors contributing to public finance pressure include ageing populations and entitlement spending. Measures like bond buybacks and changes in debt issuance strategies can help manage financing pressures. Nonetheless, UBS warns about potential difficulties that could lead to a debt crisis.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs/articleshow/136070395.cms",
+      "pubDate": "Sun, 22 Nov 2026 14:01:15 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+      "desc": "Gold has fallen to around $3,510 an ounce after hitting a record $5,594.82 earlier in 2026, putting it on track for its first annual loss in five years. A stronger dollar, elevated bond yields, profit-booking and weaker safe-haven demand continue to pressure prices.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+      "pubDate": "Sun, 22 Nov 2026 13:51:09 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "desc": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 07:22:05 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "desc": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+      "desc": "Four to five Infrastructure Investment Trusts are expected to launch public offerings to raise Rs 17,000 crore by 2027. These offerings aim to mobilise long-term capital for infrastructure development while appealing to a broader pool of investors. Notable companies like Brookfield and Investcorp are preparing to shift to public InvITs. In the past, InvITs raised around Rs 88,000 crore, demonstrating investor appetite.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+      "pubDate": "Sun, 22 Nov 2026 12:15:10 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+      "desc": "Five BSE Smallcap penny stocks have fallen between 21% and 68% in recent months. Kalind and Empower India led the declines, plunging 68% and 62%, respectively.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+      "pubDate": "Sun, 22 Nov 2026 12:03:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Government, corporate spending to sustain global growth in 2027 as inflation eases: JPMorgan",
+      "desc": "Global economic growth is projected to be resilient in 2027 due to continued government investment and corporate spending. Investment in technology and recovery in consumer demand are expected to drive this growth forward. Corporate investment, especially in artificial intelligence, is noteworthy, with major firms planning significant expenditure. Inflation pressures are anticipated to ease, strengthening household spending. However, rising government borrowing and competition for capital may pose challenges for financial markets.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/government-corporate-spending-to-sustain-global-growth-in-2027-as-inflation-eases-jpmorgan/articleshow/136068673.cms",
+      "pubDate": "Sun, 22 Nov 2026 11:41:31 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+      "desc": "Reliance Brands has marked a significant financial milestone, achieving a revenue of Rs 3,390.89 crore for FY26 and reducing losses. Operating more than 1,085 Points of Sale nationwide, the brand continues to collaborate with over 90 partner names. Recent acquisitions, including Hamleys and new entries like Stella McCartney and Fabletics, demonstrate the company’s drive to lead in the competitive fashion and lifestyle industry.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+      "pubDate": "Sun, 22 Nov 2026 11:14:52 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "desc": "Anthropic’s shares fell about 9% after their market debut, deepening concerns over stretched AI valuations and showing that even a marquee listing has not revived investor enthusiasm for the sector. The focus is now shifting to whether Anthropic can justify its roughly 40-times-sales valuation and whether a potential OpenAI IPO next year can restore appetite for AI stocks.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+      "pubDate": "Sun, 22 Nov 2026 09:00:15 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
       "title": "Bessent confirms he’s living on US military base over Iran fears",
       "desc": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
@@ -92,24 +202,14 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "desc": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "desc": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 00:04:07 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "desc": "Iran faces a ‘silent economic war’, says Iranian president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -120,26 +220,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "desc": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 21:31:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "desc": "Iran&#039;s foreign minister says reopening the strait is &#039;not difficult&#039; if the US accepts reasonable conditions.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Can Anthropic afford to put safety first?",
@@ -170,220 +250,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "GST Network adds metro rail as fifth mode of transport in e-way bill system",
-      "desc": "GSTN has introduced metro rail as a new mode of transport in the e-way bill system. This addition follows a government notification released on October 26, enhancing transport options for users. The e-way bill system now includes five modes: Road, Rail, Air, Ship, and Metro Rail. Users must select metro rail and enter transport document numbers for transactions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-network-adds-metro-rail-as-fifth-mode-of-transport-in-e-way-bill-system/articleshow/136050476.cms",
-      "pubDate": "Sat, 21 Nov 2026 15:10:22 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
-      "desc": "Nifty surged 2.61% last week, gaining 656 points amid strong FII inflows and improving technical indicators. Resistance lies at 25,950–26,200, while banking, IT and financial services lead sectoral momentum. Analysts advise caution against chasing extended market gains.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
-      "pubDate": "Sat, 21 Nov 2026 15:09:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "desc": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 08:10:03 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
-      "desc": "HSBC identified 19 Indian stocks with Buy ratings that received FY27 earnings upgrades after Q2 results. Ather Energy, GAIL and IIFL Finance led revisions, while improving corporate profitability highlighted a broadening earnings recovery across market capitalisations and sectors.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-hsbc-lists-19-indian-stocks-that-saw-fy27-earnings-upgrades-check-target-prices/slideshow/136048231.cms",
-      "pubDate": "Sat, 21 Nov 2026 12:51:34 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Concurrent Gainers: These 13 stocks gained for 5 days in a row, all rose over 27%",
-      "desc": "The Sensex gained 1.08% during the five sessions ending November 20, while 99 BSE 200 stocks advanced consecutively. Thirteen shortlisted stocks delivered impressive cumulative returns ranging from 27.51% to 31.02%, led by Sera Investments &amp; Finance India.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-these-13-stocks-gained-for-5-days-in-a-row-all-rose-over-27/slideshow/136047969.cms",
-      "pubDate": "Sat, 21 Nov 2026 12:27:10 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
-      "desc": "According to the latest report from Barclays Private Bank, the impending year 2027 calls for a stronger investment focus on artificial intelligence. While infrastructure is steadily developing, the rising costs of debt financing could negatively impact the economics of these projects. The report warns of potential computing demand outpacing supply, which may hinder technology scalability. Investors should approach government bonds with caution due to elevated yields and inflation worries.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:39:54 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy",
-      "desc": "India and Finland are working to strengthen their economic relationship by focusing on startup collaboration. Finnish Ambassador Mikko Kivikoski stated the importance of engaging with Indian startups for promoting investment. The Polar Bear Pitching event showcased startups, with Yash Goliya winning to compete globally in 2027. Bilateral trade between the nations is growing, with significant increases in recent years.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy/articleshow/136046302.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:28:30 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
-      "desc": "Max Healthcare, Deepak Fertilisers and Blue Star led Nifty 500 weekly gainers, surging 14.14%, 13.90% and 12.84%, respectively. Ten stocks outperformed the broader index, which gained 1.5%, highlighting strong momentum across healthcare, banking, real estate and other sectors.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:21:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Final decision on bike taxis after discussion with Advocate General: Karnataka transport minister Byrathi Suresh",
-      "desc": "Reacting to the Supreme Court order, Suresh said the government would have to comply with the court's directions but was considering framing regulations and imposing restrictions rather than imposing a blanket ban on bike taxis.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/final-decision-on-bike-taxis-after-discussion-with-advocate-general-karnataka-transport-minister-byrathi-suresh/articleshow/136046163.cms",
-      "pubDate": "Sat, 21 Nov 2026 11:19:46 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
-      "desc": "US Treasury yields experienced a significant decline due to heightened investor concerns surrounding the AI trade. As a result, investors shifted their focus towards safe-haven assets such as Treasury securities. The yield on the 10-year Treasury note fell below 5% for the first time in several months. Concerns about rising company debt and spending related to AI contributed to investor unease in recent weeks.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:53:49 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
-      "desc": "The US dollar has encountered a modest downturn, sliding to 103.86 as investor confidence wavers in the currency market. Despite this pullback, traders expect the Federal Reserve to maintain a hawkish stance in upcoming statements. Concurrently, Bitcoin has dipped below the $60,000 mark, sparking concerns about its valuation amidst ongoing market volatility.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:50:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-      "desc": "Levent Alpoge, a member of the company's technical staff, made the announcement Friday by way of a four-page explanation posted on his website. He said that he believes by working with Claude, he has found a proof of the Riemann Hypothesis.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai/articleshow/136045658.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:50:00 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
-      "desc": "Global crude oil prices are projected to normalize around USD 70 per barrel by the end of 2027. Rising non-OPEC+ supplies and declining Chinese oil demand are expected to lead to a market surplus. Refining margins are likely to remain elevated in the near term before gradual normalization occurs. Geopolitical tensions, particularly between the US and Iran, are likely to influence oil supply dynamics.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:46:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-      "desc": "Gold prices plummeted by 3% on Friday, settling at a 14-month low of $3,502.49 per ounce. This sharp decline is largely due to a hawkish interest rate forecast and a significant selloff within AI stocks. Analysts point to forced liquidations of gold holdings as a factor, alongside increasing expectations of US borrowing costs, contributing to the commodity's bearish trend this week.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:44:11 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "UK stocks sink as global selloff weighs on banks and miners",
-      "desc": "UK stocks experienced significant declines on Friday, resulting from a global market selloff linked to AI valuations. The FTSE 100 index closed at a five-month low, influenced by sharp declines in banking and mining stocks. Despite stronger-than-expected UK retail sales, declines in sectors outweighed positive news. Defensive consumer companies offered some support amid broader financial concerns.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:42:07 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "European shares post worst week in over a year as AI trade unravels",
-      "desc": "European shares declined sharply, reflecting deeper worries about the sustainability of AI-related investments and overall economic growth. Concerns intensified after Anthropic's initial public offering did not restore confidence in the tech sector. The overall market decline affected various sectors, including cyclical stocks and semiconductor companies, due to profit-taking by investors. Despite recent losses, the STOXX 600 index remains up year-to-date, surpassing the performance of the S&amp;P 500.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-post-worst-week-in-over-a-year-as-ai-trade-unravels/articleshow/136045442.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:38:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Tech leads global stocks rout, Treasury yields fall",
-      "desc": "On Friday, global stock markets faced a harsh sell-off, notably impacting technology stocks. In response, US traders turned to safer investments as the 10-year yield sharply decreased. The Dow Jones Industrial Average took a major hit, alongside declines in the S&amp;P 500 and Nasdaq. However, consumer staples emerged relatively unscathed within the S&amp;P 500.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tech-leads-global-stocks-rout-treasury-yields-fall/articleshow/136045354.cms",
-      "pubDate": "Sat, 21 Nov 2026 10:35:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Databricks in early talks to raise funds at $225 billion valuation: WSJ",
-      "desc": "Databricks is in early talks to raise several billion dollars in a new round that would value the data and artificial intelligence software company at about $225 billion, the Wall Street Journal reported on Friday, citing people familiar with the matter.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-wsj/articleshow/136044631.cms",
-      "pubDate": "Sat, 21 Nov 2026 09:47:31 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
-      "desc": "As the holiday season draws near, investors are keenly watching consumer spending patterns amid rising inflation fears. With US retail sales expected to show a modest uptick, this hints at consumer strength. Major retailers express optimism about this year's holiday shopping, although high gasoline and energy costs may pose challenges for spending. Investors are analyzing economic signals to understand potential market effects in the upcoming week.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms",
-      "pubDate": "Sat, 21 Nov 2026 09:18:02 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-      "desc": "Oracle said on Friday that its infrastructure contract with OpenAI is fully funded following a final capital raise earlier this month. Shares of Oracle rose as much as 3.3% in after",
-      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise/articleshow/136044027.cms",
-      "pubDate": "Sat, 21 Nov 2026 09:10:45 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "YouTube nears $3 billion settlement with US school districts over addiction claims: Bloomberg News",
-      "desc": "The deal also includes product safeguards for teens and is contingent on a majority of districts signing on, with finalization likely to take a few months, the report said, citing people familiar with the matter. Any settlement would have to be approved by US District Judge Yvonne Gonzalez Rogers in Oakland, California, who is overseeing the litigation.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-bloomberg-news/articleshow/136043430.cms",
-      "pubDate": "Sat, 21 Nov 2026 08:25:38 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-22T02:53:36.067Z",
+    "generatedAt": "2026-11-22T10:53:05.148Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -392,7 +262,7 @@
         "price": 25800.6,
         "change": 572.7,
         "changePct": 2.27,
-        "timestamp": "2026-11-22T02:53:35.801Z",
+        "timestamp": "2026-11-22T10:53:04.844Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -400,7 +270,7 @@
         "price": 83919.71,
         "change": 1887.91,
         "changePct": 2.3,
-        "timestamp": "2026-11-22T02:53:35.872Z",
+        "timestamp": "2026-11-22T10:53:04.901Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -408,7 +278,7 @@
         "price": 64635.2,
         "change": 2596.6,
         "changePct": 4.18,
-        "timestamp": "2026-11-22T02:53:35.908Z",
+        "timestamp": "2026-11-22T10:53:04.964Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -416,7 +286,7 @@
         "price": 92.67,
         "change": -0.61,
         "changePct": -0.65,
-        "timestamp": "2026-11-22T02:53:35.945Z",
+        "timestamp": "2026-11-22T10:53:05.011Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -424,7 +294,7 @@
         "price": 104738,
         "change": -5068,
         "changePct": -4.62,
-        "timestamp": "2026-11-22T02:53:35.993Z",
+        "timestamp": "2026-11-22T10:53:05.056Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
@@ -433,7 +303,7 @@
         "price": 122364,
         "change": -9799,
         "changePct": -7.42,
-        "timestamp": "2026-11-22T02:53:36.029Z",
+        "timestamp": "2026-11-22T10:53:05.102Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
@@ -442,7 +312,7 @@
         "price": 7730,
         "change": 90,
         "changePct": 1.18,
-        "timestamp": "2026-11-22T02:53:36.067Z",
+        "timestamp": "2026-11-22T10:53:05.148Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
