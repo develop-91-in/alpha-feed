@@ -1,21 +1,61 @@
 {
-  "generatedAt": "2026-11-22T18:19:39.160Z",
+  "generatedAt": "2026-11-23T00:04:03.420Z",
   "articles": [
     {
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "desc": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 16:33:26 +0000",
+      "title": "Why has the COP31 climate summit failed to reach agreement?",
+      "desc": "Fossil fuels are at the centre of deep division.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 20:00:00 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "desc": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 14:20:41 +0000",
+      "title": "On China, is Trump bucking the US national security establishment?",
+      "desc": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The decade India turned the tide on poverty",
+      "desc": "The World Bank report highlights that nearly 50 crore Indians have moved out of poverty between 2011 and 2023. Government efforts include health initiatives and direct benefit transfers that empower households. Women's participation in self-help groups has transformed economic opportunities for many. Continued investment in infrastructure aims to support future growth and prevent slippage back into poverty. Achieving Viksit Bharat by 2047 remains a shared goal for India's development.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/the-decade-india-turned-the-tide-on-poverty/articleshow/136082449.cms",
+      "pubDate": "Mon, 23 Nov 2026 00:30:20 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "India-EU trade deal likely to be signed on December 16",
+      "desc": "Described as the 'mother of all deals', the FTA will provide duty-free access to the EU for 93% of India's exports, while making imports of luxury cars and wines from the bloc cheaper. Together, India and the EU account for 25% of global GDP and about one-third of international trade, valued at $11 trillion of the $33 trillion global trade market.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-trade-deal-likely-to-be-signed-on-december-16/articleshow/136082167.cms",
+      "pubDate": "Mon, 23 Nov 2026 00:12:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "UN climate talks collapse without a deal",
+      "desc": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:04:25 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "desc": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 16:33:26 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -42,44 +82,84 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-      "desc": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 13:16:45 +0000",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "desc": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 22:49:10 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-      "desc": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 13:15:40 +0000",
+      "title": "Why has the COP31 climate summit failed to reach agreement?",
+      "desc": "Fossil fuels are at the centre of deep division.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 20:00:00 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "desc": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 12:31:30 +0000",
+      "title": "On China, is Trump bucking the US national security establishment?",
+      "desc": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions",
-      "desc": "India's merchandise exports have shown strong growth, particularly in Africa and Asia, according to recent government data. Exports to Africa increased by 44 percent, while shipments to Asia surpassed USD 100 billion. Engineering goods, electronic goods, and petroleum products have driven this expansion significantly. Notable growth was observed in markets such as Tanzania and Kenya in Africa.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/asia-africa-to-drive-expansion-of-indias-export-markets-as-shipments-grow-across-regions/articleshow/136070074.cms",
-      "pubDate": "Sun, 22 Nov 2026 17:26:14 +0530",
+      "title": "The decade India turned the tide on poverty",
+      "desc": "The World Bank report highlights that nearly 50 crore Indians have moved out of poverty between 2011 and 2023. Government efforts include health initiatives and direct benefit transfers that empower households. Women's participation in self-help groups has transformed economic opportunities for many. Continued investment in infrastructure aims to support future growth and prevent slippage back into poverty. Achieving Viksit Bharat by 2047 remains a shared goal for India's development.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/the-decade-india-turned-the-tide-on-poverty/articleshow/136082449.cms",
+      "pubDate": "Mon, 23 Nov 2026 00:30:20 +0530",
       "image": "",
       "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "desc": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:57:24 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "India-EU trade deal likely to be signed on December 16",
+      "desc": "Described as the 'mother of all deals', the FTA will provide duty-free access to the EU for 93% of India's exports, while making imports of luxury cars and wines from the bloc cheaper. Together, India and the EU account for 25% of global GDP and about one-third of international trade, valued at $11 trillion of the $33 trillion global trade market.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-trade-deal-likely-to-be-signed-on-december-16/articleshow/136082167.cms",
+      "pubDate": "Mon, 23 Nov 2026 00:12:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "desc": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "UN climate talks collapse without a deal",
+      "desc": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "pubDate": "Sun, 22 Nov 2026 18:04:25 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Binding of Isaac developer removes AI music from Repentance Plus",
@@ -112,16 +192,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-      "desc": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 14:20:41 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
       "desc": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
       "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
@@ -140,46 +210,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-      "desc": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 13:16:45 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-      "desc": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-      "link": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 13:15:40 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "desc": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not [&#8230;]",
-      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-      "pubDate": "2026-11-22T08:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "desc": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-      "link": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-      "pubDate": "Sun, 22 Nov 2026 12:31:30 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions",
@@ -323,7 +353,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-22T18:19:39.160Z",
+    "generatedAt": "2026-11-23T00:04:03.420Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -332,7 +362,7 @@
         "price": 25800.6,
         "change": 572.7,
         "changePct": 2.27,
-        "timestamp": "2026-11-22T18:19:38.692Z",
+        "timestamp": "2026-11-23T00:04:03.073Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -340,7 +370,7 @@
         "price": 83919.71,
         "change": 1887.91,
         "changePct": 2.3,
-        "timestamp": "2026-11-22T18:19:38.795Z",
+        "timestamp": "2026-11-23T00:04:03.131Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -348,7 +378,7 @@
         "price": 64635.2,
         "change": 2596.6,
         "changePct": 4.18,
-        "timestamp": "2026-11-22T18:19:38.860Z",
+        "timestamp": "2026-11-23T00:04:03.183Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -356,33 +386,33 @@
         "price": 92.66,
         "change": -0.62,
         "changePct": -0.66,
-        "timestamp": "2026-11-22T18:19:38.929Z",
+        "timestamp": "2026-11-23T00:04:03.235Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 104727,
-        "change": -5067,
-        "changePct": -4.62,
-        "timestamp": "2026-11-22T18:19:39.038Z",
+        "price": 106806,
+        "change": 2079,
+        "changePct": 1.99,
+        "timestamp": "2026-11-23T00:04:03.288Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 122351,
-        "change": -9798,
-        "changePct": -7.42,
-        "timestamp": "2026-11-22T18:19:39.090Z",
+        "price": 125628,
+        "change": 3277,
+        "changePct": 2.68,
+        "timestamp": "2026-11-23T00:04:03.349Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7729,
-        "change": 90,
-        "changePct": 1.18,
-        "timestamp": "2026-11-22T18:19:39.160Z",
+        "price": 7679,
+        "change": -50,
+        "changePct": -0.65,
+        "timestamp": "2026-11-23T00:04:03.420Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
