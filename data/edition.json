@@ -1,105 +1,375 @@
 {
-  "generatedAt": "2026-11-24T17:12:12.359Z",
+  "generatedAt": "2026-11-25T02:00:44.527Z",
   "articles": [
     {
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "desc": "From Libya to Sudan and Mali, Ukraine is targeting Russia&#039;s military networks across Africa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 17:05:45 +0000",
+      "title": "Market timers get schooled with swings",
+      "desc": "Investors face turmoil when navigating the stock market's unpredictable waves, especially after dramatic declines like last week's Nasdaq drop. Rapid recoveries can follow, but those who miss critical upward shifts often see their returns suffer. With growing market volatility, holding on to investments poses a challenge, and experts highlight that these sharp market swings tend to occur more frequently during downturns.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-timers-get-schooled-with-swings/articleshow/136145370.cms",
+      "pubDate": "Wed, 25 Nov 2026 07:03:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Goldman Sachs, SocGen buy Rs 920 crore stake in Lenskart",
+      "desc": "Goldman Sachs and Societe Generale have jointly invested ₹920 crore to purchase a 1% stake in Lenskart Solutions, acquiring 65.21 lakh and 61.76 lakh shares priced at ₹725 each. Steadview Capital Management facilitated this by selling an equivalent number of shares, resulting in their stake decreasing from 3.31% to 2.58%. Following this, Lenskart’s stock slid approximately 4%, ending the day at ₹715.90.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-socgen-buy-rs-920-crore-stake-in-lenskart/articleshow/136145273.cms",
+      "pubDate": "Wed, 25 Nov 2026 06:56:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "desc": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:14:22 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "desc": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 17:04:20 GMT",
+      "title": "Global Market Today: Asian stocks fall as AI trade doubts resurface",
+      "desc": "The MSCI Asia Pacific Index slipped 0.6%, losing ground after posting its biggest rally since July on Tuesday. The losses were led by South Korea’s Kospi index, which declined 3.7%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-as-ai-trade-doubts-resurface/articleshow/136145030.cms",
+      "pubDate": "Wed, 25 Nov 2026 06:27:44 +0530",
       "image": "",
-      "source": "BBC Technology",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-      "desc": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [&#8230;]",
-      "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-      "pubDate": "2026-11-24T11:37:03-05:00",
+      "title": "What will the energy cap changes mean for my bills?",
+      "desc": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:33:25 GMT",
       "image": "",
-      "source": "The Verge",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-      "desc": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 16:33:03 +0000",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "desc": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:30:52 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "desc": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 16:31:26 GMT",
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "desc": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:29:58 GMT",
       "image": "",
-      "source": "BBC World",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia stock cools after Huang’s return-driven surge",
-      "desc": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:47:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "desc": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How the Iran war is reshaping the US military presence in the Middle East",
-      "desc": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
-      "link": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:10:29 +0000",
+      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "desc": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:00:00 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "desc": "From Libya to Sudan and Mali, Ukraine is targeting Russia&#039;s military networks across Africa.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 17:05:45 +0000",
+      "title": "Market timers get schooled with swings",
+      "desc": "Investors face turmoil when navigating the stock market's unpredictable waves, especially after dramatic declines like last week's Nasdaq drop. Rapid recoveries can follow, but those who miss critical upward shifts often see their returns suffer. With growing market volatility, holding on to investments poses a challenge, and experts highlight that these sharp market swings tend to occur more frequently during downturns.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-timers-get-schooled-with-swings/articleshow/136145370.cms",
+      "pubDate": "Wed, 25 Nov 2026 07:03:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Goldman Sachs, SocGen buy Rs 920 crore stake in Lenskart",
+      "desc": "Goldman Sachs and Societe Generale have jointly invested ₹920 crore to purchase a 1% stake in Lenskart Solutions, acquiring 65.21 lakh and 61.76 lakh shares priced at ₹725 each. Steadview Capital Management facilitated this by selling an equivalent number of shares, resulting in their stake decreasing from 3.31% to 2.58%. Following this, Lenskart’s stock slid approximately 4%, ending the day at ₹715.90.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-socgen-buy-rs-920-crore-stake-in-lenskart/articleshow/136145273.cms",
+      "pubDate": "Wed, 25 Nov 2026 06:56:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Poll finds US voters want government to end Iran war regardless of terms",
+      "desc": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:14:22 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
     {
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "desc": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "desc": "The verdict follows a months-long trial in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:11:57 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+      "desc": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:03:05 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "The rising cost of putting food on the table in India",
+      "desc": "India's food inflation is broadening, squeezing household budgets.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 01:02:13 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "desc": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't offered any information about the full scope or source of the [&#8230;]",
+      "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "pubDate": "2026-11-24T20:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Global Market Today: Asian stocks fall as AI trade doubts resurface",
+      "desc": "The MSCI Asia Pacific Index slipped 0.6%, losing ground after posting its biggest rally since July on Tuesday. The losses were led by South Korea’s Kospi index, which declined 3.7%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-as-ai-trade-doubts-resurface/articleshow/136145030.cms",
+      "pubDate": "Wed, 25 Nov 2026 06:27:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "US preparing to unveil new tariffs on global trading partners",
+      "desc": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:38:01 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Why tiny cars are taking off across Europe",
+      "desc": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:34:05 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "What will the energy cap changes mean for my bills?",
+      "desc": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:33:25 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "desc": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:30:52 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "desc": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:29:58 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "desc": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+      "pubDate": "Wed, 25 Nov 2026 00:00:00 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "desc": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from several companies, including T-Mobile, Cisco, and [&#8230;]",
+      "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "pubDate": "2026-11-24T17:23:27-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "desc": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 21:43:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "desc": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 17:04:20 GMT",
+      "pubDate": "Tue, 24 Nov 2026 21:19:42 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Russian jets spark air raid alert in South Korea",
+      "desc": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 21:14:57 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia",
+      "desc": "The Nasdaq and S&amp;P 500 indices experienced a drop as Nvidia and other tech shares fell. Investors reacted to potential new tariffs, raising concerns about market stability. Nvidia's CEO Jensen Huang was reinstated, which had previously spurred a market rally. In contrast, the Dow Jones Industrial Average saw gains amid varied sector performances. Anticipation for the upcoming Personal Consumption Expenditures report added further uncertainty to investor sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
+      "pubDate": "Wed, 25 Nov 2026 02:39:28 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+      "desc": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 21:04:46 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Tech Life",
+      "desc": "Experts from around the world plot the progress of AI development every five years.",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 21:00:00 GMT",
       "image": "",
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+      "desc": "Iraq&#039;s Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 20:18:19 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "desc": "Here is what you need to know about the payment that millions will receive from January.",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 20:16:24 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "desc": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
+      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "pubDate": "2026-11-24T15:02:03-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Turkish military helicopter crash kills five in western Turkiye",
+      "desc": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 19:52:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "desc": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 19:27:23 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "desc": "Ukrainian attacks subsided after Trump&#039;s mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 19:22:44 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+      "desc": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+      "pubDate": "Tue, 24 Nov 2026 19:02:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "desc": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 18:21:43 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Four generations of a family working in one factory",
@@ -112,92 +382,12 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-      "desc": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [&#8230;]",
-      "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-      "pubDate": "2026-11-24T11:37:03-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-      "desc": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 16:33:03 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "desc": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 16:31:26 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "desc": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he [&#8230;]",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "pubDate": "2026-11-24T11:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "desc": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "pubDate": "2026-11-24T11:09:23-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Southport survivors' parents 'disgusted' by school recovery funding",
-      "desc": "Southport survivors' families are criticising disparities in school recovery funding.",
-      "link": "https://www.bbc.co.uk/news/articles/c3wy0x4774dpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:50:44 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nvidia stock cools after Huang’s return-driven surge",
-      "desc": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:47:16 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Land mine casualties soar in Syria, two years after war",
       "desc": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
       "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "How the Iran war is reshaping the US military presence in the Middle East",
-      "desc": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
-      "link": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:10:29 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -210,16 +400,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-      "desc": "Ukraine&#039;s involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
-      "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 14:16:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Nvidia's Huang returns to cheers in China, but political hurdles mount on both sides",
@@ -242,37 +422,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-      "desc": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-      "link": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 13:35:51 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-      "desc": "Attacks on tankers have increased, impacting the flow of oil through the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 13:32:24 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Russia-Ukraine war live: Moscow will ‘respond’ to attacks on oil refineries",
-      "desc": "Ukrainian drone attacks ​slashed Russian oil refineries&#039; combined crude processing volumes by 45% since late October.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
-      "pubDate": "Tue, 24 Nov 2026 13:30:00 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Nasdaq drops over 2% as Nvidia-fueled AI rally fades, Anthropic tanks 11%: US Stock Market Live Updates",
+      "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia: US Stock Market Highlights",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
       "pubDate": "Tue, 24 Nov 2026 18:30:48 +0530",
@@ -570,150 +720,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Jensen Huang's comeback to Nvidia underscores his outsized grip on AI",
-      "desc": "Clad in his trademark black leather jacket, hand on heart, the 63-year-old CEO smiled at cheering employees who packed an atrium and crowded the balconies above.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/jensen-huangs-comeback-to-nvidia-underscores-his-outsized-grip-on-ai/articleshow/136117322.cms",
-      "pubDate": "Tue, 24 Nov 2026 07:28:23 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "India’s rupee has become an accidental carry star",
-      "desc": "The Reserve Bank of India has made moves that temporarily attract carry traders to the rupee. Recent factors include decreasing oil prices and a shift in foreign investment from artificial intelligence stocks to Indian markets. However, these RBI incentives may not last, leaving uncertainty for traders. India's interest rate advantage has significantly diminished since 2011, raising concerns. Policymakers face challenges in ensuring sustained interest in the rupee amid historical depreciation.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-rupee-has-become-an-accidental-carry-star/articleshow/136117132.cms",
-      "pubDate": "Tue, 24 Nov 2026 07:13:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Wall Street soars on Huang's return to Nvidia, Treasury yields rise",
-      "desc": "US stocks rebounded sharply on Monday after Nvidia reinstated Jensen Huang as chief executive following pressure from President Donald Trump, reversing part of last week’s tech-led market rout. Nvidia jumped 31%, helping the Nasdaq 100 rise 6.5% and the S&amp;P 500 4.7%, while Treasury yields and the dollar also climbed as investors reassessed both AI-sector sentiment and the Federal Reserve outlook.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-soars-on-huangs-return-to-nvidia-treasury-yields-rise/articleshow/136116751.cms",
-      "pubDate": "Tue, 24 Nov 2026 06:24:33 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
-      "desc": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 00:28:48 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-      "desc": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 00:11:08 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Google alternative Kagi launches an email service",
-      "desc": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you [&#8230;]",
-      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "pubDate": "2026-11-23T19:02:52-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-      "desc": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 00:01:04 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "desc": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 23:16:08 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "desc": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "link": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 21:40:30 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "desc": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 21:23:42 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "desc": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "desc": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-      "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 18:43:00 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Pip assessments need 'fundamental overhaul', report to say",
-      "desc": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:59:55 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "desc": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:14:50 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-24T17:12:12.359Z",
+    "generatedAt": "2026-11-25T02:00:44.527Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, delayed, may change",
     "note": "NIFTY/SENSEX/BANK/USDINR: direct Yahoo. MCX Gold/Silver/Crude: derived from COMEX futures × USD/INR, approx — not official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -722,7 +732,7 @@
         "price": 25349.65,
         "change": -450.95,
         "changePct": -1.75,
-        "timestamp": "2026-11-24T17:12:12.049Z",
+        "timestamp": "2026-11-25T02:00:44.264Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -730,7 +740,7 @@
         "price": 82435.99,
         "change": -1483.72,
         "changePct": -1.77,
-        "timestamp": "2026-11-24T17:12:12.118Z",
+        "timestamp": "2026-11-25T02:00:44.317Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -738,7 +748,7 @@
         "price": 62585.35,
         "change": -2049.85,
         "changePct": -3.17,
-        "timestamp": "2026-11-24T17:12:12.177Z",
+        "timestamp": "2026-11-25T02:00:44.353Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
@@ -746,33 +756,33 @@
         "price": 92.9,
         "change": 0,
         "changePct": 0,
-        "timestamp": "2026-11-24T17:12:12.245Z",
+        "timestamp": "2026-11-25T02:00:44.409Z",
         "source": "Yahoo Finance (unofficial, delayed)"
       },
       {
         "symbol": "MCX GOLD",
-        "price": 106518,
-        "change": -2542,
-        "changePct": -2.33,
-        "timestamp": "2026-11-24T17:12:12.256Z",
+        "price": 106076,
+        "change": -311,
+        "changePct": -0.29,
+        "timestamp": "2026-11-25T02:00:44.444Z",
         "source": "Derived from COMEX GC=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/10g"
       },
       {
         "symbol": "MCX SILVER",
-        "price": 121533,
-        "change": -7422,
-        "changePct": -5.76,
-        "timestamp": "2026-11-24T17:12:12.352Z",
+        "price": 122175,
+        "change": 367,
+        "changePct": 0.3,
+        "timestamp": "2026-11-25T02:00:44.475Z",
         "source": "Derived from COMEX SI=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/kg"
       },
       {
         "symbol": "MCX CRUDE",
-        "price": 7480,
-        "change": 33,
-        "changePct": 0.44,
-        "timestamp": "2026-11-24T17:12:12.359Z",
+        "price": 7561,
+        "change": -61,
+        "changePct": -0.8,
+        "timestamp": "2026-11-25T02:00:44.527Z",
         "source": "Derived from WTI CL=F × USD/INR — approx, not official MCX feed",
         "unit": "₹/bbl"
       }
